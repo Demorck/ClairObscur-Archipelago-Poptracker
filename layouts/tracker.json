@@ -1,0 +1,42 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": [
+      {
+        "type": "dock",
+        "content": [
+          {
+            "type": "dock",
+            "dock": "left",
+            "h_alignment": "stretch",
+            "content": [
+              {
+                "type": "group",
+                "header": "Items",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "items"
+                }
+              },
+              {
+                "type": "group",
+                "header": "Tracker options",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "tracker_options"
+                }
+              }
+            ]
+          },
+          {
+            "type": "layout",
+            "key": "maps"
+          }
+        ]
+      }
+    ]
+  }
+}

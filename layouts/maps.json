@@ -1,0 +1,258 @@
+{
+  "maps": {
+    "type": "tabbed",
+    "tabs": [
+        {
+            "title": "Continent",
+            "content": {
+                "type": "tabbed",
+                "tabs": [
+                    {
+                        "title": "South Continent",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "South Continent"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Middle Continent",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "Middle Continent"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "North Continent",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "North Continent"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Spring Meadows",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Spring Meadows"
+                ]
+            }
+        },
+        {
+            "title": "Flying Waters",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Flying Waters"
+                ]
+            }
+        },
+        {
+            "title": "Ancient Sanctuary",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Ancient Sanctuary"
+                ]
+            }
+        },
+        {
+            "title": "Gestral Village",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Gestral Village"
+                ]
+            }
+        },
+        {
+            "title": "Esquie's Nest",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Esquie's Nest"
+                ]
+            }
+        },
+        {
+            "title": "Stone Wave Cliffs",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Stone Wave Cliffs"
+                ]
+            }
+        },
+        {
+            "title": "Forgotten Battlefield",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Forgotten Battlefield"
+                ]
+            }
+        },
+        {
+            "title": "Monoco's Station",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Monoco's Station"
+                ]
+            }
+        },
+        {
+            "title": "Old Lumière",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Old Lumière"
+                ]
+            }
+        },
+        {
+            "title": "Visages",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Visages"
+                ]
+            }
+        },
+        {
+            "title": "Sirene",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Sirene"
+                ]
+            }
+        },
+        {
+            "title": "The Monolith",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "The Monolith"
+                ]
+            }
+        },
+        {
+            "title": "Lumière",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Lumière"
+                ]
+            }
+        },
+        {
+            "title": "Yellow Harvest",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Yellow Harvest"
+                ]
+            }
+        },
+        {
+            "title": "Stone Wave Cliffs Cave",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Stone Wave Cliffs Cave"
+                ]
+            }
+        },
+        {
+            "title": "Crimson Forest",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Crimson Forest"
+                ]
+            }
+        },
+        {
+            "title": "Falling Leaves",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Falling Leaves"
+                ]
+            }
+        },
+        {
+            "title": "Flying Manor",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Flying Manor"
+                ]
+            }
+        },
+        {
+            "title": "Frozen Hearts",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Frozen Hearts"
+                ]
+            }
+        },
+        {
+            "title": "Esoteric Ruins",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Esoteric Ruins"
+                ]
+            }
+        },
+        {
+            "title": "Sinister Cave",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Sinister Cave"
+                ]
+            }
+        },
+        {
+            "title": "Endless Night Sanctuary",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Endless Night Sanctuary"
+                ]
+            }
+        },
+        {
+            "title": "The Reacher",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "The Reacher"
+                ]
+            }
+        },
+        {
+            "title": "Renoir's Draft",
+            "content": {
+                "type": "map",
+                "maps": [
+                    "Renoir's Draft"
+                ]
+            }
+        }
+    ]
+    }   
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Picto",
+    "codes": "Picto",
+    "img": "images/items/pictos.png",
+    "type": "consumable",
+    "max_quantity": 14
+  }
+]

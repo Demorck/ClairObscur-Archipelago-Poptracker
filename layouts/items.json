@@ -1,0 +1,16 @@
+{
+  "items": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "6, 6",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "4, 4",
+        "margin": "0, 0",
+        "h_alignment": "stretch",
+        "rows": []
+      }
+    ]
+  }
+}

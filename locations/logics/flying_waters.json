@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Logic - Flying Waters",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "sections": [
+            {
+                "name": "Coral Cave - On raised platform",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - Minefield item 2",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - Behind Manor door",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - On top of stone tower",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - Next to Goblu anvil",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - Near anchored Expedition",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Right of Expedition Flag",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Near dead expeditioner",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Lumerian Streets - Behind Chromatic miniboss",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Near lantern coral",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - After Expedition Flag",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flower Fields - Near Expedition Flag",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Lumerian Streets - In Paint Spike",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - In inlet in first room",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - On broken pillar",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Past long seaweed",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Lumerian Streets - Near shopping stand",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Lumerian Streets - By floating house",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - In minefield",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Noco's Hut - After platforming near friendly Nevron",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - Second room up ramp",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - In inlet in second room",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Lumerian Streets - On a rock with boxes",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Entrance - On main path",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Past platforming pillars",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Paint Cage",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Coral Cave - Behind Mime",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Bourgeon",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Chromatic Troubador",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Mime",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Goblu",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flag - Noco's Hut",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flag - Coral Cave",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flag - Lumerian Streets",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flag - Flower Fields",
+                "access_rules": ["NoLogic"]
+            },
+
+            {
+                "name": "Exit to wold map (south)",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Exit to wold map (north)",
+                "access_rules": ["NoLogic"]
+            }
+        ]
+    }
+]

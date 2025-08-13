@@ -1,164 +1,146 @@
 [
   {
     "name": "South Continent",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/south_continent.png"
   },
   {
     "name": "Middle Continent",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/middle_continent.png"
   },
   {
     "name": "North Continent",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/north_continent.png"
   },
   {
     "name": "Spring Meadows",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/spring_meadows.png"
   },
   {
     "name": "Flying Waters",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/flying_waters.png"
   },
   {
     "name": "Ancient Sanctuary",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/ancient_sanctuary.png"
   },
   {
     "name": "Gestral Village",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/gestral_village.png"
   },
   {
     "name": "Esquie's Nest",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/esquies_nest.png"
   },
   {
     "name": "Stone Wave Cliffs",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/stone_wave_cliffs.png"
   },
   {
     "name": "Forgotten Battlefield",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/forgotten_battlefield.png"
   },
   {
     "name": "Monoco's Station",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/monocos_station.png"
   },
   {
     "name": "Old Lumière",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/old_lumiere.png"
   },
   {
     "name": "Visages",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/visages.png"
   },
   {
     "name": "Sirene",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/sirene.png"
   },
   {
     "name": "The Monolith",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/the_monolith.png"
   },
   {
     "name": "Lumière",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/lumiere.png"
   },
   {
     "name": "Yellow Harvest",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/yellow_harvest.png"
   },
   {
     "name": "Stone Wave Cliffs Cave",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/stone_wave_cliffs_cave.png"
   },
   {
     "name": "Crimson Forest",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/crimson_forest.png"
   },
   {
     "name": "Falling Leaves",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/falling_leaves.png"
   },
   {
     "name": "Flying Manor",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/flying_manor.png"
   },
   {
     "name": "Frozen Hearts",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/frozen_hearts.png"
   },
   {
-    "name": "Esoteric Ruins",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/maps/esoteric_ruins.png"
-  },
-  {
-    "name": "Sinister Cave",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/maps/sinister_cave.png"
-  },
-  {
-    "name": "Endless Night Sanctuary",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/maps/endless_night_sanctuary.png"
-  },
-  {
     "name": "The Reacher",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/the_reacher.png"
   },
   {
     "name": "Renoir's Draft",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 8,
+    "location_border_thickness": 2,
     "img": "images/maps/renoirs_draft.png"
   }
 ]

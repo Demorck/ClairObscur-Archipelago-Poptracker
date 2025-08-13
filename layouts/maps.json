@@ -164,29 +164,11 @@
             }
         },
         {
-            "title": "Stone Wave Cliffs Cave",
-            "content": {
-                "type": "map",
-                "maps": [
-                    "Stone Wave Cliffs Cave"
-                ]
-            }
-        },
-        {
             "title": "Crimson Forest",
             "content": {
                 "type": "map",
                 "maps": [
                     "Crimson Forest"
-                ]
-            }
-        },
-        {
-            "title": "Falling Leaves",
-            "content": {
-                "type": "map",
-                "maps": [
-                    "Falling Leaves"
                 ]
             }
         },
@@ -205,33 +187,6 @@
                 "type": "map",
                 "maps": [
                     "Frozen Hearts"
-                ]
-            }
-        },
-        {
-            "title": "Esoteric Ruins",
-            "content": {
-                "type": "map",
-                "maps": [
-                    "Esoteric Ruins"
-                ]
-            }
-        },
-        {
-            "title": "Sinister Cave",
-            "content": {
-                "type": "map",
-                "maps": [
-                    "Sinister Cave"
-                ]
-            }
-        },
-        {
-            "title": "Endless Night Sanctuary",
-            "content": {
-                "type": "map",
-                "maps": [
-                    "Endless Night Sanctuary"
                 ]
             }
         },

@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Spring Meadows",
+        "children": [
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - On the path" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 335, "y": 300 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - Small cave" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 377, "y": 300 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - Near boxes" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 360, "y": 260 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - In the house 1" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 440, "y": 265 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - On ledge beside house" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 415, "y": 285 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Meadows Corridor - In the house 2" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 420, "y": 270 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Behind Chromatic Lancelier" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 590, "y": 310 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Right path after grapple" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 655, "y": 355 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - On cliff behind paint spike 1" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 665, "y": 345 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - On cliff behind paint spike 2" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 710, "y": 330 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/The Indigo Tree - On the roots" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 900, "y": 256 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Small alcove" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 785, "y": 320 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Ledge above bridge" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 830, "y": 368 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Boxes near bridge" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 855, "y": 333 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Between paint spikes" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 830, "y": 270 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Barrels by wall" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 880, "y": 365 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Under the bridge" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 845, "y": 345  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - On cliff near upper paint spike" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 790, "y": 280 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/The Indigo Tree - On a branch" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 856, "y": 232 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Left path near flag 1" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 465, "y": 240 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Left path near flag 2" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 495, "y": 215 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Right path near flag 1" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 535, "y": 280 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Right path near flag 2" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 520, "y": 260 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Before grapple spot to mime" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 430, "y": 167 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Grand Meadow - Lower cliff before grapple" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 655, "y": 205 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Abandoned Expeditioner Camp - Near lower paint spike" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 850, "y": 280 }]
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Mime" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 620, "y": 30 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Chromatic Lancier" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 590, "y": 300 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Eveque" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 895, "y": 285 }]
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Flag - Meadows Corridor" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 275, "y": 350, "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Flag - Grand Meadow" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 485, "y": 256, "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Flag - Abandoned Expeditioner Camp" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 735, "y": 320, "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Flag - The Indigo Tree" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 890, "y": 320, "shape": "diamond" }]
+            },
+
+
+            {
+                "sections": [{ "ref": "Logic - Spring Meadows/Exit to continent" }],
+                "map_locations": [{ "map": "Spring Meadows", "x": 940, "y": 250, "shape": "trapezoid", "size": 33 }]
+            }
+        ]
+    }
+]

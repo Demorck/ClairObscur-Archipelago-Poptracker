@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Gestral Village",
+        "children": [
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Steal from Victorifo" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 317, "y": 160 }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Behind the stage" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 485, "y": 200  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/On scaffolding by the stage" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 170, "y": 175  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/In the arena" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 64, "y": 74  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Above the Bazar" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 208, "y": 291  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Barrels near Chef’s House" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 333, "y": 238  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/In paint spike room 1" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 375, "y": 157  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/In paint spike room 2" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 230, "y": 107  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Near casino" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 505, "y": 85  }]
+            },
+
+            
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Golgra" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 275, "y": 175  }]
+            },
+            
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Flag - Gestral Village" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 392, "shape": "diamond"  }]
+            },
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Flag - Gestral Arena" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 77, "shape": "diamond"  }]
+            },
+
+            
+            {
+                "sections": [{ "ref": "Logic - Gestral Village/Exit to continent" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 250, "y": 420, "shape": "trapezoid", "size": 33  }]
+            }
+        ]
+    }
+]
+

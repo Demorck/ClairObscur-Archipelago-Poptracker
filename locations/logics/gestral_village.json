@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Logic - Gestral Village",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "sections": [
+            {
+                "name": "Steal from Victorifo",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Behind the stage",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "On scaffolding by the stage",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "In the arena",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Above the Bazar",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Barrels near Chef’s House",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "In paint spike room 1",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "In paint spike room 2",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Near casino",
+                "access_rules": ["NoLogic"]
+            },
+
+            {
+                "name": "Golgra",
+                "access_rules": ["NoLogic"]
+            },
+
+            {
+                "name": "Flag - Gestral Village",
+                "access_rules": ["NoLogic"]
+            },
+            {
+                "name": "Flag - Gestral Arena",
+                "access_rules": ["NoLogic"]
+            },
+
+            {
+                "name": "Exit to continent",
+                "access_rules": ["NoLogic"]
+            }
+        ]
+    }
+]

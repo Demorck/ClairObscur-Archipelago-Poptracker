@@ -1,65 +1,67 @@
 [
     {
-        "name": "Logic - Gestral Village",
+        "name": "Logic - Esquie's Nest",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
             {
-                "name": "Steal from Victorifo",
+                "name": "Take shortcut out from Esquie's room. Wheeeeee",
                 "access_rules": []
             },
             {
-                "name": "Behind the stage",
+                "name": "Francois - I hid this item - find it before Fran Fran",
                 "access_rules": []
             },
             {
-                "name": "On scaffolding by the stage",
+                "name": "Esquie's Room - Did you get my rock from Fran Fran?",
                 "access_rules": []
             },
             {
-                "name": "In the arena",
+                "name": "Esquie's Room - New friends!",
                 "access_rules": []
             },
             {
-                "name": "Above the Bazar",
+                "name": "Get Outta My Way! - Don't be mean to Sunniso",
                 "access_rules": []
             },
             {
-                "name": "Barrels near Chef’s House",
+                "name": "Francois - Bye bye Fran Fran!",
                 "access_rules": []
             },
             {
-                "name": "In paint spike room 1",
-                "access_rules": []
-            },
-            {
-                "name": "In paint spike room 2",
-                "access_rules": []
-            },
-            {
-                "name": "Near casino",
+                "name": "Francois - Make another new friend after Fran Fran!",
                 "access_rules": []
             },
 
+            
             {
-                "name": "Golgra",
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+            {
+                "name": "François",
                 "access_rules": []
             },
 
+            
             {
-                "name": "Flag - Gestral Village",
+                "name": "Flag - Entrance",
                 "access_rules": []
             },
             {
-                "name": "Flag - Gestral Arena",
+                "name": "Flag - François",
                 "access_rules": []
-            },
+            }, 
 
             {
                 "name": "Exit to continent",
                 "access_rules": []
             }
         ],
-        "access_rules": ["GestralVillage"]
+        "access_rules": ["EsquiesNest"]
     }
 ]

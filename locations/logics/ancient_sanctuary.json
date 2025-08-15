@@ -6,113 +6,114 @@
         "sections": [
             {
                 "name": "Entrance - Past climbing handholds",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - In dark cave before shortcut to flag 1",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Giant Bell Alley - Up ramp after boss",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Giant Bell Alley - Before Expedition Flag near dismantled Gestral",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Gestral Totem - Base of the totem",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Entrance - Across bridge",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - On path to flag 1 shortcut",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - On cliff after Mime",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - In hut near Mime",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - In boxes",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Gestral Totem - Ink bottles on the cliff",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Giant Bell Alley - After boss",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Gestral Totem - In shallow river",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Gestral Totem - Jump the gaps",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - On Expeditioner corpse on path to flag 1 shortcut",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Giant Bell Alley - In crawlspace after boss",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Giant Bell Alley - Paint Cage before Expedition Flag",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Sanctuary Maze - At shortcut to flag 1",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
 
             {
                 "name": "Ultimate Sakapatate",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Mime",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Petank",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
 
             
             {
                 "name": "Flag - Entrance",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Flag - Sanctuary Maze",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Flag - Giant Bell Alley",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
 
             
             {
                 "name": "Exit to continent 1",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             },
             {
                 "name": "Exit to continent 2",
-                "access_rules": ["NoLogic"]
+                "access_rules": []
             }
-        ]
+        ],
+        "access_rules": ["AncientSanctuary"]
     }
 ]

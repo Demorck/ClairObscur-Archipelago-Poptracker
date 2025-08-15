@@ -2,6 +2,10 @@ DEBUG = false
 ENABLE_DEBUG_LOG = DEBUG
 
 
+
+ScriptHost:LoadScript("scripts/utils.lua")
+ScriptHost:LoadScript("scripts/logic/logic.lua")
+
 Tracker:AddItems("items/items.json")
 
 Tracker:AddMaps("maps/maps.json")

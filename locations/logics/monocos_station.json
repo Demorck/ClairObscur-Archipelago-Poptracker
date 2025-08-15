@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Logic - Monoco's Station",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "sections": [
+        ]
+    }
+]

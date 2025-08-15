@@ -6,144 +6,145 @@
     "sections": [
       {
         "name": "Meadows Corridor - On the path",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Meadows Corridor - Small cave",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Meadows Corridor - Near boxes",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Meadows Corridor - In the house 1",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Meadows Corridor - On ledge beside house",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Meadows Corridor - In the house 2",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Behind Chromatic Lancelier",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Right path after grapple",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff behind paint spike 1",
-        "access_rules": ["NoLogic"]
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff behind paint spike 2",
-        "access_rules": ["NoLogic"]
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "The Indigo Tree - On the roots",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Small alcove",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Ledge above bridge",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Boxes near bridge",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Barrels by wall",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Between paint spikes",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Under the bridge",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff near upper paint spike",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "The Indigo Tree - On a branch",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Right path near flag 1",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Left path near flag 2",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Before grapple spot to mime",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Left path near flag 1",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Right path near flag 2",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Grand Meadow - Lower cliff before grapple",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Abandoned Expeditioner Camp - Near lower paint spike",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
 
       
       {
         "name": "Mime",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Chromatic Lancier",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Eveque",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
 
       {
         "name": "Flag - Meadows Corridor",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Flag - Grand Meadow",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Flag - Abandoned Expeditioner Camp",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
       {
         "name": "Flag - The Indigo Tree",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       },
 
       {
         "name": "Exit to continent",
-        "access_rules": ["NoLogic"]
+        "access_rules": []
       }
-    ]
+    ],
+    "access_rules": ["SpringMeadows"]
   }
 ]

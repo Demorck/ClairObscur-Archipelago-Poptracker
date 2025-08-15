@@ -4,6 +4,144 @@
     "codes": "Picto",
     "img": "images/items/pictos.png",
     "type": "consumable",
-    "max_quantity": 14
+    "max_quantity": 200
+  },
+  {
+    "name": "Paint Spike Break",
+    "codes": "PaintBreak",
+    "img": "images/items/paint_break.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Spring Meadows",
+    "codes": "SpringMeadows",
+    "img": "images/items/spring_meadows.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Flying Waters",
+    "codes": "FlyingWaters",
+    "img": "images/items/flying_waters.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Ancient Sanctuary",
+    "codes": "AncientSanctuary",
+    "img": "images/items/ancient_sanctuary.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Crimson Forest",
+    "codes": "CrimsonForest",
+    "img": "images/items/crimson_forest.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Esquie's Nest",
+    "codes": "EsquiesNest",
+    "img": "images/items/esquies_nest.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Falling Leaves",
+    "codes": "FallingLeaves",
+    "img": "images/items/falling_leaves.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Flying Manor",
+    "codes": "FlyingManor",
+    "img": "images/items/flying_manor.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Forgotten Battlefield",
+    "codes": "ForgottenBattlefield",
+    "img": "images/items/forgotten_battlefield.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Frozen Hearts",
+    "codes": "FrozenHearts",
+    "img": "images/items/frozen_hearts.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Gestral Village",
+    "codes": "GestralVillage",
+    "img": "images/items/gestral_village.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Monoco's Station",
+    "codes": "MonocosStation",
+    "img": "images/items/monocos_station.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Lumiere",
+    "codes": "Lumiere",
+    "img": "images/items/lumiere.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - The Monolith",
+    "codes": "TheMonolith",
+    "img": "images/items/the_abyss.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Old Lumiere",
+    "codes": "OldLumiere",
+    "img": "images/items/old_lumiere.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - The Reacher",
+    "codes": "TheReacher",
+    "img": "images/items/the_reacher.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Renoir's Drafts",
+    "codes": "RenoirsDrafts",
+    "img": "images/items/renoirs_draft.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Stone Wave Cliffs",
+    "codes": "StoneWaveCliffs",
+    "img": "images/items/stone_wave_cliffs.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Sirene",
+    "codes": "Sirene",
+    "img": "images/items/sirene.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Endless Night Sanctuary",
+    "codes": "Endless NightSanctuary",
+    "img": "images/items/endless_night_sanctuary.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Visages",
+    "codes": "Visages",
+    "img": "images/items/visages.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Yellow Harvest",
+    "codes": "YellowHarvest",
+    "img": "images/items/yellow_harvest.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Area - Endless Tower",
+    "codes": "EndlessTower",
+    "img": "images/items/endless_tower.png",
+    "type": "toggle"
   }
 ]

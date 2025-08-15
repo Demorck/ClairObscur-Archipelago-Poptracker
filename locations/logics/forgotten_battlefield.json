@@ -1,159 +1,158 @@
 [
     {
-        "name": "Logic - Flying Waters",
+        "name": "Logic - Forgotten Battlefield",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
             {
-                "name": "Coral Cave - On raised platform",
+                "name": "Main Gate - Left side wooden deck",
                 "access_rules": []
             },
             {
-                "name": "Entrance - Minefield item 2",
+                "name": "Main Gate - Right side near outer wall",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - Behind Manor door",
+                "name": "Fort Ruins - In left ruins near dead end",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - On top of stone tower",
+                "name": "Battlefield - On wooden platform near Petank end",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - Next to Goblu anvil",
+                "name": "Main Gate - Near Chalier sword",
                 "access_rules": []
             },
             {
-                "name": "Entrance - Near anchored Expedition",
+                "name": "Main Gate - Left side dead end",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Right of Expedition Flag",
+                "name": "Main Gate - On platform after Expedition Flag",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Near dead expeditioner",
+                "name": "Main Gate - Other side of left entrance corpse pile",
                 "access_rules": []
             },
             {
-                "name": "Lumerian Streets - Behind Chromatic miniboss",
+                "name": "Battlefield - Near Expedition Flag",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Near lantern coral",
+                "name": "Vanguard Point - In maze",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - After Expedition Flag",
+                "name": "Vanguard Point - In front of Chromatic miniboss",
                 "access_rules": []
             },
             {
-                "name": "Flower Fields - Near Expedition Flag",
+                "name": "Fort Ruins - On ledge overlooking battlefield",
                 "access_rules": []
             },
             {
-                "name": "Lumerian Streets - In Paint Spike",
+                "name": "Vanguard Point - Below Expedition Flag",
                 "access_rules": []
             },
             {
-                "name": "Entrance - In inlet in first room",
+                "name": "Vanguard Point - Above Chromatic miniboss",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - On broken pillar",
+                "name": "Battlefield - In box",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Past long seaweed",
+                "name": "Main Gate - Near Grandis corpses",
                 "access_rules": []
             },
             {
-                "name": "Lumerian Streets - Near shopping stand",
+                "name": "Ancient Bridge - After bridge",
                 "access_rules": []
             },
             {
-                "name": "Lumerian Streets - By floating house",
+                "name": "Ancient Bridge - Before grave",
                 "access_rules": []
             },
             {
-                "name": "Entrance - In minefield",
+                "name": "Fort Ruins - Chest",
                 "access_rules": []
             },
             {
-                "name": "Noco's Hut - After platforming near friendly Nevron",
+                "name": "Main Gate - Near burning tree",
                 "access_rules": []
             },
             {
-                "name": "Entrance - Second room up ramp",
+                "name": "Main Gate - Left side in a box",
                 "access_rules": []
             },
             {
-                "name": "Entrance - In inlet in second room",
+                "name": "Main Gate - Near Grandis and Chalier corpses",
                 "access_rules": []
             },
             {
-                "name": "Lumerian Streets - On a rock with boxes",
+                "name": "Fort Ruins - Dead end",
                 "access_rules": []
             },
             {
-                "name": "Entrance - On main path",
+                "name": "Fort Ruins - Behind Paint Spike",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Past platforming pillars",
+                "name": "Battlefield - Paint Cage",
                 "access_rules": []
             },
             {
-                "name": "Coral Cave - Paint Cage",
-                "access_rules": []
-            },
-            {
-                "name": "Coral Cave - Behind Mime",
-                "access_rules": []
-            },
-            {
-                "name": "Bourgeon",
-                "access_rules": []
-            },
-            {
-                "name": "Chromatic Troubador",
-                "access_rules": []
-            },
-            {
-                "name": "Mime",
-                "access_rules": []
-            },
-            {
-                "name": "Goblu",
-                "access_rules": []
-            },
-            {
-                "name": "Flag - Noco's Hut",
-                "access_rules": []
-            },
-            {
-                "name": "Flag - Coral Cave",
-                "access_rules": []
-            },
-            {
-                "name": "Flag - Lumerian Streets",
-                "access_rules": []
-            },
-            {
-                "name": "Flag - Flower Fields",
+                "name": "Ancient Bridge - In crawlspace below bridge",
                 "access_rules": []
             },
 
             {
-                "name": "Exit to wold map (south)",
+                "name": "Chromatic Luster",
                 "access_rules": []
             },
             {
-                "name": "Exit to wold map (north)",
+                "name": "Dualliste",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            
+            {
+                "name": "Flag - Main Gate",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Fort Ruins",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Vanguard Point",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Battlefield",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Ancient Bridge",
+                "access_rules": []
+            },
+
+            {
+                "name": "Exit to continent 1",
+                "access_rules": []
+            },
+            {
+                "name": "Exit to continent 2",
                 "access_rules": []
             }
         ],
-        "access_rules": ["FlyingWaters"]
+        "access_rules": ["ForgottenBattlefield"]
     }
 ]

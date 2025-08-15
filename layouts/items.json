@@ -2,14 +2,60 @@
   "items": {
     "type": "array",
     "orientation": "vertical",
-    "margin": "6, 6",
+    "margin": "0, 0",
     "content": [
       {
-        "type": "itemgrid",
-        "item_margin": "4, 4",
-        "margin": "0, 0",
-        "h_alignment": "stretch",
-        "rows": []
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+						"type": "itemgrid",
+						"item_margin": "4, 4",
+						"h_alignment": "left",
+						"rows": [
+                [
+                  "PaintBreak",
+                  "Picto"
+            
+                ]
+              ]
+          },
+					{
+						"type": "itemgrid",
+						"item_margin": "4, 4",
+						"h_alignment": "left",
+						"rows": [
+                [
+                  "SpringMeadows",
+                  "FlyingWaters",
+                  "AncientSanctuary",
+                  "GestralVillage",
+                  "EsquiesNest"
+                ],
+                [
+                  "StoneWaveCliffs",
+                  "ForgottenBattlefield",
+                  "MonocosStation",
+                  "OldLumiere",
+                  "Visages"
+                ],
+                [
+                  "Sirene",
+                  "TheMonolith",
+                  "Lumiere",
+                  "YellowHarvest",
+                  "CrimsonForest"
+                ],
+                [
+                  "FlyingManor",
+                  "FrozenHearts",
+                  "TheReacher",
+                  "RenoirsDrafts"
+                ]
+            ]
+          }
+        ]
       }
     ]
   }

@@ -4,6 +4,207 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Chroma 1",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Near Chromatic Gault 2",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Ledge next to the tunnel",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - Indoor climbing wall",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Paint cage",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Ledge with climbing holds",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - In barrels overlooking Monolith",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Ruined building near flag",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Overturned tube thing",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - Up a small ledge",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - Near Expeditioner impaled with greatsword",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Paint cage",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - Next to the rope down to manor door",
+                "access_rules": []
+            },
+            {
+                "name": "Back entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - In front of the first hut",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - In front of monument",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - Across from the manor door",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Ledge in the open cave 1",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Grapple platform",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - In front of the shrine",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Before the rope up to the flag",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Ledge in the tunnel",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Near the flag",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Near Young Boy",
+                "access_rules": []
+            },
+            {
+                "name": "Paintress Shrine - Upper maze near Expeditioner corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - By the ramp",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Towards the merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Basalt Waves - Below vertical zipline before Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - Under the climbing holds",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - Jump across the pillars",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - In the rock crystal room",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - Next to the manor door",
+                "access_rules": []
+            },
+            {
+                "name": "Flooded Buildings - Dead hexga",
+                "access_rules": []
+            },
+            {
+                "name": "Tide Caverns - Ruined building",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Tiny gazebo",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - By the first grapple point",
+                "access_rules": []
+            },
+            {
+                "name": "Old Farm - Near Chromatic miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Basalt Waves - Return to the boss arena",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Gault",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Paintress Shrine",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Old Farm",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Flooded Buildings",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tide Caverns",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Basalt Waves",
+                "access_rules": []
+            },
+
+            
+            {
+                "name": "Exit to continent 1",
+                "access_rules": []
+            },
+            {
+                "name": "Exit to continent 2",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["StoneWaveCliffs"]
     }
 ]

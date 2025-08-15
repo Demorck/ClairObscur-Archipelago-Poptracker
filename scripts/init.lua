@@ -1,10 +1,11 @@
-DEBUG = false
+DEBUG = true
 ENABLE_DEBUG_LOG = DEBUG
 
 
 
 ScriptHost:LoadScript("scripts/utils.lua")
 ScriptHost:LoadScript("scripts/logic/logic.lua")
+ScriptHost:LoadScript("scripts/autotracking.lua")
 
 Tracker:AddItems("items/items.json")
 

@@ -4,6 +4,126 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Left Street - In barrels after grapple",
+                "access_rules": []
+            },
+            {
+                "name": "Left Street - On top of broken pipe",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - On ledge overlooking rubble",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - In crawl space",
+                "access_rules": []
+            },
+            {
+                "name": "Left Street - Past ruined doorway",
+                "access_rules": []
+            },
+            {
+                "name": "Left Street - Before Manor Gardens",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Near Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Near Sword of Lumiere",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - Boxes near apartment building",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - After Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - After Expedition Flag on buried building",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - In pit between building grapples",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Above Train Station Ruins Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Behind gate near hedge maze",
+                "access_rules": []
+            },
+            {
+                "name": "Left Street - Before Expedition Flag in ruins",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Above Chromatic boss",
+                "access_rules": []
+            },
+            {
+                "name": "Left Street - On Chevaliere corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Train Station Ruins - Behind Chromatic boss",
+                "access_rules": []
+            },
+            {
+                "name": "Right Street - Overlooking carousel",
+                "access_rules": []
+            },
+            {
+                "name": "Manor Gardens - Paint Cage",
+                "access_rules": ["$can_aim"]
+            },
+
+            {
+                "name": "Chromatic Danseuse",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Renoir",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Right Street",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Left Street",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Manor Gardens",
+                "access_rules": []
+            },
+
+            {
+                "name": "Exit to continent 1",
+                "access_rules": []
+            },
+            {
+                "name": "Exit to continent 2",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["OldLumiere"]
     }
 ]

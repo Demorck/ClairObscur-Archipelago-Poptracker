@@ -4,6 +4,24 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Back of station",
+                "access_rules": []
+            },
+            {
+                "name": "Near Grandis Merchant",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Ice corridor",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Monoco's Station",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["MonocosStation"]
     }
 ]

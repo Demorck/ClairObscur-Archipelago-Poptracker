@@ -4,6 +4,174 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Dancing Classes - Down verical zipline in first room",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Under Paint Spike",
+                "access_rules": ["PaintBreak"]
+            },
+            {
+                "name": "Dancing Classes - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Crumbling Path - Near Petank",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Near Young Boy and Manor Door",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - After Young Boy before Grapple",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - In bowl near Petank start",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Near large room before Petank",
+                "access_rules": ["PaintBreak"]
+            },
+            {
+                "name": "Dancing Classes - On foggy platform",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Near brazier and fabric -wrapped pillar",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Before next Expedition Flag on ledge",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Near mini -boss",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Upper path near mini -boss",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Railing overlooking giant Ballet",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Before elevator",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Behind Chromatic enemy",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Below handholds",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Bottom of winding fabric room",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Middle of winding fabric room",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Near corpse overlooking Glissando corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Top of winding fabric room",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Before end of detour leading back to Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Sewing Atelier - Before Zipline to next Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Classes - Before Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Crumbling Path - Left of mini -boss",
+                "access_rules": []
+            },
+            {
+                "name": "Crumbling Path - Before mini -boss",
+                "access_rules": []
+            },
+            {
+                "name": "Dancing Arena - Near Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Crumbling Path - Detour left of mini -boss",
+                "access_rules": []
+            },
+
+            {
+                "name": "Sirene",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Greatsword Cultist",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Glissando",
+                "access_rules": []
+            },
+            {
+                "name": "Tisseur",
+                "access_rules": []
+            },
+            {
+                "name": "Blue Petank",
+                "access_rules": []
+            },
+            {
+                "name": "Red Petank",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Dancing Classes",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Sewing Atelier",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Crumbling Path",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Dancing Arena",
+                "access_rules": []
+            },
+
+            {
+                "name": "Exit to continent 1",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["Sirene"]
     }
 ]

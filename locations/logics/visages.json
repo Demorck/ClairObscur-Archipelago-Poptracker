@@ -4,6 +4,119 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Plazza - On cliffside overlooking ocean",
+                "access_rules": []
+            },
+            {
+                "name": "Plazza - Near entrance to Anger Vale under boxes",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - Near chroma-less Expeditioner",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - Left of boss",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - Overlooking tower of masks",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - On ledge surrounded by enemies",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - Under Contortionniste corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Joy Vale - Near floral mannequin",
+                "access_rules": []
+            },
+            {
+                "name": "Joy Vale - To the right after Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Joy Vale - Left of Expedition Flag near big tree",
+                "access_rules": []
+            },
+            {
+                "name": "Joy Vale - Right of boss near tree",
+                "access_rules": []
+            },
+            {
+                "name": "Joy Vale - Left of boss",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - On ledge to the right of massive Contortionnistes",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - Behind Chromatic Miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - Right of boss right path",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - Right of boss on cliffside",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - Left of massive Contortionnistes",
+                "access_rules": []
+            },
+            {
+                "name": "Sadness Vale - Before Chromatic miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Anger Vale - Right of boss near boxes",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Ramasseur",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Visages/Mask Keeper",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Plazza",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Sadness Vale",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Anger Vale",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Joy Vale",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Peak",
+                "access_rules": []
+            },
+            {
+                "name": "Exit to continent 1",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["Visages"]
     }
 ]

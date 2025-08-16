@@ -7,11 +7,156 @@
     "max_quantity": 200
   },
   {
+    "name": "Lost Gestral",
+    "codes": "LostGestral",
+    "img": "images/items/gestral.png",
+    "type": "consumable",
+    "max_quantity": 9
+  },
+  {
     "name": "Paint Spike Break",
     "codes": "PaintBreak",
     "img": "images/items/paint_break.png",
     "type": "toggle"
   },
+  {
+    "name": "Progressive rock",
+    "type": "progressive",
+    "stages": [
+        {
+            "name": "Esquie",
+            "img": "images/items/rock.png",
+            "codes": "esquie"
+        },
+        {
+            "name": "Swim",
+            "img": "images/items/rock.png",
+            "img_mods": "overlay|images/items/rock.png",
+            "codes": "swim"
+        },
+        {
+            "name": "Destroy coral",
+            "img": "images/items/rock.png",
+            "img_mods": "overlay|images/items/rock.png",
+            "codes": "corals"
+        },
+        {
+            "name": "Fly",
+            "img": "images/items/rock.png",
+            "img_mods": "overlay|images/items/rock.png",
+            "codes": "fly"
+        },
+        {
+            "name": "Dive",
+            "img": "images/items/rock.png",
+            "img_mods": "overlay|images/items/rock.png",
+            "codes": "dive"
+        }
+    ]
+  },
+
+  
+  {
+    "name": "Gustave",
+    "codes": "Gustave",
+    "img": "images/items/gustave.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Lune",
+    "codes": "Lune",
+    "img": "images/items/lune.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Maelle",
+    "codes": "Maelle",
+    "img": "images/items/maelle.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sciel",
+    "codes": "Sciel",
+    "img": "images/items/sciel.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Verso",
+    "codes": "Verso",
+    "img": "images/items/verso.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Monoco",
+    "codes": "Monoco",
+    "img": "images/items/monoco.png",
+    "type": "toggle"
+  },
+  
+  {
+    "name": "Revive Tint",
+    "type": "progressive",
+    "stages": [
+        {
+            "name": "Revive Tint 1",
+            "img": "images/items/revive_tint_1.png",
+            "codes": "ReviveTint, ReviveTint1"
+        },
+        {
+            "name": "Revive Tint 2",
+            "img": "images/items/revive_tint_2.png",
+            "codes": "ReviveTint, ReviveTint2"
+        },
+        {
+            "name": "Revive Tint 3",
+            "img": "images/items/revive_tint_3.png",
+            "codes": "ReviveTint, ReviveTint3"
+        }
+    ]
+  },
+  {
+    "name": "Healing Tint",
+    "type": "progressive",
+    "stages": [
+        {
+            "name": "Healing Tint 1",
+            "img": "images/items/healing_tint_1.png",
+            "codes": "HealingTint, HealingTint1"
+        },
+        {
+            "name": "Healing Tint 2",
+            "img": "images/items/healing_tint_2.png",
+            "codes": "HealingTint, HealingTint2"
+        },
+        {
+            "name": "Healing Tint 3",
+            "img": "images/items/healing_tint_3.png",
+            "codes": "HealingTint, HealingTint3"
+        }
+    ]
+  },
+  {
+    "name": "Energy Tint",
+    "type": "progressive",
+    "stages": [
+        {
+            "name": "Energy Tint 1",
+            "img": "images/items/energy_tint_1.png",
+            "codes": "EnergyTint, EnergyTint1"
+        },
+        {
+            "name": "Energy Tint 2",
+            "img": "images/items/energy_tint_2.png",
+            "codes": "EnergyTint, EnergyTint2"
+        },
+        {
+            "name": "Energy Tint 3",
+            "img": "images/items/energy_tint_3.png",
+            "codes": "EnergyTint, EnergyTint3"
+        }
+    ]
+  },
+
   {
     "name": "Area - Spring Meadows",
     "codes": "SpringMeadows",

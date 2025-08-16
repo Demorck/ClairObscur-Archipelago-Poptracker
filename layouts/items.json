@@ -16,7 +16,30 @@
 						"rows": [
                 [
                   "PaintBreak",
+                  "esquie",
+                  "LostGestral",
                   "Picto"
+                ],
+                [
+                  "HealingTint",
+                  "ReviveTint",
+                  "EnergyTint"
+                ]
+              ]
+          },
+          
+          {
+						"type": "itemgrid",
+						"item_margin": "4, 4",
+						"h_alignment": "left",
+						"rows": [
+                [
+                  "Gustave",
+                  "Lune",
+                  "Maelle",
+                  "Sciel",
+                  "Verso",
+                  "Monoco"
                 ]
               ]
           },

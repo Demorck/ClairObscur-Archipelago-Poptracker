@@ -4,6 +4,249 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Tainted Meadows - Detour near Eveque",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Meadows - After Aline memory",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - In front of bastard Mime room zipline",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Meadows - Near Eveque",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Waters - Behind Chromatic Bourgeon",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Waters - Right path in coral reef",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Waters - In broken ship frame under barrels",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Waters - Near giant anchor",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Zipline across fractured ground",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Sanctuary - After Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Sanctuary - In roundabout near giant Sakapatate statue",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Sanctuary - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Sanctuary - Next to giant Sakapatate statue",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Sanctuary - Before giant Sakapatate Statue",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Top of spiral staircase",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Path to lighthouse",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Near Petank end platform",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Behind Lighthouse near Petank",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Room before exit item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Room before exit item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - Next to Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - Past Sakapatate corpses",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - Left path after vertical zipline",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - Near broken -down cannon",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - Near exit",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - Near Young Boy at station",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - On train car hanging off cliff",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - On cliffside near crane",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - Near Melosh",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Hearts - Left of station entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Before crossing fractured land",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Next to large fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Deadend near crooked archway",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Side path near next Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Near harp",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Near dead Grandis",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Cliffs - Behind Petank starting position",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Lumiere - Next to festival stands",
+                "access_rules": []
+            },
+            {
+                "name": "Tainted Battlefield - After Expedition Flag",
+                "access_rules": []
+            },
+            
+            {
+                "name": "The Paintress",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Bourgeon",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Clair Obscur",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Clair Obscur",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque",
+                "access_rules": []
+            },
+            {
+                "name": "Gargant",
+                "access_rules": []
+            },
+            {
+                "name": "Ultimate Sakapatate",
+                "access_rules": []
+            },
+            {
+                "name": "Renoir",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Meadows",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Waters",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Sanctuary",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Cliffs",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Battlefield",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Hearts",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Tainted Lumiere",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Peak",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["TheMonolith"]
     }
 ]

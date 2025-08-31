@@ -4,6 +4,206 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Central Platform - Near easels",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Near Stalact",
+                "access_rules": []
+            },
+            {
+                "name": "Central Platform - Left of path to area boss",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Behind double Gold Chevaliere",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Behind Grosse Tete",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Right of Dualliste room entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Behind Bourgeon",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Behind Hexga near Hexga corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste Wing - Left of Bourgeon",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Floating island with easels",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Easels near patrolling Jar",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Near dead Stalact",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Behind Greatsword Cultist",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Near Gargant",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Above Gargant",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing - Behind Lampmaster",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Inside library",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Easels near Petank start",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Ground floor behind Cruler",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - On bridge above Cruler",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Near Portier by exit",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Ground floor by window in Eveque room",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - above handholds near patrolling Glaise",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - On fallen bridge segment",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster Wing (Honestly idk) - Near single Steel Chevaliere on broken platform",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Left of entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Under main platform",
+                "access_rules": []
+            },
+            {
+                "name": "Central Platform - Right of entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Central Platform - Path to Eveque Wing on giant frame",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Next to Goblu",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - On path to Goblu",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Behind Fusoka",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Side path near Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu Wing - Center of Bourgeon and Glaise patrol",
+                "access_rules": []
+            },
+            {
+                "name": "Eveque Wing - Paint Cage",
+                "access_rules": []
+            },
+
+            {
+                "name": "Clea",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Dualliste",
+                "access_rules": []
+            },
+            {
+                "name": "Eveques",
+                "access_rules": []
+            },
+            {
+                "name": "Goblu",
+                "access_rules": []
+            },
+            {
+                "name": "Lampmaster",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Central Plaza",
+                "access_rules": []
+            },
+            {
+                "name": "Path - Eveque Wing",
+                "access_rules": []
+            },
+            {
+                "name": "Path - Dualliste Wing",
+                "access_rules": []
+            },
+            {
+                "name": "Path - Lampmaster Wing",
+                "access_rules": []
+            },
+            {
+                "name": "Path - Goblu Wing",
+                "access_rules": []
+            },
+
+            {
+                "name": "Entrance",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["FlyingManor"]
     }
 ]

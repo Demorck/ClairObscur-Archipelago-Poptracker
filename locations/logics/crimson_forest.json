@@ -4,6 +4,61 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Crimson Perch - Bottom floor near cave",
+                "access_rules": []
+            },
+            {
+                "name": "Crimson Perch - Under Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Crimson Perch - Near Expeditioner corpse before Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "The Three Blades - After left path Sword Statue",
+                "access_rules": []
+            },
+            {
+                "name": "The Three Blades - Upper path after floating rock platforms",
+                "access_rules": []
+            },
+            {
+                "name": "The Three Blades - In boxes after floating rock platforms",
+                "access_rules": []
+            },
+            {
+                "name": "The Three Blades - In soup (complete dungeon)",
+                "access_rules": []
+            },
+            {
+                "name": "The Three Blades - Right path Sword Statue 2",
+                "access_rules": []
+            },
+            {
+                "name": "Crimson Perch - Above Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Gold Chevaliere",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Crimson Perch",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - The Three Blades",
+                "access_rules": []
+            },
+
+            {
+                "name": "Entrance",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["CrimsonForest"]
     }
 ]

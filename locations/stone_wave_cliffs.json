@@ -92,7 +92,7 @@
             },
             {
                 "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Near the flag" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 245, "y": 833, "size": 16  }]
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 255, "y": 844, "size": 16  }]
             },
             {
                 "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Near Young Boy" }],
@@ -157,7 +157,7 @@
 
             {
                 "sections": [{ "ref": "Logic - Stone Wave Cliffs/Lampmaster" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 630, "y": 600, "size": 16  }]
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 960, "y": 201, "size": 16  }]
             },
             {
                 "sections": [{ "ref": "Logic - Stone Wave Cliffs/Chromatic Gault" }],
@@ -165,7 +165,7 @@
             },
             {
                 "sections": [{ "ref": "Logic - Stone Wave Cliffs/Petank" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 0, "y": 0, "size": 16 }]
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 567, "y": 636, "size": 16 }]
             },
 
             {

@@ -1,7 +1,179 @@
 [
     {
-        "name": "The Reacher",
+        "name": "Reacher",
         "children": [
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - early handholds" }],
+                "map_locations": [{ "map": "Reacher", "x": 914, "y": 468, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Mountain - boxes by cliffside" }],
+                "map_locations": [{ "map": "Reacher", "x": 459, "y": 753, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Mountain - Above First Echassier 2" }],
+                "map_locations": [{ "map": "Reacher", "x": 594, "y": 807, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Area - Foggy Area flag" }],
+                "map_locations": [{ "map": "Reacher", "x": 429, "y": 1146, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Mountain - on cliffside" }],
+                "map_locations": [{ "map": "Reacher", "x": 20, "y": 642, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Mountain - after wooden plank platforms" }],
+                "map_locations": [{ "map": "Reacher", "x": 297, "y": 625, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - in nook near double Orphelin" }],
+                "map_locations": [{ "map": "Reacher", "x": 746, "y": 230, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Area - Above Veilleur by cliffside" }],
+                "map_locations": [{ "map": "Reacher", "x": 692, "y": 985, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Area - Veilleur" }],
+                "map_locations": [{ "map": "Reacher", "x": 627, "y": 960, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Bank - Platform above Merchant" }],
+                "map_locations": [{ "map": "Reacher", "x": 406, "y": 994, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - Sandbag Fort" }],
+                "map_locations": [{ "map": "Reacher", "x": 580, "y": 282, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - after Orphelin builders" }],
+                "map_locations": [{ "map": "Reacher", "x": 958, "y": 342, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - on Orphelin builder platform" }],
+                "map_locations": [{ "map": "Reacher", "x": 715, "y": 260, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - Near Expedition Flag" }],
+                "map_locations": [{ "map": "Reacher", "x": 608, "y": 103, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Peak - Dead Orphelin" }],
+                "map_locations": [{ "map": "Reacher", "x": 768, "y": 1489, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - After Paint Spike" }],
+                "map_locations": [{ "map": "Reacher", "x": 949, "y": 431, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Bank - After triple Orphelin platform" }],
+                "map_locations": [{ "map": "Reacher", "x": 504, "y": 148, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Area - above patrolling Veilleur" }],
+                "map_locations": [{ "map": "Reacher", "x": 616, "y": 1115, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - Mime" }],
+                "map_locations": [{ "map": "Reacher", "x": 679, "y": 153, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - Nailed Orphelin near Petank platform" }],
+                "map_locations": [{ "map": "Reacher", "x": 502, "y": 285, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Mountain - before wooden plank platforming" }],
+                "map_locations": [{ "map": "Reacher", "x": 368, "y": 670, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - behind Manor door" }],
+                "map_locations": [{ "map": "Reacher", "x": 456, "y": 184, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Ladder Area - Past Green Orphelin" }],
+                "map_locations": [{ "map": "Reacher", "x": 684, "y": 246, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - under Orphelin builder platform" }],
+                "map_locations": [{ "map": "Reacher", "x": 715, "y": 237, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance - hot air balloon" }],
+                "map_locations": [{ "map": "Reacher", "x": 611, "y": 303, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Foggy Bank - Triple Orphelin platform" }],
+                "map_locations": [{ "map": "Reacher", "x": 571, "y": 246, "size": 16}]
+
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Reacher/Merchant Eragol" }],
+                "map_locations": [{ "map": "Reacher", "x": 404, "y": 915, "size": 16}]
+
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Entrance" }],
+                "map_locations": [{ "map": "Reacher", "x": 945, "y": 649, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Mountain" }],
+                "map_locations": [{ "map": "Reacher", "x": 521, "y": 353, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Ladder Area" }],
+                "map_locations": [{ "map": "Reacher", "x": 637, "y": 78, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Foggy Area" }],
+                "map_locations": [{ "map": "Reacher", "x": 392, "y": 1157, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Peak" }],
+                "map_locations": [{ "map": "Reacher", "x": 829, "y": 1402, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Flag - Alicia" }],
+                "map_locations": [{ "map": "Reacher", "x": 574, "y": 1313, "shape": "diamond", "size": 16}]
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Reacher/Entrance" }],
+                "map_locations": [{ "map": "Reacher", "x": 1017, "y": 756, "shape": "trapezoid", "size": 44}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Reacher/Exit" }],
+                "map_locations": [{ "map": "Reacher", "x": 599, "y": 1274, "shape": "trapezoid", "size": 44}]
+
+            }
         ]
     }
 ]

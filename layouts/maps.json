@@ -146,11 +146,11 @@
             }
         },
         {
-            "title": "Lumière",
+            "title": "Lumiere",
             "content": {
                 "type": "map",
                 "maps": [
-                    "Lumière"
+                    "Lumiere"
                 ]
             }
         },
@@ -195,7 +195,7 @@
             "content": {
                 "type": "map",
                 "maps": [
-                    "The Reacher"
+                    "Reacher"
                 ]
             }
         },

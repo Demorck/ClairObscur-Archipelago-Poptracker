@@ -55,7 +55,10 @@
                 "map_locations": [{ "map": "Visages", "x": 250, "y": 1350, "size": 33  }]
             },
             {
-                "sections": [{ "ref": "Logic - Visages/Sadness Vale - Behind Chromatic Miniboss" }],
+                "sections": [
+                    { "ref": "Logic - Visages/Sadness Vale - Behind Chromatic Miniboss" },
+                    { "ref": "Logic - Visages/Chromatic Ramasseur" }
+                ],
                 "map_locations": [{ "map": "Visages", "x": 35, "y": 1300, "size": 33  }]
             },
             {
@@ -80,10 +83,6 @@
             },
 
             {
-                "sections": [{ "ref": "Logic - Visages/Chromatic Ramasseur" }],
-                "map_locations": [{ "map": "Visages", "x": 46, "y": 1324, "size": 33 }]
-            },
-            {
                 "sections": [{ "ref": "Logic - Visages/Mime" }],
                 "map_locations": [{ "map": "Visages", "x": 57, "y": 1844, "size": 33  }]
             },
@@ -102,11 +101,11 @@
             },
             {
                 "sections": [{ "ref": "Logic - Visages/Flag - Anger Vale" }],
-                "map_locations": [{ "map": "Visages", "x": 1492, "y": 2052, "size": 33, "shape": "diamond"  }]
+                "map_locations": [{ "map": "Visages", "x": 1472, "y": 2032, "size": 33, "shape": "diamond"  }]
             },
             {
                 "sections": [{ "ref": "Logic - Visages/Flag - Joy Vale" }],
-                "map_locations": [{ "map": "Visages", "x": 213, "y": 1860, "size": 33 , "shape": "diamond"  }]
+                "map_locations": [{ "map": "Visages", "x": 223, "y": 1875, "size": 33 , "shape": "diamond"  }]
             },
             {
                 "sections": [{ "ref": "Logic - Visages/Flag - Peak" }],

@@ -4,6 +4,70 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Entrance - Near broken fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Path to sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Exit of crimson cave",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Peninsula facing sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - On balcony of sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Near tent by sunken building",
+                "access_rules": []
+            },
+
+            {
+                "name": "Chromatic Orphelin",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Glaise",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Yellow Spire Wrecks",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Harvester's Hollow",
+                "access_rules": []
+            },
+
+            {
+                "name": "Exit to Continent",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance from Continent",
+                "access_rules": []
+            },
+            {
+                "name": "Merchant Pinabby",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["YellowHarvest"]
     }
 ]

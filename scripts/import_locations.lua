@@ -69,10 +69,14 @@ Tracker:AddLocations("locations/logics/flying_manor.json")
 Tracker:AddLocations("locations/frozen_hearts.json")
 Tracker:AddLocations("locations/logics/frozen_hearts.json")
 
--- The Reacher
+-- Reacher
 Tracker:AddLocations("locations/the_reacher.json")
 Tracker:AddLocations("locations/logics/the_reacher.json")
 
 -- Renoir's Draft
 Tracker:AddLocations("locations/renoirs_draft.json")
 Tracker:AddLocations("locations/logics/renoirs_draft.json")
+
+-- Continent
+Tracker:AddLocations("locations/continent.json")
+Tracker:AddLocations("locations/logics/continent.json")

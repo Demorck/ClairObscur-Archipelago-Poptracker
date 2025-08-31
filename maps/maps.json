@@ -1,7 +1,7 @@
 [
   {
     "name": "South Continent",
-    "location_size": 8,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/south_continent.png"
   },
@@ -90,7 +90,7 @@
     "img": "images/maps/the_monolith.png"
   },
   {
-    "name": "Lumière",
+    "name": "Lumiere",
     "location_size": 8,
     "location_border_thickness": 2,
     "img": "images/maps/lumiere.png"
@@ -132,7 +132,7 @@
     "img": "images/maps/frozen_hearts.png"
   },
   {
-    "name": "The Reacher",
+    "name": "Reacher",
     "location_size": 8,
     "location_border_thickness": 2,
     "img": "images/maps/the_reacher.png"

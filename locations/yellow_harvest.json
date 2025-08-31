@@ -2,6 +2,80 @@
     {
         "name": "Yellow Harvest",
         "children": [
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Entrance - Near broken fountain" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 518, "y": 933, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Entrance - Path to sunken building" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 396, "y": 773, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Harvester's Hollow - Exit of crimson cave" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 269, "y": 404, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Harvester's Hollow - Peninsula facing sunken building" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 452, "y": 592, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Harvester's Hollow - On balcony of sunken building" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 390, "y": 598, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Harvester's Hollow - Near tent by sunken building" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 551, "y": 659, "size": 16}]
+
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Chromatic Orphelin" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 94, "y": 244, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Mime" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 709, "y": 617, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Glaise" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 302, "y": 190, "size": 16}]
+
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Flag - Entrance" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 703, "y": 1290, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Flag - Yellow Spire Wrecks" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 230, "y": 305, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Flag - Harvester's Hollow" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 394, "y": 740, "shape": "diamond", "size": 16}]
+            },
+
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Exit to Continent" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 330, "y": 17, "shape": "trapezoid", "size": 33}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Entrance from Continent" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 734, "y": 1324, "shape": "trapezoid", "size": 33}]
+
+            },
+            {
+                "sections": [{ "ref": "Logic - Yellow Harvest/Merchant Pinabby" }],
+                "map_locations": [{ "map": "Yellow Harvest", "x": 550, "y": 824, "shape": "diamond", "size": 16}]
+            }
         ]
     }
 ]

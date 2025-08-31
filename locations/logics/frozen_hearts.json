@@ -4,6 +4,170 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Glacial Falls - Chromatic Veilleur Ice Cave item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - On broken train tracks",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Platform to left of entrance to first room",
+                "access_rules": []
+            },
+            {
+                "name": "Icebount Train Station - Chromatic Veilleur Ice Cave item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Past Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Right of station entrance near Danseuse corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Paint Cage 1",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Chromatic Veilleur Ice Cave item 4",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Paint Cage 2",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Between Expedition Flag and tracks to Danseuse Teacher",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Behind train near entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Red ice nook in first area",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Above Expedition Flag item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Ledge overlooking entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Above giant pit item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Behind double Braseleur near giant pit",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Near handholds leading to shortcut back to Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - On train tracks above handholds",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - First room right path on cliffside",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - above giant pit item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Above Expedition Flag item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Chromatic Veilleur Ice Cave item 3",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Terminal - Behind zone boss",
+                "access_rules": []
+            },
+            {
+                "name": "Iced Heart - Near Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Icebound Train Station - Under dead Grandis",
+                "access_rules": []
+            },
+            {
+                "name": "Iced Heart - Near Mime after floating trains item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Iced Heart - Near Mime after floating trains item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Above Danseuse Teacher",
+                "access_rules": []
+            },
+            {
+                "name": "Iced Heart - Near Mime after floating trains item 3",
+                "access_rules": []
+            },
+            {
+                "name": "Glacial Falls - Behind Stalact near station entrance",
+                "access_rules": []
+            },
+
+            {
+                "name": "Gargant",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Veilleur",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Icebound Train Station",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Glacial Falls",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Iced Heart",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Icebound Terminal",
+                "access_rules": []
+            },
+
+            {
+                "name": "Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Exit",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["FrozenHearts"]
     }
 ]

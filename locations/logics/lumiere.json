@@ -4,6 +4,231 @@
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "sections": [
-        ]
+            {
+                "name": "Opera House - On building railing in Paint Spike",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Left of stairs after docks",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Start of the game",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - In boxes",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - In Paint Spike",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Right side after docks",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Right side up stairs",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Left side near trash can",
+                "access_rules": []
+            },
+            {
+                "name": "Central Plaza - Near fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Central Plaza - Next to fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Central Plaza - Hallway after fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Central Plaza - Near boxes",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Inside gramophone",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Under the tree",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Left path after Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Under impaled building",
+                "access_rules": []
+            },
+            {
+                "name": "Lumina 5",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Behind Chromatic miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Next to Chromatic miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Near boat before Opera House",
+                "access_rules": []
+            },
+            {
+                "name": "Shattered Alley - Before Opera House",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - First right up stairs",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Top of stairs",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Under festival decorations",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - In between buildings",
+                "access_rules": []
+            },
+            {
+                "name": "Upgrade 6",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Cliffside overlooking ruined Lumiere",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Near Cribappa",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Near Young Boy",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Under broken buidling before Cribappa",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Inside ruined statue item 3",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - By dead giant Obscur",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Near ruined statue",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Inside ruined statue item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Crooked Tower Walkway - Before final boss",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Behind hedge",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - On bench",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere: s Garden - Left side up stairs",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - On the docks",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Near Chromatic miniboss",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Left side near building",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Right side up stairs",
+                "access_rules": []
+            },
+            {
+                "name": "Lumiere's Garden - Inside ruined statue item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Opera House - Near piano",
+                "access_rules": []
+            },
+
+
+            {
+                "name": "Lumiere: The Curator",
+                "access_rules":  []
+            },
+            {
+                "name": "Lumiere: Chromatic Echassier",
+                "access_rules":  []
+            },
+            {
+                "name": "Lumiere: Creation",
+                "access_rules":  []
+            },
+
+            {
+                "name": "Flag - Harbour",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Central Plaza",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Shattered Alley",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Opera House",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Lumiere's Garden",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Crooked Tower Walkway",
+                "access_rules": []
+            },
+
+            {
+                "name": "Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Merchant Cribappa",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["Lumiere"]
     }
 ]

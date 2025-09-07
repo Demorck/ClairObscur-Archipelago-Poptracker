@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Flying Waters",
+        "name": "Entrance - Flying Waters",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 799, "y": 1054, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Coral Cave - On raised platform",

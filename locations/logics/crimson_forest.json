@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Crimson Forest",
+        "name": "Entrance - Crimson Forest",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 336, "y": 176, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Crimson Perch - Bottom floor near cave",

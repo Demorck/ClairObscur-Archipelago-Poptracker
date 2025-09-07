@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Frozen Hearts",
+        "name": "Entrance - Frozen Hearts",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 1676, "y": 1011, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Glacial Falls - Chromatic Veilleur Ice Cave item 1",

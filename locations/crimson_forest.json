@@ -3,58 +3,58 @@
         "name": "Crimson Forest",
         "children": [
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Crimson Perch - Bottom floor near cave" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Crimson Perch - Bottom floor near cave" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 245, "y": 230}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Crimson Perch - Under Expedition Flag" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Crimson Perch - Under Expedition Flag" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 196, "y": 263}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Crimson Perch - Near Expeditioner corpse before Expedition Flag" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Crimson Perch - Near Expeditioner corpse before Expedition Flag" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 304, "y": 266}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/The Three Blades - After left path Sword Statue" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/The Three Blades - After left path Sword Statue" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 229, "y": 168}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/The Three Blades - Upper path after floating rock platforms" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/The Three Blades - Upper path after floating rock platforms" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 161, "y": 106}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/The Three Blades - In boxes after floating rock platforms" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/The Three Blades - In boxes after floating rock platforms" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 100, "y": 125}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/The Three Blades - Right path Sword Statue 2" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/The Three Blades - Right path Sword Statue 2" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 146, "y": 243 }]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Crimson Perch - Above Expedition Flag" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Crimson Perch - Above Expedition Flag" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 154, "y": 226}]
             },
 
 
             {
                 "sections": [
-                    { "ref": "Logic - Crimson Forest/Chromatic Gold Chevaliere" },
-                    { "ref": "Logic - Crimson Forest/The Three Blades - In soup (complete dungeon)" }
+                    { "ref": "Entrance - Crimson Forest/Chromatic Gold Chevaliere" },
+                    { "ref": "Entrance - Crimson Forest/The Three Blades - In soup (complete dungeon)" }
                 ],
                 "map_locations": [{ "map": "Crimson Forest", "x": 47, "y": 29}]
             },
 
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Flag - Crimson Perch" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Flag - Crimson Perch" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 198, "y": 286, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Flag - The Three Blades" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Flag - The Three Blades" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 88, "y": 86, "shape": "diamond"}]
             },
 
             {
-                "sections": [{ "ref": "Logic - Crimson Forest/Entrance" }],
+                "sections": [{ "ref": "Entrance - Crimson Forest/Entrance" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 469, "y": 250, "shape": "trapezoid", "size": 16}]
             }
         ]

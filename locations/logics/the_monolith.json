@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - The Monolith",
+        "name": "Entrance - The Monolith",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 1446, "y": 656, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Tainted Meadows - Detour near Eveque",

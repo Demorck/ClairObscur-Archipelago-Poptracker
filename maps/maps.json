@@ -7,13 +7,13 @@
   },
   {
     "name": "Middle Continent",
-    "location_size": 8,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/middle_continent.png"
   },
   {
     "name": "North Continent",
-    "location_size": 8,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/north_continent.png"
   },
@@ -114,12 +114,6 @@
     "img": "images/maps/crimson_forest.png"
   },
   {
-    "name": "Falling Leaves",
-    "location_size": 8,
-    "location_border_thickness": 2,
-    "img": "images/maps/falling_leaves.png"
-  },
-  {
     "name": "Flying Manor",
     "location_size": 8,
     "location_border_thickness": 2,
@@ -142,5 +136,47 @@
     "location_size": 8,
     "location_border_thickness": 2,
     "img": "images/maps/renoirs_draft.png"
+  },
+  {
+    "name": "Camp",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/camp.png"
+  },
+  {
+    "name": "Crushing Cavern",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/crushing_cavern.png"
+  },
+  {
+    "name": "Dark Shores",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/dark_shore.png"
+  },
+  {
+    "name": "Endless Night Sanctuary",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/endless_night.png"
+  },
+  {
+    "name": "Falling Leaves",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/orange_forest.png"
+  },
+  {
+    "name": "Manor",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/manor.png"
+  },
+  {
+    "name": "Sinister Cave",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/maps/sinister_cave.png"
   }
 ]

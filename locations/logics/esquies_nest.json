@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Esquie's Nest",
+        "name": "Entrance - Esquie's Nest",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 920, "y": 911, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Take shortcut out from Esquie's room. Wheeeeee",

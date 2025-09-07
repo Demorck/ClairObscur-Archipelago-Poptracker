@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Sirene",
+        "name": "Entrance - Sirene",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 1431, "y": 1938, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Dancing Classes - Down verical zipline in first room",

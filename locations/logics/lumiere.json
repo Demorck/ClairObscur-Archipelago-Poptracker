@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Lumiere",
+        "name": "Entrance - Lumiere",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 1079, "y": 1829, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Opera House - On building railing in Paint Spike",

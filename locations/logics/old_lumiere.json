@@ -1,8 +1,10 @@
 [
     {
-        "name": "Logic - Old Lumiere",
+        "name": "Entrance - Old Lumiere",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 974, "y": 877, "shape": "trapezoid", "size": 32},
+                          {"map": "Middle Continent", "x": 1013, "y": 559, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Left Street - In barrels after grapple",

@@ -51,11 +51,6 @@
             {
                 "sections": [{ "ref": "Entrance - Esquie's Nest/Flag - François" }],
                 "map_locations": [{ "map": "Esquie's Nest", "x": 730, "y": 455, "size": 16, "shape": "diamond"  }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Esquie's Nest/Exit to continent" }],
-                "map_locations": [{ "map": "Esquie's Nest", "x": 370, "y": 1270, "shape": "trapezoid", "size": 33  }]
             }
         ]
     }

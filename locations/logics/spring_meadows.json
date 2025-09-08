@@ -67,7 +67,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - Between paint spikes",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "Abandoned Expeditioner Camp - Under the bridge",
@@ -75,7 +75,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff near upper paint spike",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "The Indigo Tree - On a branch",
@@ -107,7 +107,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - Near lower paint spike",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
 
       
@@ -139,13 +139,8 @@
       {
         "name": "Flag - The Indigo Tree",
         "access_rules": []
-      },
-
-      {
-        "name": "Exit to continent",
-        "access_rules": []
       }
     ],
-    "access_rules": ["SpringMeadows"]
+    "access_rules": ["$firstcont_south"]
   }
 ]

@@ -248,6 +248,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["TheMonolith"]
+        "access_rules": ["$north_sea,TheMonolith"]
     }
 ]

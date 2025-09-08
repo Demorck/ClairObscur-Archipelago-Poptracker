@@ -18,7 +18,8 @@
                   "PaintBreak",
                   "esquie",
                   "LostGestral",
-                  "Picto"
+                  "Picto",
+                  "PaintedPower"
                 ],
                 [
                   "HealingTint",
@@ -49,31 +50,35 @@
 						"h_alignment": "left",
 						"rows": [
                 [
-                  "SpringMeadows",
                   "FlyingWaters",
                   "AncientSanctuary",
                   "GestralVillage",
-                  "EsquiesNest"
+                  "EsquiesNest",
+                  "StoneWaveCliffs",
+                  "YellowHarvest"
                 ],
                 [
-                  "StoneWaveCliffs",
+                  
                   "ForgottenBattlefield",
                   "MonocosStation",
                   "OldLumiere",
-                  "Visages"
-                ],
-                [
+                  "Visages",
                   "Sirene",
-                  "TheMonolith",
-                  "Lumiere",
-                  "YellowHarvest",
-                  "CrimsonForest"
+                  "TheMonolith"
                 ],
                 [
-                  "FlyingManor",
-                  "FrozenHearts",
+                  "CrimsonForest",
                   "TheReacher",
+                  "FrozenHearts",
+                  "Lumiere",
+                  "FlyingManor",
                   "RenoirsDrafts"
+                ],
+                [
+                  
+                  
+                  
+                  
                 ]
             ]
           }

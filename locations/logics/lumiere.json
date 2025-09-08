@@ -184,16 +184,16 @@
 
 
             {
-                "name": "Lumiere: The Curator",
-                "access_rules":  []
+                "name": "The Curator",
+                "access_rules":  ["[paintedpower]"]
             },
             {
-                "name": "Lumiere: Chromatic Echassier",
-                "access_rules":  []
+                "name": "Chromatic Echassier",
+                "access_rules":  ["[paintedpower]"]
             },
             {
-                "name": "Lumiere: Creation",
-                "access_rules":  []
+                "name": "Creation",
+                "access_rules":  ["[paintedpower]"]
             },
 
             {
@@ -220,16 +220,11 @@
                 "name": "Flag - Crooked Tower Walkway",
                 "access_rules": []
             },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
-            },
             {
                 "name": "Merchant Cribappa",
                 "access_rules": []
             }
         ],
-        "access_rules": ["Lumiere"]
+        "access_rules": ["$sky_no_pp,Lumiere"]
     }
 ]

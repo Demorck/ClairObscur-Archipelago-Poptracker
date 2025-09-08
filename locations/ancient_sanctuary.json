@@ -99,15 +99,6 @@
             {
                 "sections": [{ "ref": "Entrance - Ancient Sanctuary/Flag - Giant Bell Alley" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 180, "y": 292, "shape": "diamond" }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Exit to continent 1" }],
-                "map_locations": [{ "map": "Ancient Sanctuary", "x": 625, "y": 465, "shape": "trapezoid", "size": 33 }]
-            },
-            {
-                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Exit to continent 2" }],
-                "map_locations": [{ "map": "Ancient Sanctuary", "x": 205, "y": 30, "shape": "trapezoid", "size": 33 }]
             }
         ]
     }

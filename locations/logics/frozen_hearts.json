@@ -128,19 +128,19 @@
 
             {
                 "name": "Gargant",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Chromatic Veilleur",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Mime",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Petank",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
 
             {
@@ -158,17 +158,8 @@
             {
                 "name": "Flag - Icebound Terminal",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
-            },
-            {
-                "name": "Exit",
-                "access_rules": []
             }
         ],
-        "access_rules": ["FrozenHearts"]
+        "access_rules": ["$secondcont_ne,FrozenHearts"]
     }
 ]

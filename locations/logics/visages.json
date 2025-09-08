@@ -112,12 +112,8 @@
             {
                 "name": "Flag - Peak",
                 "access_rules": []
-            },
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
             }
         ],
-        "access_rules": ["Visages"]
+        "access_rules": ["$north_sea,Visages"]
     }
 ]

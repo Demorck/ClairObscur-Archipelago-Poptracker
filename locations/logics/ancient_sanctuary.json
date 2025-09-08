@@ -103,18 +103,8 @@
             {
                 "name": "Flag - Giant Bell Alley",
                 "access_rules": []
-            },
-
-            
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to continent 2",
-                "access_rules": []
             }
         ],
-        "access_rules": ["AncientSanctuary"]
+        "access_rules": ["$firstcont_north,AncientSanctuary"]
     }
 ]

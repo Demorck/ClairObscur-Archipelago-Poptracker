@@ -223,17 +223,17 @@
 
 
             {
-                "sections": [{ "ref": "Entrance - Lumiere/Lumiere: The Curator" }],
+                "sections": [{ "ref": "Entrance - Lumiere/The Curator" }],
                 "map_locations": [{ "map": "Lumiere", "x": 18, "y": 421, "size": 16}]
 
             },
             {
-                "sections": [{ "ref": "Entrance - Lumiere/Lumiere: Chromatic Echassier" }],
+                "sections": [{ "ref": "Entrance - Lumiere/Chromatic Echassier" }],
                 "map_locations": [{ "map": "Lumiere", "x": 769, "y": 253, "size": 16}]
 
             },
             {
-                "sections": [{ "ref": "Entrance - Lumiere/Lumiere: Creation" }],
+                "sections": [{ "ref": "Entrance - Lumiere/Creation" }],
                 "map_locations": [{ "map": "Lumiere", "x": 179, "y": 423, "size": 16}]
 
             },
@@ -261,12 +261,6 @@
             {
                 "sections": [{ "ref": "Entrance - Lumiere/Flag - Crooked Tower Walkway"}],
                 "map_locations": [{ "map": "Lumiere", "x": 137, "y": 421, "shape": "diamond", "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Lumiere/Entrance"}],
-                "map_locations": [{ "map": "Lumiere", "x": 1530, "y": 423, "shape": "trapezoid", "size": 33}]
-
             },
             {
                 "sections": [{ "ref": "Entrance - Lumiere/Merchant Cribappa"}],

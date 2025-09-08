@@ -52,12 +52,6 @@
             {
                 "sections": [{ "ref": "Entrance - Gestral Village/Flag - Gestral Arena" }],
                 "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 77, "shape": "diamond"  }]
-            },
-
-            
-            {
-                "sections": [{ "ref": "Entrance - Gestral Village/Exit to continent" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 250, "y": 420, "shape": "trapezoid", "size": 33  }]
             }
         ]
     }

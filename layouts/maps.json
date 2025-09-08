@@ -38,252 +38,200 @@
                 }
             },
             {
-                "title": "Major Stages",
+                "title": "Spring Meadows",
                 "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Spring Meadows",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Spring Meadows"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Flying Waters",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Flying Waters"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Ancient Sanctuary",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Ancient Sanctuary"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Gestral Village",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Gestral Village"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Esquie's Nest",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Esquie's Nest"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Stone Wave Cliffs",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Stone Wave Cliffs"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Forgotten Battlefield",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Forgotten Battlefield"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Monoco's Station",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Monoco's Station"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Old Lumiere",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Old Lumiere"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Visages",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Visages"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Sirene",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Sirene"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "The Monolith",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "The Monolith"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Lumiere",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Lumiere"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Yellow Harvest",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Yellow Harvest"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Crimson Forest",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Crimson Forest"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Flying Manor",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Flying Manor"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Frozen Hearts",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Frozen Hearts"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "The Reacher",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Reacher"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Renoir's Draft",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Renoir's Draft"
-                                ]
-                            }
-                        }
+                    "type": "map",
+                    "maps": [
+                        "Spring Meadows"
                     ]
                 }
             },
             {
-                "title": "Minor Stages",
+                "title": "Flying Waters",
                 "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Camp",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Camp"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Crushing Cavern",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Crushing Cavern"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Dark Shores",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Dark Shores"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Endless Night Sanctuary",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Endless Night Sanctuary"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Falling Leaves",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Falling Leaves"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Manor",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Manor"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Sinister Cave",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Sinister Cave"
-                                ]
-                            }
-                        }
+                    "type": "map",
+                    "maps": [
+                        "Flying Waters"
+                    ]
+                }
+            },
+            {
+                "title": "Ancient Sanctuary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ancient Sanctuary"
+                    ]
+                }
+            },
+            {
+                "title": "Gestral Village",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gestral Village"
+                    ]
+                }
+            },
+            {
+                "title": "Esquie's Nest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Esquie's Nest"
+                    ]
+                }
+            },
+            {
+                "title": "Stone Wave Cliffs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Stone Wave Cliffs"
+                    ]
+                }
+            },
+            {
+                "title": "Forgotten Battlefield",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forgotten Battlefield"
+                    ]
+                }
+            },
+            {
+                "title": "Monoco's Station",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Monoco's Station"
+                    ]
+                }
+            },
+            {
+                "title": "Old Lumiere",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Old Lumiere"
+                    ]
+                }
+            },
+            {
+                "title": "Visages",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Visages"
+                    ]
+                }
+            },
+            {
+                "title": "Sirene",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sirene"
+                    ]
+                }
+            },
+            {
+                "title": "The Monolith",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Monolith"
+                    ]
+                }
+            },
+            {
+                "title": "Lumiere",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Lumiere"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Harvest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Harvest"
+                    ]
+                }
+            },
+            {
+                "title": "Crimson Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crimson Forest"
+                    ]
+                }
+            },
+            {
+                "title": "Flying Manor",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Flying Manor"
+                    ]
+                }
+            },
+            {
+                "title": "Frozen Hearts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Frozen Hearts"
+                    ]
+                }
+            },
+            {
+                "title": "The Reacher",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Reacher"
+                    ]
+                }
+            },
+            {
+                "title": "Renoir's Draft",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Renoir's Draft"
+                    ]
+                }
+            },
+            {
+                "title": "Dark Shores",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dark Shores"
+                    ]
+                }
+            },
+            {
+                "title": "Endless Night Sanctuary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Endless Night Sanctuary"
+                    ]
+                }
+            },
+            {
+                "title": "Falling Leaves",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Falling Leaves"
                     ]
                 }
             }

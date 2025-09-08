@@ -84,7 +84,7 @@
             },
             {
                 "name": "Manor Gardens - Paint Cage",
-                "access_rules": ["$can_aim"]
+                "access_rules": []
             },
 
             {
@@ -115,17 +115,8 @@
             {
                 "name": "Flag - Manor Gardens",
                 "access_rules": []
-            },
-
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to continent 2",
-                "access_rules": []
             }
         ],
-        "access_rules": ["OldLumiere"]
+        "access_rules": ["$secondcont_nw,OldLumiere"]
     }
 ]

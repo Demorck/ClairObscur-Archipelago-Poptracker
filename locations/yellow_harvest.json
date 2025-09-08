@@ -61,17 +61,7 @@
                 "sections": [{ "ref": "Entrance - Yellow Harvest/Flag - Harvester's Hollow" }],
                 "map_locations": [{ "map": "Yellow Harvest", "x": 394, "y": 740, "shape": "diamond", "size": 16}]
             },
-
-            {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Exit to Continent" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 330, "y": 17, "shape": "trapezoid", "size": 33}]
-
-            },
-            {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Entrance from Continent" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 734, "y": 1324, "shape": "trapezoid", "size": 33}]
-
-            },
+            
             {
                 "sections": [{ "ref": "Entrance - Yellow Harvest/Merchant Pinabby" }],
                 "map_locations": [{ "map": "Yellow Harvest", "x": 550, "y": 824, "shape": "diamond", "size": 16}]

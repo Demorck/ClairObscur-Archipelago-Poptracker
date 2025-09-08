@@ -135,12 +135,6 @@
             {
                 "sections": [{ "ref": "Entrance - Spring Meadows/Flag - The Indigo Tree" }],
                 "map_locations": [{ "map": "Spring Meadows", "x": 890, "y": 320, "shape": "diamond" }]
-            },
-
-
-            {
-                "sections": [{ "ref": "Entrance - Spring Meadows/Exit to continent" }],
-                "map_locations": [{ "map": "Spring Meadows", "x": 940, "y": 250, "shape": "trapezoid", "size": 33 }]
             }
         ]
     }

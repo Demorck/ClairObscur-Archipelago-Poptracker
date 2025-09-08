@@ -3,22 +3,57 @@
         "name": "Entrance - Continent",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [
+            { "map": "Spring Meadows", "x": 940, "y": 250, "shape": "trapezoid", "size": 33 },
+            { "map": "Flying Waters", "x": 660, "y": 630, "shape": "trapezoid", "size": 33 },
+            { "map": "Flying Waters", "x": 250, "y": 245, "shape": "trapezoid", "size": 33 },
+            { "map": "Ancient Sanctuary", "x": 625, "y": 465, "shape": "trapezoid", "size": 33 },
+            { "map": "Ancient Sanctuary", "x": 205, "y": 30, "shape": "trapezoid", "size": 33 },
+            { "map": "Gestral Village", "x": 250, "y": 420, "shape": "trapezoid", "size": 33 },
+            { "map": "Esquie's Nest", "x": 370, "y": 1270, "shape": "trapezoid", "size": 33 },
+            { "map": "Stone Wave Cliffs", "x": 66, "y": 982, "shape": "trapezoid", "size": 32 },
+            { "map": "Stone Wave Cliffs", "x": 994, "y": 8, "shape": "trapezoid", "size": 32 },
+            { "map": "Forgotten Battlefield", "x": 1435, "y": 582, "shape": "trapezoid", "size": 33 },
+            { "map": "Forgotten Battlefield", "x": 68, "y": 141, "shape": "trapezoid", "size": 33 },
+            { "map": "Monoco's Station", "x": 155, "y": 397, "shape": "trapezoid", "size": 16 },
+            { "map": "Monoco's Station", "x": 17, "y": 70, "shape": "trapezoid", "size": 16 },
+            { "map": "Monoco's Station", "x": 476, "y": 27, "shape": "trapezoid", "size": 16 },
+            { "map": "Old Lumiere", "x": 440, "y": 787, "shape": "trapezoid", "size": 33 },
+            { "map": "Old Lumiere", "x": 213, "y": 10, "shape": "trapezoid", "size": 33 },
+            { "map": "Visages", "x": 725, "y": 865 , "shape": "trapezoid", "size": 33 },
+            { "map": "Sirene", "x": 671, "y": 1130, "shape": "trapezoid", "size": 33 },
+            { "map": "The Monolith", "x": 1097, "y": 51, "shape": "trapezoid", "size": 32 },
+            { "map": "Lumiere", "x": 1530, "y": 423, "shape": "trapezoid", "size": 33 },
+            { "map": "Yellow Harvest", "x": 734, "y": 1324, "shape": "trapezoid", "size": 33 },
+            { "map": "Yellow Harvest", "x": 330, "y": 17, "shape": "trapezoid", "size": 33 },
+            { "map": "Crimson Forest", "x": 469, "y": 250, "shape": "trapezoid", "size": 16 },
+            { "map": "Flying Manor", "x": 481, "y": 864, "shape": "trapezoid", "size": 33 },
+            { "map": "Frozen Hearts", "x": 1904, "y": 166, "shape": "trapezoid", "size": 44 },
+            { "map": "Frozen Hearts", "x": 28, "y": 516, "shape": "trapezoid", "size": 44 },
+            { "map": "Reacher", "x": 1017, "y": 756, "shape": "trapezoid", "size": 44 },
+            { "map": "Reacher", "x": 599, "y": 1274, "shape": "trapezoid", "size": 44 },
+            { "map": "Renoir's Draft", "x": 546, "y": 1014, "shape": "trapezoid", "size": 33 },
+            { "map": "Dark Shores", "x": 115, "y": 259, "shape": "trapezoid", "size": 20 },
+            { "map": "Endless Night Sanctuary", "x": 94, "y": 164, "shape": "trapezoid", "size": 22 },
+            { "map": "Endless Night Sanctuary", "x": 117, "y": 758, "shape": "trapezoid", "size": 22 },
+            { "map": "Falling Leaves", "x": 70, "y": 770, "shape": "trapezoid", "size": 22 }
+        ],
         "sections": [
             {
                 "name": "First Continent - Outside Ancient Gestral City",
-                "access_rules": []
+                "access_rules": ["esquie"]
             },
             {
                 "name": "First Continent - Outside Abbest Cave",
-                "access_rules": []
+                "access_rules": ["$firstcont_south"]
             },
             {
                 "name": "First Continent - Northeast of Dark Shores beach",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "First Continent - Beach outside The Meadows",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "First Continent - Just outside Spring Meadows",
@@ -30,399 +65,399 @@
             },
             {
                 "name": "First Continent - Outside Twilight Quarry 1",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "First Continent - Outside Twilight Quarry 2",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "Unknown 1",
-                "access_rules": []
+                "access_rules": ["false"]
             },
             {
                 "name": "First Continent - Paint spike west of Flying Waters exit",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "First Continent - Ruins between Gestral Village and Stone Wave Cliffs",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "First Continent - Past bourgeon outside Stone Wave Cliffs",
-                "access_rules": []
+                "access_rules": ["$firstcont_north_and_esquie"]
             },
             {
                 "name": "First Continent - Past blue spikes leading to Stone Wave Cliffs",
-                "access_rules": []
+                "access_rules": ["$firstcont_north_and_esquie"]
             },
             {
                 "name": "First Continent - Arc de Triomphe on the north beach",
-                "access_rules": []
+                "access_rules": ["$firstcont_north_and_esquie"]
             },
             {
                 "name": "First Continent - Near Chromatic Bruler",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "First Continent - Paint spike outside Gestral Village rock wall",
-                "access_rules": []
+                "access_rules": ["paintbreak,$firstcont_north"]
             },
             {
                 "name": "First Continent - Outside first Gestral Beach",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "First Continent - Just outside The Small Bourgeon",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "First Continent - Paint spike outside Yellow Harvest",
-                "access_rules": []
+                "access_rules": ["paintbreak,$firstcont_north_and_esquie"]
             },
             {
                 "name": "First Continent - Outside Gestral Village",
-                "access_rules": []
+                "access_rules": ["$firstcont_north,AncientSanctuary"]
             },
             {
                 "name": "On the island with White Tree",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Island southwest of White Tree island",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Beach at the base of Endless Tower",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Bottom of the cliff next to Endless Tower",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "First Continent Sea - Next to merchant on island near Sprong",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "First Continent Sea - On the beach near Sprong",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "First Continent Sea - Paint spike outside Stone Wave Cliffs Cave",
-                "access_rules": []
+                "access_rules": ["paintbreak,$south_sea"]
             },
             {
                 "name": "First Continent - Near Dark Shores",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Sky - Cliff near Endless Tower",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Second Continent - Outside Boat Graveyard",
-                "access_rules": []
+                "access_rules": ["$secondcont_south","coral"]
             },
             {
                 "name": "Second Continent - Ruined wall near Coastal Cave",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Bourgeon plateau southeast of Forgotten Battlefield",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Second Continent - On the hill north of Stone Quarry",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "West of Forgotten Battlefield exit",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Second Continent - Paint spike far north of Forgotten Battlefield exit",
-                "access_rules": []
+                "access_rules": ["$secondcont_south,paintbreak"]
             },
             {
                 "name": "Second Continent - North of the ruined bridge",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Second Continent - Old camp northwest of Forgotten Battlefield exit",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Second Continent - Plateau west of Forgotten Battlefield exit",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Second Continent - Outside The Carousel",
-                "access_rules": []
+                "access_rules": ["$secondcont_ne"]
             },
             {
                 "name": "Second Continent - Southwest of The Carousel",
-                "access_rules": []
+                "access_rules": ["$secondcont_ne"]
             },
             {
                 "name": "Second Continent - Paint spike on western plateau",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,paintbreak"]
             },
             {
                 "name": "Second Continent - Crashed ships next to Forgotten Battlefield",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Second Continent - Ruins far south of Old Lumiere entrance",
-                "access_rules": []
+                "access_rules": ["$secondcont_nw"]
             },
             {
                 "name": "Second Continent - Outside Old Lumiere",
-                "access_rules": []
+                "access_rules": ["$secondcont_nw"]
             },
             {
                 "name": "Second Continent - Ruins near bent lighthouse",
-                "access_rules": []
+                "access_rules": ["$secondcont_nw"]
             },
             {
                 "name": "Second Continent - Behind western bourgeon",
-                "access_rules": []
+                "access_rules": ["$secondcont_nw"]
             },
             {
                 "name": "Second Continent - Southeast of the very tall Gestral Beach",
-                "access_rules": []
+                "access_rules": ["$secondcont_nw"]
             },
             {
                 "name": "Second Continent - East each along western river",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "West beach along western river",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "First Continent Sea - Island southeast of Forgotten Battlefield",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "North Sea - Paint spike on beach east of Sirene island",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "North Sea - Northeast plateau",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "East underwater plateau with Chromatic Goblu",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "North Sea - Small island south of Sirene",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Second Continent Sea - Beach along east river",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Second Continent - Beach east of Old Lumiere north exit",
-                "access_rules": []
+                "access_rules": ["$north_sea","oldlumiere,$secondcont_nw"]
             },
             {
                 "name": "North Sea - West beach of southernmost red island",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "North Sea - Paint spike on yellow beach",
-                "access_rules": []
+                "access_rules": ["$north_sea,paintbreak"]
             },
             {
                 "name": "Yellow plateau northeast of Frozen Hearts",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Eastern red forest near Endless Night Sanctuary",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Second Continent - Snow plateau",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "First Continent - Plateau with paint spikes",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,paintbreak"]
             },
             {
                 "name": "North Sea - Beach on island northeast of Sirene",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Southeast valley - In the northern field",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Southeast valley - Near the ferris wheel",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Southeast valley - Paint spike",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,paintbreak"]
             },
             {
                 "name": "Second Continent - Outside Sacred River",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Second Continent - On broken bridge near Chromatic Demineur",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Dive - East of Lumiere",
-                "access_rules": []
+                "access_rules": ["$dive,$sky_no_pp"]
             },
             {
                 "name": "Dive - Near The Meadows",
-                "access_rules": []
+                "access_rules": ["$dive"]
             },
             {
                 "name": "Dive - Near Gestral Beach Tower",
-                "access_rules": []
+                "access_rules": ["$dive,$sky_no_pp"]
             },
             {
                 "name": "Dive - Under Serpenphare",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - NE of White Sands",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - Below The Chosen Path",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - N of Sirene",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - Near SE Manor Door",
-                "access_rules": []
+                "access_rules": ["$dive,$sky_no_pp"]
             },
             {
                 "name": "Dive - Below Endless Tower",
-                "access_rules": []
+                "access_rules": ["$dive"]
             },
             {
                 "name": "Dive - Below Floating Sanctuary",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - S of Sinister Cave",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Dive - Near The Crows",
-                "access_rules": []
+                "access_rules": ["$dive,$north_sea"]
             },
             {
                 "name": "Chromatic Aberration",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Chromatic Benisseur",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Chromatic Bruler",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "Chromatic Demineur",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Chromatic Goblu",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Chromatic Moissoneuse",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Chromatic Petank",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Chromatic Jar",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Chromatic Reaper Cultist",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Chromatic Portier",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Mime",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Frost Eveque",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Thunder Eveque",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Grosse Tete",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Serpenphare",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp,[paintedpower]"]
             },
             {
                 "name": "Sprong",
-                "access_rules": []
+                "access_rules": ["$south_sea,[paintedpower]"]
             },
             {
                 "name": "Lost Gestral near Esquie's Nest",
-                "access_rules": []
+                "access_rules": ["$firstcont_north"]
             },
             {
                 "name": "Lost Gestral near Stone Wave Cliffs",
-                "access_rules": []
+                "access_rules": ["$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral near The Reacher",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Lost Gestral near Endless Night Sanctuary",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Lost Gestral near White Tree",
-                "access_rules": []
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "Lost Gestral near Monoco's Station",
-                "access_rules": []
+                "access_rules": ["$secondcont_south"]
             },
             {
                 "name": "Lost Gestral on flying island",
-                "access_rules": []
+                "access_rules": ["$sky_no_pp"]
             },
             {
                 "name": "Lost Gestral near Coastal Cave",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             },
             {
                 "name": "Lost Gestral on red island near the mimes",
-                "access_rules": []
+                "access_rules": ["$north_sea"]
             }
         ]
     }

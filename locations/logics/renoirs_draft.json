@@ -56,7 +56,7 @@
 
             {
                 "name": "Simon",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
 
             {
@@ -75,13 +75,8 @@
             {
                 "name": "Flag - The Abyss",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
             }
         ],
-        "access_rules": ["RenoirsDrafts"]
+        "access_rules": ["$north_sea,$dive,RenoirsDrafts"]
     }
 ]

@@ -80,12 +80,6 @@
                 "sections": [{ "ref": "Entrance - Renoir's Draft/Flag - The Abyss" },
                              { "ref": "Entrance - Renoir's Draft/Simon" }],
                 "map_locations": [{ "map": "Renoir's Draft", "x": 452, "y": 198, "shape": "diamond", "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Renoir's Draft/Entrance" }],
-                "map_locations": [{ "map": "Renoir's Draft", "x": 546, "y": 1014, "shape": "trapezoid", "size": 33}]
-
             }
         ]
     }

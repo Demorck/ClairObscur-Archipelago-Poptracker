@@ -143,15 +143,6 @@
             {
                 "sections": [{ "ref": "Entrance - Flying Waters/Flag - Flower Fields" }],
                 "map_locations": [{ "map": "Flying Waters", "x": 90, "y": 435, "shape": "diamond"}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Waters/Exit to wold map (south)" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 660, "y": 630, "shape": "trapezoid", "size": 33}]
-            },
-            {
-                "sections": [{ "ref": "Entrance - Flying Waters/Exit to wold map (north)" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 250, "y": 245, "shape": "trapezoid", "size": 33}]
             }
         ]
     }

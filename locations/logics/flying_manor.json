@@ -152,31 +152,31 @@
 
             {
                 "name": "Clea",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Mime",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Dualliste",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Eveques",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Goblu",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Lampmaster",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Petank",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
 
             {
@@ -198,13 +198,8 @@
             {
                 "name": "Path - Goblu Wing",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
             }
         ],
-        "access_rules": ["FlyingManor"]
+        "access_rules": ["$sky_no_pp,FlyingManor"]
     }
 ]

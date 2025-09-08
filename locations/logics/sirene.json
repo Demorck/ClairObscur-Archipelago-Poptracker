@@ -166,13 +166,8 @@
             {
                 "name": "Flag - Dancing Arena",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
             }
         ],
-        "access_rules": ["Sirene"]
+        "access_rules": ["$north_sea,Sirene"]
     }
 ]

@@ -55,7 +55,7 @@
             },
             {
                 "name": "Lumerian Streets - In Paint Spike",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Entrance - In inlet in first room",
@@ -143,15 +143,6 @@
             },
             {
                 "name": "Flag - Flower Fields",
-                "access_rules": []
-            },
-
-            {
-                "name": "Exit to wold map (south)",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to wold map (north)",
                 "access_rules": []
             }
         ],

@@ -162,17 +162,6 @@
             {
                 "sections": [{ "ref": "Entrance - Reacher/Flag - Alicia" }],
                 "map_locations": [{ "map": "Reacher", "x": 574, "y": 1313, "shape": "diamond", "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance" }],
-                "map_locations": [{ "map": "Reacher", "x": 1017, "y": 756, "shape": "trapezoid", "size": 44}]
-
-            },
-            {
-                "sections": [{ "ref": "Entrance - Reacher/Exit" }],
-                "map_locations": [{ "map": "Reacher", "x": 599, "y": 1274, "shape": "trapezoid", "size": 44}]
-
             }
         ]
     }

@@ -236,12 +236,6 @@
             {
                 "sections": [{ "ref": "Entrance - Flying Manor/Path - Goblu Wing" }],
                 "map_locations": [{ "map": "Flying Manor", "x": 582, "y": 471, "shape": "diamond", "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Manor/Entrance" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 481, "y": 864, "shape": "trapezoid", "size": 33}]
-
             }
         ]
     }

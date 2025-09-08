@@ -25,6 +25,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["MonocosStation"]
+        "access_rules": ["$secondcont_south,MonocosStation",
+                         "$secondcont_ne,MonocosStation",
+                         "$north_sea,MonocosStation"]
     }
 ]

@@ -100,7 +100,7 @@
             },
             {
                 "name": "Fort Ruins - Behind Paint Spike",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Battlefield - Paint Cage",
@@ -144,17 +144,8 @@
             {
                 "name": "Flag - Ancient Bridge",
                 "access_rules": []
-            },
-
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to continent 2",
-                "access_rules": []
             }
         ],
-        "access_rules": ["ForgottenBattlefield"]
+        "access_rules": ["$south_sea,ForgottenBattlefield"]
     }
 ]

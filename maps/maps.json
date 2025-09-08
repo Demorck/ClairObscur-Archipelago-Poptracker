@@ -7,7 +7,7 @@
   },
   {
     "name": "Middle Continent",
-    "location_size": 20,
+    "location_size": 24,
     "location_border_thickness": 2,
     "img": "images/maps/middle_continent.png"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Stone Wave Cliffs",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/stone_wave_cliffs.png"
   },
@@ -67,25 +67,25 @@
   },
   {
     "name": "Old Lumiere",
-    "location_size": 8,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/old_lumiere.png"
   },
   {
     "name": "Visages",
-    "location_size": 8,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/visages.png"
   },
   {
     "name": "Sirene",
-    "location_size": 8,
+    "location_size": 15,
     "location_border_thickness": 2,
     "img": "images/maps/sirene.png"
   },
   {
     "name": "The Monolith",
-    "location_size": 8,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/the_monolith.png"
   },
@@ -121,7 +121,7 @@
   },
   {
     "name": "Frozen Hearts",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/frozen_hearts.png"
   },
@@ -157,7 +157,7 @@
   },
   {
     "name": "Endless Night Sanctuary",
-    "location_size": 8,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/endless_night.png"
   },

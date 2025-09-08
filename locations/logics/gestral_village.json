@@ -54,13 +54,9 @@
             {
                 "name": "Flag - Gestral Arena",
                 "access_rules": []
-            },
-
-            {
-                "name": "Exit to continent",
-                "access_rules": []
             }
         ],
-        "access_rules": ["GestralVillage"]
+        "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
+                         "$sky_no_pp,GestralVillage"]
     }
 ]

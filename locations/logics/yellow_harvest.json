@@ -58,18 +58,10 @@
             },
 
             {
-                "name": "Exit to Continent",
-                "access_rules": []
-            },
-            {
-                "name": "Entrance from Continent",
-                "access_rules": []
-            },
-            {
                 "name": "Merchant Pinabby",
                 "access_rules": []
             }
         ],
-        "access_rules": ["YellowHarvest"]
+        "access_rules": ["$firstcont_north_and_esquie,YellowHarvest"]
     }
 ]

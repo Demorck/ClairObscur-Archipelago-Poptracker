@@ -56,13 +56,8 @@
             {
                 "name": "Flag - François",
                 "access_rules": []
-            }, 
-
-            {
-                "name": "Exit to continent",
-                "access_rules": []
             }
         ],
-        "access_rules": ["EsquiesNest"]
+        "access_rules": ["$firstcont_north,EsquiesNest"]
     }
 ]

@@ -4,176 +4,176 @@
         "children": [
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Meadows - Detour near Eveque" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1442, "y": 384, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1442, "y": 384 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - In front of bastard Mime room zipline" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1460, "y": 1455, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1460, "y": 1455 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Meadows - Paint Cage" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1435, "y": 320, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1435, "y": 320 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Meadows - After Aline memory" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1223, "y": 409, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1223, "y": 409 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Meadows - Near Eveque" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1478, "y": 470, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1478, "y": 470 }]
             },
             {
                 "sections": [
                     { "ref": "Entrance - The Monolith/Tainted Waters - Behind Chromatic Bourgeon" },
                     { "ref": "Entrance - The Monolith/Chromatic Bourgeon" }
                 ],
-                "map_locations": [{ "map": "The Monolith", "x": 1540, "y": 995, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1540, "y": 995 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Waters - Right path in coral reef" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1478, "y": 636, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1478, "y": 636 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Waters - In broken ship frame under barrels" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1422, "y": 808, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1422, "y": 808 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Waters - Near giant anchor" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1475, "y": 788, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1475, "y": 788 }]
             },
             {
                 "sections": [
                     { "ref": "Entrance - The Monolith/Tainted Lumiere - Zipline across fractured ground" },
                     { "ref": "Entrance - The Monolith/Clair Obscur" }
                 ],
-                "map_locations": [{ "map": "The Monolith", "x": 336, "y": 1235, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 336, "y": 1235 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Sanctuary - After Expedition Flag" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1374, "y": 879, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1374, "y": 879 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Sanctuary - In roundabout near giant Sakapatate statue" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1354, "y": 1111, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1354, "y": 1111 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Sanctuary - Paint Cage" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1465, "y": 1060, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1465, "y": 1060 }]
             },
             {
                 "sections": [
                     { "ref": "Entrance - The Monolith/Tainted Sanctuary - Next to giant Sakapatate statue" },
                     { "ref": "Entrance - The Monolith/Ultimate Sakapatate" }
                 ],
-                "map_locations": [{ "map": "The Monolith", "x": 1402, "y": 1073, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1402, "y": 1073 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Sanctuary - Before giant Sakapatate Statue" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1400, "y": 1000, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1400, "y": 1000 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Top of spiral staircase" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1405, "y": 1220, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1405, "y": 1220 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Path to lighthouse" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1420, "y": 1300, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1420, "y": 1300 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Near Petank end platform" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1387, "y": 1440, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1387, "y": 1440 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Behind Lighthouse near Petank" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1306, "y": 1422, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1306, "y": 1422 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Room before exit item 1" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1503, "y": 1490, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1503, "y": 1490 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Room before exit item 2" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1516, "y": 1450, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1516, "y": 1450 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - Next to Expedition Flag" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1617, "y": 1431, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1617, "y": 1431 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - Past Sakapatate corpses" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1655, "y": 1382, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1655, "y": 1382 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - Left path after vertical zipline" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1528, "y": 1377, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1528, "y": 1377 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - Near broken -down cannon" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1516, "y": 1340, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1516, "y": 1340 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - Near exit" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1495, "y": 1367, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1495, "y": 1367 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - Near Young Boy at station" }],
-                "map_locations": [{ "map": "The Monolith", "x": 860, "y": 1800, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 860, "y": 1800 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - On train car hanging off cliff" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1095, "y": 1575, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1095, "y": 1575 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - On cliffside near crane" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1046, "y": 1554, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1046, "y": 1554 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - Near Melosh" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1100, "y": 1650, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1100, "y": 1650 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - Paint Cage" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1250, "y": 1580, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1250, "y": 1580 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Hearts - Left of station entrance" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1010, "y": 1720, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1010, "y": 1720 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Before crossing fractured land" }],
-                "map_locations": [{ "map": "The Monolith", "x": 406, "y": 1207, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 406, "y": 1207 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Next to large fountain" }],
-                "map_locations": [{ "map": "The Monolith", "x": 477, "y": 1350, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 477, "y": 1350 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Deadend near crooked archway" }],
-                "map_locations": [{ "map": "The Monolith", "x": 482, "y": 1100, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 482, "y": 1100 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Side path near next Expedition Flag" }],
-                "map_locations": [{ "map": "The Monolith", "x": 295, "y": 1050, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 295, "y": 1050 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Near harp" }],
-                "map_locations": [{ "map": "The Monolith", "x": 482, "y": 1182, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 482, "y": 1182 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Near dead Grandis" }],
-                "map_locations": [{ "map": "The Monolith", "x": 416, "y": 1000, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 416, "y": 1000 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Cliffs - Behind Petank starting position" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1400, "y": 1525, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1400, "y": 1525 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Next to festival stands" }],
-                "map_locations": [{ "map": "The Monolith", "x": 416, "y": 1096, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 416, "y": 1096 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Tainted Battlefield - After Expedition Flag" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1590, "y": 1380, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1590, "y": 1380 }]
             },
 
             {
@@ -181,65 +181,65 @@
                     { "ref": "Entrance - The Monolith/The Paintress" },
                     { "ref": "Entrance - The Monolith/Chromatic Clair Obscur" }
                 ],
-                "map_locations": [{ "map": "The Monolith", "x": 96, "y": 1963, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 96, "y": 1963 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Mime" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1475, "y": 1474, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1475, "y": 1474 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Eveque" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1440, "y": 492, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1440, "y": 492 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Gargant" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1152, "y": 1639, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1152, "y": 1639 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Renoir" }],
-                "map_locations": [{ "map": "The Monolith", "x": 100, "y": 965, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 100, "y": 965 }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Petank" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1405, "y": 1494, "size": 20 }]
+                "map_locations": [{ "map": "The Monolith", "x": 1405, "y": 1494 }]
             },
 
             
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Entrance" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1083, "y": 152, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1083, "y": 152, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Meadows" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1365, "y": 380, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1365, "y": 380, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Waters" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1476, "y": 730, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1476, "y": 730, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Sanctuary" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1394, "y": 925, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1394, "y": 925, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Cliffs" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1430, "y": 1200, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1430, "y": 1200, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Battlefield" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1617, "y": 1400, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1617, "y": 1400, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Hearts" }],
-                "map_locations": [{ "map": "The Monolith", "x": 1233, "y": 1527, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 1233, "y": 1527, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Tainted Lumiere" }],
-                "map_locations": [{ "map": "The Monolith", "x": 570, "y": 1400, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 570, "y": 1400, "shape": "diamond" }]
             },
             {
                 "sections": [{ "ref": "Entrance - The Monolith/Flag - Peak" }],
-                "map_locations": [{ "map": "The Monolith", "x": 182, "y": 1070, "size": 20, "shape": "diamond" }]
+                "map_locations": [{ "map": "The Monolith", "x": 182, "y": 1070, "shape": "diamond" }]
             }
         ],
         "access_rules": ["TheMonolith"]

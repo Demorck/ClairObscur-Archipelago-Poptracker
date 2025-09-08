@@ -113,16 +113,6 @@
             {
                 "sections": [{ "ref": "Entrance - Old Lumiere/Flag - Manor Gardens" }],
                 "map_locations": [{ "map": "Old Lumiere", "x": 180, "y": 140, "shape": "diamond"  }]
-            },
-
-            
-            {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Exit to continent 1" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 440, "y": 787, "shape": "trapezoid", "size": 33 }]
-            },
-            {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Exit to continent 2" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 213, "y": 10, "shape": "trapezoid", "size": 33 }]
             }
         ]
     }

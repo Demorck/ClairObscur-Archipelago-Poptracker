@@ -53,13 +53,8 @@
             {
                 "name": "Flag - The Three Blades",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
             }
         ],
-        "access_rules": ["CrimsonForest"]
+        "access_rules": ["$sky_no_pp,[paintedpower],CrimsonForest"]
     }
 ]

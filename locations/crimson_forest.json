@@ -51,11 +51,6 @@
             {
                 "sections": [{ "ref": "Entrance - Crimson Forest/Flag - The Three Blades" }],
                 "map_locations": [{ "map": "Crimson Forest", "x": 88, "y": 86, "shape": "diamond"}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Crimson Forest/Entrance" }],
-                "map_locations": [{ "map": "Crimson Forest", "x": 469, "y": 250, "shape": "trapezoid", "size": 16}]
             }
         ]
     }

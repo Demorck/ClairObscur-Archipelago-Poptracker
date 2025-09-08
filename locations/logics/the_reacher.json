@@ -39,7 +39,7 @@
             },
             {
                 "name": "Foggy Area - Veilleur",
-                "access_rules": []
+                "access_rules": ["[PaintedPower]"]
             },
             {
                 "name": "Foggy Bank - Platform above Merchant",
@@ -67,7 +67,7 @@
             },
             {
                 "name": "Entrance - After Paint Spike",
-                "access_rules": []
+                "access_rules": ["PaintBreak"]
             },
             {
                 "name": "Foggy Bank - After triple Orphelin platform",
@@ -79,7 +79,7 @@
             },
             {
                 "name": "Ladder Area - Mime",
-                "access_rules": []
+                "access_rules": ["[PaintedPower]"]
             },
             {
                 "name": "Ladder Area - Nailed Orphelin near Petank platform",
@@ -138,17 +138,8 @@
             {
                 "name": "Flag - Alicia",
                 "access_rules": []
-            },
-
-            {
-                "name": "Entrance",
-                "access_rules": []
-            },
-            {
-                "name": "Exit",
-                "access_rules": []
             }
         ],
-        "access_rules": ["TheReacher"]
+        "access_rules": ["$sky_no_pp,TheReacher"]
     }
 ]

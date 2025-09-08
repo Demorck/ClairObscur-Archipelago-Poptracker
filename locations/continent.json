@@ -1,0 +1,413 @@
+[
+    {
+        "name": "Continent",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside Ancient Gestral City" }],
+                "map_locations": [{ "map": "South Continent", "x": 835, "y": 1136}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside Abbest Cave" }],
+                "map_locations": [{ "map": "South Continent", "x": 696, "y": 1051}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Northeast of Dark Shores beach" }],
+                "map_locations": [{ "map": "South Continent", "x": 787, "y": 1235}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Beach outside The Meadows" }],
+                "map_locations": [{ "map": "South Continent", "x": 1124, "y": 1104}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Just outside Spring Meadows" }],
+                "map_locations": [{ "map": "South Continent", "x": 754, "y": 1134}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Unknown 2" }],
+                "map_locations": [{ "map": "South Continent", "x": 785, "y": 1114}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside Twilight Quarry 1" }],
+                "map_locations": [{ "map": "South Continent", "x": 900, "y": 1000}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside Twilight Quarry 2" }],
+                "map_locations": [{ "map": "South Continent", "x": 875, "y": 1042}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Unknown 1" }],
+                "map_locations": [{ "map": "South Continent", "x": 214, "y": 342}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Paint spike west of Flying Waters exit" }],
+                "map_locations": [{ "map": "South Continent", "x": 741, "y": 989}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Ruins between Gestral Village and Stone Wave Cliffs" }],
+                "map_locations": [{ "map": "South Continent", "x": 851, "y": 858}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Past bourgeon outside Stone Wave Cliffs" }],
+                "map_locations": [{ "map": "South Continent", "x": 946, "y": 687}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Past blue spikes leading to Stone Wave Cliffs" }],
+                "map_locations": [{ "map": "South Continent", "x": 845, "y": 786}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Arc de Triomphe on the north beach" }],
+                "map_locations": [{ "map": "South Continent", "x": 810, "y": 763}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Paint spike outside Gestral Village rock wall" }],
+                "map_locations": [{ "map": "South Continent", "x": 794, "y": 808}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside first Gestral Beach" }],
+                "map_locations": [{ "map": "South Continent", "x": 576, "y": 833}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Just outside The Small Bourgeon" }],
+                "map_locations": [{ "map": "South Continent", "x": 682, "y": 950}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Paint spike outside Yellow Harvest" }],
+                "map_locations": [{ "map": "South Continent", "x": 599, "y": 800}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Outside Gestral Village" }],
+                "map_locations": [{ "map": "South Continent", "x": 780, "y": 863}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/On the island with White Tree" }],
+                "map_locations": [{ "map": "South Continent", "x": 342, "y": 764}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Beach at the base of Endless Tower" }],
+                "map_locations": [{ "map": "South Continent", "x": 359, "y": 491}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Bottom of the cliff next to Endless Tower" }],
+                "map_locations": [{ "map": "South Continent", "x": 486, "y": 505}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent Sea - Next to merchant on island near Sprong" }],
+                "map_locations": [{ "map": "South Continent", "x": 540, "y": 291}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent Sea - On the beach near Sprong" }],
+                "map_locations": [{ "map": "South Continent", "x": 528, "y": 144}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent Sea - Paint spike outside Stone Wave Cliffs Cave" }],
+                "map_locations": [{ "map": "South Continent", "x": 1299, "y": 738}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Near Dark Shores" }],
+                "map_locations": [{ "map": "South Continent", "x": 586, "y": 1473}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Sky - Cliff near Endless Tower" }],
+                "map_locations": [{ "map": "South Continent", "x": 387, "y": 479}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Outside Boat Graveyard" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1782, "y": 1805}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Ruined wall near Coastal Cave" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1982, "y": 1522}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Bourgeon plateau southeast of Forgotten Battlefield" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1607, "y": 2037}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - On the hill north of Stone Quarry" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1618, "y": 1449}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/West of Forgotten Battlefield exit" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1397, "y": 1607}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Paint spike far north of Forgotten Battlefield exit" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1476, "y": 1274}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - North of the ruined bridge" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1496, "y": 1374}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Old camp northwest of Forgotten Battlefield exit" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1396, "y": 1498}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Plateau west of Forgotten Battlefield exit" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1328, "y": 1664}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Outside The Carousel" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1498, "y": 966}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Southwest of The Carousel" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1389, "y": 1088}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Paint spike on western plateau" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 559, "y": 956}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Crashed ships next to Forgotten Battlefield" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1382, "y": 1894}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Ruins far south of Old Lumiere entrance" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 927, "y": 1097}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Outside Old Lumiere" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 921, "y": 942}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Ruins near bent lighthouse" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 760, "y": 997}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Behind western bourgeon" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 624, "y": 1111}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Southeast of the very tall Gestral Beach" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1025, "y": 1421}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - East each along western river" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 564, "y": 1219}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/West beach along western river" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 213, "y": 1190}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent Sea - Island southeast of Forgotten Battlefield" }],
+                "map_locations": [{ "map": "South Continent", "x": 1223, "y": 110}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/North Sea - Paint spike on beach east of Sirene island" }],
+                "map_locations": [{ "map": "North Continent", "x": 2629, "y": 2149}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/North Sea - Northeast plateau" }],
+                "map_locations": [{ "map": "North Continent", "x": 2549, "y": 1501}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/North Sea - Small island south of Sirene" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1762, "y": 263}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent Sea - Beach along east river" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1858, "y": 868}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Beach east of Old Lumiere north exit" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1307, "y": 558}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/North Sea - Paint spike on yellow beach" }],
+                "map_locations": [{ "map": "North Continent", "x": 258, "y": 1666}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Yellow plateau northeast of Frozen Hearts" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1969, "y": 731}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Eastern red forest near Endless Night Sanctuary" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 3069, "y": 463}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Snow plateau" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1514, "y": 1220}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/First Continent - Plateau with paint spikes" }],
+                "map_locations": [{ "map": "South Continent", "x": 623, "y": 1108}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/North Sea - Beach on island northeast of Sirene" }],
+                "map_locations": [{ "map": "North Continent", "x": 2071, "y": 1371}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Southeast valley - In the northern field" }],
+                "map_locations": [{ "map": "South Continent", "x": 1848, "y": 276}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Southeast valley - Near the ferris wheel" }],
+                "map_locations": [{ "map": "South Continent", "x": 1720, "y": 1314}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Southeast valley - Paint spike" }],
+                "map_locations": [{ "map": "South Continent", "x": 1824, "y": 820}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Second Continent - Outside Sacred River" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1319, "y": 920}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - East of Lumiere" }],
+                "map_locations": [{ "map": "South Continent", "x": 1608, "y": 1717}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Near The Meadows" }],
+                "map_locations": [{ "map": "South Continent", "x": 1245, "y": 1286}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Near Gestral Beach Tower" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2546, "y": 693}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Under Serpenphare" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2114, "y": 1796}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - NE of White Sands" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2806, "y": 1401}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Below The Chosen Path" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1521, "y": 807}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - N of Sirene" }],
+                "map_locations": [{ "map": "North Continent", "x": 1655, "y": 1575}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Near SE Manor Door" }],
+                "map_locations": [{ "map": "South Continent", "x": 1910, "y": 1150}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Below Endless Tower" }],
+                "map_locations": [{ "map": "South Continent", "x": 236, "y": 548}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Below Floating Sanctuary" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 392, "y": 1363}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - S of Sinister Cave" }],
+                "map_locations": [{ "map": "North Continent", "x": 3166, "y": 2323}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Dive - Near The Crows" }],
+                "map_locations": [{ "map": "North Continent", "x": 330, "y": 2263}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Aberration" }],
+                "map_locations": [{ "map": "South Continent", "x": 413, "y": 1245}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Benisseur" }],
+                "map_locations": [{ "map": "South Continent", "x": 2000, "y": 1274}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Bruler" },
+                             { "ref": "Entrance - Continent/First Continent - Near Chromatic Bruler" }],
+                "map_locations": [{ "map": "South Continent", "x": 708, "y": 800}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Demineur" },
+                             { "ref": "Entrance - Continent/Second Continent - On broken bridge near Chromatic Demineur" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1517, "y": 1488}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Goblu" },
+                             { "ref": "Entrance - Continent/East underwater plateau with Chromatic Goblu" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2229, "y": 944}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Moissoneuse" },
+                             { "ref": "Entrance - Continent/North Sea - West beach of southernmost red island" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 372, "y": 312}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Petank" }],
+                "map_locations": [{ "map": "South Continent", "x": 1787, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Jar" },
+                             { "ref": "Entrance - Continent/Island southwest of White Tree island" }],
+                "map_locations": [{ "map": "South Continent", "x": 171, "y": 853}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Reaper Cultist" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2412, "y": 1401}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Chromatic Portier" }],
+                "map_locations": [{ "map": "South Continent", "x": 1618, "y": 1307}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Mime" },
+                             { "ref": "Entrance - Continent/Lost Gestral on red island near the mimes" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 639, "y": 218}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Frost Eveque" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1653, "y": 1409}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Thunder Eveque" }],
+                "map_locations": [{ "map": "South Continent", "x": 1475, "y": 644}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Grosse Tete" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1935, "y": 1477}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Serpenphare" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2326, "y": 1633}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Sprong" }],
+                "map_locations": [{ "map": "South Continent", "x": 406, "y": 62},
+                                  { "map": "Middle Continent", "x": 991, "y": 2145}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near Esquie's Nest" }],
+                "map_locations": [{ "map": "South Continent", "x": 873, "y": 915}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near Stone Wave Cliffs" }],
+                "map_locations": [{ "map": "South Continent", "x": 986, "y": 713}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near Endless Night Sanctuary" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 3052, "y": 692}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near White Tree" }],
+                "map_locations": [{ "map": "South Continent", "x": 277, "y": 695}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near Monoco's Station" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1453, "y": 1362}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral on flying island" }],
+                "map_locations": [{ "map": "South Continent", "x": 174, "y": 488}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near Coastal Cave" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1933, "y": 1276}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Continent/Lost Gestral near The Reacher" }],
+                "map_locations": [{ "map": "North Continent", "x": 119, "y": 1886}]
+            }
+        ]
+    }
+]
+

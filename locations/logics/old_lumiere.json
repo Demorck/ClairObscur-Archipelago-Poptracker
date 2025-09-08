@@ -1,8 +1,10 @@
 [
     {
-        "name": "Logic - Old Lumiere",
+        "name": "Entrance - Old Lumiere",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 974, "y": 877, "shape": "trapezoid", "size": 32},
+                          {"map": "Middle Continent", "x": 1013, "y": 559, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Left Street - In barrels after grapple",
@@ -82,7 +84,7 @@
             },
             {
                 "name": "Manor Gardens - Paint Cage",
-                "access_rules": ["$can_aim"]
+                "access_rules": []
             },
 
             {
@@ -113,17 +115,8 @@
             {
                 "name": "Flag - Manor Gardens",
                 "access_rules": []
-            },
-
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to continent 2",
-                "access_rules": []
             }
         ],
-        "access_rules": ["OldLumiere"]
+        "access_rules": ["$secondcont_nw,OldLumiere"]
     }
 ]

@@ -3,164 +3,160 @@
         "name": "Sirene",
         "children": [
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Down verical zipline in first room" }],
-                "map_locations": [{ "map": "Sirene", "x": 822, "y": 971  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Down verical zipline in first room" }],
+                "map_locations": [{ "map": "Sirene", "x": 822, "y": 971 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Under Paint Spike" }],
-                "map_locations": [{ "map": "Sirene", "x": 732, "y": 943  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Under Paint Spike" }],
+                "map_locations": [{ "map": "Sirene", "x": 732, "y": 943 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Paint Cage" }],
-                "map_locations": [{ "map": "Sirene", "x": 840, "y": 868 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Paint Cage" }],
+                "map_locations": [{ "map": "Sirene", "x": 840, "y": 868, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Crumbling Path - Near Petank" }],
-                "map_locations": [{ "map": "Sirene", "x": 1200, "y": 477  }]
+                "sections": [{ "ref": "Entrance - Sirene/Crumbling Path - Near Petank" }],
+                "map_locations": [{ "map": "Sirene", "x": 1200, "y": 477 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Near Young Boy and Manor Door" }],
-                "map_locations": [{ "map": "Sirene", "x": 743, "y": 34  }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Near Young Boy and Manor Door" }],
+                "map_locations": [{ "map": "Sirene", "x": 743, "y": 34 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - After Young Boy before Grapple" }],
-                "map_locations": [{ "map": "Sirene", "x": 813, "y": 106  }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - After Young Boy before Grapple" }],
+                "map_locations": [{ "map": "Sirene", "x": 813, "y": 106 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - In bowl near Petank start" }],
-                "map_locations": [{ "map": "Sirene", "x": 0, "y": 422  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - In bowl near Petank start" }],
+                "map_locations": [{ "map": "Sirene", "x": 0, "y": 422 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Near large room before Petank" }],
-                "map_locations": [{ "map": "Sirene", "x": 22, "y": 450 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Near large room before Petank" }],
+                "map_locations": [{ "map": "Sirene", "x": 22, "y": 450, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - On foggy platform" }],
-                "map_locations": [{ "map": "Sirene", "x": 1090, "y": 706 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - On foggy platform" }],
+                "map_locations": [{ "map": "Sirene", "x": 1090, "y": 706, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Near brazier and fabric -wrapped pillar" }],
-                "map_locations": [{ "map": "Sirene", "x": 877, "y": 18 }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Near brazier and fabric -wrapped pillar" }],
+                "map_locations": [{ "map": "Sirene", "x": 877, "y": 18, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Before next Expedition Flag on ledge" }],
-                "map_locations": [{ "map": "Sirene", "x": 1005, "y": 80  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Before next Expedition Flag on ledge" }],
+                "map_locations": [{ "map": "Sirene", "x": 1005, "y": 80 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Near mini -boss" }],
-                "map_locations": [{ "map": "Sirene", "x": 1020, "y": 225  }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Near mini -boss" }],
+                "map_locations": [{ "map": "Sirene", "x": 1020, "y": 225 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Upper path near mini -boss" }],
-                "map_locations": [{ "map": "Sirene", "x": 1145, "y": 190  }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Upper path near mini -boss" }],
+                "map_locations": [{ "map": "Sirene", "x": 1145, "y": 190 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Railing overlooking giant Ballet" }],
-                "map_locations": [{ "map": "Sirene", "x": 740, "y": 840  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Railing overlooking giant Ballet" }],
+                "map_locations": [{ "map": "Sirene", "x": 740, "y": 840 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Before elevator" }],
-                "map_locations": [{ "map": "Sirene", "x": 637, "y": 894 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Before elevator" }],
+                "map_locations": [{ "map": "Sirene", "x": 637, "y": 894, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Behind Chromatic enemy" }],
-                "map_locations": [{ "map": "Sirene", "x": 1150, "y": 570  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Behind Chromatic enemy" }],
+                "map_locations": [{ "map": "Sirene", "x": 1150, "y": 570 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Below handholds" }],
-                "map_locations": [{ "map": "Sirene", "x": 1077, "y": 763  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Below handholds" }],
+                "map_locations": [{ "map": "Sirene", "x": 1077, "y": 763 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Paint Cage" }],
-                "map_locations": [{ "map": "Sirene", "x": 1160, "y": 156  }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Paint Cage" }],
+                "map_locations": [{ "map": "Sirene", "x": 1160, "y": 156 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Bottom of winding fabric room" }, { "ref": "Logic - Sirene/Dancing Classes - Middle of winding fabric room" }],
-                "map_locations": [{ "map": "Sirene", "x": 132, "y": 256  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Bottom of winding fabric room" }, { "ref": "Entrance - Sirene/Dancing Classes - Middle of winding fabric room" }],
+                "map_locations": [{ "map": "Sirene", "x": 132, "y": 256 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Near corpse overlooking Glissando corpse" }],
-                "map_locations": [{ "map": "Sirene", "x": 196, "y": 117  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Near corpse overlooking Glissando corpse" }],
+                "map_locations": [{ "map": "Sirene", "x": 196, "y": 117 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Top of winding fabric room" }],
-                "map_locations": [{ "map": "Sirene", "x": 150, "y": 235 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Top of winding fabric room" }],
+                "map_locations": [{ "map": "Sirene", "x": 150, "y": 235, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Before end of detour leading back to Expedition Flag" }],
-                "map_locations": [{ "map": "Sirene", "x": 1100, "y": 826 }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Before end of detour leading back to Expedition Flag" }],
+                "map_locations": [{ "map": "Sirene", "x": 1100, "y": 826, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sewing Atelier - Before Zipline to next Expedition Flag" }],
-                "map_locations": [{ "map": "Sirene", "x": 1028, "y": 405 }]
+                "sections": [{ "ref": "Entrance - Sirene/Sewing Atelier - Before Zipline to next Expedition Flag" }],
+                "map_locations": [{ "map": "Sirene", "x": 1028, "y": 405, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Classes - Before Expedition Flag" }],
-                "map_locations": [{ "map": "Sirene", "x": 1075, "y": 830  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Classes - Before Expedition Flag" }],
+                "map_locations": [{ "map": "Sirene", "x": 1075, "y": 830 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Crumbling Path - Left of mini -boss" }],
-                "map_locations": [{ "map": "Sirene", "x": 1088, "y": 503  }]
+                "sections": [{ "ref": "Entrance - Sirene/Crumbling Path - Left of mini -boss" }],
+                "map_locations": [{ "map": "Sirene", "x": 1088, "y": 503 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Crumbling Path - Before mini -boss" }],
-                "map_locations": [{ "map": "Sirene", "x": 950, "y": 565  }]
+                "sections": [{ "ref": "Entrance - Sirene/Crumbling Path - Before mini -boss" }],
+                "map_locations": [{ "map": "Sirene", "x": 950, "y": 565 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Dancing Arena - Near Expedition Flag" }],
-                "map_locations": [{ "map": "Sirene", "x": 369, "y": 383  }]
+                "sections": [{ "ref": "Entrance - Sirene/Dancing Arena - Near Expedition Flag" }],
+                "map_locations": [{ "map": "Sirene", "x": 369, "y": 383 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Crumbling Path - Detour left of mini -boss" }],
-                "map_locations": [{ "map": "Sirene", "x": 1020, "y": 380 }]
+                "sections": [{ "ref": "Entrance - Sirene/Crumbling Path - Detour left of mini -boss" }],
+                "map_locations": [{ "map": "Sirene", "x": 1020, "y": 380, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Sirene" }],
-                "map_locations": [{ "map": "Sirene", "x": 677, "y": 440 }]
+                "sections": [{ "ref": "Entrance - Sirene/Sirene" }],
+                "map_locations": [{ "map": "Sirene", "x": 677, "y": 440, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Chromatic Greatsword Cultist" }],
-                "map_locations": [{ "map": "Sirene", "x": 0, "y": 0 }]
+                "sections": [{ "ref": "Entrance - Sirene/Chromatic Greatsword Cultist" }],
+                "map_locations": [{ "map": "Sirene", "x": 1154, "y": 584, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Mime" }],
-                "map_locations": [{ "map": "Sirene", "x": 1030, "y": 55  }]
+                "sections": [{ "ref": "Entrance - Sirene/Mime" }],
+                "map_locations": [{ "map": "Sirene", "x": 1030, "y": 55 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Glissando" }],
-                "map_locations": [{ "map": "Sirene", "x": 1033, "y": 492 }]
+                "sections": [{ "ref": "Entrance - Sirene/Glissando" }],
+                "map_locations": [{ "map": "Sirene", "x": 1033, "y": 492, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Tisseur" }],
-                "map_locations": [{ "map": "Sirene", "x": 1110, "y": 250  }]
+                "sections": [{ "ref": "Entrance - Sirene/Tisseur" }],
+                "map_locations": [{ "map": "Sirene", "x": 1110, "y": 250 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Blue Petank" }],
-                "map_locations": [{ "map": "Sirene", "x": 1147, "y": 455 }]
+                "sections": [{ "ref": "Entrance - Sirene/Blue Petank" }],
+                "map_locations": [{ "map": "Sirene", "x": 1147, "y": 455, "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Red Petank" }],
-                "map_locations": [{ "map": "Sirene", "x": 12, "y": 360  }]
+                "sections": [{ "ref": "Entrance - Sirene/Red Petank" }],
+                "map_locations": [{ "map": "Sirene", "x": 12, "y": 360 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Flag - Dancing Classes" }],
-                "map_locations": [{ "map": "Sirene", "x": 22, "y": 450, "shape": "diamond"  }]
+                "sections": [{ "ref": "Entrance - Sirene/Flag - Dancing Classes" }],
+                "map_locations": [{ "map": "Sirene", "x": 973, "y": 892, "shape": "diamond" }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Flag - Sewing Atelier" }],
-                "map_locations": [{ "map": "Sirene", "x": 1050, "y": 106, "shape": "diamond"  }]
+                "sections": [{ "ref": "Entrance - Sirene/Flag - Sewing Atelier" }],
+                "map_locations": [{ "map": "Sirene", "x": 1050, "y": 106, "shape": "diamond" }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Flag - Crumbling Path" }],
-                "map_locations": [{ "map": "Sirene", "x": 971, "y": 532, "shape": "diamond" }]
+                "sections": [{ "ref": "Entrance - Sirene/Flag - Crumbling Path" }],
+                "map_locations": [{ "map": "Sirene", "x": 971, "y": 532, "shape": "diamond", "size": 15 }]
             },
             {
-                "sections": [{ "ref": "Logic - Sirene/Flag - Dancing Arena" }],
-                "map_locations": [{ "map": "Sirene", "x": 410, "y": 320, "shape": "diamond" }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Sirene/Exit to continent 1" }],
-                "map_locations": [{ "map": "Sirene", "x": 671, "y": 1130, "shape": "trapezoid", "size": 33 }]
+                "sections": [{ "ref": "Entrance - Sirene/Flag - Dancing Arena" }],
+                "map_locations": [{ "map": "Sirene", "x": 410, "y": 320, "shape": "diamond", "size": 15 }]
             }
         ]
     }

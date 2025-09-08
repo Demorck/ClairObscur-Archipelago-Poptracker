@@ -1,9 +1,82 @@
 [
     {
-        "name": "Logic - Renoir's Draft",
+        "name": "Entrance - Renoir's Draft",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 1147, "y": 2309, "shape": "trapezoid", "size": 32}],
         "sections": [
-        ]
+            {
+                "name": "Entrance - triple Contortionniste",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Moissonneuse",
+                "access_rules": []
+            },
+            {
+                "name": "Golden Tree - above The Abyss entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - giant bronze ball",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - next to Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - after platforms near Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - in tunnel under room with red lights",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - buried building and double Creation",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - under toppled fuzzy pillar",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Boucheclier",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - on bridge behind Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Music near Triple Contortionniste",
+                "access_rules": []
+            },
+
+            {
+                "name": "Simon",
+                "access_rules": ["[paintedpower]"]
+            },
+
+            {
+                "name": "Merchant Grour",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+               "access_rules": []
+            },
+            {
+                "name": "Flag - Golden Tree",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - The Abyss",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$north_sea,$dive,RenoirsDrafts"]
     }
 ]

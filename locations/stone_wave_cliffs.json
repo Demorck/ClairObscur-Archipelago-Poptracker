@@ -3,204 +3,194 @@
         "name": "Stone Wave Cliffs",
         "children": [
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Chroma 1" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Chroma 1" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Near Chromatic Gault 2" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Near Chromatic Gault 2" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Ledge next to the tunnel" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 350, "y": 785, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - Ledge next to the tunnel" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 350, "y": 785  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - Indoor climbing wall" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 820, "y": 460, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - Indoor climbing wall" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 820, "y": 460  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Paint cage" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 360, "y": 890, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - Paint cage" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 360, "y": 890  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Ledge with climbing holds" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 200, "y": 360, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Ledge with climbing holds" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 200, "y": 360  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - In barrels overlooking Monolith" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 666, "y": 354, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - In barrels overlooking Monolith" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 666, "y": 354  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Ruined building near flag" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 82, "y": 630, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Ruined building near flag" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 82, "y": 630  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Overturned tube thing" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 263, "y": 785, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - Overturned tube thing" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 263, "y": 785  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - Up a small ledge" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 650, "y": 483, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - Up a small ledge" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 650, "y": 483  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - Near Expeditioner impaled with greatsword" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 745, "y": 425, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - Near Expeditioner impaled with greatsword" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 745, "y": 425  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Paint cage" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 600, "y": 550, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Paint cage" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 600, "y": 550  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - Next to the rope down to manor door" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 962, "y": 596, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - Next to the rope down to manor door" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 962, "y": 596  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Back entrance" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 988, "y": 25, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Back entrance" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 978, "y": 45  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - In front of the first hut" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 462, "y": 614, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - In front of the first hut" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 462, "y": 614  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - In front of monument" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 220, "y": 545, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - In front of monument" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 220, "y": 545  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - Across from the manor door" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 1000, "y": 575, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - Across from the manor door" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 1000, "y": 575  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Ledge in the open cave 1" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 105, "y": 475, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Ledge in the open cave 1" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 105, "y": 475  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Grapple platform" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 205, "y": 313, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Grapple platform" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 205, "y": 313  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - In front of the shrine" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 15, "y": 520, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - In front of the shrine" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 15, "y": 520  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Before the rope up to the flag" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 405, "y": 550, "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Before the rope up to the flag" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 405, "y": 550 }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Ledge in the tunnel" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 515, "y": 666, "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Ledge in the tunnel" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 515, "y": 666 }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Near the flag" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 245, "y": 833, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - Near the flag" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 255, "y": 844  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Near Young Boy" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 147, "y": 552, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Near Young Boy" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 147, "y": 552  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Paintress Shrine - Upper maze near Expeditioner corpse" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 170, "y": 472, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Paintress Shrine - Upper maze near Expeditioner corpse" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 170, "y": 472  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - By the ramp" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 475, "y": 590, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - By the ramp" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 475, "y": 590  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Towards the merchant" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 375, "y": 595, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Towards the merchant" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 375, "y": 595  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Basalt Waves - Below vertical zipline before Expedition Flag" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 887, "y": 473, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Basalt Waves - Below vertical zipline before Expedition Flag" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 887, "y": 473  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - Under the climbing holds" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 683, "y": 410, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - Under the climbing holds" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 683, "y": 410  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - Jump across the pillars" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 927, "y": 604, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - Jump across the pillars" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 927, "y": 604  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - In the rock crystal room" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 940, "y": 640, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - In the rock crystal room" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 940, "y": 640  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - Next to the manor door" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 1095, "y": 610, "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - Next to the manor door" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 1095, "y": 610 }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flooded Buildings - Dead hexga" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 606, "y": 393, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flooded Buildings - Dead hexga" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 606, "y": 393  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Tide Caverns - Ruined building" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 863, "y": 530, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Tide Caverns - Ruined building" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 863, "y": 530  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - Tiny gazebo" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 242, "y": 625, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - Tiny gazebo" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 242, "y": 625  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Entrance - By the first grapple point" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 390, "y": 692, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Entrance - By the first grapple point" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 390, "y": 692  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Old Farm - Near Chromatic miniboss" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 700, "y": 635, "size": 16  }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Near Chromatic miniboss" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 700, "y": 635  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Basalt Waves - Return to the boss arena" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 927, "y": 192, "size": 16  }]
-            },
-
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Lampmaster" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 630, "y": 600, "size": 16  }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Chromatic Gault" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 690, "y": 605, "size": 16  }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Petank" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 0, "y": 0, "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Basalt Waves - Return to the boss arena" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 927, "y": 192  }]
             },
 
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Entrance" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 242, "y": 830 , "shape": "diamond", "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Lampmaster" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 960, "y": 201  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Paintress Shrine" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 64, "y": 564 , "shape": "diamond", "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Chromatic Gault" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 690, "y": 605  }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Old Farm" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 425, "y": 570, "shape": "diamond", "size": 16 }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Flooded Buildings" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 766, "y": 350, "shape": "diamond", "size": 16 }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Tide Caverns" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 800, "y": 715 , "shape": "diamond", "size": 16 }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Flag - Basalt Waves" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 910, "y": 422, "shape": "diamond", "size": 16 }]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Petank" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 567, "y": 636 }]
             },
 
-
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Exit to continent 1" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 66, "y": 982, "shape": "trapezoid", "size": 33}]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Entrance" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 242, "y": 830 , "shape": "diamond" }]
             },
             {
-                "sections": [{ "ref": "Logic - Stone Wave Cliffs/Exit to continent 2" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 994, "y": 8, "shape": "trapezoid", "size": 33}]
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Paintress Shrine" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 64, "y": 564 , "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Old Farm" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 425, "y": 570, "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Flooded Buildings" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 766, "y": 350, "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Tide Caverns" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 800, "y": 715 , "shape": "diamond" }]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Basalt Waves" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 910, "y": 422, "shape": "diamond" }]
             }
         ]
     }

@@ -1,9 +1,67 @@
 [
     {
-        "name": "Logic - Yellow Harvest",
+        "name": "Entrance - Yellow Harvest",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 612, "y": 746, "shape": "trapezoid", "size": 32},
+                          {"map": "South Continent", "x": 573, "y": 705, "shape": "trapezoid", "size": 32}],
         "sections": [
-        ]
+            {
+                "name": "Entrance - Near broken fountain",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Path to sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Exit of crimson cave",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Peninsula facing sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - On balcony of sunken building",
+                "access_rules": []
+            },
+            {
+                "name": "Harvester's Hollow - Near tent by sunken building",
+                "access_rules": []
+            },
+
+            {
+                "name": "Chromatic Orphelin",
+                "access_rules": []
+            },
+            {
+                "name": "Mime",
+                "access_rules": []
+            },
+            {
+                "name": "Glaise",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Yellow Spire Wrecks",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Harvester's Hollow",
+                "access_rules": []
+            },
+
+            {
+                "name": "Merchant Pinabby",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$firstcont_north_and_esquie,YellowHarvest"]
     }
 ]

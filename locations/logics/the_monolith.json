@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - The Monolith",
+        "name": "Entrance - The Monolith",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 1446, "y": 656, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Tainted Meadows - Detour near Eveque",
@@ -13,7 +14,7 @@
                 "access_rules": []
             },
             {
-                "name": "Tainted Cliffs - Paint Cage",
+                "name": "Tainted Meadows - Paint Cage",
                 "access_rules": []
             },
             {
@@ -247,6 +248,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["TheMonolith"]
+        "access_rules": ["$north_sea,TheMonolith"]
     }
 ]

@@ -1,9 +1,145 @@
 [
     {
-        "name": "Logic - The Reacher",
+        "name": "Entrance - Reacher",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 90, "y": 1991, "shape": "trapezoid", "size": 32}],
         "sections": [
-        ]
+            {
+                "name": "Entrance - early handholds",
+                "access_rules": []
+            },
+            {
+                "name": "Mountain - boxes by cliffside",
+                "access_rules": []
+            },
+            {
+                "name": "Mountain - Above First Echassier 2",
+                "access_rules": []
+            },
+            {
+                "name": "Foggy Area - Foggy Area flag",
+                "access_rules": []
+            },
+            {
+                "name": "Mountain - on cliffside",
+                "access_rules": []
+            },
+            {
+                "name": "Mountain - after wooden plank platforms",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - in nook near double Orphelin",
+                "access_rules": []
+            },
+            {
+                "name": "Foggy Area - Above Veilleur by cliffside",
+                "access_rules": []
+            },
+            {
+                "name": "Foggy Area - Veilleur",
+                "access_rules": ["[PaintedPower]"]
+            },
+            {
+                "name": "Foggy Bank - Platform above Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Chroma 5",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - after Orphelin builders",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - on Orphelin builder platform",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - Near Expedition Flag",
+                "access_rules": []
+            },
+            {
+                "name": "Peak - Dead Orphelin",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - After Paint Spike",
+                "access_rules": ["PaintBreak"]
+            },
+            {
+                "name": "Foggy Bank - After triple Orphelin platform",
+                "access_rules": []
+            },
+            {
+                "name": "Foggy Area - above patrolling Veilleur",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - Mime",
+                "access_rules": ["[PaintedPower]"]
+            },
+            {
+                "name": "Ladder Area - Nailed Orphelin near Petank platform",
+                "access_rules": []
+            },
+            {
+                "name": "Mountain - before wooden plank platforming",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - behind Manor door",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - Past Green Orphelin",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - under Orphelin builder platform",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - hot air balloon",
+                "access_rules": []
+            },
+            {
+                "name": "Foggy Bank - Triple Orphelin platform",
+                "access_rules": []
+            },
+
+            {
+                "name": "Merchant Eragol",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Mountain",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Ladder Area",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Foggy Area",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Peak",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Alicia",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$sky_no_pp,TheReacher"]
     }
 ]

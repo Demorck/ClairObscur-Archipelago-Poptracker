@@ -1,8 +1,9 @@
 [
     {
-        "name": "Logic - Visages",
+        "name": "Entrance - Visages",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 766, "y": 2132, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Plazza - On cliffside overlooking ocean",
@@ -111,12 +112,8 @@
             {
                 "name": "Flag - Peak",
                 "access_rules": []
-            },
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
             }
         ],
-        "access_rules": ["Visages"]
+        "access_rules": ["$north_sea,Visages"]
     }
 ]

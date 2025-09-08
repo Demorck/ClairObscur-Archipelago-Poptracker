@@ -1,8 +1,9 @@
 [
   {
-    "name": "Logic - Spring Meadows",
+    "name": "Entrance - Spring Meadows",
     "chest_unopened_img": "images/locked.png",
     "chest_opened_img": "images/checked.png",
+    "map_locations": [{"map": "South Continent", "x": 714, "y": 1182, "shape": "trapezoid", "size": 32}],
     "sections": [
       {
         "name": "Meadows Corridor - On the path",
@@ -66,7 +67,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - Between paint spikes",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "Abandoned Expeditioner Camp - Under the bridge",
@@ -74,7 +75,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff near upper paint spike",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
       {
         "name": "The Indigo Tree - On a branch",
@@ -106,7 +107,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - Near lower paint spike",
-        "access_rules": []
+        "access_rules": ["PaintBreak"]
       },
 
       
@@ -138,13 +139,8 @@
       {
         "name": "Flag - The Indigo Tree",
         "access_rules": []
-      },
-
-      {
-        "name": "Exit to continent",
-        "access_rules": []
       }
     ],
-    "access_rules": ["SpringMeadows"]
+    "access_rules": ["$firstcont_south"]
   }
 ]

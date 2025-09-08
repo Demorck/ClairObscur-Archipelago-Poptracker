@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Overview - Mini Levels",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 214, "y": 320, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "The Meadows: Item",
+                "access_rules": ["$south_sea"]
+            },
+            {
+                "name": "White Tree: Item",
+                "access_rules": ["$south_sea"]
+            },
+            {
+                "name": "Ancient Gestral City: Item",
+                "access_rules": ["$firstcont_south,esquie"]
+            },
+            {
+                "name": "Lost Woods: Item",
+                "access_rules": ["$firstcont_north_and_esquie,YellowHarvest","$sky_no_pp"]
+            },
+            {
+                "name": "Boat Graveyard: Item",
+                "access_rules": ["$secondcont_south"]
+            },
+            {
+                "name": "Blades Graveyard: Item",
+                "access_rules": ["$south_sea"]
+            },
+            {
+                "name": "Twilight Quarry: Item",
+                "access_rules": ["$firstcont_north"]
+            },
+
+            {
+                "name": "Coastal Cave: Left side",
+                "access_rules": ["$secondcont_south"]
+            },
+
+            {
+                "name": "Flying Casino: Item",
+                "access_rules": ["$sky_no_pp"]
+            },
+
+            {
+                "name": "Small Bourgeon: Feed the White Nevron and loot his vomit",
+                "access_rules": ["$firstcont_north"]
+            },
+
+            {
+                "name": "Red Woods: Lumina 1",
+                "access_rules": ["$firstcont_north"]
+            },
+
+            {
+                "name": "The Fountain: In front of Blanche",
+                "access_rules": ["$sky_no_pp"]
+            },
+
+            {
+                "name": "White Sands: Next to Expedition Flag",
+                "access_rules": ["$sky_no_pp"]
+            },
+            {
+                "name": "White Sands: In front of boat overlooking Manor",
+                "access_rules": ["$sky_no_pp"]
+            }
+        ]
+
+    }
+]
+

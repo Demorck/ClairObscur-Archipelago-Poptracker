@@ -1,8 +1,11 @@
 [
     {
-        "name": "Logic - Monoco's Station",
+        "name": "Entrance - Monoco's Station",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 1205, "y": 1256, "shape": "trapezoid", "size": 32},
+                          {"map": "Middle Continent", "x": 1133, "y": 1162, "shape": "trapezoid", "size": 32},
+                          {"map": "Middle Continent", "x": 1242, "y": 1147, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Back of station",
@@ -22,6 +25,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["MonocosStation"]
+        "access_rules": ["$secondcont_south,MonocosStation",
+                         "$secondcont_ne,MonocosStation",
+                         "$north_sea,MonocosStation"]
     }
 ]

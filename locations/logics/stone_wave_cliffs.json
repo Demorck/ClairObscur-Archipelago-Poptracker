@@ -1,8 +1,10 @@
 [
     {
-        "name": "Logic - Stone Wave Cliffs",
+        "name": "Entrance - Stone Wave Cliffs",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 910, "y": 705, "shape": "trapezoid", "size": 32},
+                          {"map": "South Continent", "x": 902, "y": 616, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Chroma 1",
@@ -10,7 +12,7 @@
             },
             {
                 "name": "Old Farm - Near Chromatic Gault 2",
-                "access_rules": []
+                "access_rules": ["PaintBreak"]
             },
             {
                 "name": "Entrance - Ledge next to the tunnel",
@@ -150,19 +152,20 @@
             },
             {
                 "name": "Old Farm - Near Chromatic miniboss",
-                "access_rules": []
+                "access_rules": ["PaintBreak"]
             },
             {
                 "name": "Basalt Waves - Return to the boss arena",
                 "access_rules": []
             },
+            
             {
                 "name": "Lampmaster",
                 "access_rules": []
             },
             {
                 "name": "Chromatic Gault",
-                "access_rules": []
+                "access_rules": ["PaintBreak"]
             },
             {
                 "name": "Petank",
@@ -193,18 +196,8 @@
             {
                 "name": "Flag - Basalt Waves",
                 "access_rules": []
-            },
-
-            
-            {
-                "name": "Exit to continent 1",
-                "access_rules": []
-            },
-            {
-                "name": "Exit to continent 2",
-                "access_rules": []
             }
         ],
-        "access_rules": ["StoneWaveCliffs"]
+        "access_rules": ["$firstcont_north_and_esquie,StoneWaveCliffs"]
     }
 ]

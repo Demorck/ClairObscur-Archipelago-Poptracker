@@ -3,113 +3,105 @@
         "name": "Ancient Sanctuary",
         "children": [
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Entrance - Past climbing handholds" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Entrance - Past climbing handholds" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 388, "y": 535 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - In dark cave before shortcut to flag 1" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - In dark cave before shortcut to flag 1" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 530, "y": 460 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Giant Bell Alley - Up ramp after boss" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Giant Bell Alley - Up ramp after boss" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 105, "y": 200 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Giant Bell Alley - Before Expedition Flag near dismantled Gestral" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Giant Bell Alley - Before Expedition Flag near dismantled Gestral" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 100, "y": 415 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Gestral Totem - Base of the totem" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Gestral Totem - Base of the totem" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 155, "y": 595 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Entrance - Across bridge" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Entrance - Across bridge" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 515, "y": 610 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - On path to flag 1 shortcut" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - On path to flag 1 shortcut" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 545, "y": 360 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - On cliff after Mime" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - On cliff after Mime" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 300, "y": 285 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - In hut near Mime" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - In hut near Mime" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 350, "y": 205 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - In boxes" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - In boxes" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 325, "y": 303 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Gestral Totem - Ink bottles on the cliff" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Gestral Totem - Ink bottles on the cliff" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 260, "y": 500 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Giant Bell Alley - After boss" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Giant Bell Alley - After boss" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 220, "y": 190 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Gestral Totem - In shallow river" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Gestral Totem - In shallow river" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 120, "y": 652 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Gestral Totem - Jump the gaps" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Gestral Totem - Jump the gaps" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 195, "y": 640 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - On Expeditioner corpse on path to flag 1 shortcut" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - On Expeditioner corpse on path to flag 1 shortcut" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 430, "y": 400 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Giant Bell Alley - In crawlspace after boss" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Giant Bell Alley - In crawlspace after boss" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 215, "y": 260 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Giant Bell Alley - Paint Cage before Expedition Flag" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Giant Bell Alley - Paint Cage before Expedition Flag" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 60, "y": 303 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Sanctuary Maze - At shortcut to flag 1" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Sanctuary Maze - At shortcut to flag 1" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 530, "y": 500 }]
             },
 
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Ultimate Sakapatate" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Ultimate Sakapatate" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 160, "y": 175 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Mime" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Mime" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 365, "y": 185 }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Petank" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Petank" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 495, "y": 550 }]
             },
 
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Flag - Entrance" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Flag - Entrance" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 550, "y": 545, "shape": "diamond" }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Flag - Sanctuary Maze" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Flag - Sanctuary Maze" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 395, "y": 430, "shape": "diamond" }]
             },
             {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Flag - Giant Bell Alley" }],
+                "sections": [{ "ref": "Entrance - Ancient Sanctuary/Flag - Giant Bell Alley" }],
                 "map_locations": [{ "map": "Ancient Sanctuary", "x": 180, "y": 292, "shape": "diamond" }]
-            },
-
-            {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Exit to continent 1" }],
-                "map_locations": [{ "map": "Ancient Sanctuary", "x": 625, "y": 465, "shape": "trapezoid", "size": 33 }]
-            },
-            {
-                "sections": [{ "ref": "Logic - Ancient Sanctuary/Exit to continent 2" }],
-                "map_locations": [{ "map": "Ancient Sanctuary", "x": 205, "y": 30, "shape": "trapezoid", "size": 33 }]
             }
         ]
     }
 ]
+
 

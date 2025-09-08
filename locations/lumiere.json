@@ -2,6 +2,272 @@
     {
         "name": "Lumiere",
         "children": [
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - On building railing in Paint Spike" }],
+                "map_locations": [{ "map": "Lumiere", "x": 451, "y": 216, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Left of stairs after docks" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1360, "y": 447, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Start of the game" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1382, "y": 323, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - In boxes" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1406, "y": 436, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - In Paint Spike" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1409, "y": 395, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Right side after docks" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1370, "y": 373, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Right side up stairs" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1257, "y": 405, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Left side near trash can" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1260, "y": 436, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Central Plaza - Near fountain" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1100, "y": 423, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Central Plaza - Next to fountain" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1045, "y": 418, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Central Plaza - Hallway after fountain" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1011, "y": 347, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Central Plaza - Near boxes" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1061, "y": 394, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Inside gramophone" }],
+                "map_locations": [{ "map": "Lumiere", "x": 927, "y": 382, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Under the tree" }],
+                "map_locations": [{ "map": "Lumiere", "x": 918, "y": 355, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Left path after Expedition Flag" }],
+                "map_locations": [{ "map": "Lumiere", "x": 867, "y": 358, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Under impaled building" }],
+                "map_locations": [{ "map": "Lumiere", "x": 846, "y": 312, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumina 5" }],
+                "map_locations": [{ "map": "Lumiere", "x": 0, "y": 0, "size": 16}]
+
+            },
+            {
+                "sections": [
+                    { "ref": "Entrance - Lumiere/Shattered Alley - Behind Chromatic miniboss" },
+                    { "ref": "Entrance - Lumiere/Shattered Alley - Next to Chromatic miniboss" }
+                ],
+                "map_locations": [{ "map": "Lumiere", "x": 753, "y": 222, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Near boat before Opera House" }],
+                "map_locations": [{ "map": "Lumiere", "x": 736, "y": 146, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Shattered Alley - Before Opera House" }],
+                "map_locations": [{ "map": "Lumiere", "x": 686, "y": 124, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - First right up stairs" }],
+                "map_locations": [{ "map": "Lumiere", "x": 338, "y": 360, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Top of stairs" }],
+                "map_locations": [{ "map": "Lumiere", "x": 651, "y": 80, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Under festival decorations" }],
+                "map_locations": [{ "map": "Lumiere", "x": 490, "y": 72, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - In between buildings" }],
+                "map_locations": [{ "map": "Lumiere", "x": 426, "y": 109, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Upgrade 6" }],
+                "map_locations": [{ "map": "Lumiere", "x": 32, "y": 0, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Cliffside overlooking ruined Lumiere" }],
+                "map_locations": [{ "map": "Lumiere", "x": 378, "y": 130, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Near Cribappa" }],
+                "map_locations": [{ "map": "Lumiere", "x": 512, "y": 320, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Near Young Boy" }],
+                "map_locations": [{ "map": "Lumiere", "x": 487, "y": 181, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Under broken buidling before Cribappa" }],
+                "map_locations": [{ "map": "Lumiere", "x": 534, "y": 298, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Inside ruined statue item 3" }],
+                "map_locations": [{ "map": "Lumiere", "x": 201, "y": 392, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - By dead giant Obscur" }],
+                "map_locations": [{ "map": "Lumiere", "x": 439, "y": 467, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Near ruined statue" }],
+                "map_locations": [{ "map": "Lumiere", "x": 472, "y": 460, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Inside ruined statue item 2" }],
+                "map_locations": [{ "map": "Lumiere", "x": 250, "y": 436, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Crooked Tower Walkway - Before final boss" }],
+                "map_locations": [{ "map": "Lumiere", "x": 173, "y": 375, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Behind hedge" }],
+                "map_locations": [{ "map": "Lumiere", "x": 246, "y": 353, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - On bench" }],
+                "map_locations": [{ "map": "Lumiere", "x": 300, "y": 410, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Left side up stairs" }],
+                "map_locations": [{ "map": "Lumiere", "x": 283, "y": 495, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - On the docks" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1418, "y": 408, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Near Chromatic miniboss" }],
+                "map_locations": [{ "map": "Lumiere", "x": 786, "y": 281, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Entrance - Left side near building" }],
+                "map_locations": [{ "map": "Lumiere", "x": 1340, "y": 460, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Right side up stairs" }],
+                "map_locations": [{ "map": "Lumiere", "x": 283, "y": 349, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Inside ruined statue item 1" }],
+                "map_locations": [{ "map": "Lumiere", "x": 355, "y": 390, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Opera House - Near piano" }],
+                "map_locations": [{ "map": "Lumiere", "x": 590, "y": 35, "size": 16}]
+
+            },
+
+
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/The Curator" }],
+                "map_locations": [{ "map": "Lumiere", "x": 18, "y": 421, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Chromatic Echassier" }],
+                "map_locations": [{ "map": "Lumiere", "x": 769, "y": 253, "size": 16}]
+
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Creation" }],
+                "map_locations": [{ "map": "Lumiere", "x": 179, "y": 423, "size": 16}]
+
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Harbour"}],
+                "map_locations": [{ "map": "Lumiere", "x": 1440, "y": 412, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Central Plaza"}],
+                "map_locations": [{ "map": "Lumiere", "x": 1122, "y": 384, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Shattered Alley"}],
+                "map_locations": [{ "map": "Lumiere", "x": 894, "y": 342, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Opera House"}],
+                "map_locations": [{ "map": "Lumiere", "x": 588, "y": 48, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Lumiere's Garden"}],
+                "map_locations": [{ "map": "Lumiere", "x": 407, "y": 401, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Flag - Crooked Tower Walkway"}],
+                "map_locations": [{ "map": "Lumiere", "x": 137, "y": 421, "shape": "diamond", "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Lumiere/Merchant Cribappa"}],
+                "map_locations": [{ "map": "Lumiere", "x": 458, "y": 320, "shape": "diamond", "size": 16}]
+
+            }
         ]
+
     }
 ]

@@ -291,7 +291,7 @@
                 "map_locations": [{ "map": "South Continent", "x": 236, "y": 548}]
             },
             {
-                "sections": [{ "ref": "Entrance - Continent/Dive - Below Floating Sanctuary" }],
+                "sections": [{ "ref": "Entrance - Continent/Dive - Below Floating Cemetery" }],
                 "map_locations": [{ "map": "Middle Continent", "x": 392, "y": 1363}]
             },
             {

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Crushing Cavern",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Crushing Cavern/Giant Sapling" }],
+                "map_locations": [{ "map": "Crushing Cavern", "x": 40, "y": 460}]
+            }
+        ]
+
+    }
+]
+

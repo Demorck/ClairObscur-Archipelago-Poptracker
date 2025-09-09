@@ -87,7 +87,7 @@
                 "map_locations": [{ "map": "Visages", "x": 57, "y": 737  }]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Visages/Mask Keeper" }],
+                "sections": [{ "ref": "Entrance - Visages/Mask Keeper" }],
                 "map_locations": [{ "map": "Visages", "x": 1088, "y": 58   }]
             },
 

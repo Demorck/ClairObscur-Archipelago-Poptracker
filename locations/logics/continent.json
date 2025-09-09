@@ -348,7 +348,7 @@
                 "access_rules": ["$dive"]
             },
             {
-                "name": "Dive - Below Floating Sanctuary",
+                "name": "Dive - Below Floating Cemetery",
                 "access_rules": ["$dive,$north_sea"]
             },
             {

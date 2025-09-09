@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Entrance - Endless Night Sanctuary",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 3145, "y": 756, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Warrior' Route - Near expeditioner corpse",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Near Contortionniste corpses",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Right path before Warrior' Route flag",
+                "access_rules": []
+            },
+            {
+                "name": "Left path before second flag 2",
+                "access_rules": []
+            },
+            {
+                "name": "Warrior' Route - After Petank 2",
+                "access_rules": []
+            },
+            {
+                "name": "Night Totem - after Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Night Totem - Near bags and fallen giant vases",
+                "access_rules": []
+            },
+            {
+                "name": "Night Totem - Before shortcut back to flag",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Left path before second flag 1",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Before Warrior' Route flag",
+                "access_rules": []
+            },
+            {
+                "name": "Warrior' Route - After Petank 3",
+                "access_rules": []
+            },
+            {
+                "name": "Warrior' Route - After Petank 1",
+                "access_rules": []
+            },
+            {
+                "name": "Night Totem - Near Merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Near Robust Sakapatate",
+                "access_rules": []
+            },
+            {
+                "name": "Night Totem - Paint Cage above flag",
+                "access_rules": []
+            },
+            {
+                "name": "Entrance - Right path inside small rock tunnel",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Chromatic Cruler",
+                "access_rules": []
+            },
+            {
+                "name": "Petank",
+                "access_rules": []
+            },
+
+            {
+                "name": "Merchant Anthonypo",
+                "access_rules": []
+            },
+
+            {
+                "name": "Flag - Entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Warrior's Route",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Night Totem",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$sky_no_pp,[paintedpower]"]
+
+    }
+]
+

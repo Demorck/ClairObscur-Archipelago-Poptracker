@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Endless Tower",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 11-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 280}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 1-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 280}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 4-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 280}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 4-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 0, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 4-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 20, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 5-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 40, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 5-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 5-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 6-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 300}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 6-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 0, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 6-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 20, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 7-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 40, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 1-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 7-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 7-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 320}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 8-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 0, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 8-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 20, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 8-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 40, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 9-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 9-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 9-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 340}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 10-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 0, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 10-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 20, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 1-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 40, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 10-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 11-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 11-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 2-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 0, "y": 380}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 2-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 20, "y": 380}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 2-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 40, "y": 380}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 3-1" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 380}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 3-2" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 380}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/: Stage 3-3" }],
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 380}]
+            }
+        ]
+
+    }
+]
+

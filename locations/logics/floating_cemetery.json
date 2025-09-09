@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Entrance - Floating Cemetery",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 525, "y": 1507, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Upper level overlooking entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Near barrels",
+                "access_rules": []
+            },
+            {
+                "name": "Defeat the Nevron",
+                "access_rules": ["[paintedpower]"]
+            },
+            {
+                "name": "Next to Gramophone",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$sky_no_pp"]
+
+    }
+]
+

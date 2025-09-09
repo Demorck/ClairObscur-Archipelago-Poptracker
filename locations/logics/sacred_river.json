@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Entrance - Sacred River",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 1278, "y": 897, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Item",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Golgra",
+                "access_rules": ["[paintedpower]"]
+            }
+        ],
+        "access_rules": ["$sky_no_pp"]
+
+    }
+]
+

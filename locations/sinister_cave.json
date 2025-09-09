@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sinister Cave",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Sinister Cave/Near glowing nevron" }],
+                "map_locations": [{ "map": "Sinister Cave", "x": 60, "y": 160}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Sinister Cave/After long fall" }],
+                "map_locations": [{ "map": "Sinister Cave", "x": 80, "y": 160}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Sinister Cave/Beside dead Gestral Merchant" }],
+                "map_locations": [{ "map": "Sinister Cave", "x": 100, "y": 160}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Sinister Cave/Chromatic Chalier" }],
+                "map_locations": [{ "map": "Sinister Cave", "x": 20, "y": 460}]
+            }
+        ]
+
+    }
+]
+

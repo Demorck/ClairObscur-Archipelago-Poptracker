@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Entrance - Dark Shores",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 614, "y": 1403, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Dark Shores: In barrel behind two Nevrons",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Right side item 1",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: In boxes 2",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Right side item 2",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Behind two Nevrons",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Near boat",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Near lantern",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: Between two Nevrons",
+                "access_rules": []
+            },
+            {
+                "name": "Dark Shores: In boxes 1",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$south_sea,[paintedpower]"]
+
+    }
+]
+

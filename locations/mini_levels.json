@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Mini Levels",
+        "children": [
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/The Meadows: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 1087, "y": 1081}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/White Tree: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 389, "y": 690}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Ancient Gestral City: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 893, "y": 1140}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Lost Woods: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 586, "y": 664}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Boat Graveyard: Item" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1826, "y": 1826}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Blades Graveyard: Item" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1175, "y": 2059}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Twilight Quarry: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 914, "y": 1044}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Coastal Cave: Left side" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 1972, "y": 1457}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Flying Casino: Item" }],
+                "map_locations": [{ "map": "South Continent", "x": 1262, "y": 285}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Small Bourgeon: Feed the White Nevron and loot his vomit" }],
+                "map_locations": [{ "map": "South Continent", "x": 665, "y": 1017}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/Red Woods: Lumina 1" }],
+                "map_locations": [{ "map": "South Continent", "x": 562, "y": 986}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/The Fountain: In front of Blanche" }],
+                "map_locations": [{ "map": "South Continent", "x": 292, "y": 1057}]
+            },
+
+            {
+                "sections": [{ "ref": "Overview - Mini Levels/White Sands: Next to Expedition Flag" },
+                             { "ref": "Overview - Mini Levels/White Sands: In front of boat overlooking Manor" }],
+                "map_locations": [{ "map": "Middle Continent", "x": 2572, "y": 1852}]
+            }
+        ]
+
+    }
+]
+

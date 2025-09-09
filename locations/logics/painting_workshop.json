@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Entrance - Painting Workshop",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 1084, "y": 178, "shape": "trapezoid"},
+                          {"map": "Middle Continent", "x": 1261, "y": 1503, "shape": "trapezoid"},
+                          {"map": "North Continent", "x": 2404, "y": 1806, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Lampmaster",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$north_sea"]
+
+    }
+]
+

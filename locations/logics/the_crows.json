@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Entrance - The Crows",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 89, "y": 2149, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Item",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Chapelier",
+                "access_rules": ["[PaintedPower]"]
+            }
+        ],
+        "access_rules": ["$north_sea"]
+
+    }
+]
+

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Overview - Manor",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 189, "y": 342, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Manor Door: From First Continent Sea - After library platforms",
+                "access_rules": ["$south_sea"]
+            },
+            {
+                "name": "Dining Hall Puzzle",
+                "access_rules": ["FlyingWaters", 
+                                 "$south_sea", 
+                                 "$sky_no_pp", 
+                                 "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
+                                 "$north_sea",
+                                 "$firstcont_nw,OldLumiere",
+                                 "$firstcont_north,StoneWaveCliffs",
+                                 "$secondcont_ne,FrozenHearts"
+                                ]
+            },
+            {
+                "name": "Through fake painting",
+                "access_rules": ["FlyingWaters", 
+                                 "$south_sea", 
+                                 "$sky_no_pp", 
+                                 "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
+                                 "$north_sea",
+                                 "$firstcont_nw,OldLumiere",
+                                 "$firstcont_north,StoneWaveCliffs",
+                                 "$secondcont_ne,FrozenHearts"
+                                ]
+            },
+            {
+                "name": "Manor Door: From World Map Sky Near Giant Petank - In closet",
+                "access_rules": ["$sky_no_pp"]
+            },
+            {
+                "name": "Manor Door: From Gestral Village - In crawlspace",
+                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
+                                 "$sky_no_pp,GestralVillage"]
+            },
+            {
+                "name": "Manor Door: From Gestral Village - In boxes",
+                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
+                                 "$sky_no_pp,GestralVillage"]
+            },
+            {
+                "name": "Manor Door: From Falling Leaves - On the desk",
+                "access_rules": ["$north_sea"]
+            },
+            {
+                "name": "Manor Door: From Inside the Monolith - Near the vase on a table",
+                "access_rules": ["$north_sea,TheMonolith"]
+            },
+            {
+                "name": "Manor Door: From Old Lumiere - In the sink",
+                "access_rules": ["$secondcont_nw,OldLumiere"]
+            },
+            {
+                "name": "Renoir's Atelier",
+                "access_rules": ["$sky_no_pp"]
+            },
+            {
+                "name": "Manor Door: From Visages - Next to piano",
+                "access_rules": ["$north_sea,Visages"]
+            },
+            {
+                "name": "Manor Door: From Stone Wave Cliffs - In the wardrobe",
+                "access_rules": ["$firstcont_north_and_esquie,stonewavecliffs"]
+            },
+            {
+                "name": "Manor Door: From Sirene - Break the bathroom mirror",
+                "access_rules": ["$north_sea,Sirene"]
+            },
+            {
+                "name": "Manor Door: From Frozen Hearts - At the harp",
+                "access_rules": ["$secondcont_ne,FrozenHearts"]
+            },
+            {
+                "name": "Manor Door: From First Continent Sea - Behind fake bookshelf",
+                "access_rules": ["$south_sea"]
+            }
+        ]
+
+    }
+]
+

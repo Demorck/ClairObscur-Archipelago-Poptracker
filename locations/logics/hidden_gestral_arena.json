@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Entrance - Hidden Gestral Arena",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 653, "y": 884, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Julien Tiny Head",
+                "access_rules": []
+            },
+            {
+                "name": "Matthieu the Colossus",
+                "access_rules": []
+            },
+            {
+                "name": "Bertrand Big Hands",
+                "access_rules": []
+            },
+            {
+                "name": "Dominique Giant Feet",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$firstcont_north"]
+
+    }
+]
+

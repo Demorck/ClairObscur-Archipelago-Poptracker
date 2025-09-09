@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Entrance - Sirene's Dress",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 2000, "y": 1816, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Chromatic Glissando",
+                "access_rules": ["[paintedpower]"]
+            }
+        ],
+        "access_rules": ["$sky_no_pp"]
+
+    }
+]
+

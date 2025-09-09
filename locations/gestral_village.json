@@ -41,11 +41,6 @@
 
             
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Golgra" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 275, "y": 175  }]
-            },
-            
-            {
                 "sections": [{ "ref": "Entrance - Gestral Village/Flag - Gestral Village" }],
                 "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 392, "shape": "diamond"  }]
             },

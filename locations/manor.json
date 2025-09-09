@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Manor",
+        "children": [
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From First Continent Sea - After library platforms" },
+                             { "ref": "Overview - Manor/Manor Door: From First Continent Sea - Behind fake bookshelf" }],
+                "map_locations": [{ "map": "South Continent", "x": 584, "y": 168}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Dining Hall Puzzle" }],
+                "map_locations": [{ "map": "Manor", "x": 0, "y": 0}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Through fake painting" }],
+                "map_locations": [{ "map": "Manor", "x": 20, "y": 0}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From World Map Sky Near Giant Petank - In closet" }],
+                "map_locations": [{ "map": "South Continent", "x": 1700, "y": 1103}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Gestral Village - In crawlspace" },
+                             { "ref": "Overview - Manor/Manor Door: From Gestral Village - In boxes" }],
+                "map_locations": [{ "map": "Gestral Village", "x": 479, "y": 288}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Falling Leaves - On the desk" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 65, "y": 389}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Inside the Monolith - Near the vase on a table" }],
+                "map_locations": [{ "map": "The Monolith", "x": 1511, "y": 1421}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Old Lumiere - In the sink" }],
+                "map_locations": [{ "map": "Old Lumiere", "x": 157, "y": 59}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Renoir's Atelier" }],
+                "map_locations": [{ "map": "Manor", "x": 40, "y": 0}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Visages - Next to piano" }],
+                "map_locations": [{ "map": "Visages", "x": 312, "y": 267}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Stone Wave Cliffs - In the wardrobe" }],
+                "map_locations": [{ "map": "Stone Wave Cliffs", "x": 1082, "y": 631}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Sirene - Break the bathroom mirror" }],
+                "map_locations": [{ "map": "Sirene", "x": 716, "y": 70}]
+            },
+            {
+                "sections": [{ "ref": "Overview - Manor/Manor Door: From Frozen Hearts - At the harp" }],
+                "map_locations": [{ "map": "Frozen Hearts", "x": 1033, "y": 310}]
+            }
+        ]
+
+    }
+]
+

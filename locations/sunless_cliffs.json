@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Sunless Cliffs",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Sunless Cliffs/Bald Mime" }],
+                "map_locations": [{ "map": "Sunless Cliffs", "x": 20, "y": 440}]
+            }
+        ]
+
+    }
+]
+

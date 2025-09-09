@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Esoteric Ruins",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Esoteric Ruins/Side path near statue" }],
+                "map_locations": [{ "map": "Esoteric Ruins", "x": 80, "y": 140}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Esoteric Ruins/Paint Cage" }],
+                "map_locations": [{ "map": "Esoteric Ruins", "x": 100, "y": 140}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Esoteric Ruins/Item after maze 1" }],
+                "map_locations": [{ "map": "Esoteric Ruins", "x": 0, "y": 160}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Esoteric Ruins/Item after maze 2" }],
+                "map_locations": [{ "map": "Esoteric Ruins", "x": 20, "y": 160}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Esoteric Ruins/Item after maze 3" }],
+                "map_locations": [{ "map": "Esoteric Ruins", "x": 40, "y": 160}]
+            }
+        ]
+
+    }
+]
+

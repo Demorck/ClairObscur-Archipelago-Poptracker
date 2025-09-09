@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Dark Gestral Arena",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Dark Gestral Arena/Dark Gestral Arena: Round 1" }],
+                "map_locations": [{ "map": "Dark Gestral Arena", "x": 0, "y": 400}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Dark Gestral Arena/Dark Gestral Arena: Round 2" }],
+                "map_locations": [{ "map": "Dark Gestral Arena", "x": 20, "y": 400}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Dark Gestral Arena/Dark Gestral Arena: Round 3" }],
+                "map_locations": [{ "map": "Dark Gestral Arena", "x": 40, "y": 400}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Dark Gestral Arena/Dark Gestral Arena: Golgra" }],
+                "map_locations": [{ "map": "Dark Gestral Arena", "x": 60, "y": 400}]
+            }
+        ]
+
+    }
+]
+

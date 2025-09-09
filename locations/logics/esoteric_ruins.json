@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Entrance - Esoteric Ruins",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 815, "y": 823, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Side path near statue",
+                "access_rules": []
+            },
+            {
+                "name": "Paint Cage",
+                "access_rules": []
+            },
+            {
+                "name": "Item after maze 1",
+                "access_rules": []
+            },
+            {
+                "name": "Item after maze 2",
+                "access_rules": []
+            },
+            {
+                "name": "Item after maze 3",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$secondcont_nw"]
+
+    }
+]
+

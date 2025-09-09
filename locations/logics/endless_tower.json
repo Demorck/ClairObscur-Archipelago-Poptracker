@@ -1,119 +1,145 @@
 [
     {
-        "name": "Entrance - Visages",
+        "name": "Entrance - Endless Tower",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
-        "map_locations": [{"map": "North Continent", "x": 766, "y": 2132, "shape": "trapezoid", "size": 32}],
+        "map_locations": [{"map": "South Continent", "x": 337, "y": 388, "shape": "trapezoid"}],
         "sections": [
             {
-                "name": "Plazza - On cliffside overlooking ocean",
+                "name": "Stage 11-3",
                 "access_rules": []
             },
             {
-                "name": "Plazza - Near entrance to Anger Vale under boxes",
+                "name": "Stage 1-1",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - Near chroma-less Expeditioner",
+                "name": "Stage 4-1",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - Left of boss",
+                "name": "Stage 4-2",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - Overlooking tower of masks",
+                "name": "Stage 4-3",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - On ledge surrounded by enemies",
+                "name": "Stage 5-1",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - Under Contortionniste corpse",
+                "name": "Stage 5-2",
                 "access_rules": []
             },
             {
-                "name": "Joy Vale - Near floral mannequin",
+                "name": "Stage 5-3",
                 "access_rules": []
             },
             {
-                "name": "Joy Vale - To the right after Expedition Flag",
+                "name": "Stage 6-1",
                 "access_rules": []
             },
             {
-                "name": "Joy Vale - Left of Expedition Flag near big tree",
+                "name": "Stage 6-2",
                 "access_rules": []
             },
             {
-                "name": "Joy Vale - Right of boss near tree",
+                "name": "Stage 6-3",
                 "access_rules": []
             },
             {
-                "name": "Joy Vale - Left of boss",
+                "name": "Stage 7-1",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - On ledge to the right of massive Contortionnistes",
+                "name": "Stage 1-2",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - Behind Chromatic Miniboss",
+                "name": "Stage 7-2",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - Right of boss right path",
+                "name": "Stage 7-3",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - Right of boss on cliffside",
+                "name": "Stage 8-1",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - Left of massive Contortionnistes",
+                "name": "Stage 8-2",
                 "access_rules": []
             },
             {
-                "name": "Sadness Vale - Before Chromatic miniboss",
+                "name": "Stage 8-3",
                 "access_rules": []
             },
             {
-                "name": "Anger Vale - Right of boss near boxes",
+                "name": "Stage 9-1",
                 "access_rules": []
             },
             {
-                "name": "Chromatic Ramasseur",
+                "name": "Stage 9-2",
                 "access_rules": []
             },
             {
-                "name": "Mime",
+                "name": "Stage 9-3",
                 "access_rules": []
             },
             {
-                "name": "Mask Keeper",
+                "name": "Stage 10-1",
                 "access_rules": []
             },
             {
-                "name": "Flag - Plazza",
+                "name": "Stage 10-2",
                 "access_rules": []
             },
             {
-                "name": "Flag - Sadness Vale",
+                "name": "Stage 1-3",
                 "access_rules": []
             },
             {
-                "name": "Flag - Anger Vale",
+                "name": "Stage 10-3",
                 "access_rules": []
             },
             {
-                "name": "Flag - Joy Vale",
+                "name": "Stage 11-1",
                 "access_rules": []
             },
             {
-                "name": "Flag - Peak",
+                "name": "Stage 11-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-1",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-3",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-1",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-3",
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,Visages"]
+        "access_rules": ["$sky_no_pp,[paintedpower]"]
+
     }
 ]
+

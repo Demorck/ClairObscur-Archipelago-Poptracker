@@ -78,8 +78,8 @@
                 "access_rules": []
             },
             {
-                "name": "Ladder Area - Mime",
-                "access_rules": ["[PaintedPower]"]
+                "name": "Ladder Area - Near Mime",
+                "access_rules": []
             },
             {
                 "name": "Ladder Area - Nailed Orphelin near Petank platform",
@@ -107,6 +107,23 @@
             },
             {
                 "name": "Foggy Bank - Triple Orphelin platform",
+                "access_rules": []
+            },
+
+            {
+                "name": "Alicia",
+                "access_rules": []
+            },
+            {
+                "name": "Peak - Chromatic Braseleur",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - Petank",
+                "access_rules": []
+            },
+            {
+                "name": "Ladder Area - Mime",
                 "access_rules": []
             },
 

@@ -64,6 +64,12 @@
             },
 
             {
+                "sections": [{ "ref": "Entrance - Renoir's Draft/Entrance - Chromatic Creation" }],
+                "map_locations": [{ "map": "Renoir's Draft", "x": 39, "y": 690, "size": 16}]
+
+            },
+
+            {
                 "sections": [{ "ref": "Entrance - Renoir's Draft/Merchant Grour" }],
                 "map_locations": [{ "map": "Renoir's Draft", "x": 430, "y": 383, "shape": "diamond", "size": 16}]
             },

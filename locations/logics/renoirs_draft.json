@@ -58,6 +58,10 @@
                 "name": "Simon",
                 "access_rules": ["[paintedpower]"]
             },
+            {
+                "name": "Entrance - Chromatic Creation",
+                "access_rules": ["[paintedpower]"]
+            },
 
             {
                 "name": "Merchant Grour",

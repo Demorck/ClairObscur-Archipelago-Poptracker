@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Entrance - Sunless Cliffs",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 2047, "y": 273, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Bald Mime",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$sky_no_pp,[PaintedPower]"]
+
+    }
+]
+

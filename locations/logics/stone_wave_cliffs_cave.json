@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Entrance - Stone Wave Cliffs Cave",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 1322, "y": 685, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Behind Chromatic Hexga",
+                "access_rules": []
+            },
+            {
+                "name": "Through ruined archway",
+                "access_rules": []
+            },
+            {
+                "name": "Near rocks before Chromatic Hexga",
+                "access_rules": []
+            },
+            {
+                "name": "Paint Cage",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Chromatic Hexga",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$south_sea"]
+
+    }
+]
+

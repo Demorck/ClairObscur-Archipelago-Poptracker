@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Falling Leaves",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Left path past Persik near fossilized expeditioners" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 18, "y": 191}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Near Glaise on path to Chromatic Ballet" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 170, "y": 235}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Between Expedition Flag and Young Boy" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 241, "y": 468}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Chromatic Ballet" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 193, "y": 141}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Scavenger" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 170, "y": 43}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Merchant Persik" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 45, "y": 278, "shape": "diamond"}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Flag - Resinveil Grove" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 211, "y": 481, "shape": "diamond"}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Falling Leaves/Flag - Scavenger" }],
+                "map_locations": [{ "map": "Falling Leaves", "x": 232, "y": 93, "shape": "diamond"}]
+            }
+        ]
+
+    }
+]
+

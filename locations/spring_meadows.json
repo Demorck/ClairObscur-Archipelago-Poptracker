@@ -112,7 +112,7 @@
                 "map_locations": [{ "map": "Spring Meadows", "x": 620, "y": 30 }]
             },
             {
-                "sections": [{ "ref": "Entrance - Spring Meadows/Chromatic Lancier" }],
+                "sections": [{ "ref": "Entrance - Spring Meadows/Chromatic Lancelier" }],
                 "map_locations": [{ "map": "Spring Meadows", "x": 590, "y": 300 }]
             },
             {

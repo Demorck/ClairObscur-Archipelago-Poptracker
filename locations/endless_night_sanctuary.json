@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Endless Night Sanctuary",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - Near expeditioner corpse" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 65, "y": 613}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Near Contortionniste corpses" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 148, "y": 500}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Right path before Warrior' Route flag" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 242, "y": 356}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Left path before second flag 2" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 129, "y": 260}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 2" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 129, "y": 310}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - after Merchant" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 447, "y": 122}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - Near bags and fallen giant vases" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 377, "y": 192}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - Before shortcut back to flag" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 373, "y": 33}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Left path before second flag 1" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 89, "y": 363}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Before Warrior' Route flag" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 229, "y": 251}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 3" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 87, "y": 463}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 1" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 93, "y": 402}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - Near Merchant" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 506, "y": 75}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Near Robust Sakapatate" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 115, "y": 500}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - Paint Cage above flag" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 310, "y": 194}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Right path inside small rock tunnel" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 200, "y": 365}]
+            },
+            
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Chromatic Cruler" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 517, "y": 284}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Petank" }],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 57, "y": 384}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Merchant Anthonypo"}],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 504, "y": 47, "shape": "diamond"}]
+            },
+
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Flag - Entrance"}],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 102, "y": 701, "shape": "diamond"}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Flag - Warrior's Route"}],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 211, "y": 282, "shape": "diamond"}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Night Sanctuary/Flag - Night Totem"}],
+                "map_locations": [{ "map": "Endless Night Sanctuary", "x": 325, "y": 192, "shape": "diamond"}]
+            }
+        ]
+    }
+]
+

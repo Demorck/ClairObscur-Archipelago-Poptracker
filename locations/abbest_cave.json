@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Abbest Cave",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Abbest Cave/Chromatic Abbest" }],
+                "map_locations": [{ "map": "Abbest Cave", "x": 100, "y": 420}]
+            }
+        ]
+    }
+]
+

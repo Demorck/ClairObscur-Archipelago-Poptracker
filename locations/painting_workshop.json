@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Painting Workshop",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Painting Workshop/Lampmaster" }],
+                "map_locations": [{ "map": "Painting Workshop", "x": 40, "y": 280}]
+            }
+        ]
+
+    }
+]
+

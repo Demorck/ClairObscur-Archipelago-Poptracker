@@ -40,7 +40,7 @@
                 "map_locations": [{ "map": "Esquie's Nest", "x": 96, "y": 575, "size": 16  }]
             },
             {
-                "sections": [{ "ref": "Entrance - Esquie's Nest/François" }],
+                "sections": [{ "ref": "Entrance - Esquie's Nest/Francois" }],
                 "map_locations": [{ "map": "Esquie's Nest", "x": 870, "y": 545, "size": 16  }]
             },
 
@@ -49,7 +49,7 @@
                 "map_locations": [{ "map": "Esquie's Nest", "x": 380, "y": 1110, "size": 16, "shape": "diamond"  }]
             },
             {
-                "sections": [{ "ref": "Entrance - Esquie's Nest/Flag - François" }],
+                "sections": [{ "ref": "Entrance - Esquie's Nest/Flag - Francois" }],
                 "map_locations": [{ "map": "Esquie's Nest", "x": 730, "y": 455, "size": 16, "shape": "diamond"  }]
             }
         ]

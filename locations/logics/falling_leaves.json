@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Entrance - Falling Leaves",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "Middle Continent", "x": 731, "y": 1677, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Left path past Persik near fossilized expeditioners",
+                "access_rules": []
+            },
+            {
+                "name": "Near Glaise on path to Chromatic Ballet",
+                "access_rules": []
+            },
+            {
+                "name": "Between Expedition Flag and Young Boy",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Ballet",
+                "access_rules": []
+            },
+            {
+                "name": "Scavenger",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Merchant Persik",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Flag - Resinveil Grove",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Scavenger",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$north_sea"]
+
+    }
+]
+

@@ -93,7 +93,8 @@
 
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Mime" }],
+                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Near Mime" },
+                             { "ref": "Entrance - Reacher/Ladder Area - Mime" }],
                 "map_locations": [{ "map": "Reacher", "x": 679, "y": 153, "size": 16}]
 
             },
@@ -130,7 +131,23 @@
             {
                 "sections": [{ "ref": "Entrance - Reacher/Foggy Bank - Triple Orphelin platform" }],
                 "map_locations": [{ "map": "Reacher", "x": 571, "y": 246, "size": 16}]
+            },
 
+            {
+                "sections": [{ "ref": "Entrance - Reacher/Alicia" }],
+                "map_locations": [{ "map": "Reacher", "x": 550, "y": 1270, "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Reacher/Peak - Chromatic Braseleur" }],
+                "map_locations": [{ "map": "Reacher", "x": 1085, "y": 1649, "size": 16}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Petank" }],
+                "map_locations": [{ "map": "Reacher", "x": 574, "y": 201, "size": 16}]
+            },
+            {
+                "sections": [],
+                "map_locations": [{ "map": "Reacher", "x": 574, "y": 201, "size": 16}]
             },
 
             {

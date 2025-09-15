@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Entrance - Sinister Cave",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "North Continent", "x": 3081, "y": 2095, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Near glowing nevron",
+                "access_rules": []
+            },
+            {
+                "name": "After long fall",
+                "access_rules": []
+            },
+            {
+                "name": "Beside dead Gestral Merchant",
+                "access_rules": []
+            },
+            
+            {
+                "name": "Chromatic Chalier",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["$north_sea"]
+
+    }
+]
+

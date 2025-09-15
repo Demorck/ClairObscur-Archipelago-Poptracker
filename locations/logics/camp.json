@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Overview - Camp",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x": 189, "y": 322, "shape": "trapezoid"}],
+        "sections": [
+            {
+                "name": "Lost Gestral reward 1",
+                "access_rules": ["$has_lost_gestral|1"]
+            },
+            {
+                "name": "Lost Gestral reward 2",
+                "access_rules": ["$has_lost_gestral|2"]
+            },
+            {
+                "name": "Lost Gestral reward 3",
+                "access_rules": ["$has_lost_gestral|3"]
+            },
+            {
+                "name": "Lost Gestral reward 4",
+                "access_rules": ["$has_lost_gestral|4"]
+            },
+            {
+                "name": "Lost Gestral reward 5",
+                "access_rules": ["$has_lost_gestral|5"]
+            },
+            {
+                "name": "Lost Gestral reward 6",
+                "access_rules": ["$has_lost_gestral|6"]
+            },
+            {
+                "name": "Lost Gestral reward 7",
+                "access_rules": ["$has_lost_gestral|7"]
+            },
+            {
+                "name": "Lost Gestral reward 8",
+                "access_rules": ["$has_lost_gestral|8"]
+            },
+            {
+                "name": "Lost Gestral reward 9",
+                "access_rules": ["$has_lost_gestral|9"]
+            },
+            {
+                "name": "Gestrals - Break Paint Spike",
+                "access_rules": ["paintbreak"]
+            }
+        ]
+
+    }
+]
+

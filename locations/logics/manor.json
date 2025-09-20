@@ -16,7 +16,7 @@
                                  "$sky_no_pp", 
                                  "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
                                  "$north_sea",
-                                 "$firstcont_nw,OldLumiere",
+                                 "$secondcont_nw,OldLumiere",
                                  "$firstcont_north,StoneWaveCliffs",
                                  "$secondcont_ne,FrozenHearts"
                                 ]
@@ -28,7 +28,7 @@
                                  "$sky_no_pp", 
                                  "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
                                  "$north_sea",
-                                 "$firstcont_nw,OldLumiere",
+                                 "$secondcont_nw,OldLumiere",
                                  "$firstcont_north,StoneWaveCliffs",
                                  "$secondcont_ne,FrozenHearts"
                                 ]

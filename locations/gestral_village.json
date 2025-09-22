@@ -3,52 +3,62 @@
         "name": "Gestral Village",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Steal from Victorifo" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 317, "y": 160 }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Steal from Victorifo" }],
+                "name":  "Steal from Victorifo",
+                "map_locations":  [{ "map": "Gestral Village", "x": 317, "y": 160}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Behind the stage" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 485, "y": 200  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Behind the stage" }],
+                "name":  "Behind the stage",
+                "map_locations":  [{ "map": "Gestral Village", "x": 485, "y": 200}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/On scaffolding by the stage" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 170, "y": 175  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/On scaffolding by the stage" }],
+                "name":  "On scaffolding by the stage",
+                "map_locations":  [{ "map": "Gestral Village", "x": 170, "y": 175}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/In the arena" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 64, "y": 74  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/In the arena" }],
+                "name":  "In the arena",
+                "map_locations":  [{ "map": "Gestral Village", "x": 64, "y": 74}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Above the Bazar" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 208, "y": 291  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Above the Bazar" }],
+                "name":  "Above the Bazar",
+                "map_locations":  [{ "map": "Gestral Village", "x": 208, "y": 291}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Barrels near Chef’s House" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 333, "y": 238  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Barrels near Chef's House" }],
+                "name":  "Barrels near Chef's House",
+                "map_locations":  [{ "map": "Gestral Village", "x": 333, "y": 238}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/In paint spike room 1" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 375, "y": 157  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/In paint spike room 1" }],
+                "name":  "In paint spike room 1",
+                "map_locations":  [{ "map": "Gestral Village", "x": 375, "y": 157}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/In paint spike room 2" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 230, "y": 107  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/In paint spike room 2" }],
+                "name":  "In paint spike room 2",
+                "map_locations":  [{ "map": "Gestral Village", "x": 230, "y": 107}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Near casino" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 505, "y": 85  }]
-            },
-
-            
-            {
-                "sections": [{ "ref": "Entrance - Gestral Village/Flag - Gestral Village" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 392, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Near casino" }],
+                "name":  "Near casino",
+                "map_locations":  [{ "map": "Gestral Village", "x": 505, "y": 85}]
             },
             {
-                "sections": [{ "ref": "Entrance - Gestral Village/Flag - Gestral Arena" }],
-                "map_locations": [{ "map": "Gestral Village", "x": 285, "y": 77, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Gestral Village/Flag - Gestral Village" }],
+                "name":  "Flag - Gestral Village",
+                "map_locations":  [{ "map": "Gestral Village", "x": 285, "y": 392, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Gestral Village/Flag - Gestral Arena" }],
+                "name":  "Flag - Gestral Arena",
+                "map_locations":  [{ "map": "Gestral Village", "x": 285, "y": 77, "shape": "diamond"}]
             }
         ]
+
     }
 ]
 

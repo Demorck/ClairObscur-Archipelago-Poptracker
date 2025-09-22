@@ -3,21 +3,24 @@
         "name": "Monoco's Station",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Monoco's Station/Back of station" }],
-                "map_locations": [{ "map": "Monoco's Station", "x": 474, "y": 108  }]
+                "sections":  [{ "ref": "Entrance - Monoco's Station/Back of station" }],
+                "name":  "Back of station",
+                "map_locations":  [{ "map": "Monoco's Station", "x": 474, "y": 108}]
             },
             {
-                "sections": [{ "ref": "Entrance - Monoco's Station/Near Grandis Merchant" }],
-                "map_locations": [{ "map": "Monoco's Station", "x": 387, "y": 84  }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Monoco's Station/Flag - Ice corridor" }],
-                "map_locations": [{ "map": "Monoco's Station", "x": 72, "y": 313, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Monoco's Station/Near Grandis Merchant" }],
+                "name":  "Near Grandis Merchant",
+                "map_locations":  [{ "map": "Monoco's Station", "x": 387, "y": 84}]
             },
             {
-                "sections": [{ "ref": "Entrance - Monoco's Station/Flag - Monoco's Station" }],
-                "map_locations": [{ "map": "Monoco's Station", "x": 318, "y": 132, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Monoco's Station/Flag - Ice corridor" }],
+                "name":  "Flag - Ice corridor",
+                "map_locations":  [{ "map": "Monoco's Station", "x": 72, "y": 313, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Monoco's Station/Flag - Monoco's Station" }],
+                "name":  "Flag - Monoco's Station",
+                "map_locations":  [{ "map": "Monoco's Station", "x": 318, "y": 132, "shape": "diamond"}]
             }
         ]
     }

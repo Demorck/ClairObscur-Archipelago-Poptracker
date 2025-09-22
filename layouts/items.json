@@ -10,76 +10,167 @@
         "margin": "0, 10, 0, 0",
         "content": [
           {
-						"type": "itemgrid",
-						"item_margin": "4, 4",
-						"h_alignment": "left",
-						"rows": [
-                [
-                  "PaintBreak",
-                  "esquie",
-                  "LostGestral",
-                  "Picto",
-                  "PaintedPower"
-                ],
-                [
-                  "HealingTint",
-                  "ReviveTint",
-                  "EnergyTint"
-                ]
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "PaintBreak",
+                "esquie",
+                "LostGestral",
+                "Picto",
+                "PaintedPower"
+              ],
+              [
+                "HealingTint",
+                "ReviveTint",
+                "EnergyTint"
               ]
-          },
-          
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "partymembers": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
           {
-						"type": "itemgrid",
-						"item_margin": "4, 4",
-						"h_alignment": "left",
-						"rows": [
-                [
-                  "Gustave",
-                  "Lune",
-                  "Maelle",
-                  "Sciel",
-                  "Verso",
-                  "Monoco"
-                ]
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "Gustave",
+                "Lune",
+                "Maelle",
+                "Sciel",
+                "Verso",
+                "Monoco"
               ]
-          },
-					{
-						"type": "itemgrid",
-						"item_margin": "4, 4",
-						"h_alignment": "left",
-						"rows": [
-                [
-                  "FlyingWaters",
-                  "AncientSanctuary",
-                  "GestralVillage",
-                  "EsquiesNest",
-                  "StoneWaveCliffs",
-                  "YellowHarvest"
-                ],
-                [
-                  
-                  "ForgottenBattlefield",
-                  "MonocosStation",
-                  "OldLumiere",
-                  "Visages",
-                  "Sirene",
-                  "TheMonolith"
-                ],
-                [
-                  "CrimsonForest",
-                  "TheReacher",
-                  "FrozenHearts",
-                  "Lumiere",
-                  "FlyingManor",
-                  "RenoirsDrafts"
-                ],
-                [
-                  
-                  
-                  
-                  
-                ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "esquie": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "FlyingWaters",
+                "AncientSanctuary",
+                "GestralVillage",
+                "EsquiesNest",
+                "YellowHarvest",
+                "StoneWaveCliffs"
+                
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "esquieswim": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "ForgottenBattlefield",
+                "MonocosStation",
+                "FrozenHearts",
+                "OldLumiere"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "esquiecoral": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "FallingLeaves",
+                "Visages",
+                "Sirene",
+                "TheMonolith"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "esquieflydive": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "CrimsonForest",
+                "TheReacher",
+                "EndlessNightSanctuary",
+                "EndlessTower"
+              ],
+              [
+                "Lumiere",
+                "FlyingManor",
+                "RenoirsDrafts"
+              ]
             ]
           }
         ]

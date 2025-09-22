@@ -4,6 +4,7 @@
         "children": [
             {
                 "sections": [{ "ref": "Entrance - Sirene's Dress/Chromatic Glissando" }],
+                "name":  "Chromatic Glissando",
                 "map_locations": [{ "map": "Sirene's Dress", "x": 80, "y": 420}]
             }
         ]

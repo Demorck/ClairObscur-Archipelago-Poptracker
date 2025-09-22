@@ -3,16 +3,16 @@
         "name": "The Crows",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - The Crows/Item" }],
-                "map_locations": [{ "map": "The Crows", "x": 60, "y": 120}]
+                "sections":  [{ "ref": "Entrance - The Crows/Item" }],
+                "name":  "Item",
+                "map_locations":  [{ "map": "The Crows", "x": 60, "y": 120}]
             },
-
             {
-                "sections": [{ "ref": "Entrance - The Crows/Chromatic Chapelier" }],
-                "map_locations": [{ "map": "The Crows", "x": 40, "y": 420}]
+                "sections":  [{ "ref": "Entrance - The Crows/Chromatic Chapelier" }],
+                "name":  "Chromatic Chapelier",
+                "map_locations":  [{ "map": "The Crows", "x": 40, "y": 420}]
             }
         ]
-
     }
 ]
 

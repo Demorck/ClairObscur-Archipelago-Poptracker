@@ -3,23 +3,26 @@
         "name": "Hidden Gestral Arena",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Hidden Gestral Arena/Julien Tiny Head" }],
-                "map_locations": [{ "map": "Hidden Gestral Arena", "x": 80, "y": 460}]
+                "sections":  [{ "ref": "Entrance - Hidden Gestral Arena/Julien Tiny Head" }],
+                "name":  "Julien Tiny Head",
+                "map_locations":  [{ "map": "Hidden Gestral Arena", "x": 80, "y": 460}]
             },
             {
-                "sections": [{ "ref": "Entrance - Hidden Gestral Arena/Matthieu the Colossus" }],
-                "map_locations": [{ "map": "Hidden Gestral Arena", "x": 100, "y": 460}]
+                "sections":  [{ "ref": "Entrance - Hidden Gestral Arena/Matthieu the Colossus" }],
+                "name":  "Matthieu the Colossus",
+                "map_locations":  [{ "map": "Hidden Gestral Arena", "x": 100, "y": 460}]
             },
             {
-                "sections": [{ "ref": "Entrance - Hidden Gestral Arena/Bertrand Big Hands" }],
-                "map_locations": [{ "map": "Hidden Gestral Arena", "x": 0, "y": 480}]
+                "sections":  [{ "ref": "Entrance - Hidden Gestral Arena/Bertrand Big Hands" }],
+                "name":  "Bertrand Big Hands",
+                "map_locations":  [{ "map": "Hidden Gestral Arena", "x": 0, "y": 480}]
             },
             {
-                "sections": [{ "ref": "Entrance - Hidden Gestral Arena/Dominique Giant Feet" }],
-                "map_locations": [{ "map": "Hidden Gestral Arena", "x": 20, "y": 480}]
+                "sections":  [{ "ref": "Entrance - Hidden Gestral Arena/Dominique Giant Feet" }],
+                "name":  "Dominique Giant Feet",
+                "map_locations":  [{ "map": "Hidden Gestral Arena", "x": 20, "y": 480}]
             }
         ]
-
     }
 ]
 

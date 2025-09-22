@@ -3,116 +3,139 @@
         "name": "Old Lumiere",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - In barrels after grapple" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 215, "y": 350  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - In barrels after grapple" }],
+                "name":  "Left Street - In barrels after grapple",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 215, "y": 350}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - On top of broken pipe" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 236, "y": 435  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - On top of broken pipe" }],
+                "name":  "Left Street - On top of broken pipe",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 236, "y": 435}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - On ledge overlooking rubble" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 537, "y": 364  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - On ledge overlooking rubble" }],
+                "name":  "Right Street - On ledge overlooking rubble",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 537, "y": 364}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - In crawl space" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 477, "y": 355  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - In crawl space" }],
+                "name":  "Right Street - In crawl space",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 477, "y": 355}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - Past ruined doorway" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 30, "y": 266  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - Past ruined doorway" }],
+                "name":  "Left Street - Past ruined doorway",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 30, "y": 266}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - Before Manor Gardens" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 33, "y": 142  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - Before Manor Gardens" }],
+                "name":  "Left Street - Before Manor Gardens",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 33, "y": 142}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Near Paint Cage" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 241, "y": 229  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Near Paint Cage" }],
+                "name":  "Manor Gardens - Near Paint Cage",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 241, "y": 229}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Near Sword of Lumiere" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 416, "y": 184  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Near Sword of Lumiere" }],
+                "name":  "Manor Gardens - Near Sword of Lumiere",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 416, "y": 184}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - Boxes near apartment building" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 544, "y": 320  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - Boxes near apartment building" }],
+                "name":  "Right Street - Boxes near apartment building",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 544, "y": 320}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - After Expedition Flag" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 460, "y": 520  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - After Expedition Flag" }],
+                "name":  "Right Street - After Expedition Flag",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 460, "y": 520}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - After Expedition Flag on buried building" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 520, "y": 553  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - After Expedition Flag on buried building" }],
+                "name":  "Right Street - After Expedition Flag on buried building",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 520, "y": 553}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - In pit between building grapples" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 326, "y": 465  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - In pit between building grapples" }],
+                "name":  "Manor Gardens - In pit between building grapples",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 326, "y": 465}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Above Train Station Ruins Expedition Flag" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 388, "y": 634  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Above Train Station Ruins Expedition Flag" }],
+                "name":  "Manor Gardens - Above Train Station Ruins Expedition Flag",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 388, "y": 634}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Behind gate near hedge maze" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 191, "y": 88  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Behind gate near hedge maze" }],
+                "name":  "Manor Gardens - Behind gate near hedge maze",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 191, "y": 88}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - Before Expedition Flag in ruins" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 326, "y": 533  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - Before Expedition Flag in ruins" }],
+                "name":  "Left Street - Before Expedition Flag in ruins",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 326, "y": 533}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Above Chromatic boss" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 540, "y": 640  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Above Chromatic boss" }],
+                "name":  "Manor Gardens - Above Chromatic boss",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 540, "y": 640}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Left Street - On Chevaliere corpse" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 170, "y": 452  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Left Street - On Chevaliere corpse" }],
+                "name":  "Left Street - On Chevaliere corpse",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 170, "y": 452}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Train Station Ruins - Behind Chromatic boss" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 610, "y": 643  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Train Station Ruins - Behind Chromatic boss" }],
+                "name":  "Train Station Ruins - Behind Chromatic boss",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 610, "y": 643}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Right Street - Overlooking carousel" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 580, "y": 95  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Right Street - Overlooking carousel" }],
+                "name":  "Right Street - Overlooking carousel",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 580, "y": 95}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Paint Cage" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 292, "y": 292  }]
-            },
-
-
-            {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Chromatic Danseuse" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 500, "y": 650  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Manor Gardens - Paint Cage" }],
+                "name":  "Manor Gardens - Paint Cage",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 292, "y": 292}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Mime" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 445, "y": 77  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Chromatic Danseuse" }],
+                "name":  "Chromatic Danseuse",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 500, "y": 650}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Renoir" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 216, "y": 50  }]
-            },
-
-            
-            {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Flag - Entrance" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 440, "y": 730 , "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 445, "y": 77}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Flag - Right Street" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 396, "y": 485 , "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Renoir" }],
+                "name":  "Renoir",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 216, "y": 50}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Flag - Left Street" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 275, "y": 495 , "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Entrance" }],
+                "name":  "Flag - Entrance",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 440, "y": 730, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Old Lumiere/Flag - Manor Gardens" }],
-                "map_locations": [{ "map": "Old Lumiere", "x": 180, "y": 140, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Right Street" }],
+                "name":  "Flag - Right Street",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 396, "y": 485, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Left Street" }],
+                "name":  "Flag - Left Street",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 275, "y": 495, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Manor Gardens" }],
+                "name":  "Flag - Manor Gardens",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 180, "y": 140, "shape": "diamond"}]
             }
         ]
     }

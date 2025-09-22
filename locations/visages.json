@@ -3,114 +3,136 @@
         "name": "Visages",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Visages/Plazza - On cliffside overlooking ocean" }],
-                "map_locations": [{ "map": "Visages", "x": 837, "y": 853  }]
+                "sections":  [{ "ref": "Entrance - Visages/Plazza - On cliffside overlooking ocean" }],
+                "name":  "Plazza - On cliffside overlooking ocean",
+                "map_locations":  [{ "map": "Visages", "x": 837, "y": 853}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Plazza - Near entrance to Anger Vale under boxes" }],
-                "map_locations": [{ "map": "Visages", "x": 830, "y": 603  }]
+                "sections":  [{ "ref": "Entrance - Visages/Plazza - Near entrance to Anger Vale under boxes" }],
+                "name":  "Plazza - Near entrance to Anger Vale under boxes",
+                "map_locations":  [{ "map": "Visages", "x": 830, "y": 603}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - Near chroma-less Expeditioner" }],
-                "map_locations": [{ "map": "Visages", "x": 1470, "y": 1079 }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Near chroma-less Expeditioner" }],
+                "name":  "Anger Vale - Near chroma-less Expeditioner",
+                "map_locations":  [{ "map": "Visages", "x": 1470, "y": 1079}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - Left of boss" }],
-                "map_locations": [{ "map": "Visages", "x": 1647, "y": 931  }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Left of boss" }],
+                "name":  "Anger Vale - Left of boss",
+                "map_locations":  [{ "map": "Visages", "x": 1647, "y": 931}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - Overlooking tower of masks" }],
-                "map_locations": [{ "map": "Visages", "x": 1526, "y": 830  }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Overlooking tower of masks" }],
+                "name":  "Anger Vale - Overlooking tower of masks",
+                "map_locations":  [{ "map": "Visages", "x": 1526, "y": 830}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - On ledge surrounded by enemies" }],
-                "map_locations": [{ "map": "Visages", "x": 1562, "y": 868  }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - On ledge surrounded by enemies" }],
+                "name":  "Anger Vale - On ledge surrounded by enemies",
+                "map_locations":  [{ "map": "Visages", "x": 1562, "y": 868}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - Under Contortionniste corpse" }],
-                "map_locations": [{ "map": "Visages", "x": 1470, "y": 961  }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Under Contortionniste corpse" }],
+                "name":  "Anger Vale - Under Contortionniste corpse",
+                "map_locations":  [{ "map": "Visages", "x": 1470, "y": 961}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Joy Vale - Near floral mannequin" }],
-                "map_locations": [{ "map": "Visages", "x": 175, "y": 657  }]
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - Near floral mannequin" }],
+                "name":  "Joy Vale - Near floral mannequin",
+                "map_locations":  [{ "map": "Visages", "x": 175, "y": 657}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Joy Vale - To the right after Expedition Flag" }],
-                "map_locations": [{ "map": "Visages", "x": 200, "y": 726  }]
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - To the right after Expedition Flag" }],
+                "name":  "Joy Vale - To the right after Expedition Flag",
+                "map_locations":  [{ "map": "Visages", "x": 200, "y": 726}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Joy Vale - Left of Expedition Flag near big tree" }],
-                "map_locations": [{ "map": "Visages", "x": 140, "y": 783  }]
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - Left of Expedition Flag near big tree" }],
+                "name":  "Joy Vale - Left of Expedition Flag near big tree",
+                "map_locations":  [{ "map": "Visages", "x": 140, "y": 783}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Joy Vale - Right of boss near tree" }],
-                "map_locations": [{ "map": "Visages", "x": 125, "y": 583  }]
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - Right of boss near tree" }],
+                "name":  "Joy Vale - Right of boss near tree",
+                "map_locations":  [{ "map": "Visages", "x": 125, "y": 583}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Joy Vale - Left of boss" }],
-                "map_locations": [{ "map": "Visages", "x": 30, "y": 693  }]
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - Left of boss" }],
+                "name":  "Joy Vale - Left of boss",
+                "map_locations":  [{ "map": "Visages", "x": 30, "y": 693}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Sadness Vale - On ledge to the right of massive Contortionnistes" }],
-                "map_locations": [{ "map": "Visages", "x": 250, "y": 243  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - On ledge to the right of massive Contortionnistes" }],
+                "name":  "Sadness Vale - On ledge to the right of massive Contortionnistes",
+                "map_locations":  [{ "map": "Visages", "x": 250, "y": 243}]
             },
             {
-                "sections": [
-                    { "ref": "Entrance - Visages/Sadness Vale - Behind Chromatic Miniboss" },
-                    { "ref": "Entrance - Visages/Chromatic Ramasseur" }
-                ],
-                "map_locations": [{ "map": "Visages", "x": 35, "y": 193  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Behind Chromatic Miniboss", "name": "Entrance - Visages/Sadness Vale - Behind Chromatic Miniboss" },
+                              { "ref": "Entrance - Visages/Chromatic Ramasseur", "name": "Entrance - Visages/Chromatic Ramasseur" }],
+                "map_locations":  [{ "map": "Visages", "x": 35, "y": 193}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Sadness Vale - Right of boss right path" }],
-                "map_locations": [{ "map": "Visages", "x": 292, "y": 230  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Right of boss right path" }],
+                "name":  "Sadness Vale - Right of boss right path",
+                "map_locations":  [{ "map": "Visages", "x": 292, "y": 230}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Sadness Vale - Right of boss on cliffside" }],
-                "map_locations": [{ "map": "Visages", "x": 207, "y": 124  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Right of boss on cliffside" }],
+                "name":  "Sadness Vale - Right of boss on cliffside",
+                "map_locations":  [{ "map": "Visages", "x": 207, "y": 124}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Sadness Vale - Left of massive Contortionnistes" }],
-                "map_locations": [{ "map": "Visages", "x": 175, "y": 274  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Left of massive Contortionnistes" }],
+                "name":  "Sadness Vale - Left of massive Contortionnistes",
+                "map_locations":  [{ "map": "Visages", "x": 175, "y": 274}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Sadness Vale - Before Chromatic miniboss" }],
-                "map_locations": [{ "map": "Visages", "x": 100, "y": 253  }]
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Before Chromatic miniboss" }],
+                "name":  "Sadness Vale - Before Chromatic miniboss",
+                "map_locations":  [{ "map": "Visages", "x": 100, "y": 253}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Anger Vale - Right of boss near boxes" }],
-                "map_locations": [{ "map": "Visages", "x": 1570, "y": 1054  }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Visages/Mime" }],
-                "map_locations": [{ "map": "Visages", "x": 57, "y": 737  }]
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Right of boss near boxes" }],
+                "name":  "Anger Vale - Right of boss near boxes",
+                "map_locations":  [{ "map": "Visages", "x": 1570, "y": 1054}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Mask Keeper" }],
-                "map_locations": [{ "map": "Visages", "x": 1088, "y": 58   }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Visages/Flag - Plazza" }],
-                "map_locations": [{ "map": "Visages", "x": 720, "y": 637, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Visages/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Visages", "x": 57, "y": 737}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Flag - Sadness Vale" }],
-                "map_locations": [{ "map": "Visages", "x": 227, "y": 261, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Visages/Mask Keeper" }],
+                "name":  "Mask Keeper",
+                "map_locations":  [{ "map": "Visages", "x": 1088, "y": 58}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Flag - Anger Vale" }],
-                "map_locations": [{ "map": "Visages", "x": 1472, "y": 925, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Visages/Flag - Plazza" }],
+                "name":  "Flag - Plazza",
+                "map_locations":  [{ "map": "Visages", "x": 720, "y": 637, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Flag - Joy Vale" }],
-                "map_locations": [{ "map": "Visages", "x": 223, "y": 768 , "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Visages/Flag - Sadness Vale" }],
+                "name":  "Flag - Sadness Vale",
+                "map_locations":  [{ "map": "Visages", "x": 227, "y": 261, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Visages/Flag - Peak" }],
-                "map_locations": [{ "map": "Visages", "x": 908, "y": 102, "shape": "diamond"  }]
+                "sections":  [{ "ref": "Entrance - Visages/Flag - Anger Vale" }],
+                "name":  "Flag - Anger Vale",
+                "map_locations":  [{ "map": "Visages", "x": 1472, "y": 925, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Visages/Flag - Joy Vale" }],
+                "name":  "Flag - Joy Vale",
+                "map_locations":  [{ "map": "Visages", "x": 223, "y": 768, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Visages/Flag - Peak" }],
+                "name":  "Flag - Peak",
+                "map_locations":  [{ "map": "Visages", "x": 908, "y": 102, "shape": "diamond"}]
             }
         ]
+
     }
 ]

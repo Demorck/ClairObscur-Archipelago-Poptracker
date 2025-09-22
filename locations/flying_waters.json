@@ -3,147 +3,181 @@
         "name": "Flying Waters",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - On raised platform" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 460, "y": 430}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - On raised platform" }],
+                "name":  "Coral Cave - On raised platform",
+                "map_locations":  [{ "map": "Flying Waters", "x": 460, "y": 430}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - Minefield item 2" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 660, "y": 320}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - Minefield item 2" }],
+                "name":  "Entrance - Minefield item 2",
+                "map_locations":  [{ "map": "Flying Waters", "x": 660, "y": 320}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - Behind Manor door" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 755, "y": 145 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - Behind Manor door" }],
+                "name":  "Noco's Hut - Behind Manor door",
+                "map_locations":  [{ "map": "Flying Waters", "x": 755, "y": 145}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - On top of stone tower" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 555, "y": 140 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - On top of stone tower" }],
+                "name":  "Noco's Hut - On top of stone tower",
+                "map_locations":  [{ "map": "Flying Waters", "x": 555, "y": 140}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - Next to Goblu anvil" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 510, "y": 280 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - Next to Goblu anvil" }],
+                "name":  "Noco's Hut - Next to Goblu anvil",
+                "map_locations":  [{ "map": "Flying Waters", "x": 510, "y": 280}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - Near anchored Expedition" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 655, "y": 460 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - Near anchored Expedition" }],
+                "name":  "Entrance - Near anchored Expedition",
+                "map_locations":  [{ "map": "Flying Waters", "x": 655, "y": 460}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Right of Expedition Flag" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 465, "y": 345 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Right of Expedition Flag" }],
+                "name":  "Coral Cave - Right of Expedition Flag",
+                "map_locations":  [{ "map": "Flying Waters", "x": 465, "y": 345}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Near dead expeditioner" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 415, "y": 485 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Near dead expeditioner" }],
+                "name":  "Coral Cave - Near dead expeditioner",
+                "map_locations":  [{ "map": "Flying Waters", "x": 415, "y": 485}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Lumerian Streets - Behind Chromatic miniboss" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 88, "y": 655}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - Behind Chromatic miniboss" }],
+                "name":  "Lumerian Streets - Behind Chromatic miniboss",
+                "map_locations":  [{ "map": "Flying Waters", "x": 88, "y": 655}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Near lantern coral" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 477, "y": 412}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Near lantern coral" }],
+                "name":  "Coral Cave - Near lantern coral",
+                "map_locations":  [{ "map": "Flying Waters", "x": 477, "y": 412}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - After Expedition Flag" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 650, "y": 143 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - After Expedition Flag" }],
+                "name":  "Noco's Hut - After Expedition Flag",
+                "map_locations":  [{ "map": "Flying Waters", "x": 650, "y": 143}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Flower Fields - Near Expedition Flag" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 115, "y": 515}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Flower Fields - Near Expedition Flag" }],
+                "name":  "Flower Fields - Near Expedition Flag",
+                "map_locations":  [{ "map": "Flying Waters", "x": 115, "y": 515}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Lumerian Streets - In Paint Spike" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 90, "y": 655 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - In Paint Spike" }],
+                "name":  "Lumerian Streets - In Paint Spike",
+                "map_locations":  [{ "map": "Flying Waters", "x": 90, "y": 655}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - In inlet in first room" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 653, "y": 565 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - In inlet in first room" }],
+                "name":  "Entrance - In inlet in first room",
+                "map_locations":  [{ "map": "Flying Waters", "x": 653, "y": 565}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - On broken pillar" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 455, "y": 95 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - On broken pillar" }],
+                "name":  "Noco's Hut - On broken pillar",
+                "map_locations":  [{ "map": "Flying Waters", "x": 455, "y": 95}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Past long seaweed" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 412, "y": 438 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Past long seaweed" }],
+                "name":  "Coral Cave - Past long seaweed",
+                "map_locations":  [{ "map": "Flying Waters", "x": 412, "y": 438}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Lumerian Streets - Near shopping stand" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 40, "y": 565 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - Near shopping stand" }],
+                "name":  "Lumerian Streets - Near shopping stand",
+                "map_locations":  [{ "map": "Flying Waters", "x": 40, "y": 565}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Lumerian Streets - By floating house" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 225, "y": 730 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - By floating house" }],
+                "name":  "Lumerian Streets - By floating house",
+                "map_locations":  [{ "map": "Flying Waters", "x": 225, "y": 730}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - In minefield" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 640, "y": 305}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - In minefield" }],
+                "name":  "Entrance - In minefield",
+                "map_locations":  [{ "map": "Flying Waters", "x": 640, "y": 305}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Noco's Hut - After platforming near friendly Nevron" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 530, "y": 47 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco's Hut - After platforming near friendly Nevron" }],
+                "name":  "Noco's Hut - After platforming near friendly Nevron",
+                "map_locations":  [{ "map": "Flying Waters", "x": 530, "y": 47}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - Second room up ramp" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 600, "y": 410 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - Second room up ramp" }],
+                "name":  "Entrance - Second room up ramp",
+                "map_locations":  [{ "map": "Flying Waters", "x": 600, "y": 410}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - In inlet in second room" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 640, "y": 410 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - In inlet in second room" }],
+                "name":  "Entrance - In inlet in second room",
+                "map_locations":  [{ "map": "Flying Waters", "x": 640, "y": 410}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Lumerian Streets - On a rock with boxes" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 60, "y": 580 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - On a rock with boxes" }],
+                "name":  "Lumerian Streets - On a rock with boxes",
+                "map_locations":  [{ "map": "Flying Waters", "x": 60, "y": 580}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Entrance - On main path" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 695, "y": 490 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Entrance - On main path" }],
+                "name":  "Entrance - On main path",
+                "map_locations":  [{ "map": "Flying Waters", "x": 695, "y": 490}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Past platforming pillars" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 255, "y": 430 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Past platforming pillars" }],
+                "name":  "Coral Cave - Past platforming pillars",
+                "map_locations":  [{ "map": "Flying Waters", "x": 255, "y": 430}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Paint Cage" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 290, "y": 357 }]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Paint Cage" }],
+                "name":  "Coral Cave - Paint Cage",
+                "map_locations":  [{ "map": "Flying Waters", "x": 290, "y": 357}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Coral Cave - Behind Mime" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 255, "y": 595}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Waters/Bourgeon" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 150, "y": 465}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Behind Mime" }],
+                "name":  "Coral Cave - Behind Mime",
+                "map_locations":  [{ "map": "Flying Waters", "x": 255, "y": 595}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Chromatic Troubador" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 250, "y": 635}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Bourgeon" }],
+                "name":  "Bourgeon",
+                "map_locations":  [{ "map": "Flying Waters", "x": 150, "y": 465}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Mime" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 270, "y": 580}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Chromatic Troubador" }],
+                "name":  "Chromatic Troubador",
+                "map_locations":  [{ "map": "Flying Waters", "x": 250, "y": 635}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Goblu" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 180, "y": 380}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Waters/Flag - Noco's Hut" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 685, "y": 165, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Flying Waters", "x": 270, "y": 580}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Flag - Coral Cave" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 485, "y": 360, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Goblu" }],
+                "name":  "Goblu",
+                "map_locations":  [{ "map": "Flying Waters", "x": 180, "y": 380}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Flag - Lumerian Streets" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 185, "y": 560, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Flag - Noco's Hut" }],
+                "name":  "Flag - Noco's Hut",
+                "map_locations":  [{ "map": "Flying Waters", "x": 685, "y": 165, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Waters/Flag - Flower Fields" }],
-                "map_locations": [{ "map": "Flying Waters", "x": 90, "y": 435, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Flying Waters/Flag - Coral Cave" }],
+                "name":  "Flag - Coral Cave",
+                "map_locations":  [{ "map": "Flying Waters", "x": 485, "y": 360, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Flying Waters/Flag - Lumerian Streets" }],
+                "name":  "Flag - Lumerian Streets",
+                "map_locations":  [{ "map": "Flying Waters", "x": 185, "y": 560, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Flying Waters/Flag - Flower Fields" }],
+                "name":  "Flag - Flower Fields",
+                "map_locations":  [{ "map": "Flying Waters", "x": 90, "y": 435, "shape": "diamond"}]
             }
         ]
+
     }
 ]

@@ -3,32 +3,36 @@
         "name": "The Chosen Path",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Complete all Canvases" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 100, "y": 100}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Benisseur" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 40, "y": 440}]
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Complete all Canvases" }],
+                "name":  "Complete all Canvases",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 100, "y": 100}]
             },
             {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Contorsionniste" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 60, "y": 440}]
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Benisseur" }],
+                "name":  "Benisseur",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 40, "y": 440}]
             },
             {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Glaise" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 80, "y": 440}]
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Contorsionniste" }],
+                "name":  "Contorsionniste",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 60, "y": 440}]
             },
             {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Jar" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 100, "y": 440}]
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Glaise" }],
+                "name":  "Glaise",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 80, "y": 440}]
             },
             {
-                "sections": [{ "ref": "Entrance - The Chosen Path/Stalact" }],
-                "map_locations": [{ "map": "The Chosen Path", "x": 0, "y": 460}]
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Jar" }],
+                "name":  "Jar",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 100, "y": 440}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - The Chosen Path/Stalact" }],
+                "name":  "Stalact",
+                "map_locations":  [{ "map": "The Chosen Path", "x": 0, "y": 460}]
             }
         ]
-
     }
 ]
 

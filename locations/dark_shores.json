@@ -3,42 +3,52 @@
         "name": "Dark Shores",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: In barrel behind two Nevrons" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 121, "y": 95}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: In barrel behind two Nevrons" }],
+                "name":  "Dark Shores: In barrel behind two Nevrons",
+                "map_locations":  [{ "map": "Dark Shores", "x": 121, "y": 95}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Right side item 1" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 169, "y": 233}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Right side item 1" }],
+                "name":  "Dark Shores: Right side item 1",
+                "map_locations":  [{ "map": "Dark Shores", "x": 169, "y": 233}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: In boxes 2" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 45, "y": 37}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: In boxes 2" }],
+                "name":  "Dark Shores: In boxes 2",
+                "map_locations":  [{ "map": "Dark Shores", "x": 45, "y": 37}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Right side item 2" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 173, "y": 175}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Right side item 2" }],
+                "name":  "Dark Shores: Right side item 2",
+                "map_locations":  [{ "map": "Dark Shores", "x": 173, "y": 175}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Behind two Nevrons" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 80, "y": 108}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Behind two Nevrons" }],
+                "name":  "Dark Shores: Behind two Nevrons",
+                "map_locations":  [{ "map": "Dark Shores", "x": 80, "y": 108}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Near boat" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 163, "y": 39}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Near boat" }],
+                "name":  "Dark Shores: Near boat",
+                "map_locations":  [{ "map": "Dark Shores", "x": 163, "y": 39}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Near lantern" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 47, "y": 191}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Near lantern" }],
+                "name":  "Dark Shores: Near lantern",
+                "map_locations":  [{ "map": "Dark Shores", "x": 47, "y": 191}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: Between two Nevrons" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 100, "y": 127}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: Between two Nevrons" }],
+                "name":  "Dark Shores: Between two Nevrons",
+                "map_locations":  [{ "map": "Dark Shores", "x": 100, "y": 127}]
             },
             {
-                "sections": [{ "ref": "Entrance - Dark Shores/Dark Shores: In boxes 1" }],
-                "map_locations": [{ "map": "Dark Shores", "x": 39, "y": 107}]
+                "sections":  [{ "ref": "Entrance - Dark Shores/Dark Shores: In boxes 1" }],
+                "name":  "Dark Shores: In boxes 1",
+                "map_locations":  [{ "map": "Dark Shores", "x": 39, "y": 107}]
             }
         ]
+
 
     }
 ]

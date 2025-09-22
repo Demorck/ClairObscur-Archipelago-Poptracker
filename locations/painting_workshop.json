@@ -4,6 +4,7 @@
         "children": [
             {
                 "sections": [{ "ref": "Entrance - Painting Workshop/Lampmaster" }],
+                "name":  "Lampmaster",
                 "map_locations": [{ "map": "Painting Workshop", "x": 40, "y": 280}]
             }
         ]

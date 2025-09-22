@@ -3,28 +3,31 @@
         "name": "Stone Wave Cliffs Cave",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Stonewave Cliffs Cave/Behind Chromatic Hexga" }],
-                "map_locations": [{ "map": "Stonewave Cliffs Cave", "x": 20, "y": 100}]
+                "sections":  [{ "ref": "Entrance - Stonewave Cliffs Cave/Behind Chromatic Hexga" }],
+                "name":  "Behind Chromatic Hexga",
+                "map_locations":  [{ "map": "Stonewave Cliffs Cave", "x": 20, "y": 100}]
             },
             {
-                "sections": [{ "ref": "Entrance - Stonewave Cliffs Cave/Through ruined archway" }],
-                "map_locations": [{ "map": "Stonewave Cliffs Cave", "x": 40, "y": 100}]
+                "sections":  [{ "ref": "Entrance - Stonewave Cliffs Cave/Through ruined archway" }],
+                "name":  "Through ruined archway",
+                "map_locations":  [{ "map": "Stonewave Cliffs Cave", "x": 40, "y": 100}]
             },
             {
-                "sections": [{ "ref": "Entrance - Stonewave Cliffs Cave/Near rocks before Chromatic Hexga" }],
-                "map_locations": [{ "map": "Stonewave Cliffs Cave", "x": 60, "y": 100}]
+                "sections":  [{ "ref": "Entrance - Stonewave Cliffs Cave/Near rocks before Chromatic Hexga" }],
+                "name":  "Near rocks before Chromatic Hexga",
+                "map_locations":  [{ "map": "Stonewave Cliffs Cave", "x": 60, "y": 100}]
             },
             {
-                "sections": [{ "ref": "Entrance - Stonewave Cliffs Cave/Paint Cage" }],
-                "map_locations": [{ "map": "Stonewave Cliffs Cave", "x": 80, "y": 100}]
+                "sections":  [{ "ref": "Entrance - Stonewave Cliffs Cave/Paint Cage" }],
+                "name":  "Paint Cage",
+                "map_locations":  [{ "map": "Stonewave Cliffs Cave", "x": 80, "y": 100}]
             },
-
             {
-                "sections": [{ "ref": "Entrance - Stone Wave Cliffs Cave/Chromatic Hexga" }],
-                "map_locations": [{ "map": "Stone Wave Cliffs Cave", "x": 60, "y": 420}]
+                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs Cave/Chromatic Hexga" }],
+                "name":  "Chromatic Hexga",
+                "map_locations":  [{ "map": "Stone Wave Cliffs Cave", "x": 60, "y": 420}]
             }
         ]
-
     }
 ]
 

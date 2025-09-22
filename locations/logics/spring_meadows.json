@@ -109,6 +109,10 @@
         "name": "Abandoned Expeditioner Camp - Near lower paint spike",
         "access_rules": ["PaintBreak"]
       },
+      {
+        "name": "Entrance - In the waterfall behind start",
+        "access_rules": []
+      },
 
       
       {

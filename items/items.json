@@ -272,7 +272,7 @@
   },
   {
     "name": "Area - Endless Night Sanctuary",
-    "codes": "Endless NightSanctuary",
+    "codes": "EndlessNightSanctuary",
     "img": "images/items/endless_night_sanctuary.png",
     "type": "toggle"
   },

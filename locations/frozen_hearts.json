@@ -3,193 +3,196 @@
         "name": "Frozen Hearts",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 1" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1314, "y": 302}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 1" }],
+                "name":  "Glacial Falls - Chromatic Veilleur Ice Cave item 1",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1314, "y": 302}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - On broken train tracks" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1536, "y": 228}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - On broken train tracks" }],
+                "name":  "Icebound Train Station - On broken train tracks",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1536, "y": 228}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Platform to left of entrance to first room" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1526, "y": 292}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Platform to left of entrance to first room" }],
+                "name":  "Icebound Train Station - Platform to left of entrance to first room",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1526, "y": 292}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebount Train Station - Chromatic Veilleur Ice Cave item 2" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1158, "y": 283}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Chromatic Veilleur Ice Cave item 2" }],
+                "name":  "Icebound Train Station - Chromatic Veilleur Ice Cave item 2",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1158, "y": 283}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Past Paint Cage" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1339, "y": 183}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Past Paint Cage" }],
+                "name":  "Icebound Train Station - Past Paint Cage",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1339, "y": 183}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Right of station entrance near Danseuse corpse" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 972, "y": 257}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Right of station entrance near Danseuse corpse" }],
+                "name":  "Glacial Falls - Right of station entrance near Danseuse corpse",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 972, "y": 257}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Paint Cage 1" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1236, "y": 20}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Paint Cage 1" }],
+                "name":  "Glacial Falls - Paint Cage 1",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1236, "y": 20}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 4" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1104, "y": 428}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 4" }],
+                "name":  "Glacial Falls - Chromatic Veilleur Ice Cave item 4",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1104, "y": 428}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Paint Cage 2" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1167, "y": 411}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Paint Cage 2" }],
+                "name":  "Glacial Falls - Paint Cage 2",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1167, "y": 411}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Between Expedition Flag and tracks to Danseuse Teacher" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1521, "y": 532}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Between Expedition Flag and tracks to Danseuse Teacher" }],
+                "name":  "Glacial Falls - Between Expedition Flag and tracks to Danseuse Teacher",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1521, "y": 532}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Behind train near entrance" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1602, "y": 166}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Behind train near entrance" }],
+                "name":  "Icebound Train Station - Behind train near entrance",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1602, "y": 166}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Red ice nook in first area" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1443, "y": 394}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Red ice nook in first area" }],
+                "name":  "Icebound Train Station - Red ice nook in first area",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1443, "y": 394}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Expedition Flag item 1" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1414, "y": 541}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Expedition Flag item 1" }],
+                "name":  "Glacial Falls - Above Expedition Flag item 1",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1414, "y": 541}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Ledge overlooking entrance" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1432, "y": 307}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Ledge overlooking entrance" }],
+                "name":  "Icebound Train Station - Ledge overlooking entrance",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1432, "y": 307}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above giant pit item 1" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1284, "y": 520}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above giant pit item 1" }],
+                "name":  "Glacial Falls - Above giant pit item 1",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1284, "y": 520}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Behind double Braseleur near giant pit" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1284, "y": 549}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Behind double Braseleur near giant pit" }],
+                "name":  "Glacial Falls - Behind double Braseleur near giant pit",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1284, "y": 549}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Near handholds leading to shortcut back to Expedition Flag" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1265, "y": 262}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Near handholds leading to shortcut back to Expedition Flag" }],
+                "name":  "Glacial Falls - Near handholds leading to shortcut back to Expedition Flag",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1265, "y": 262}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - On train tracks above handholds" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1244, "y": 251}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - On train tracks above handholds" }],
+                "name":  "Glacial Falls - On train tracks above handholds",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1244, "y": 251}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - First room right path on cliffside" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1447, "y": 163}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - First room right path on cliffside" }],
+                "name":  "Icebound Train Station - First room right path on cliffside",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1447, "y": 163}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - above giant pit item 2" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1251, "y": 453}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - above giant pit item 2" }],
+                "name":  "Glacial Falls - above giant pit item 2",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1251, "y": 453}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Expedition Flag item 2" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1418, "y": 569}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Expedition Flag item 2" }],
+                "name":  "Glacial Falls - Above Expedition Flag item 2",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1418, "y": 569}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 3" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1128, "y": 196}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Chromatic Veilleur Ice Cave item 3" }],
+                "name":  "Glacial Falls - Chromatic Veilleur Ice Cave item 3",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1128, "y": 196}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Terminal - Behind zone boss" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 90, "y": 447}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Terminal - Behind zone boss" }],
+                "name":  "Icebound Terminal - Behind zone boss",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 90, "y": 447}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Expedition Flag" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 785, "y": 450}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Expedition Flag" }],
+                "name":  "Iced Heart - Near Expedition Flag",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 785, "y": 450}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Under dead Grandis" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 690, "y": 555}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Icebound Train Station - Under dead Grandis" }],
+                "name":  "Icebound Train Station - Under dead Grandis",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 690, "y": 555}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 1" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 475, "y": 360}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 1" }],
+                "name":  "Iced Heart - Near Mime after floating trains item 1",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 475, "y": 360}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 2" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 543, "y": 341}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 2" }],
+                "name":  "Iced Heart - Near Mime after floating trains item 2",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 543, "y": 341}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Danseuse Teacher" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1351, "y": 398}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Above Danseuse Teacher" }],
+                "name":  "Glacial Falls - Above Danseuse Teacher",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1351, "y": 398}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 3" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 646, "y": 319}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Iced Heart - Near Mime after floating trains item 3" }],
+                "name":  "Iced Heart - Near Mime after floating trains item 3",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 646, "y": 319}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Behind Stalact near station entrance" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1082, "y": 209}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Gargant" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 178, "y": 514}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Glacial Falls - Behind Stalact near station entrance" }],
+                "name":  "Glacial Falls - Behind Stalact near station entrance",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1082, "y": 209}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Chromatic Veilleur" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1072, "y": 313}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Gargant" }],
+                "name":  "Gargant",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 178, "y": 514}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Mime" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 516, "y": 293}]
-
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Chromatic Veilleur" }],
+                "name":  "Chromatic Veilleur",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1072, "y": 313}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Petank" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 930, "y": 276}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Flag - Icebound Train Station" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1587, "y": 255, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 516, "y": 293}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Flag - Glacial Falls" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 1406, "y": 525, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Petank" }],
+                "name":  "Petank",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 930, "y": 276}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Flag - Iced Heart" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 776, "y": 414, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Flag - Icebound Train Station" }],
+                "name":  "Flag - Icebound Train Station",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1587, "y": 255, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Frozen Hearts/Flag - Icebound Terminal" }],
-                "map_locations": [{ "map": "Frozen Hearts", "x": 375, "y": 514, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Flag - Glacial Falls" }],
+                "name":  "Flag - Glacial Falls",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 1410, "y": 515, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Flag - Iced Heart" }],
+                "name":  "Flag - Iced Heart",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 776, "y": 414, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Flag - Icebound Terminal" }],
+                "name":  "Flag - Icebound Terminal",
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 375, "y": 514, "shape": "diamond"}]
             }
         ]
+
     }
 ]

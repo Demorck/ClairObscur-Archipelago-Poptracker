@@ -19,19 +19,19 @@
   },
   {
     "name": "Spring Meadows",
-    "location_size": 8,
+    "location_size": 10,
     "location_border_thickness": 2,
     "img": "images/maps/spring_meadows.png"
   },
   {
     "name": "Flying Waters",
-    "location_size": 8,
+    "location_size": 10,
     "location_border_thickness": 2,
     "img": "images/maps/flying_waters.png"
   },
   {
     "name": "Ancient Sanctuary",
-    "location_size": 8,
+    "location_size": 10,
     "location_border_thickness": 2,
     "img": "images/maps/ancient_sanctuary.png"
   },
@@ -43,19 +43,19 @@
   },
   {
     "name": "Esquie's Nest",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/esquies_nest.png"
   },
   {
     "name": "Stone Wave Cliffs",
-    "location_size": 16,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/stone_wave_cliffs.png"
   },
   {
     "name": "Forgotten Battlefield",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/forgotten_battlefield.png"
   },
@@ -91,13 +91,13 @@
   },
   {
     "name": "Lumiere",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/lumiere.png"
   },
   {
     "name": "Yellow Harvest",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/yellow_harvest.png"
   },
@@ -115,25 +115,25 @@
   },
   {
     "name": "Flying Manor",
-    "location_size": 8,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/flying_manor.png"
   },
   {
     "name": "Frozen Hearts",
-    "location_size": 16,
+    "location_size": 20,
     "location_border_thickness": 2,
     "img": "images/maps/frozen_hearts.png"
   },
   {
     "name": "Reacher",
-    "location_size": 8,
+    "location_size": 16,
     "location_border_thickness": 2,
     "img": "images/maps/the_reacher.png"
   },
   {
     "name": "Renoir's Draft",
-    "location_size": 8,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/renoirs_draft.png"
   },
@@ -163,7 +163,7 @@
   },
   {
     "name": "Falling Leaves",
-    "location_size": 8,
+    "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/orange_forest.png"
   },

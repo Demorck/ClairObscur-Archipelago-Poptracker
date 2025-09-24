@@ -3,144 +3,176 @@
         "name": "Forgotten Battlefieldz",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side wooden deck" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 946, "y": 562, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side wooden deck" }],
+                "name":  "Main Gate - Left side wooden deck",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 946, "y": 562}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Right side near outer wall" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 1030, "y": 301, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Right side near outer wall" }],
+                "name":  "Main Gate - Right side near outer wall",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1030, "y": 301}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - In left ruins near dead end" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 934, "y": 110, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - In left ruins near dead end" }],
+                "name":  "Fort Ruins - In left ruins near dead end",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 934, "y": 110}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - On wooden platform near Petank end" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 805, "y": 500 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - On wooden platform near Petank end" }],
+                "name":  "Battlefield - On wooden platform near Petank end",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 805, "y": 500}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Chalier sword" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 900, "y": 490 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Chalier sword" }],
+                "name":  "Main Gate - Near Chalier sword",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 900, "y": 490}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side dead end" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 795, "y": 530 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side dead end" }],
+                "name":  "Main Gate - Left side dead end",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 795, "y": 530}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - On platform after Expedition Flag" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 1022, "y": 380 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - On platform after Expedition Flag" }],
+                "name":  "Main Gate - On platform after Expedition Flag",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1022, "y": 380}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Other side of left entrance corpse pile" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 985, "y": 495 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Other side of left entrance corpse pile" }],
+                "name":  "Main Gate - Other side of left entrance corpse pile",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 985, "y": 495}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - Near Expedition Flag" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 640, "y": 446 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - Near Expedition Flag" }],
+                "name":  "Battlefield - Near Expedition Flag",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 640, "y": 446}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - In maze" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 618, "y": 270 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - In maze" }],
+                "name":  "Vanguard Point - In maze",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 618, "y": 270}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - In front of Chromatic miniboss" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 666, "y": 237 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - In front of Chromatic miniboss" }],
+                "name":  "Vanguard Point - In front of Chromatic miniboss",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 666, "y": 237}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - On ledge overlooking battlefield" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 964, "y": 204 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - On ledge overlooking battlefield" }],
+                "name":  "Fort Ruins - On ledge overlooking battlefield",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 964, "y": 204}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - Below Expedition Flag" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 772, "y": 350 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - Below Expedition Flag" }],
+                "name":  "Vanguard Point - Below Expedition Flag",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 772, "y": 350}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - Above Chromatic miniboss" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 660, "y": 200 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Vanguard Point - Above Chromatic miniboss" }],
+                "name":  "Vanguard Point - Above Chromatic miniboss",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 660, "y": 200}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - In box" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 800, "y": 420 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - In box" }],
+                "name":  "Battlefield - In box",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 800, "y": 420}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Grandis corpses" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 1015, "y": 252 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Grandis corpses" }],
+                "name":  "Main Gate - Near Grandis corpses",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1015, "y": 252}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - After bridge" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 285, "y": 335 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - After bridge" }],
+                "name":  "Ancient Bridge - After bridge",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 285, "y": 335}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - Before grave" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 195, "y": 200 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - Before grave" }],
+                "name":  "Ancient Bridge - Before grave",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 195, "y": 200}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Chest" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 910, "y": 196, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Chest" }],
+                "name":  "Fort Ruins - Chest",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 910, "y": 196}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near burning tree" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 855, "y": 260, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near burning tree" }],
+                "name":  "Main Gate - Near burning tree",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 855, "y": 260}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side in a box" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 840, "y": 492, "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Left side in a box" }],
+                "name":  "Main Gate - Left side in a box",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 840, "y": 492}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Grandis and Chalier corpses" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 936, "y": 254 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Main Gate - Near Grandis and Chalier corpses" }],
+                "name":  "Main Gate - Near Grandis and Chalier corpses",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 936, "y": 254}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Dead end" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 1015, "y": 142 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Dead end" }],
+                "name":  "Fort Ruins - Dead end",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1015, "y": 142}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Behind Paint Spike" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 912, "y": 100 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - Behind Paint Spike" }],
+                "name":  "Fort Ruins - Behind Paint Spike",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 912, "y": 100}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - Paint Cage" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 485, "y": 405 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Battlefield - Paint Cage" }],
+                "name":  "Battlefield - Paint Cage",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 485, "y": 405}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - In crawlspace below bridge" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 370, "y": 287 , "size": 15 }]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Chromatic Luster" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 645, "y": 235 , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Ancient Bridge - In crawlspace below bridge" }],
+                "name":  "Ancient Bridge - In crawlspace below bridge",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 370, "y": 287}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Dualliste" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 425, "y": 280  , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Chromatic Luster" }],
+                "name":  "Chromatic Luster",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 645, "y": 235}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Petank" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 681, "y": 470, "size": 15 }]
-            },
-
-
-            {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Flag - Main Gate" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 1120, "y": 377, "shape": "diamond" , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Dualliste" }],
+                "name":  "Dualliste",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 425, "y": 280}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Flag - Fort Ruins" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 895, "y": 192, "shape": "diamond" , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Petank" }],
+                "name":  "Petank",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 681, "y": 470}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Flag - Vanguard Point" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 824, "y": 316, "shape": "diamond" , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Main Gate" }],
+                "name":  "Flag - Main Gate",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1120, "y": 377, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Flag - Battlefield" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 650, "y": 414, "shape": "diamond" , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Fort Ruins" }],
+                "name":  "Flag - Fort Ruins",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 895, "y": 192, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Forgotten Battlefield/Flag - Ancient Bridge" }],
-                "map_locations": [{ "map": "Forgotten Battlefield", "x": 452, "y": 275, "shape": "diamond" , "size": 15 }]
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Vanguard Point" }],
+                "name":  "Flag - Vanguard Point",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 824, "y": 316, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Battlefield" }],
+                "name":  "Flag - Battlefield",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 650, "y": 414, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Ancient Bridge" }],
+                "name":  "Flag - Ancient Bridge",
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 452, "y": 275, "shape": "diamond"}]
             }
         ]
+
     }
 ]

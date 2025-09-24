@@ -3,240 +3,241 @@
         "name": "Flying Manor",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Central Platform - Near easels" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 670, "y": 564, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Central Platform - Near easels" }],
+                "name":  "Central Platform - Near easels",
+                "map_locations":  [{ "map": "Flying Manor", "x": 670, "y": 564}]
             },
             {
-                "sections": [
-                    { "ref": "Entrance - Flying Manor/Dualliste Wing - Near Stalact" },
-                    { "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Grosse Tete" }
-                ],
-                "map_locations": [{ "map": "Flying Manor", "x": 450, "y": 430, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Near Stalact", "name": "Entrance - Flying Manor/Dualliste Wing - Near Stalact" },
+                              { "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Grosse Tete", "name": "Entrance - Flying Manor/Dualliste Wing - Behind Grosse Tete" }],
+                "map_locations":  [{ "map": "Flying Manor", "x": 450, "y": 430}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Central Platform - Left of path to area boss" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 617, "y": 425, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Central Platform - Left of path to area boss" }],
+                "name":  "Central Platform - Left of path to area boss",
+                "map_locations":  [{ "map": "Flying Manor", "x": 617, "y": 425}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind double Gold Chevaliere" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 484, "y": 519, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind double Gold Chevaliere" }],
+                "name":  "Dualliste Wing - Behind double Gold Chevaliere",
+                "map_locations":  [{ "map": "Flying Manor", "x": 484, "y": 519}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Paint Cage" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 35, "y": 355, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Paint Cage" }],
+                "name":  "Dualliste Wing - Paint Cage",
+                "map_locations":  [{ "map": "Flying Manor", "x": 35, "y": 355}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Right of Dualliste room entrance" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 254, "y": 414, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Right of Dualliste room entrance" }],
+                "name":  "Dualliste Wing - Right of Dualliste room entrance",
+                "map_locations":  [{ "map": "Flying Manor", "x": 254, "y": 414}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Bourgeon" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 111, "y": 604, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Bourgeon" }],
+                "name":  "Dualliste Wing - Behind Bourgeon",
+                "map_locations":  [{ "map": "Flying Manor", "x": 111, "y": 604}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Hexga near Hexga corpse" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 52, "y": 515, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Behind Hexga near Hexga corpse" }],
+                "name":  "Dualliste Wing - Behind Hexga near Hexga corpse",
+                "map_locations":  [{ "map": "Flying Manor", "x": 52, "y": 515}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Left of Bourgeon" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 175, "y": 563, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste Wing - Left of Bourgeon" }],
+                "name":  "Dualliste Wing - Left of Bourgeon",
+                "map_locations":  [{ "map": "Flying Manor", "x": 175, "y": 563}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Floating island with easels" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 841, "y": 389, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Floating island with easels" }],
+                "name":  "Lampmaster Wing - Floating island with easels",
+                "map_locations":  [{ "map": "Flying Manor", "x": 841, "y": 389}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Easels near patrolling Jar" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 761, "y": 465, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Easels near patrolling Jar" }],
+                "name":  "Lampmaster Wing - Easels near patrolling Jar",
+                "map_locations":  [{ "map": "Flying Manor", "x": 761, "y": 465}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Near dead Stalact" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 748, "y": 351, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Near dead Stalact" }],
+                "name":  "Lampmaster Wing - Near dead Stalact",
+                "map_locations":  [{ "map": "Flying Manor", "x": 748, "y": 351}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Behind Greatsword Cultist" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 805, "y": 217, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Behind Greatsword Cultist" }],
+                "name":  "Lampmaster Wing - Behind Greatsword Cultist",
+                "map_locations":  [{ "map": "Flying Manor", "x": 805, "y": 217}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Near Gargant" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 812, "y": 449, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Near Gargant" }],
+                "name":  "Lampmaster Wing - Near Gargant",
+                "map_locations":  [{ "map": "Flying Manor", "x": 812, "y": 449}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Above Gargant" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 915, "y": 332, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Above Gargant" }],
+                "name":  "Lampmaster Wing - Above Gargant",
+                "map_locations":  [{ "map": "Flying Manor", "x": 915, "y": 332}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Behind Lampmaster" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 1000, "y": 289, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing - Behind Lampmaster" }],
+                "name":  "Lampmaster Wing - Behind Lampmaster",
+                "map_locations":  [{ "map": "Flying Manor", "x": 1000, "y": 289}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Inside library" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 969, "y": 749, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Inside library" }],
+                "name":  "Eveque Wing - Inside library",
+                "map_locations":  [{ "map": "Flying Manor", "x": 969, "y": 749}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Easels near Petank start" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 1008, "y": 698, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Easels near Petank start" }],
+                "name":  "Eveque Wing - Easels near Petank start",
+                "map_locations":  [{ "map": "Flying Manor", "x": 1008, "y": 698}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Ground floor behind Cruler" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 896, "y": 693, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Ground floor behind Cruler" }],
+                "name":  "Eveque Wing - Ground floor behind Cruler",
+                "map_locations":  [{ "map": "Flying Manor", "x": 896, "y": 693}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - On bridge above Cruler" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 961, "y": 657, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - On bridge above Cruler" }],
+                "name":  "Eveque Wing - On bridge above Cruler",
+                "map_locations":  [{ "map": "Flying Manor", "x": 961, "y": 657}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Near Portier by exit" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 923, "y": 478, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Near Portier by exit" }],
+                "name":  "Eveque Wing - Near Portier by exit",
+                "map_locations":  [{ "map": "Flying Manor", "x": 923, "y": 478}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Ground floor by window in Eveque room" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 909, "y": 629, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Ground floor by window in Eveque room" }],
+                "name":  "Eveque Wing - Ground floor by window in Eveque room",
+                "map_locations":  [{ "map": "Flying Manor", "x": 909, "y": 629}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - above handholds near patrolling Glaise" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 891, "y": 267, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - above handholds near patrolling Glaise" }],
+                "name":  "Goblu Wing - above handholds near patrolling Glaise",
+                "map_locations":  [{ "map": "Flying Manor", "x": 891, "y": 267}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - On fallen bridge segment" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 1013, "y": 572, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - On fallen bridge segment" }],
+                "name":  "Eveque Wing - On fallen bridge segment",
+                "map_locations":  [{ "map": "Flying Manor", "x": 1013, "y": 572}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster Wing (Honestly idk) - Near single Steel Chevaliere on broken platform" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 739, "y": 290, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster Wing (Honestly idk) - Near single Steel Chevaliere on broken platform" }],
+                "name":  "Lampmaster Wing (Honestly idk) - Near single Steel Chevaliere on broken platform",
+                "map_locations":  [{ "map": "Flying Manor", "x": 739, "y": 290}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Left of entrance" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 614, "y": 352, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Left of entrance" }],
+                "name":  "Goblu Wing - Left of entrance",
+                "map_locations":  [{ "map": "Flying Manor", "x": 614, "y": 352}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Under main platform" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 633, "y": 349, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Under main platform" }],
+                "name":  "Goblu Wing - Under main platform",
+                "map_locations":  [{ "map": "Flying Manor", "x": 633, "y": 349}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Central Platform - Right of entrance" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 508, "y": 834, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Central Platform - Right of entrance" }],
+                "name":  "Central Platform - Right of entrance",
+                "map_locations":  [{ "map": "Flying Manor", "x": 508, "y": 834}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Central Platform - Path to Eveque Wing on giant frame" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 830, "y": 453, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Central Platform - Path to Eveque Wing on giant frame" }],
+                "name":  "Central Platform - Path to Eveque Wing on giant frame",
+                "map_locations":  [{ "map": "Flying Manor", "x": 830, "y": 453}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Next to Goblu" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 797, "y": 397, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Next to Goblu" }],
+                "name":  "Goblu Wing - Next to Goblu",
+                "map_locations":  [{ "map": "Flying Manor", "x": 797, "y": 397}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - On path to Goblu" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 960, "y": 424, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - On path to Goblu" }],
+                "name":  "Goblu Wing - On path to Goblu",
+                "map_locations":  [{ "map": "Flying Manor", "x": 960, "y": 424}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Behind Fusoka" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 629, "y": 138, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Behind Fusoka" }],
+                "name":  "Goblu Wing - Behind Fusoka",
+                "map_locations":  [{ "map": "Flying Manor", "x": 629, "y": 138}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Side path near Mime" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 597, "y": 261, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Side path near Mime" }],
+                "name":  "Goblu Wing - Side path near Mime",
+                "map_locations":  [{ "map": "Flying Manor", "x": 597, "y": 261}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu Wing - Center of Bourgeon and Glaise patrol" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 736, "y": 264, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu Wing - Center of Bourgeon and Glaise patrol" }],
+                "name":  "Goblu Wing - Center of Bourgeon and Glaise patrol",
+                "map_locations":  [{ "map": "Flying Manor", "x": 736, "y": 264}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveque Wing - Paint Cage" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 1036, "y": 406, "size": 16}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Manor/Clea" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 724, "y": 89, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveque Wing - Paint Cage" }],
+                "name":  "Eveque Wing - Paint Cage",
+                "map_locations":  [{ "map": "Flying Manor", "x": 1036, "y": 406}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Mime" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 633, "y": 288, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Clea" }],
+                "name":  "Clea",
+                "map_locations":  [{ "map": "Flying Manor", "x": 724, "y": 89}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Dualliste" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 221, "y": 469, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Flying Manor", "x": 633, "y": 288}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Eveques" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 953, "y": 598, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Dualliste" }],
+                "name":  "Dualliste",
+                "map_locations":  [{ "map": "Flying Manor", "x": 221, "y": 469}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Goblu" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 815, "y": 384, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Eveques" }],
+                "name":  "Eveques",
+                "map_locations":  [{ "map": "Flying Manor", "x": 953, "y": 598}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Lampmaster" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 982, "y": 264, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Flying Manor/Goblu" }],
+                "name":  "Goblu",
+                "map_locations":  [{ "map": "Flying Manor", "x": 815, "y": 384}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Petank" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 1032, "y": 689, "size": 16}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Flying Manor/Flag - Central Plaza" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 625, "y": 460, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Flying Manor/Lampmaster" }],
+                "name":  "Lampmaster",
+                "map_locations":  [{ "map": "Flying Manor", "x": 982, "y": 264}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Path - Eveque Wing" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 736, "y": 463, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Flying Manor/Petank" }],
+                "name":  "Petank",
+                "map_locations":  [{ "map": "Flying Manor", "x": 1032, "y": 689}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Path - Dualliste Wing" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 581, "y": 520, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Flying Manor/Flag - Central Plaza" }],
+                "name":  "Flag - Central Plaza",
+                "map_locations":  [{ "map": "Flying Manor", "x": 625, "y": 460, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Path - Lampmaster Wing" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 705, "y": 537, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Flying Manor/Path - Eveque Wing" }],
+                "name":  "Path - Eveque Wing",
+                "map_locations":  [{ "map": "Flying Manor", "x": 736, "y": 463, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Flying Manor/Path - Goblu Wing" }],
-                "map_locations": [{ "map": "Flying Manor", "x": 582, "y": 471, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Flying Manor/Path - Dualliste Wing" }],
+                "name":  "Path - Dualliste Wing",
+                "map_locations":  [{ "map": "Flying Manor", "x": 581, "y": 520, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Flying Manor/Path - Lampmaster Wing" }],
+                "name":  "Path - Lampmaster Wing",
+                "map_locations":  [{ "map": "Flying Manor", "x": 705, "y": 537, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Flying Manor/Path - Goblu Wing" }],
+                "name":  "Path - Goblu Wing",
+                "map_locations":  [{ "map": "Flying Manor", "x": 582, "y": 471, "shape": "diamond"}]
             }
         ]
+
     }
 ]

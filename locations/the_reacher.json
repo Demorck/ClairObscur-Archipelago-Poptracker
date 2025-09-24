@@ -3,183 +3,186 @@
         "name": "Reacher",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - early handholds" }],
-                "map_locations": [{ "map": "Reacher", "x": 914, "y": 468, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - early handholds" }],
+                "name":  "Entrance - early handholds",
+                "map_locations":  [{ "map": "Reacher", "x": 914, "y": 468}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Mountain - boxes by cliffside" }],
-                "map_locations": [{ "map": "Reacher", "x": 459, "y": 753, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Mountain - boxes by cliffside" }],
+                "name":  "Mountain - boxes by cliffside",
+                "map_locations":  [{ "map": "Reacher", "x": 459, "y": 753}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Mountain - Above First Echassier 2" }],
-                "map_locations": [{ "map": "Reacher", "x": 594, "y": 807, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Mountain - Above First Echassier 2" }],
+                "name":  "Mountain - Above First Echassier 2",
+                "map_locations":  [{ "map": "Reacher", "x": 594, "y": 807}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Area - Foggy Area flag" }],
-                "map_locations": [{ "map": "Reacher", "x": 429, "y": 1146, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Area - Foggy Area flag" }],
+                "name":  "Foggy Area - Foggy Area flag",
+                "map_locations":  [{ "map": "Reacher", "x": 429, "y": 1146}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Mountain - on cliffside" }],
-                "map_locations": [{ "map": "Reacher", "x": 20, "y": 642, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Mountain - on cliffside" }],
+                "name":  "Mountain - on cliffside",
+                "map_locations":  [{ "map": "Reacher", "x": 20, "y": 642}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Mountain - after wooden plank platforms" }],
-                "map_locations": [{ "map": "Reacher", "x": 297, "y": 625, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Mountain - after wooden plank platforms" }],
+                "name":  "Mountain - after wooden plank platforms",
+                "map_locations":  [{ "map": "Reacher", "x": 297, "y": 625}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - in nook near double Orphelin" }],
-                "map_locations": [{ "map": "Reacher", "x": 746, "y": 230, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - in nook near double Orphelin" }],
+                "name":  "Entrance - in nook near double Orphelin",
+                "map_locations":  [{ "map": "Reacher", "x": 746, "y": 230}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Area - Above Veilleur by cliffside" }],
-                "map_locations": [{ "map": "Reacher", "x": 692, "y": 985, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Area - Above Veilleur by cliffside" }],
+                "name":  "Foggy Area - Above Veilleur by cliffside",
+                "map_locations":  [{ "map": "Reacher", "x": 692, "y": 985}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Area - Veilleur" }],
-                "map_locations": [{ "map": "Reacher", "x": 627, "y": 960, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Area - Veilleur" }],
+                "name":  "Foggy Area - Veilleur",
+                "map_locations":  [{ "map": "Reacher", "x": 627, "y": 960}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Bank - Platform above Merchant" }],
-                "map_locations": [{ "map": "Reacher", "x": 406, "y": 994, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Bank - Platform above Merchant" }],
+                "name":  "Foggy Bank - Platform above Merchant",
+                "map_locations":  [{ "map": "Reacher", "x": 406, "y": 994}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Sandbag Fort" }],
-                "map_locations": [{ "map": "Reacher", "x": 580, "y": 282, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Sandbag Fort" }],
+                "name":  "Ladder Area - Sandbag Fort",
+                "map_locations":  [{ "map": "Reacher", "x": 580, "y": 282}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - after Orphelin builders" }],
-                "map_locations": [{ "map": "Reacher", "x": 958, "y": 342, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - after Orphelin builders" }],
+                "name":  "Entrance - after Orphelin builders",
+                "map_locations":  [{ "map": "Reacher", "x": 958, "y": 342}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - on Orphelin builder platform" }],
-                "map_locations": [{ "map": "Reacher", "x": 715, "y": 260, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - on Orphelin builder platform" }],
+                "name":  "Entrance - on Orphelin builder platform",
+                "map_locations":  [{ "map": "Reacher", "x": 715, "y": 260}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Near Expedition Flag" }],
-                "map_locations": [{ "map": "Reacher", "x": 608, "y": 103, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Near Expedition Flag" }],
+                "name":  "Ladder Area - Near Expedition Flag",
+                "map_locations":  [{ "map": "Reacher", "x": 608, "y": 103}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Peak - Dead Orphelin" }],
-                "map_locations": [{ "map": "Reacher", "x": 768, "y": 1489, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Peak - Dead Orphelin" }],
+                "name":  "Peak - Dead Orphelin",
+                "map_locations":  [{ "map": "Reacher", "x": 768, "y": 1489}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - After Paint Spike" }],
-                "map_locations": [{ "map": "Reacher", "x": 949, "y": 431, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - After Paint Spike" }],
+                "name":  "Entrance - After Paint Spike",
+                "map_locations":  [{ "map": "Reacher", "x": 949, "y": 431}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Bank - After triple Orphelin platform" }],
-                "map_locations": [{ "map": "Reacher", "x": 504, "y": 148, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Bank - After triple Orphelin platform" }],
+                "name":  "Foggy Bank - After triple Orphelin platform",
+                "map_locations":  [{ "map": "Reacher", "x": 504, "y": 148}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Area - above patrolling Veilleur" }],
-                "map_locations": [{ "map": "Reacher", "x": 616, "y": 1115, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Area - above patrolling Veilleur" }],
+                "name":  "Foggy Area - above patrolling Veilleur",
+                "map_locations":  [{ "map": "Reacher", "x": 616, "y": 1115}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Near Mime" },
-                             { "ref": "Entrance - Reacher/Ladder Area - Mime" }],
-                "map_locations": [{ "map": "Reacher", "x": 679, "y": 153, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Near Mime", "name": "Entrance - Reacher/Ladder Area - Near Mime" },
+                              { "ref": "Entrance - Reacher/Ladder Area - Mime", "name": "Entrance - Reacher/Ladder Area - Mime" }],
+                "map_locations":  [{ "map": "Reacher", "x": 679, "y": 153}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Nailed Orphelin near Petank platform" }],
-                "map_locations": [{ "map": "Reacher", "x": 502, "y": 285, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Nailed Orphelin near Petank platform" }],
+                "name":  "Ladder Area - Nailed Orphelin near Petank platform",
+                "map_locations":  [{ "map": "Reacher", "x": 502, "y": 285}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Mountain - before wooden plank platforming" }],
-                "map_locations": [{ "map": "Reacher", "x": 368, "y": 670, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Mountain - before wooden plank platforming" }],
+                "name":  "Mountain - before wooden plank platforming",
+                "map_locations":  [{ "map": "Reacher", "x": 368, "y": 670}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - behind Manor door" }],
-                "map_locations": [{ "map": "Reacher", "x": 456, "y": 184, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - behind Manor door" }],
+                "name":  "Ladder Area - behind Manor door",
+                "map_locations":  [{ "map": "Reacher", "x": 456, "y": 184}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Past Green Orphelin" }],
-                "map_locations": [{ "map": "Reacher", "x": 684, "y": 246, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Past Green Orphelin" }],
+                "name":  "Ladder Area - Past Green Orphelin",
+                "map_locations":  [{ "map": "Reacher", "x": 684, "y": 246}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - under Orphelin builder platform" }],
-                "map_locations": [{ "map": "Reacher", "x": 715, "y": 237, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - under Orphelin builder platform" }],
+                "name":  "Entrance - under Orphelin builder platform",
+                "map_locations":  [{ "map": "Reacher", "x": 715, "y": 237}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Entrance - hot air balloon" }],
-                "map_locations": [{ "map": "Reacher", "x": 611, "y": 303, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Reacher/Entrance - hot air balloon" }],
+                "name":  "Entrance - hot air balloon",
+                "map_locations":  [{ "map": "Reacher", "x": 611, "y": 303}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Foggy Bank - Triple Orphelin platform" }],
-                "map_locations": [{ "map": "Reacher", "x": 571, "y": 246, "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Reacher/Alicia" }],
-                "map_locations": [{ "map": "Reacher", "x": 550, "y": 1270, "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Foggy Bank - Triple Orphelin platform" }],
+                "name":  "Foggy Bank - Triple Orphelin platform",
+                "map_locations":  [{ "map": "Reacher", "x": 571, "y": 246}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Peak - Chromatic Braseleur" }],
-                "map_locations": [{ "map": "Reacher", "x": 1085, "y": 1649, "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Alicia" }],
+                "name":  "Alicia",
+                "map_locations":  [{ "map": "Reacher", "x": 550, "y": 1270}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Ladder Area - Petank" }],
-                "map_locations": [{ "map": "Reacher", "x": 574, "y": 201, "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Peak - Chromatic Braseleur" }],
+                "name":  "Peak - Chromatic Braseleur",
+                "map_locations":  [{ "map": "Reacher", "x": 1085, "y": 1649}]
             },
             {
-                "sections": [],
-                "map_locations": [{ "map": "Reacher", "x": 574, "y": 201, "size": 16}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Reacher/Merchant Eragol" }],
-                "map_locations": [{ "map": "Reacher", "x": 404, "y": 915, "size": 16}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Entrance" }],
-                "map_locations": [{ "map": "Reacher", "x": 945, "y": 649, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Ladder Area - Petank" }],
+                "name":  "Ladder Area - Petank",
+                "map_locations":  [{ "map": "Reacher", "x": 574, "y": 201}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Mountain" }],
-                "map_locations": [{ "map": "Reacher", "x": 521, "y": 353, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Merchant Eragol" }],
+                "name":  "Merchant Eragol",
+                "map_locations":  [{ "map": "Reacher", "x": 404, "y": 915, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Ladder Area" }],
-                "map_locations": [{ "map": "Reacher", "x": 637, "y": 78, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Entrance" }],
+                "name":  "Flag - Entrance",
+                "map_locations":  [{ "map": "Reacher", "x": 945, "y": 649, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Foggy Area" }],
-                "map_locations": [{ "map": "Reacher", "x": 392, "y": 1157, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Mountain" }],
+                "name":  "Flag - Mountain",
+                "map_locations":  [{ "map": "Reacher", "x": 521, "y": 353, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Peak" }],
-                "map_locations": [{ "map": "Reacher", "x": 829, "y": 1402, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Ladder Area" }],
+                "name":  "Flag - Ladder Area",
+                "map_locations":  [{ "map": "Reacher", "x": 637, "y": 78, "shape": "diamond"}]
             },
             {
-                "sections": [{ "ref": "Entrance - Reacher/Flag - Alicia" }],
-                "map_locations": [{ "map": "Reacher", "x": 574, "y": 1313, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Foggy Area" }],
+                "name":  "Flag - Foggy Area",
+                "map_locations":  [{ "map": "Reacher", "x": 392, "y": 1157, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Peak" }],
+                "name":  "Flag - Peak",
+                "map_locations":  [{ "map": "Reacher", "x": 829, "y": 1402, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Reacher/Flag - Alicia" }],
+                "name":  "Flag - Alicia",
+                "map_locations":  [{ "map": "Reacher", "x": 574, "y": 1313, "shape": "diamond"}]
             }
         ]
+
     }
 ]

@@ -6,11 +6,39 @@
         "map_locations": [{"map": "South Continent", "x": 337, "y": 388, "shape": "trapezoid"}],
         "sections": [
             {
-                "name": "Stage 11-3",
+                "name": "Stage 1-1",
                 "access_rules": []
             },
             {
-                "name": "Stage 1-1",
+                "name": "Stage 1-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 1-3",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-1",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 2-3",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-1",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-2",
+                "access_rules": []
+            },
+            {
+                "name": "Stage 3-3",
                 "access_rules": []
             },
             {
@@ -54,10 +82,6 @@
                 "access_rules": []
             },
             {
-                "name": "Stage 1-2",
-                "access_rules": []
-            },
-            {
                 "name": "Stage 7-2",
                 "access_rules": []
             },
@@ -98,10 +122,6 @@
                 "access_rules": []
             },
             {
-                "name": "Stage 1-3",
-                "access_rules": []
-            },
-            {
                 "name": "Stage 10-3",
                 "access_rules": []
             },
@@ -114,31 +134,11 @@
                 "access_rules": []
             },
             {
-                "name": "Stage 2-1",
-                "access_rules": []
-            },
-            {
-                "name": "Stage 2-2",
-                "access_rules": []
-            },
-            {
-                "name": "Stage 2-3",
-                "access_rules": []
-            },
-            {
-                "name": "Stage 3-1",
-                "access_rules": []
-            },
-            {
-                "name": "Stage 3-2",
-                "access_rules": []
-            },
-            {
-                "name": "Stage 3-3",
+                "name": "Stage 11-3",
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,[paintedpower]"]
+        "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"]
 
     }
 ]

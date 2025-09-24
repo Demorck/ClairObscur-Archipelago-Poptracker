@@ -13,11 +13,56 @@
             "content": [
               {
                 "type": "group",
-                "header": "Items",
+                "header": "Upgrades",
                 "dock": "top",
                 "content": {
                   "type": "layout",
                   "key": "items"
+                }
+              },
+              {
+                "type": "group",
+                "header": "Party Members",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "partymembers"
+                }
+              },
+              {
+                "type": "group",
+                "header": "South Continent (Walking/Esquie)",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "esquie"
+                }
+              },
+              {
+                "type": "group",
+                "header": "Middle Continent (Esquie Swim)",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "esquieswim"
+                }
+              },
+              {
+                "type": "group",
+                "header": "North Continent (Esquie Coral)",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "esquiecoral"
+                }
+              },
+              {
+                "type": "group",
+                "header": "Sky (Esquie Fly & Dive)",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "esquieflydive"
                 }
               }
             ]

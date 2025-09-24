@@ -3,24 +3,26 @@
         "name": "Isle of the Eyes",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Isle of the Eyes/Item 1" }],
-                "map_locations": [{ "map": "Isle of the Eyes", "x": 20, "y": 120}]
+                "sections":  [{ "ref": "Entrance - Isle of the Eyes/Item 1" }],
+                "name":  "Item 1",
+                "map_locations":  [{ "map": "Isle of the Eyes", "x": 20, "y": 120}]
             },
             {
-                "sections": [{ "ref": "Entrance - Isle of the Eyes/Item 2" }],
-                "map_locations": [{ "map": "Isle of the Eyes", "x": 40, "y": 120}]
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Isle of the Eyes/Chromatic Boucheclier" }],
-                "map_locations": [{ "map": "Isle of the Eyes", "x": 0, "y": 420}]
+                "sections":  [{ "ref": "Entrance - Isle of the Eyes/Item 2" }],
+                "name":  "Item 2",
+                "map_locations":  [{ "map": "Isle of the Eyes", "x": 40, "y": 120}]
             },
             {
-                "sections": [{ "ref": "Entrance - Isle of the Eyes/Petank" }],
-                "map_locations": [{ "map": "Isle of the Eyes", "x": 20, "y": 420}]
+                "sections":  [{ "ref": "Entrance - Isle of the Eyes/Chromatic Boucheclier" }],
+                "name":  "Chromatic Boucheclier",
+                "map_locations":  [{ "map": "Isle of the Eyes", "x": 0, "y": 420}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Isle of the Eyes/Petank" }],
+                "name":  "Petank",
+                "map_locations":  [{ "map": "Isle of the Eyes", "x": 20, "y": 420}]
             }
         ]
-
     }
 ]
 

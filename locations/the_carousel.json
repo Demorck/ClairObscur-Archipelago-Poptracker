@@ -3,15 +3,16 @@
         "name": "The Carousel",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - The Carousel/In boxes" }],
-                "map_locations": [{ "map": "The Carousel", "x": 60, "y": 200}]
+                "sections":  [{ "ref": "Entrance - The Carousel/In boxes" }],
+                "name":  "In boxes",
+                "map_locations":  [{ "map": "The Carousel", "x": 60, "y": 200}]
             },
             {
-                "sections": [{ "ref": "Entrance - The Carousel/Left of Expedition Flag" }],
-                "map_locations": [{ "map": "The Carousel", "x": 80, "y": 200}]
+                "sections":  [{ "ref": "Entrance - The Carousel/Left of Expedition Flag" }],
+                "name":  "Left of Expedition Flag",
+                "map_locations":  [{ "map": "The Carousel", "x": 80, "y": 200}]
             }
         ]
-
     }
 ]
 

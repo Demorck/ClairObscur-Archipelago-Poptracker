@@ -3,69 +3,71 @@
         "name": "Yellow Harvest",
         "children": [
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Entrance - Near broken fountain" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 518, "y": 933, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Entrance - Near broken fountain" }],
+                "name":  "Entrance - Near broken fountain",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 518, "y": 933}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Entrance - Path to sunken building" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 396, "y": 773, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Entrance - Path to sunken building" }],
+                "name":  "Entrance - Path to sunken building",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 396, "y": 773}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Exit of crimson cave" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 269, "y": 404, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Exit of crimson cave" }],
+                "name":  "Harvester's Hollow - Exit of crimson cave",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 269, "y": 404}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Peninsula facing sunken building" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 452, "y": 592, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Peninsula facing sunken building" }],
+                "name":  "Harvester's Hollow - Peninsula facing sunken building",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 452, "y": 592}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - On balcony of sunken building" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 390, "y": 598, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - On balcony of sunken building" }],
+                "name":  "Harvester's Hollow - On balcony of sunken building",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 390, "y": 598}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Near tent by sunken building" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 551, "y": 659, "size": 16}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Chromatic Orphelin" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 94, "y": 244, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Harvester's Hollow - Near tent by sunken building" }],
+                "name":  "Harvester's Hollow - Near tent by sunken building",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 551, "y": 659}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Mime" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 709, "y": 617, "size": 16}]
-
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Chromatic Orphelin" }],
+                "name":  "Chromatic Orphelin",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 94, "y": 244}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Glaise" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 302, "y": 190, "size": 16}]
-
-            },
-
-            {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Flag - Entrance" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 703, "y": 1290, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Mime" }],
+                "name":  "Mime",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 709, "y": 617}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Flag - Yellow Spire Wrecks" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 230, "y": 305, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Glaise" }],
+                "name":  "Glaise",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 302, "y": 190}]
             },
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Flag - Harvester's Hollow" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 394, "y": 740, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Flag - Entrance" }],
+                "name":  "Flag - Entrance",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 703, "y": 1290, "shape": "diamond"}]
             },
-            
             {
-                "sections": [{ "ref": "Entrance - Yellow Harvest/Merchant Pinabby" }],
-                "map_locations": [{ "map": "Yellow Harvest", "x": 550, "y": 824, "shape": "diamond", "size": 16}]
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Flag - Yellow Spire Wrecks" }],
+                "name":  "Flag - Yellow Spire Wrecks",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 230, "y": 305, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Flag - Harvester's Hollow" }],
+                "name":  "Flag - Harvester's Hollow",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 394, "y": 740, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Merchant Pinabby" }],
+                "name":  "Merchant Pinabby",
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 550, "y": 824, "shape": "diamond"}]
             }
         ]
+
     }
 ]

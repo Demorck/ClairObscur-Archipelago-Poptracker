@@ -11,8 +11,6 @@ Tracker:AddItems("items/items.json")
 
 Tracker:AddMaps("maps/maps.json")
 
--- Tracker:AddLocations("locations/maps.json")
--- Tracker:AddLocations("locations/continent.json")
 ScriptHost:LoadScript("scripts/import_locations.lua")
 
 Tracker:AddLayouts("layouts/items.json")

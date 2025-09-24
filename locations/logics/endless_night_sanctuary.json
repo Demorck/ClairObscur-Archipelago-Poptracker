@@ -80,7 +80,7 @@
             },
 
             {
-                "name": "Merchant Anthonypo",
+                "name": "-Merchant Anthonypo",
                 "access_rules": []
             },
 
@@ -97,7 +97,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,[paintedpower]"]
+        "access_rules": ["EndlessNightSanctuary,$sky_no_pp,[paintedpower]"]
 
     }
 ]

@@ -4,6 +4,7 @@
         "children": [
             {
                 "sections": [{ "ref": "Entrance - Crushing Cavern/Giant Sapling" }],
+                "name":  "Giant Sapling",
                 "map_locations": [{ "map": "Crushing Cavern", "x": 40, "y": 460}]
             }
         ]

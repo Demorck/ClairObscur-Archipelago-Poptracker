@@ -1,5 +1,6 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/flag_mapping.lua")
 -- used for hint tracking to quickly map hint status to a value from the Highlight enum
 HINT_STATUS_MAPPING = {}
 if Highlight then
@@ -110,7 +111,7 @@ function onClear(slot_data)
 	for _, mapping_entry in pairs(LOCATION_MAPPING) do
 		for _, location_table in ipairs(mapping_entry) do
 			if location_table then
-				local location_code = location_table[1]
+				local location_code = location_table
 				if location_code then
 					if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 						print(string.format("onClear: clearing location %s", location_code))
@@ -140,21 +141,28 @@ function onClear(slot_data)
 	end
 	-- reset items
 	for _, mapping_entry in pairs(ITEM_MAPPING) do
-		for _, item_table in ipairs(mapping_entry) do
-			if item_table then
-				local item_code = item_table[1]
-				local item_type = item_table[2]
-				if item_code then
-					resetItem(item_code, item_type)
-				elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-					print(string.format("onClear: skipping item_table with no item_code"))
-				end
+		print("map 1: "..mapping_entry[1].."\nmap 2: "..mapping_entry[2])
+		if mapping_entry[1] and mapping_entry[2] then
+			local item_code = mapping_entry[1]
+			local item_type = mapping_entry[2]
+			
+			if item_code then
+				resetItem(item_code, item_type)
 			elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-				print(string.format("onClear: skipping empty item_table"))
+				print(string.format("onClear: skipping item_table with no item_code"))
 			end
+		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+			print(string.format("onClear: skipping empty item_table"))
 		end
 	end
 	apply_slot_data(slot_data)
+
+	-- used for tracking which flags have been accessed. Not locations, but helpful for the player
+	ap_flags = Archipelago.PlayerNumber.."-coe33-flags"
+	print("Setting Notify for :"..ap_flags)
+	Archipelago:SetNotify({ap_flags})
+	Archipelago:Get({ap_flags})
+
 	LOCAL_ITEMS = {}
 	GLOBAL_ITEMS = {}
 	-- manually run snes interface functions after onClear in case we need to update them (i.e. because they need slot_data)
@@ -291,9 +299,74 @@ end
 -- whenever a subscribed to (via Archipelago:SetNotify) key in data storgae is updated
 -- oldValue might be nil (always nil for "_read" prefixed keys and via retrieved handler (from Archipelago:Get))
 function onDataStorageUpdate(key, value, oldValue)
+	print(key)
+
 	--if you plan to only use the hints key, you can remove this if
 	if key == getHintDataStorageKey() then
 		onHintsUpdate(value)
+	end
+
+	--Looks for [SlotNumber]-coe33-flags - ex. 1-coe33-flags. Ensures data is kept separate if multiple of the same game are run and that it is a unique key
+	if key == ap_flags then
+		if value ~= nil then
+			for areaName, table in pairs(value) do
+				for index, flagName in pairs(table) do
+					mapFlagLocation(areaName, flagName)
+				end
+			end
+		end
+		
+		--uncomment if you need to print out the flag map again
+		--printFlagMap(value)
+	end
+end
+
+-- finds the flag location from flag_mapping.lua
+-- drops AvailableChestCount by 1 to gray out the location
+function mapFlagLocation(areaName, flagName)
+	local modifiedName = areaName.."=>"..flagName
+	print("\n======== mapFlagLocation() ========")
+	print("modifiedName is "..modifiedName)
+
+	if FLAG_MAPPING[modifiedName] == nil then
+		print("[NOTICE] Add Flag to mapping:")
+		print("[\""..modifiedName.."\"] = { \"@\" },")
+	else
+		if FLAG_MAPPING[modifiedName][1] == "@" or FLAG_MAPPING[modifiedName][1] == "Not Implemented" then
+			print("[WARNING] Flag not mapped. FLAG_MAPPING is nil, FLAG_MAPPING[modifiedName][1] is \"@\" or \"Not Implemeneted\". Expected modifiedName is "..modifiedName)
+		else
+			print(FLAG_MAPPING[modifiedName][1])
+			local obj = Tracker:FindObjectForCode(FLAG_MAPPING[modifiedName][1])
+			if obj.AvailableChestCount ~= 0 then
+				print("Unchecking location "..modifiedName)
+				obj.AvailableChestCount = obj.AvailableChestCount - 1
+			end
+		end
+	end
+	
+	print("====== End mapFlagLocation() ======\n")
+end
+
+-- Prints out the flag map in a format that allows you to copy-paste into flag_mapping.lua
+-- Imports existing data as well if possible
+function printFlagMap(value)
+	for areaName, table in pairs(value) do
+		for index, flagName in pairs(table) do
+			local modifiedName = areaName.."=>"..flagName
+			local mappedLocation = ""
+
+			if  FLAG_MAPPING[modifiedName] then
+				if FLAG_MAPPING[modifiedName][1] ~= "@" and FLAG_MAPPING[modifiedName][1] ~= "Not Implemented" then
+					mappedLocation = mappedLocation..FLAG_MAPPING[modifiedName][1]
+				else
+					mappedLocation = FLAG_MAPPING[modifiedName][1]
+				end
+			else
+				mappedLocation = "@"
+			end
+			
+			print("[\""..modifiedName.."\"] = { \""..mappedLocation.."\" },")
+		end
 	end
 end
 

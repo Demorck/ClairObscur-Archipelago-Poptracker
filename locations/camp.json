@@ -4,45 +4,56 @@
         "children": [
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 1" }],
+                "name":  "Lost Gestral reward 1",
                 "map_locations":  [{ "map": "Camp", "x": 40, "y": 480}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 2" }],
+                "name":  "Lost Gestral reward 2",
                 "map_locations":  [{ "map": "Camp", "x": 60, "y": 480}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 3" }],
+                "name":  "Lost Gestral reward 3",
                 "map_locations":  [{ "map": "Camp", "x": 80, "y": 480}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 4" }],
+                "name":  "Lost Gestral reward 4",
                 "map_locations":  [{ "map": "Camp", "x": 100, "y": 480}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 5" }],
+                "name":  "Lost Gestral reward 5",
                 "map_locations":  [{ "map": "Camp", "x": 0, "y": 500}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 6" }],
+                "name":  "Lost Gestral reward 6",
                 "map_locations":  [{ "map": "Camp", "x": 20, "y": 500}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 7" }],
+                "name":  "Lost Gestral reward 7",
                 "map_locations":  [{ "map": "Camp", "x": 40, "y": 500}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 8" }],
+                "name":  "Lost Gestral reward 8",
                 "map_locations":  [{ "map": "Camp", "x": 60, "y": 500}]
             },
             {
                 "sections":  [{ "ref": "Overview - Camp/Lost Gestral reward 9" }],
+                "name":  "Lost Gestral reward 9",
                 "map_locations":  [{ "map": "Camp", "x": 80, "y": 500}]
             },
             {
-                "sections": [{ "ref": "Overview - Camps/Gestrals - Break Paint Spike" }],
-                "map_locations": [{ "map": "Camps", "x": 0, "y": 280}]
+                "sections":  [{ "ref": "Overview - Camps/Gestrals - Break Paint Spike" }],
+                "name":  "Gestrals - Break Paint Spike",
+                "map_locations":  [{ "map": "Camps", "x": 0, "y": 280}]
             }
         ]
+
 
     }
 ]

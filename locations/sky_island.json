@@ -4,6 +4,7 @@
         "children": [
             {
                 "sections": [{ "ref": "Entrance - Sky Island/Chromatic Glaise" }],
+                "name":  "Chromatic Glaise",
                 "map_locations": [{ "map": "Sky Island", "x": 0, "y": 440}]
             }
         ]

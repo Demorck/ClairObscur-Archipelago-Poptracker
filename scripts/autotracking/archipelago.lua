@@ -158,10 +158,10 @@ function onClear(slot_data)
 	apply_slot_data(slot_data)
 
 	-- used for tracking which flags have been accessed. Not locations, but helpful for the player
-	-- flags = "Slot:"..Archipelago.PlayerNumber..":expeditionFlags"
-	-- print(flags)
-	Archipelago:SetNotify({"flags"})
-	Archipelago:Get({"flags"})
+	ap_flags = Archipelago.PlayerNumber.."-coe33-flags"
+	print("Setting Notify for :"..ap_flags)
+	Archipelago:SetNotify({ap_flags})
+	Archipelago:Get({ap_flags})
 
 	LOCAL_ITEMS = {}
 	GLOBAL_ITEMS = {}
@@ -299,20 +299,23 @@ end
 -- whenever a subscribed to (via Archipelago:SetNotify) key in data storgae is updated
 -- oldValue might be nil (always nil for "_read" prefixed keys and via retrieved handler (from Archipelago:Get))
 function onDataStorageUpdate(key, value, oldValue)
-	
+	print(key)
 
 	--if you plan to only use the hints key, you can remove this if
 	if key == getHintDataStorageKey() then
 		onHintsUpdate(value)
 	end
 
-	if key == "flags" then
-		for areaName, table in pairs(value) do
-			for index, flagName in pairs(table) do
-				mapFlagLocation(areaName, flagName)
+	--Looks for [SlotNumber]-coe33-flags - ex. 1-coe33-flags. Ensures data is kept separate if multiple of the same game are run and that it is a unique key
+	if key == ap_flags then
+		if value ~= nil then
+			for areaName, table in pairs(value) do
+				for index, flagName in pairs(table) do
+					mapFlagLocation(areaName, flagName)
+				end
 			end
 		end
-
+		
 		--uncomment if you need to print out the flag map again
 		--printFlagMap(value)
 	end

@@ -75,7 +75,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - On cliff near upper paint spike",
-        "access_rules": ["PaintBreak"]
+        "access_rules": []
       },
       {
         "name": "The Indigo Tree - On a branch",
@@ -107,7 +107,7 @@
       },
       {
         "name": "Abandoned Expeditioner Camp - Near lower paint spike",
-        "access_rules": ["PaintBreak"]
+        "access_rules": []
       },
       {
         "name": "Entrance - In the waterfall behind start",

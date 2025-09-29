@@ -6,11 +6,16 @@
         "map_locations": [{"map": "Middle Continent", "x": 2200, "y": 1497, "shape": "trapezoid"}],
         "sections": [
             {
+                "name": "At end of area",
+                "access_rules": []
+            },
+            {
                 "name": "Chromatic Glaise",
                 "access_rules": ["[PaintedPower]"]
             }
         ],
-        "access_rules": ["$sky_no_pp"]
+        "access_rules": ["$sky_no_pp"],
+        "visibility_rules": ["include_endgame_locations"]
 
     }
 ]

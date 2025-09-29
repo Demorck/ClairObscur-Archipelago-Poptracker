@@ -55,6 +55,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,[paintedpower],CrimsonForest"]
+        "access_rules": ["$sky_no_pp,[paintedpower],CrimsonForest"],
+        "visibility_rules": ["include_endgame_locations"]
     }
 ]

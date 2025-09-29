@@ -35,7 +35,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Yellow Harvest/Chromatic Orphelin" }],
                 "name":  "Chromatic Orphelin",
-                "map_locations":  [{ "map": "Yellow Harvest", "x": 94, "y": 244}]
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 190, "y": 244}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Yellow Harvest/Mime" }],

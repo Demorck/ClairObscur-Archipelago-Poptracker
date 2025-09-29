@@ -84,7 +84,7 @@
             },
             {
                 "name": "Manor Gardens - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
 
             {

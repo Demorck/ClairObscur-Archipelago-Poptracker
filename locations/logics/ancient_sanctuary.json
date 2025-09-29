@@ -71,7 +71,7 @@
             },
             {
                 "name": "Giant Bell Alley - Paint Cage before Expedition Flag",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Sanctuary Maze - At shortcut to flag 1",

@@ -157,6 +157,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,TheReacher"]
+        "access_rules": ["$sky_no_pp,TheReacher"],
+        "visibility_rules": ["include_endgame_locations"]
     }
 ]

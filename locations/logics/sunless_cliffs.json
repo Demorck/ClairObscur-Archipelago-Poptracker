@@ -10,7 +10,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,[PaintedPower]"]
+        "access_rules": ["$sky_no_pp,[PaintedPower]"],
+        "visibility_rules": ["include_endgame_locations"]
 
     }
 ]

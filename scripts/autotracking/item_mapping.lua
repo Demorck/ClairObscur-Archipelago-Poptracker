@@ -399,5 +399,6 @@ ITEM_MAPPING = {
     [330397] = {"EndlessNightSanctuary", "toggle"},
     [330398] = {"Visages", "toggle"},
     [330399] = {"YellowHarvest", "toggle"},
-    [330400] = {"EndlessTower", "toggle"}
+    [330400] = {"EndlessTower", "toggle"},
+    [330401] = {"FreeAim", "toggle"}
 }

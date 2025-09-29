@@ -3,6 +3,11 @@
         "name": "Sky Island",
         "children": [
             {
+                "sections": [{ "ref": "Entrance - Sky Island/At end of area" }],
+                "name":  "At end of area",
+                "map_locations": [{ "map": "Sky Island", "x": 0, "y": 460}]
+            },
+            {
                 "sections": [{ "ref": "Entrance - Sky Island/Chromatic Glaise" }],
                 "name":  "Chromatic Glaise",
                 "map_locations": [{ "map": "Sky Island", "x": 0, "y": 440}]

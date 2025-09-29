@@ -63,7 +63,7 @@
             },
             {
                 "name": "Night Totem - Paint Cage above flag",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Entrance - Right path inside small rock tunnel",
@@ -97,7 +97,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["EndlessNightSanctuary,$sky_no_pp,[paintedpower]"]
+        "access_rules": ["EndlessNightSanctuary,$sky_no_pp,[paintedpower]"],
+        "visibility_rules": ["include_endgame_locations"]
 
     }
 ]

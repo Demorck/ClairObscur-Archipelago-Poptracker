@@ -81,6 +81,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,$dive,RenoirsDrafts"]
+        "access_rules": ["$north_sea,$dive,RenoirsDrafts"],
+        "visibility_rules": ["include_endgame_locations"]
     }
 ]

@@ -104,7 +104,7 @@
             },
             {
                 "name": "Battlefield - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Ancient Bridge - In crawlspace below bridge",

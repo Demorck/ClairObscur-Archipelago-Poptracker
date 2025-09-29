@@ -15,7 +15,7 @@
             },
             {
                 "name": "Dancing Classes - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Crumbling Path - Near Petank",
@@ -75,7 +75,7 @@
             },
             {
                 "name": "Sewing Atelier - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Dancing Classes - Bottom of winding fabric room",

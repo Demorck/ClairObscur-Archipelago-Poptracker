@@ -138,7 +138,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"]
+        "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"],
+        "visibility_rules": ["include_endless_tower,include_endgame_locations"]
 
     }
 ]

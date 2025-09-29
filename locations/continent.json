@@ -459,8 +459,8 @@
                                    { "map": "Middle Continent", "x": 991, "y": 2145}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Esquieu's Nest" }],
-                "name":  "Lost Gestral near Esquieu's Nest",
+                "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Esquie's Nest" }],
+                "name":  "Lost Gestral near Esquie's Nest",
                 "map_locations":  [{ "map": "South Continent", "x": 873, "y": 915}]
             },
             {

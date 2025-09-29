@@ -15,7 +15,7 @@
             },
             {
                 "name": "Tainted Meadows - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Tainted Cliffs - In front of bastard Mime room zipline",
@@ -55,7 +55,7 @@
             },
             {
                 "name": "Tainted Sanctuary - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Tainted Sanctuary - Next to giant Sakapatate statue",
@@ -127,7 +127,7 @@
             },
             {
                 "name": "Tainted Hearts - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Tainted Hearts - Left of station entrance",

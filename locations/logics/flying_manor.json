@@ -27,7 +27,7 @@
             },
             {
                 "name": "Dualliste Wing - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Dualliste Wing - Right of Dualliste room entrance",
@@ -147,7 +147,7 @@
             },
             {
                 "name": "Eveque Wing - Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
 
             {
@@ -200,6 +200,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,FlyingManor"]
+        "access_rules": ["$sky_no_pp,FlyingManor"],
+        "visibility_rules": ["include_endgame_locations"]
     }
 ]

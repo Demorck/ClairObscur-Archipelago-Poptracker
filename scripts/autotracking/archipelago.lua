@@ -1,6 +1,9 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/flag_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/autotab_mapping.lua")
+
+lastLevel = "SpringMeadows"
 -- used for hint tracking to quickly map hint status to a value from the Highlight enum
 HINT_STATUS_MAPPING = {}
 if Highlight then
@@ -97,6 +100,84 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
+
+	local options = slot_data["options"]
+
+	-- Default autotab to on
+	local autotabItem = Tracker:FindObjectForCode("autotab")
+	autotabItem.Active = 1
+
+	--[[ 
+	goals are: 
+	0 = Paintress (The Monolith)
+	1 = Curator (Lumiere)
+	2 = Painted Love (Endless Tower)
+	3 = Simon (Renoir's Draft) 
+	]]
+	if options['goal'] then
+		goal = options['goal']
+		print("goal: "..goal)
+
+		local itemOption = Tracker:FindObjectForCode("goal")
+		itemOption.CurrentStage = goal + 1
+	end
+
+	-- Shuffle Free Aim
+	if options['shuffle_free_aim'] then
+		local setOption = options['shuffle_free_aim']
+		local item = Tracker:FindObjectForCode("FreeAim")
+		local itemOption = Tracker:FindObjectForCode("shuffle_free_aim")
+		--print("shuffle_free_aim: "..setOption)
+
+		itemOption.Active = setOption
+		if setOption == 1 then
+			item.Active = 0
+		elseif setOption == 0 then
+			item.Active = 1
+		end
+	end
+
+	-- Gestral Shuffle
+	if options['gestral_shuffle'] then
+		local setOption = options['gestral_shuffle']
+		local itemOption = Tracker:FindObjectForCode("gestral_shuffle")
+		print("gestral_shuffle: "..setOption)
+
+		itemOption.Active = setOption
+	end
+
+	-- include Endgame Locations
+	-- Changed this to include to make visibility rules simpler
+	if options['exclude_endgame_locations'] and goal <= 1 then
+		local setOption = options['exclude_endgame_locations']
+		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
+		print("exclude_endgame_locations: "..setOption)
+
+		itemOption.Active = setOption
+	else
+		print("Marking include_endgame_locations because it is 1, 2 or the goal is Simon or Painted Love")
+		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
+		itemOption.Active = 1
+	end
+
+	-- include Endless Tower
+	-- Changed this to include to make visibility rules simpler
+	if options['exclude_endless_tower'] and options['exclude_endgame_locations'] then
+		local setOption = options['exclude_endless_tower']
+		local endgameSetOption = options['exclude_endgame_locations']
+		local itemOption = Tracker:FindObjectForCode("include_endless_tower")
+		
+		print("exclude_endless_tower: "..setOption)
+
+		if goal >= 2 then
+			itemOption.Active = 1
+		elseif endgameSetOption == 0 then
+			itemOption.Active = 0
+		else
+			itemOption.Active = setOption
+		end
+		
+	end
 end
 
 -- called right after an AP slot is connected
@@ -159,9 +240,15 @@ function onClear(slot_data)
 
 	-- used for tracking which flags have been accessed. Not locations, but helpful for the player
 	ap_flags = Archipelago.PlayerNumber.."-coe33-flags"
-	print("Setting Notify for :"..ap_flags)
+	print("Setting Notify for: "..ap_flags)
 	Archipelago:SetNotify({ap_flags})
 	Archipelago:Get({ap_flags})
+
+	-- used for autotabbing
+	ap_autotab = Archipelago.PlayerNumber.."-coe33-currentLocation"
+	print("Setting Notify for: "..ap_autotab)
+	Archipelago:SetNotify({ap_autotab})
+	Archipelago:Get({ap_autotab})
 
 	LOCAL_ITEMS = {}
 	GLOBAL_ITEMS = {}
@@ -319,18 +406,51 @@ function onDataStorageUpdate(key, value, oldValue)
 		--uncomment if you need to print out the flag map again
 		--printFlagMap(value)
 	end
+
+	-- Autotabbing
+	-- If the player is going to a level in the top half AUTOTAB_MAPPING, it tabs to that level
+	-- If the player is going to the Continent, it pulls the last level the player was in and uses the bottom half of AUTOTAB_MAPPING to determine which part of the Continent to tab to
+	-- it's probably inefficient, but it gets the job done. sue me (please don't)
+	-- looks for [SlotNumber]-coe33-currentLocation
+	if key == ap_autotab then
+		if value ~= nil then
+			print("Printing ap_autotab:")
+			print(value)
+
+			if AUTOTAB_MAPPING[tostring(value)] and has("autotab") then 
+				print(value.." has been found in AUTOTAB_MAPPING")
+				tabs = AUTOTAB_MAPPING[tostring(value)]
+				for internalLevel, tabName in ipairs(tabs) do
+					--print(tabName)
+					if string.find(tabName, "Continent") then
+						exitString = "EXIT_"..tostring(lastLevel)
+						if AUTOTAB_MAPPING[exitString] then
+							exitTabs = AUTOTAB_MAPPING[exitString]
+							for exitInternalLevel, exitTabName in ipairs(exitTabs) do
+								Tracker:UiHint("ActivateTab", exitTabName)
+							end
+						end
+					else
+						Tracker:UiHint("ActivateTab", tabName)
+					end
+				end
+				lastLevel = value
+				print("Last Level is "..lastLevel)
+			end
+		end
+	end
 end
 
 -- finds the flag location from flag_mapping.lua
 -- drops AvailableChestCount by 1 to gray out the location
 function mapFlagLocation(areaName, flagName)
 	local modifiedName = areaName.."=>"..flagName
-	print("\n======== mapFlagLocation() ========")
-	print("modifiedName is "..modifiedName)
+	--[[ print("\n======== mapFlagLocation() ========")
+	print("modifiedName is "..modifiedName) ]]
 
 	if FLAG_MAPPING[modifiedName] == nil then
-		print("[NOTICE] Add Flag to mapping:")
-		print("[\""..modifiedName.."\"] = { \"@\" },")
+		--[[ print("[NOTICE] Add Flag to mapping:")
+		print("[\""..modifiedName.."\"] = { \"@\" },") ]]
 	else
 		if FLAG_MAPPING[modifiedName][1] == "@" or FLAG_MAPPING[modifiedName][1] == "Not Implemented" then
 			print("[WARNING] Flag not mapped. FLAG_MAPPING is nil, FLAG_MAPPING[modifiedName][1] is \"@\" or \"Not Implemeneted\". Expected modifiedName is "..modifiedName)
@@ -344,7 +464,7 @@ function mapFlagLocation(areaName, flagName)
 		end
 	end
 	
-	print("====== End mapFlagLocation() ======\n")
+	--print("====== End mapFlagLocation() ======\n")
 end
 
 -- Prints out the flag map in a format that allows you to copy-paste into flag_mapping.lua

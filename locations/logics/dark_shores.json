@@ -42,7 +42,8 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$south_sea,[paintedpower]"]
+        "access_rules": ["$south_sea,[paintedpower]"],
+        "visibility_rules": ["include_endgame_locations"]
 
     }
 ]

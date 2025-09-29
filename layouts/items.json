@@ -15,6 +15,7 @@
             "h_alignment": "left",
             "rows": [
               [
+                "FreeAim",
                 "PaintBreak",
                 "esquie",
                 "LostGestral",
@@ -170,6 +171,35 @@
                 "Lumiere",
                 "FlyingManor",
                 "RenoirsDrafts"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "options": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "shuffle_free_aim",
+                "gestral_shuffle",
+                "include_endgame_locations",
+                "include_endless_tower",
+                "goal",
+                "autotab"
               ]
             ]
           }

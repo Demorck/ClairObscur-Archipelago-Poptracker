@@ -64,6 +64,15 @@
                   "type": "layout",
                   "key": "esquieflydive"
                 }
+              },
+              {
+                "type": "group",
+                "header": "Options",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "options"
+                }
               }
             ]
           },

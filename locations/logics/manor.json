@@ -73,11 +73,12 @@
             },
             {
                 "name": "Manor Door: From Sirene - Break the bathroom mirror",
-                "access_rules": ["$north_sea,Sirene"]
+                "access_rules": ["$north_sea,Sirene,FreeAim"]
             },
             {
                 "name": "Manor Door: From Frozen Hearts - At the harp",
-                "access_rules": ["$secondcont_ne,FrozenHearts"]
+                "access_rules": ["$secondcont_ne,FrozenHearts"],
+                "visibility_rules": ["include_endgame_locations"]
             },
             {
                 "name": "Manor Door: From First Continent Sea - Behind fake bookshelf",

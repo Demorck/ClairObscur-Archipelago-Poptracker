@@ -7,7 +7,7 @@
         "sections": [
             {
                 "name": "Steal from Victorifo",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Behind the stage",

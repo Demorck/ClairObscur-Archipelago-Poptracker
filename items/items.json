@@ -20,6 +20,69 @@
     "type": "toggle"
   },
   {
+    "name": "Free Aim",
+    "codes": "FreeAim",
+    "img": "images/items/free_aim.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Shuffle Free Aim",
+    "codes": "shuffle_free_aim",
+    "img": "images/items/free_aim.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Gestral Shuffle",
+    "codes": "gestral_shuffle",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Include Endless Tower",
+    "codes": "include_endless_tower",
+    "img": "images/items/endless_tower.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Include Endgame Locations",
+    "codes": "include_endgame_locations",
+    "img": "images/items/renoirs_draft.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Goal",
+    "codes": "goal",
+    "type": "progressive",
+    "stages": [
+      {
+        "name": "Paintress",
+        "img": "images/items/the_abyss.png",
+        "codes": "goal_paintress"
+      },
+      {
+        "name": "Curator",
+        "img": "images/items/lumiere.png",
+        "codes": "goal_curator"
+      },
+      {
+        "name": "Painted Love",
+        "img": "images/items/endless_tower.png",
+        "codes": "goal_painted-love"
+      },
+      {
+        "name": "Simon",
+        "img": "images/items/renoirs_draft.png",
+        "codes": "goal_simon"
+      }
+    ]
+  },
+  {
+    "name": "Autotab",
+    "codes": "autotab",
+    "img": "images/items/tab.png",
+    "type": "toggle"
+  },
+  {
     "name": "Progressive rock",
     "type": "progressive",
     "codes": "rock",

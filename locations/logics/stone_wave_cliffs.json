@@ -24,7 +24,7 @@
             },
             {
                 "name": "Entrance - Paint cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Paintress Shrine - Ledge with climbing holds",
@@ -52,7 +52,7 @@
             },
             {
                 "name": "Old Farm - Paint cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Tide Caverns - Next to the rope down to manor door",
@@ -165,7 +165,8 @@
             },
             {
                 "name": "Chromatic Gault",
-                "access_rules": ["PaintBreak"]
+                "access_rules": ["PaintBreak"],
+                "visibility_rules": ["include_endgame_locations"]
             },
             {
                 "name": "Petank",

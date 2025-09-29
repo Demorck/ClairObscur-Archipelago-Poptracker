@@ -31,7 +31,7 @@
             },
             {
                 "name": "Glacial Falls - Paint Cage 1",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Glacial Falls - Chromatic Veilleur Ice Cave item 4",
@@ -39,7 +39,7 @@
             },
             {
                 "name": "Glacial Falls - Paint Cage 2",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Glacial Falls - Between Expedition Flag and tracks to Danseuse Teacher",
@@ -160,6 +160,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$secondcont_ne,FrozenHearts"]
+        "access_rules": ["$secondcont_ne,FrozenHearts"],
+        "visibility_rules": ["include_endgame_locations"]
     }
 ]

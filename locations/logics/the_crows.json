@@ -11,7 +11,7 @@
             },
             {
                 "name": "Chromatic Chapelier",
-                "access_rules": ["[PaintedPower]"]
+                "access_rules": ["[PaintedPower],FreeAim"]
             }
         ],
         "access_rules": ["$north_sea"]

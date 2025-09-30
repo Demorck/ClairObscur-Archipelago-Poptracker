@@ -7,10 +7,6 @@
                           {"map": "South Continent", "x": 902, "y": 616, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
-                "name": "Chroma 1",
-                "access_rules": []
-            },
-            {
                 "name": "Old Farm - Near Chromatic Gault 2",
                 "access_rules": ["PaintBreak"]
             },

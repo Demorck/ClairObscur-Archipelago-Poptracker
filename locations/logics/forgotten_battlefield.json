@@ -16,7 +16,7 @@
             },
             {
                 "name": "Fort Ruins - In left ruins near dead end",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Battlefield - On wooden platform near Petank end",

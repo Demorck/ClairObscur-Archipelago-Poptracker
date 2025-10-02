@@ -24,6 +24,7 @@ AUTOTAB_MAPPING = {
     ["SideLevel_YellowForest"] = { "Yellow Harvest" },
     ["SideLevel_DarkShores"] = { "Dark Shores" },
     ["Manor"] = { "Continent", "South Continent" },
+    ["Camps"] = { "Continent", "South Continent" },
     ["WorldMap"] = { "Continent" },
 
     ["EXIT_SpringMeadows"] =  { "Continent", "South Continent" },

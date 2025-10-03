@@ -479,8 +479,8 @@
                 "map_locations":  [{ "map": "South Continent", "x": 277, "y": 695}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Monocou's Station" }],
-                "name":  "Lost Gestral near Monocou's Station",
+                "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Monoco's Station" }],
+                "name":  "Lost Gestral near Monoco's Station",
                 "map_locations":  [{ "map": "Middle Continent", "x": 1453, "y": 1362}]
             },
             {

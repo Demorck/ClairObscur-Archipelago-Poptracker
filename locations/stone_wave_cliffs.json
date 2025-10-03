@@ -3,11 +3,6 @@
         "name": "Stone Wave Cliffs",
         "children": [
             {
-                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Chroma 1" }],
-                "name":  "Chroma 1",
-                "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660}]
-            },
-            {
                 "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Near Chromatic Gault 2" }],
                 "name":  "Old Farm - Near Chromatic Gault 2",
                 "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 665, "y": 660}]

@@ -49,7 +49,7 @@
             },
             {
                 "name": "Manor Door: From Falling Leaves - On the desk",
-                "access_rules": ["$north_sea"]
+                "access_rules": ["$north_sea,FallingLeaves"]
             },
             {
                 "name": "Manor Door: From Inside the Monolith - Near the vase on a table",

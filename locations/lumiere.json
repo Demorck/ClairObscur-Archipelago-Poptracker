@@ -155,12 +155,12 @@
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - By dead giant Obscur" }],
                 "name":  "Lumiere's Garden - By dead giant Obscur",
-                "map_locations":  [{ "map": "Lumiere", "x": 439, "y": 467}]
+                "map_locations":  [{ "map": "Lumiere", "x": 480, "y": 410}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Near ruined statue" }],
                 "name":  "Lumiere's Garden - Near ruined statue",
-                "map_locations":  [{ "map": "Lumiere", "x": 472, "y": 460}]
+                "map_locations":  [{ "map": "Lumiere", "x": 370, "y": 460}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Inside ruined statue item 2" }],

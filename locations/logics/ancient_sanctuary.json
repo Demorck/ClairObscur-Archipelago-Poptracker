@@ -23,7 +23,7 @@
             },
             {
                 "name": "Gestral Totem - Base of the totem",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Entrance - Across bridge",
@@ -47,7 +47,7 @@
             },
             {
                 "name": "Gestral Totem - Ink bottles on the cliff",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Giant Bell Alley - After boss",
@@ -55,11 +55,11 @@
             },
             {
                 "name": "Gestral Totem - In shallow river",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Gestral Totem - Jump the gaps",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Sanctuary Maze - On Expeditioner corpse on path to flag 1 shortcut",
@@ -99,6 +99,10 @@
             {
                 "name": "Flag - Sanctuary Maze",
                 "access_rules": []
+            },
+            {
+                "name": "Flag - Gestral Totem",
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Flag - Giant Bell Alley",

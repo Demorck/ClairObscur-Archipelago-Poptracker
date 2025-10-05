@@ -419,9 +419,32 @@ function onDataStorageUpdate(key, value, oldValue)
 
 			if AUTOTAB_MAPPING[tostring(value)] and has("autotab") then 
 				print(value.." has been found in AUTOTAB_MAPPING")
-				tabs = AUTOTAB_MAPPING[tostring(value)]
-				for internalLevel, tabName in ipairs(tabs) do
-					--print(tabName)
+
+				if value == "WorldMap" then
+					exitString = "EXIT_"..tostring(lastLevel)
+					if AUTOTAB_MAPPING[exitString] then
+						exitTabs = AUTOTAB_MAPPING[exitString]
+						for exitInternalLevel, exitTabName in ipairs(exitTabs) do
+							Tracker:UiHint("ActivateTab", exitTabName)
+						end
+					end
+				else
+					tabs = AUTOTAB_MAPPING[tostring(value)]
+					for internalLevel, tabName in ipairs(tabs) do
+						print("Activating tab "..tabName)
+						Tracker:UiHint("ActivateTab", tabName)
+					end
+				end
+
+				if value ~= "Camps" and value ~= "WorldMap" then
+					lastLevel = value
+					print("Last Level is "..lastLevel)
+				end
+				
+
+
+				--[[ for internalLevel, tabName in ipairs(tabs) do
+					print(tabName)
 					if string.find(tabName, "Continent") then
 						exitString = "EXIT_"..tostring(lastLevel)
 						if AUTOTAB_MAPPING[exitString] then
@@ -435,7 +458,7 @@ function onDataStorageUpdate(key, value, oldValue)
 					end
 				end
 				lastLevel = value
-				print("Last Level is "..lastLevel)
+				print("Last Level is "..lastLevel) ]]
 			end
 		end
 	end

@@ -61,7 +61,7 @@
             },
             {
                 "name": "Renoir's Atelier",
-                "access_rules": ["$sky_no_pp"]
+                "access_rules": ["FamilyCanvas"]
             },
             {
                 "name": "Manor Door: From Visages - Next to piano",

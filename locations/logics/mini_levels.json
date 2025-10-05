@@ -46,12 +46,13 @@
 
             {
                 "name": "Small Bourgeon: Feed the White Nevron and loot his vomit",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north,bourgeonskin"]
             },
 
             {
                 "name": "Red Woods: Lumina 1",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["hidden"]
             },
 
             {

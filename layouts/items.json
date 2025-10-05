@@ -26,6 +26,14 @@
                 "HealingTint",
                 "ReviveTint",
                 "EnergyTint"
+              ],
+              [
+                "lumina",
+                "ChromaCatalyst",
+                "PolishedCatalyst",
+                "ResplendentCatalyst",
+                "GrandioseCatalyst",
+                "PerfectCatalyst"
               ]
             ]
           }
@@ -55,6 +63,32 @@
                 "Sciel",
                 "Verso",
                 "Monoco"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "questitems": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "BourgeonSkin",
+                "BeastPart",
+                "FamilyCanvas"
               ]
             ]
           }
@@ -200,6 +234,9 @@
                 "include_endless_tower",
                 "goal",
                 "autotab"
+              ],
+              [
+                "FeetTrap"
               ]
             ]
           }

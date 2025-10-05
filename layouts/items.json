@@ -25,10 +25,10 @@
               [
                 "HealingTint",
                 "ReviveTint",
-                "EnergyTint",
-                "lumina"
+                "EnergyTint"
               ],
               [
+                "lumina",
                 "ChromaCatalyst",
                 "PolishedCatalyst",
                 "ResplendentCatalyst",

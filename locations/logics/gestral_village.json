@@ -31,11 +31,11 @@
             },
             {
                 "name": "In paint spike room 1",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "In paint spike room 2",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Near casino",

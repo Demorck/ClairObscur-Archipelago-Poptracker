@@ -15,7 +15,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Gestral Village/On scaffolding by the stage" }],
                 "name":  "On scaffolding by the stage",
-                "map_locations":  [{ "map": "Gestral Village", "x": 170, "y": 175}]
+                "map_locations":  [{ "map": "Gestral Village", "x": 465, "y": 180}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Gestral Village/In the arena" }],

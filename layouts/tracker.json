@@ -31,6 +31,15 @@
               },
               {
                 "type": "group",
+                "header": "Quest Items",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "questitems"
+                }
+              },
+              {
+                "type": "group",
                 "header": "South Continent (Walking/Esquie)",
                 "dock": "top",
                 "content": {

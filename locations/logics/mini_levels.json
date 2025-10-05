@@ -51,7 +51,8 @@
 
             {
                 "name": "Red Woods: Lumina 1",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["hidden"]
             },
 
             {

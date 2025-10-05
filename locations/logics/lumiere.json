@@ -7,7 +7,7 @@
         "sections": [
             {
                 "name": "Opera House - On building railing in Paint Spike",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Entrance - Left of stairs after docks",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "Entrance - In Paint Spike",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Entrance - Right side after docks",

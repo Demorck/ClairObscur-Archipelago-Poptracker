@@ -38,6 +38,11 @@
                 "map_locations":  [{ "map": "Esquie's Nest", "x": 625, "y": 680}]
             },
             {
+                "sections":  [{ "ref": "Entrance - Esquie's Nest/Get Outta My Way! - Go right from Sunniso" }],
+                "name":  "Get Outta My Way! - Go right from Sunniso",
+                "map_locations":  [{ "map": "Esquie's Nest", "x": 450, "y": 1050}]
+            },
+            {
                 "sections":  [{ "ref": "Entrance - Esquie's Nest/Mime" }],
                 "name":  "Mime",
                 "map_locations":  [{ "map": "Esquie's Nest", "x": 615, "y": 800}]

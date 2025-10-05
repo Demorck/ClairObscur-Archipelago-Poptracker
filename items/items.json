@@ -4,7 +4,7 @@
     "codes": "Picto",
     "img": "images/items/pictos.png",
     "type": "consumable",
-    "max_quantity": 1000
+    "max_quantity": 191
   },
   {
     "name": "Lost Gestral",
@@ -12,6 +12,48 @@
     "img": "images/items/gestral.png",
     "type": "consumable",
     "max_quantity": 9
+  },
+  {
+    "name": "Colour of Lumina",
+    "codes": "lumina",
+    "img": "images/items/lumina_5.png",
+    "type": "consumable",
+    "max_quantity": 69420
+  },
+  {
+    "name": "Chroma Catalyst",
+    "codes": "ChromaCatalyst",
+    "img": "images/items/chroma_catalyst.png",
+    "type": "consumable",
+    "max_quantity": 69420
+  },
+  {
+    "name": "Polished Chroma Catalyst",
+    "codes": "PolishedCatalyst",
+    "img": "images/items/polished_catalyst.png",
+    "type": "consumable",
+    "max_quantity": 69420
+  },
+  {
+    "name": "Resplendent Chroma Catalyst",
+    "codes": "ResplendentCatalyst",
+    "img": "images/items/resplendent_catalyst.png",
+    "type": "consumable",
+    "max_quantity": 69420
+  },
+  {
+    "name": "Grandiose Chroma Catalyst",
+    "codes": "GrandioseCatalyst",
+    "img": "images/items/grandiose_catalyst.png",
+    "type": "consumable",
+    "max_quantity": 69420
+  },
+  {
+    "name": "Perfect Chroma Catalyst",
+    "codes": "PerfectCatalyst",
+    "img": "images/items/perfect_catalyst.png",
+    "type": "consumable",
+    "max_quantity": 69420
   },
   {
     "name": "Paint Spike Break",
@@ -356,5 +398,30 @@
     "codes": "EndlessTower",
     "img": "images/items/endless_tower.png",
     "type": "toggle"
+  },
+  {
+    "name": "Manor Family Canvas",
+    "codes": "FamilyCanvas",
+    "img": "images/items/manor_family_canvas.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Bourgeon Skin",
+    "codes": "BourgeonSkin",
+    "img": "images/items/bourgeon_skin.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Beast Part",
+    "codes": "BeastPart",
+    "img": "images/items/beast_part.png",
+    "type": "consumable",
+    "max_quantity": 3
+  },
+  {
+    "name": "Feet Trap",
+    "codes": "FeetTrap",
+    "img": "images/items/feet_trap.png",
+    "type": "consumable"
   }
 ]

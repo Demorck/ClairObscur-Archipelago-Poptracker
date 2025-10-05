@@ -1,0 +1,22 @@
+{
+    "versions": [
+        {
+            "package_version": "0.1.0",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.0/ClairObscurAP_Poptracker.zip",
+            "sha256": "0760076F0E7D6FD7AF33BAC2CBA15226FF111265BC14E27365366BD12F6E3E7A",
+            "changelog": [
+                "Items - Area tickets",
+                "Items - Characters",
+                "Items - Free aim",
+                "Items - Painted Power",
+                "Items - All consumables",
+                "Items - Traps",
+                "Items - Esquies abilities",
+                "Locations - All current locations with logic",
+                "Others - Auto settings",
+                "Others - Auto tab",
+                "Others - Auto tracker (even flags !)"
+            ]
+        }
+    ]
+}

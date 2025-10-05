@@ -16,6 +16,10 @@ function has_lost_gestral(count)
     return has_at_least("LostGestral", tonumber(count))
 end
 
+function has_beast_part(count)
+    return has_at_least("BeastPart", tonumber(count))
+end
+
 -- Continent Pathing Functions
 
 function south_sea()

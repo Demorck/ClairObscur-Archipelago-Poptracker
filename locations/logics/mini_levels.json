@@ -46,7 +46,7 @@
 
             {
                 "name": "Small Bourgeon: Feed the White Nevron and loot his vomit",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north,bourgeonskin"]
             },
 
             {

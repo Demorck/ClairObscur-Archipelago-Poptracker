@@ -5,6 +5,7 @@
     "package_uid": "COE33-Archipelago-Demorck",
     "package_version": "0.0.2",
     "platform": "PC",
+    "versions_url": "https://raw.githubusercontent.com/Demorck/ClairObscur-Archipelago-Poptracker/refs/heads/main/versions.json",
     "variants": {
       "standard": {
         "display_name": "Standard - Map Tracker",

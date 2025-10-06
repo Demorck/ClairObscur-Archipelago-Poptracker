@@ -1,90 +1,90 @@
 [
     {
-        "name": "Renoir's Draft",
+        "name": "Renoir's Drafts",
         "children": [
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - triple Contortionniste" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - triple Contortionniste" }],
         "name":  "Entrance - triple Contortionniste",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 378, "y": 926}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - Moissonneuse" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - Moissonneuse" }],
         "name":  "Entrance - Moissonneuse",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 706, "y": 630}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Golden Tree - above The Abyss entrance" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Golden Tree - above The Abyss entrance" }],
         "name":  "Golden Tree - above The Abyss entrance",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 380, "y": 176}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - giant bronze ball" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - giant bronze ball" }],
         "name":  "Entrance - giant bronze ball",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 223, "y": 270}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - next to Merchant" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - next to Merchant" }],
         "name":  "Entrance - next to Merchant",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 430, "y": 398}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - after platforms near Merchant" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - after platforms near Merchant" }],
         "name":  "Entrance - after platforms near Merchant",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 359, "y": 412}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - in tunnel under room with red lights" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - in tunnel under room with red lights" }],
         "name":  "Entrance - in tunnel under room with red lights",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 376, "y": 530}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - buried building and double Creation" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - buried building and double Creation" }],
         "name":  "Entrance - buried building and double Creation",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 516, "y": 304}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - under toppled fuzzy pillar" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - under toppled fuzzy pillar" }],
         "name":  "Entrance - under toppled fuzzy pillar",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 311, "y": 206}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - Boucheclier" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - Boucheclier" }],
         "name":  "Entrance - Boucheclier",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 346, "y": 546}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - on bridge behind Merchant" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - on bridge behind Merchant" }],
         "name":  "Entrance - on bridge behind Merchant",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 472, "y": 450}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - Music near Triple Contortionniste" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - Music near Triple Contortionniste" }],
         "name":  "Entrance - Music near Triple Contortionniste",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 386, "y": 783}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Entrance - Chromatic Creation" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Entrance - Chromatic Creation" }],
         "name":  "Entrance - Chromatic Creation",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 39, "y": 690}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Merchant Grour" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Merchant Grour" }],
         "name":  "Merchant Grour",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 430, "y": 383, "shape": "diamond"}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Flag - Entrance" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Flag - Entrance" }],
         "name":  "Flag - Entrance",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 568, "y": 891, "shape": "diamond"}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Flag - Golden Tree" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Flag - Golden Tree" }],
         "name":  "Flag - Golden Tree",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 475, "y": 275, "shape": "diamond"}]
     },
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Draft/Flag - The Abyss", "name": "Entrance - Renoir's Draft/Flag - The Abyss" },
-                      { "ref": "Entrance - Renoir's Draft/Simon", "name": "Entrance - Renoir's Draft/Simon" }],
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Flag - The Abyss", "name": "Flag - The Abyss" },
+                      { "ref": "Entrance - Renoir's Drafts/Simon", "name": "Simon" }],
         "map_locations":  [{ "map": "Renoir's Draft", "x": 452, "y": 198}]
     }
 ]

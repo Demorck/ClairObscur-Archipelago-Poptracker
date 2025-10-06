@@ -1,6 +1,6 @@
 [
     {
-        "name": "Entrance - Renoir's Draft",
+        "name": "Entrance - Renoir's Drafts",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
         "map_locations": [{"map": "North Continent", "x": 1147, "y": 2309, "shape": "trapezoid", "size": 32}],

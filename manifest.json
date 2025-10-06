@@ -1,9 +1,9 @@
 {
     "name": "Clair Obscur Expedition 33 - Archipelago",
-    "author": "Demorck",
+    "author": "Demorck & Yezzdia",
     "game_name": "Clair Obscur Expedition 33",
     "package_uid": "COE33-Archipelago-Demorck",
-    "package_version": "0.0.2",
+    "package_version": "0.1.0",
     "platform": "PC",
     "versions_url": "https://raw.githubusercontent.com/Demorck/ClairObscur-Archipelago-Poptracker/refs/heads/main/versions.json",
     "variants": {

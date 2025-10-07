@@ -99,7 +99,7 @@
             },
             {
                 "name": "Entrance - On main path",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Coral Cave - Past platforming pillars",

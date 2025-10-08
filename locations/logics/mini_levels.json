@@ -31,7 +31,7 @@
             },
             {
                 "name": "Twilight Quarry: Item",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north_and_esquie"]
             },
 
             {

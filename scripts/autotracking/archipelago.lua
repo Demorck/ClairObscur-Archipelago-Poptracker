@@ -472,8 +472,8 @@ function mapFlagLocation(areaName, flagName)
 	print("modifiedName is "..modifiedName) ]]
 
 	if FLAG_MAPPING[modifiedName] == nil then
-		--[[ print("[NOTICE] Add Flag to mapping:")
-		print("[\""..modifiedName.."\"] = { \"@\" },") ]]
+		print("[NOTICE] Add Flag to mapping:")
+		print("[\""..modifiedName.."\"] = { \"@\" },")
 	else
 		if FLAG_MAPPING[modifiedName][1] == "@" or FLAG_MAPPING[modifiedName][1] == "Not Implemented" then
 			print("[WARNING] Flag not mapped. FLAG_MAPPING is nil, FLAG_MAPPING[modifiedName][1] is \"@\" or \"Not Implemeneted\". Expected modifiedName is "..modifiedName)

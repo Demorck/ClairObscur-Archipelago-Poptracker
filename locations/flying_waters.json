@@ -45,7 +45,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Flying Waters/Lumerian Streets - Behind Chromatic miniboss" }],
                 "name":  "Lumerian Streets - Behind Chromatic miniboss",
-                "map_locations":  [{ "map": "Flying Waters", "x": 88, "y": 655}]
+                "map_locations":  [{ "map": "Flying Waters", "x": 200, "y": 630}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Flying Waters/Coral Cave - Near lantern coral" }],

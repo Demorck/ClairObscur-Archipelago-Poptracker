@@ -40,7 +40,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Spring Meadows/Grand Meadow - Right path after grapple" }],
                 "name":  "Grand Meadow - Right path after grapple",
-                "map_locations":  [{ "map": "Spring Meadows", "x": 655, "y": 355}]
+                "map_locations":  [{ "map": "Spring Meadows", "x": 655, "y": 330}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Spring Meadows/Abandoned Expeditioner Camp - On cliff behind paint spike 1" }],

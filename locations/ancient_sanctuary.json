@@ -120,7 +120,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Ancient Sanctuary/Flag - Gestral Totem" }],
                 "name":  "Flag - Gestral Totem",
-                "map_locations":  [{ "map": "Ancient Sanctuary", "x": 155, "y": 570, "shape": "diamond"}]
+                "map_locations":  [{ "map": "Ancient Sanctuary", "x": 210, "y": 475, "shape": "diamond"}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Ancient Sanctuary/Flag - Giant Bell Alley" }],

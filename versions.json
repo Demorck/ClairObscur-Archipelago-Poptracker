@@ -28,6 +28,14 @@
                 "Fixed various location positions",
                 "Fixed various minor logic issues" 
             ]
+        },
+        {
+            "package_version": "0.1.2",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.1/ClairObscurAP_Poptracker.zip",
+            "sha256": "D2D85D52525BFFF830D180851663E9422CFAA1D48ECDE395DE1F1B7905B231D9",
+            "changelog": [
+                "Testing to see if I borked everything" 
+            ]
         }
     ]
 }

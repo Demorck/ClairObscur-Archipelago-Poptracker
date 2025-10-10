@@ -17,6 +17,17 @@
                 "Others - Auto tab",
                 "Others - Auto tracker (even flags !)"
             ]
+        },
+        {
+            "package_version": "0.1.1",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.1/ClairObscurAP_Poptracker.zip",
+            "sha256": "0760076F0E7D6FD7AF33BAC2CBA15226FF111265BC14E27365366BD12F6E3E7A",
+            "changelog": [
+                "Fixed various logic issues",
+                "Fixed various flag mapping issues",
+                "Fixed various location positions",
+                "Fixed various minor logic issues" 
+            ]
         }
     ]
 }

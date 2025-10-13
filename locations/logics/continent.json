@@ -133,7 +133,7 @@
             },
             {
                 "name": "Bottom of the cliff next to Endless Tower",
-                "access_rules": ["$sky_no_pp"]
+                "access_rules": ["$south_sea"]
             },
             {
                 "name": "First Continent Sea - Next to merchant on island near Sprong",

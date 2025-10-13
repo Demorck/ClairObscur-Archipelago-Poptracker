@@ -47,11 +47,11 @@ function secondcont_south()
 end
 
 function secondcont_nw()
-    return secondcont_south() and has("MonocosStation")
+    return (secondcont_south() and has("MonocosStation")) or has("fly")
 end
 
 function secondcont_ne()
-    return secondcont_south() and has("MonocosStation")
+    return (secondcont_south() and has("MonocosStation")) or has("fly")
 end
 
 function sky()

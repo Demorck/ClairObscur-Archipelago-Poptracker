@@ -3,12 +3,9 @@
         {
             "package_version": "0.1.2",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.2/ClairObscurAP_Poptracker.zip",
-            "sha256": "98F30ADEF8CD731651BAA416A2A39BA5D2B8AECE82CEEA7F3F4A6AF6B5997823",
+            "sha256": "A844868F736DA8E2061660F5ECD740EF3BEE29D7FE9F3C70E996FB0A9FABF2EA",
             "changelog": [
-                "Fixed various logic issues",
-                "Fixed various flag mapping issues",
-                "Fixed various location positions",
-                "Fixed various minor logic issues" 
+                "Fixed logic issues with having fly before Monoco's Station"
             ]
         },
         {

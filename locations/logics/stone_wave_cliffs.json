@@ -147,8 +147,12 @@
                 "access_rules": []
             },
             {
-                "name": "Old Farm - Near Chromatic miniboss",
-                "access_rules": ["PaintBreak"]
+                "name": "White Hexga Reward",
+                "access_rules": ["$has_rock_crystal|3"]
+            },
+            {
+                "name": "Rock Crystal",
+                "access_rules": []
             },
             {
                 "name": "Basalt Waves - Return to the boss arena",

@@ -20,6 +20,10 @@ function has_beast_part(count)
     return has_at_least("BeastPart", tonumber(count))
 end
 
+function has_rock_crystal(count)
+    return has_at_least("RockCrystal", tonumber(count))
+end
+
 -- Continent Pathing Functions
 
 function south_sea()

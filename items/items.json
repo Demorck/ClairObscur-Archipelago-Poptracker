@@ -419,6 +419,13 @@
     "max_quantity": 3
   },
   {
+    "name": "Rock Crystal",
+    "codes": "RockCrystal",
+    "img": "images/items/rock_crystal.png",
+    "type": "consumable",
+    "max_quantity": 3
+  },
+  {
     "name": "Feet Trap",
     "codes": "FeetTrap",
     "img": "images/items/feet_trap.png",

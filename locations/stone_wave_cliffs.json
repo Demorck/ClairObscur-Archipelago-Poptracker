@@ -178,9 +178,14 @@
                 "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 390, "y": 692}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Old Farm - Near Chromatic miniboss" }],
-                "name":  "Old Farm - Near Chromatic miniboss",
-                "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 700, "y": 635}]
+                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/White Hexga Reward" }],
+                "name":  "White Hexga Reward",
+                "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 730, "y": 660}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Rock Crystal" }],
+                "name":  "Rock Crystal",
+                "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 900, "y": 650}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Basalt Waves - Return to the boss arena" }],

@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.1.3",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.3/ClairObscurAP_Poptracker.zip",
+            "sha256": "79EE568C6C0F481A3160EC7052E2D8A2E409C9A57B37376A6D965F586B968059",
+            "changelog": [
+                "Added Rock Crystal",
+                "Added one missing check near the White Hexga",
+                "Fixed misc naming issues around White Hexga",
+                "Added logic requiring Rock Crystal for the White Hexga check"
+            ]
+        },
+        {
             "package_version": "0.1.2",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.2/ClairObscurAP_Poptracker.zip",
             "sha256": "A844868F736DA8E2061660F5ECD740EF3BEE29D7FE9F3C70E996FB0A9FABF2EA",

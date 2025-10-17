@@ -61,7 +61,14 @@
             },
             {
                 "name": "Renoir's Atelier",
-                "access_rules": ["FamilyCanvas"]
+                "access_rules": ["FlyingWaters,FamilyCanvas", 
+                                 "$south_sea,FamilyCanvas", 
+                                 "$sky_no_pp,FamilyCanvas", 
+                                 "$firstcont_north,GestralVillage,AncientSanctuary,FamilyCanvas", "$sky_no_pp,GestralVillage,FamilyCanvas",
+                                 "$north_sea,FamilyCanvas",
+                                 "$secondcont_nw,OldLumiere,FamilyCanvas",
+                                 "$firstcont_north,StoneWaveCliffs,FamilyCanvas",
+                                 "$secondcont_ne,FrozenHearts,FamilyCanvas"]
             },
             {
                 "name": "Manor Door: From Visages - Next to piano",

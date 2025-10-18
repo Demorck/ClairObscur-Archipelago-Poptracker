@@ -15,15 +15,15 @@
             },
             {
                 "name": "Item after maze 1",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Item after maze 2",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Item after maze 3",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             }
         ],
         "access_rules": ["$secondcont_nw"]

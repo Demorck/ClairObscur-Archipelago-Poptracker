@@ -83,7 +83,7 @@ FLAG_MAPPING = {
     ["Level_Lumiere_Main_V2=>Curator"] = { "@Entrance - Lumiere/Flag - Crooked Tower Walkway" },
     ["Level_MonocoStation=>IceCorridor"] = { "@Entrance - Monoco's Station/Flag - Ice corridor" },
     ["Level_MonocoStation=>InsideStation"] = { "@Entrance - Monoco's Station/Flag - Monoco's Station" },
-    ["SmallLevel_YF_Zone_01=>Entry"] = { "@" },
+    ["SmallLevel_YF_Zone_01=>Entry"] = { "Not Implemented" },
     ["Level_Side_FrozenHeart=>TrainStation"] = { "@Entrance - Frozen Hearts/Flag - Icebound Train Station" },
     ["Level_Side_FrozenHeart=>CaveStation"] = { "@Entrance - Frozen Hearts/Flag - Icebound Terminal" },
     ["Level_Side_FrozenHeart=>CaveForest"] = { "@Entrance - Frozen Hearts/Flag - Iced Heart" },

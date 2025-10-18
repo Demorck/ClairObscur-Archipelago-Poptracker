@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "0.1.5",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.5/ClairObscurAP_Poptracker.zip",
+            "sha256": "d36fc75e08f42ccfa28ee8ff8ad0df189cd55c3598f6cbadc65e14d8c8f6d9d4",
+            "changelog": [
+                "Fixed Gestral mapping",
+                "Fixed Manor Canvas logic",
+                "Added Crushing Cavern - After Boss",
+                "Hid Merchant Persik in Falling Leaves",
+                "Removed FreeAim logic behind manor door in Sirene",
+                "Fixed logic issue Paint Cage in Stone Wave Cliffs Cave",
+                "Fixed flag mapping in Falling Leaves"
+            ]
+        },
+        {
             "package_version": "0.1.4",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.4/ClairObscurAP_Poptracker.zip",
             "sha256": "d36fc75e08f42ccfa28ee8ff8ad0df189cd55c3598f6cbadc65e14d8c8f6d9d4",

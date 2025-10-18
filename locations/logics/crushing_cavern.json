@@ -8,6 +8,10 @@
             {
                 "name": "Giant Sapling",
                 "access_rules": []
+            },
+            {
+                "name": "Crushing Cavern: After boss",
+                "access_rules": []
             }
         ],
         "access_rules": ["$south_sea"]

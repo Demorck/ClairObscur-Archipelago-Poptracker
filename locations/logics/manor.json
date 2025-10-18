@@ -80,7 +80,7 @@
             },
             {
                 "name": "Manor Door: From Sirene - Break the bathroom mirror",
-                "access_rules": ["$north_sea,Sirene,FreeAim"]
+                "access_rules": ["$north_sea,Sirene"]
             },
             {
                 "name": "Manor Door: From Frozen Hearts - At the harp",

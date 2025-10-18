@@ -27,8 +27,9 @@
             },
             
             {
-                "name": "-Merchant Persik",
-                "access_rules": []
+                "name": "Merchant Persik",
+                "access_rules": [],
+                "visibility_rules": ["hidden"]
             },
             
             {

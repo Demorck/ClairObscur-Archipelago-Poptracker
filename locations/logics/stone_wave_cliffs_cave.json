@@ -19,7 +19,7 @@
             },
             {
                 "name": "Paint Cage",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             
             {

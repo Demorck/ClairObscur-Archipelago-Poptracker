@@ -8,8 +8,8 @@
                 "map_locations": [{ "map": "Crushing Cavern", "x": 40, "y": 460}]
             },
             {
-                "sections": [{ "ref": "Entrance - Crushing Cavern/Crushing Cavern: After boss" }],
-                "name":  "Crushing Cavern: After boss",
+                "sections": [{ "ref": "Entrance - Crushing Cavern/After boss" }],
+                "name":  "After boss",
                 "map_locations": [{ "map": "Crushing Cavern", "x": 40, "y": 460}]
             }
         ]

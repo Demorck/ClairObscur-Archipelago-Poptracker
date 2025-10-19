@@ -16,16 +16,15 @@
             
             {
                 "name": "Chromatic Boucheclier",
-                "access_rules": ["[paintedpower],FreeAim"],
-                "visibility_rules": ["include_endgame_locations"]
+                "access_rules": ["[paintedpower],FreeAim"]
             },
             {
                 "name": "Petank",
-                "access_rules": ["[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "access_rules": ["[paintedpower]"]
             }
         ],
-        "access_rules": ["$sky_no_pp"]
+        "access_rules": ["$sky_no_pp"],
+        "visibility_rules": ["include_endgame_locations"]
 
     }
 ]

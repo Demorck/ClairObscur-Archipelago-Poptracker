@@ -1,8 +1,8 @@
 FLAG_MAPPING = {
     ["Level_Main_ForgottenBattlefield_V2=>MainGate"] = { "@Entrance - Forgotten Battlefield/Flag - Main Gate" },
     ["Level_Main_ForgottenBattlefield_V2=>MainRuins"] = { "@Entrance - Forgotten Battlefield/Flag - Fort Ruins" },
-    ["Level_Main_ForgottenBattlefield_V2=>Battlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Battlefield" },
-    ["Level_Main_ForgottenBattlefield_V2=>SideBattlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Vanguard Point" },
+    ["Level_Main_ForgottenBattlefield_V2=>SideBattlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Battlefield" },
+    ["Level_Main_ForgottenBattlefield_V2=>Battlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Vanguard Point" },
     ["Level_Main_ForgottenBattlefield_V2=>DuallistArena"] = { "@Entrance - Forgotten Battlefield/Flag - Ancient Bridge" },
     ["Level_YellowForest_Main=>Lake"] = { "@Entrance - Yellow Harvest/Flag - Harvester's Hollow" },
     ["Level_YellowForest_Main=>Entry"] = { "@Entrance - Yellow Harvest/Flag - Entrance" },

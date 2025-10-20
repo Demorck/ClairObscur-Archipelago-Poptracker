@@ -55,7 +55,7 @@
             },
             {
                 "name": "Tainted Sanctuary - Paint Cage",
-                "access_rules": ["FreeAim"]
+                "access_rules": ["FreeAim,PaintBreak"]
             },
             {
                 "name": "Tainted Sanctuary - Next to giant Sakapatate statue",

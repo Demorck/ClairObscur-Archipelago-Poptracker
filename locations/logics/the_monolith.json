@@ -184,7 +184,7 @@
             },
             {
                 "name": "Chromatic Clair Obscur",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Mime",

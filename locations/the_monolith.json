@@ -203,6 +203,11 @@
                 "map_locations":  [{ "map": "The Monolith", "x": 416, "y": 1096}]
             },
             {
+                "sections":  [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Left before Expedition Flag" }],
+                "name":  "Tainted Lumiere - Left before Expedition Flag",
+                "map_locations":  [{ "map": "The Monolith", "x": 230, "y": 1180}]
+            },
+            {
                 "sections":  [{ "ref": "Entrance - The Monolith/Tainted Battlefield - After Expedition Flag" }],
                 "name":  "Tainted Battlefield - After Expedition Flag",
                 "map_locations":  [{ "map": "The Monolith", "x": 1590, "y": 1380}]

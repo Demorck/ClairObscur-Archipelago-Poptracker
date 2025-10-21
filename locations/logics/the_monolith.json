@@ -166,6 +166,10 @@
                 "access_rules": []
             },
             {
+                "name": "Tainted Lumiere - Left before Expedition Flag",
+                "access_rules": []
+            },
+            {
                 "name": "Tainted Battlefield - After Expedition Flag",
                 "access_rules": []
             },

@@ -55,7 +55,7 @@
             },
             {
                 "name": "Tainted Sanctuary - Paint Cage",
-                "access_rules": ["FreeAim"]
+                "access_rules": ["FreeAim,PaintBreak"]
             },
             {
                 "name": "Tainted Sanctuary - Next to giant Sakapatate statue",
@@ -166,6 +166,10 @@
                 "access_rules": []
             },
             {
+                "name": "Tainted Lumiere - Left before Expedition Flag",
+                "access_rules": []
+            },
+            {
                 "name": "Tainted Battlefield - After Expedition Flag",
                 "access_rules": []
             },
@@ -180,7 +184,7 @@
             },
             {
                 "name": "Chromatic Clair Obscur",
-                "access_rules": []
+                "access_rules": ["[paintedpower]"]
             },
             {
                 "name": "Mime",

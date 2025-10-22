@@ -103,9 +103,9 @@
                 "map_locations":  [{ "map": "Lumiere", "x": 686, "y": 124}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - First right up stairs" }],
-                "name":  "Lumiere's Garden - First right up stairs",
-                "map_locations":  [{ "map": "Lumiere", "x": 338, "y": 360}]
+                "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Left before Chromatic Miniboss" }],
+                "name":  "Lumiere's Garden - Left before Chromatic Miniboss",
+                "map_locations":  [{ "map": "Lumiere", "x": 210, "y": 480}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Opera House - Top of stairs" }],
@@ -155,7 +155,7 @@
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - By dead giant Obscur" }],
                 "name":  "Lumiere's Garden - By dead giant Obscur",
-                "map_locations":  [{ "map": "Lumiere", "x": 480, "y": 410}]
+                "map_locations":  [{ "map": "Lumiere", "x": 450, "y": 455}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Lumiere's Garden - Near ruined statue" }],
@@ -193,8 +193,8 @@
                 "map_locations":  [{ "map": "Lumiere", "x": 1418, "y": 408}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Lumiere/Opera House - Near Chromatic miniboss" }],
-                "name":  "Opera House - Near Chromatic miniboss",
+                "sections":  [{ "ref": "Entrance - Lumiere/Shattered Alley - Near Chromatic miniboss" }],
+                "name":  "Shattered Alley - Near Chromatic miniboss",
                 "map_locations":  [{ "map": "Lumiere", "x": 786, "y": 281}]
             },
             {

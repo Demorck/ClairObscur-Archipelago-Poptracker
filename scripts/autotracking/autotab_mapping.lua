@@ -50,5 +50,6 @@ AUTOTAB_MAPPING = {
     ["EXIT_SideLevel_TwilightSanctuary"] =  { "Continent", "Middle Continent" },
     ["EXIT_Visages"] =  { "Continent", "North Continent" },
     ["EXIT_SideLevel_YellowForest"] =  { "Continent", "South Continent" },
-    ["EXIT_SideLevel_DarkShores"] =  { "Continent", "South Continent" }
+    ["EXIT_SideLevel_DarkShores"] =  { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_SinisterCave"] = { "Continent", "North Continent" }
 }

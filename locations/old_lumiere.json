@@ -128,6 +128,11 @@
                 "map_locations":  [{ "map": "Old Lumiere", "x": 396, "y": 485, "shape": "diamond"}]
             },
             {
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Train Station Ruins" }],
+                "name":  "Flag - Train Station Ruins",
+                "map_locations":  [{ "map": "Old Lumiere", "x": 396, "y": 550, "shape": "diamond"}]
+            },
+            {
                 "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Left Street" }],
                 "name":  "Flag - Left Street",
                 "map_locations":  [{ "map": "Old Lumiere", "x": 275, "y": 495, "shape": "diamond"}]

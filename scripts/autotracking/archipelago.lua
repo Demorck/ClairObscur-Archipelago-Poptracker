@@ -422,9 +422,11 @@ function onDataStorageUpdate(key, value, oldValue)
 
 				if value == "WorldMap" then
 					exitString = "EXIT_"..tostring(lastLevel)
+					print("Mapping to "..exitString)
 					if AUTOTAB_MAPPING[exitString] then
 						exitTabs = AUTOTAB_MAPPING[exitString]
 						for exitInternalLevel, exitTabName in ipairs(exitTabs) do
+							print("Exit tab: "..exitTabName)
 							Tracker:UiHint("ActivateTab", exitTabName)
 						end
 					end
@@ -435,31 +437,15 @@ function onDataStorageUpdate(key, value, oldValue)
 						Tracker:UiHint("ActivateTab", tabName)
 					end
 				end
-
-				if value ~= "Camps" and value ~= "WorldMap" then
-					lastLevel = value
-					print("Last Level is "..lastLevel)
-				end
-				
-
-
-				--[[ for internalLevel, tabName in ipairs(tabs) do
-					print(tabName)
-					if string.find(tabName, "Continent") then
-						exitString = "EXIT_"..tostring(lastLevel)
-						if AUTOTAB_MAPPING[exitString] then
-							exitTabs = AUTOTAB_MAPPING[exitString]
-							for exitInternalLevel, exitTabName in ipairs(exitTabs) do
-								Tracker:UiHint("ActivateTab", exitTabName)
-							end
-						end
-					else
-						Tracker:UiHint("ActivateTab", tabName)
-					end
-				end
-				lastLevel = value
-				print("Last Level is "..lastLevel) ]]
 			end
+
+			if value == "Camps" or value == "WorldMap" then
+				print("Current level is "..value..", so lastLevel is not being updated")
+			else
+				lastLevel = value
+				print("Last Level is "..lastLevel)
+			end
+			
 		end
 	end
 end

@@ -1,8 +1,8 @@
 FLAG_MAPPING = {
     ["Level_Main_ForgottenBattlefield_V2=>MainGate"] = { "@Entrance - Forgotten Battlefield/Flag - Main Gate" },
     ["Level_Main_ForgottenBattlefield_V2=>MainRuins"] = { "@Entrance - Forgotten Battlefield/Flag - Fort Ruins" },
-    ["Level_Main_ForgottenBattlefield_V2=>Battlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Battlefield" },
-    ["Level_Main_ForgottenBattlefield_V2=>SideBattlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Vanguard Point" },
+    ["Level_Main_ForgottenBattlefield_V2=>SideBattlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Battlefield" },
+    ["Level_Main_ForgottenBattlefield_V2=>Battlefield"] = { "@Entrance - Forgotten Battlefield/Flag - Vanguard Point" },
     ["Level_Main_ForgottenBattlefield_V2=>DuallistArena"] = { "@Entrance - Forgotten Battlefield/Flag - Ancient Bridge" },
     ["Level_YellowForest_Main=>Lake"] = { "@Entrance - Yellow Harvest/Flag - Harvester's Hollow" },
     ["Level_YellowForest_Main=>Entry"] = { "@Entrance - Yellow Harvest/Flag - Entrance" },
@@ -50,6 +50,7 @@ FLAG_MAPPING = {
     ["Level_OldLumiere_Main=>LunePath"] = { "@Entrance - Old Lumiere/Flag - Right Street" },
     ["Level_OldLumiere_Main=>MaellePath"] = { "@Entrance - Old Lumiere/Flag - Left Street" },
     ["Level_OldLumiere_Main=>ManorArena"] = { "@Entrance - Old Lumiere/Flag - Manor Gardens" },
+    ["Level_OldLumiere_Main=>AlphaArea"] = { "@Entrance - Old Lumiere/Flag - Train Station Ruins"},
     ["Level_Goblu_Main_V5=>LimonsolHome"] = { "@Entrance - Flying Waters/Flag - Noco's Hut" },
     ["Level_Goblu_Main_V5=>CrulerCave"] = { "@Entrance - Flying Waters/Flag - Coral Cave" },
     ["Level_Goblu_Main_V5=>LumiereStreet"] = { "@Entrance - Flying Waters/Flag - Lumerian Streets" },
@@ -88,4 +89,5 @@ FLAG_MAPPING = {
     ["Level_Side_FrozenHeart=>CaveStation"] = { "@Entrance - Frozen Hearts/Flag - Icebound Terminal" },
     ["Level_Side_FrozenHeart=>CaveForest"] = { "@Entrance - Frozen Hearts/Flag - Iced Heart" },
     ["Level_Side_FrozenHeart=>Frozenlakes"] = { "@Entrance - Frozen Hearts/Flag - Glacial Falls" }
+    
 }

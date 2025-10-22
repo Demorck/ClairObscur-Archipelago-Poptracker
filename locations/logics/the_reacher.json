@@ -128,8 +128,9 @@
             },
 
             {
-                "name": "-Merchant Eragol",
-                "access_rules": []
+                "name": "Merchant Eragol",
+                "access_rules": [],
+                "visibility_rules": ["hidden"]
             },
 
             {

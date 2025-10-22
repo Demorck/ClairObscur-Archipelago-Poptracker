@@ -12,7 +12,7 @@
                 "access_rules": ["$has_beast_part|3"]
             }
         ],
-        "access_rules": ["$sky_no_pp"],
+        "access_rules": ["$south_sea"],
         "visibility_rules": ["include_endgame_locations"]
 
     }

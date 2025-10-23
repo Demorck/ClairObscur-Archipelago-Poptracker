@@ -111,8 +111,9 @@ function apply_slot_data(slot_data)
 	goals are: 
 	0 = Paintress (The Monolith)
 	1 = Curator (Lumiere)
-	2 = Painted Love (Endless Tower)
-	3 = Simon (Renoir's Draft) 
+	2 = Clea (Flying Manor)
+	3 = Painted Love (Endless Tower)
+	4 = Simon (Renoir's Draft) 
 	]]
 	if options['goal'] then
 		goal = options['goal']
@@ -148,7 +149,7 @@ function apply_slot_data(slot_data)
 
 	-- include Endgame Locations
 	-- Changed this to include to make visibility rules simpler
-	if options['exclude_endgame_locations'] and goal <= 1 then
+	if options['exclude_endgame_locations'] and (goal <= 1 or goal == 4) then
 		local setOption = options['exclude_endgame_locations']
 		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
 		print("exclude_endgame_locations: "..setOption)
@@ -169,7 +170,7 @@ function apply_slot_data(slot_data)
 		
 		print("exclude_endless_tower: "..setOption)
 
-		if goal >= 2 then
+		if goal >= 2 and goal ~= 4 then
 			itemOption.Active = 1
 		elseif endgameSetOption == 0 then
 			itemOption.Active = 0
@@ -429,6 +430,9 @@ function onDataStorageUpdate(key, value, oldValue)
 							print("Exit tab: "..exitTabName)
 							Tracker:UiHint("ActivateTab", exitTabName)
 						end
+					else
+						print("value does not exist. Add to autotab mapping!")
+						print("[\""..exitString.."\"] = { \"Continent\", \" Continent\" },")
 					end
 				else
 					tabs = AUTOTAB_MAPPING[tostring(value)]

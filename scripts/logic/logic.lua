@@ -24,6 +24,17 @@ function has_rock_crystal(count)
     return has_at_least("RockCrystal", tonumber(count))
 end
 
+function hide_clea_endgame_locations()
+    if has("include_endgame_locations") then
+        return true
+    end
+
+    if has("goal_clea") then
+        return false
+    end
+    return true
+end
+
 -- Continent Pathing Functions
 
 function south_sea()

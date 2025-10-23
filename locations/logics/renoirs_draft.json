@@ -60,12 +60,13 @@
             },
             {
                 "name": "Entrance - Chromatic Creation",
-                "access_rules": ["[paintedpower]"]
+                "access_rules": ["PaintBreak,[paintedpower]"]
             },
 
             {
-                "name": "-Merchant Grour",
-                "access_rules": []
+                "name": "Merchant Grour",
+                "access_rules": [],
+                "visibility_rules": ["hidden"]
             },
 
             {
@@ -82,6 +83,6 @@
             }
         ],
         "access_rules": ["$north_sea,$dive,RenoirsDrafts"],
-        "visibility_rules": ["include_endgame_locations"]
+        "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

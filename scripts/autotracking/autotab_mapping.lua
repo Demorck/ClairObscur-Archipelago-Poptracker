@@ -1,4 +1,5 @@
 AUTOTAB_MAPPING = {
+    ---ENTRANCES---
     ["SpringMeadows"] = { "Spring Meadows" },
     ["GoblusLair"] = { "Flying Waters" },
     ["AncientSanctuary"] = { "Ancient Sanctuary" },
@@ -27,29 +28,64 @@ AUTOTAB_MAPPING = {
     ["Camps"] = { "Continent", "South Continent" },
     ["WorldMap"] = { "Continent" },
 
+
+    ---EXITS---
+
+    --South Continent
     ["EXIT_SpringMeadows"] =  { "Continent", "South Continent" },
     ["EXIT_GoblusLair"] =  { "Continent", "South Continent" },
     ["EXIT_AncientSanctuary"] =  { "Continent", "South Continent" },
     ["EXIT_SideLevel_RedForest"] =  { "Continent", "South Continent" },
     ["EXIT_EsquieNest"] =  { "Continent", "South Continent" },
+    ["EXIT_SeaCliff"] =  { "Continent", "South Continent" },
+    ["EXIT_GestralVillage"] =  { "Continent", "South Continent" },
+    ["EXIT_Lumiere"] =  { "Continent", "South Continent" },
+    ["EXIT_SideLevel_YellowForest"] =  { "Continent", "South Continent" },
+    ["EXIT_SideLevel_DarkShores"] =  { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_CaveAbbest"] = { "Continent", "South Continent" },
+    ["EXIT_MiniLevel_GestralTreeCity"] = { "Continent", "South Continent" },
+    ["EXIT_MiniLevel_Spring"] = { "Continent", "South Continent" },
+    ["EXIT_MiniLevel_BoatGraveyardBlue"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_GoblusLair_02"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_RedWoods"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_SpringMeadows"] = { "Continent", "South Continent" },
+    ["EXIT_MiniLevel_WhiteTree"] = { "Continent", "South Continent" },
+    ["EXIT_SideLevel_CleasTower_Entrance"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_StonewaveCliffsCave"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_FlyingCasinoEntrance"] = { "Continent", "South Continent" },
+    ["EXIT_SmallLevel_CavernCrusher"] = { "Continent", "South Continent" },
+    ["EXIT_MiniLevel_CleasOrangeArea"] = { "Continent", "South Continent" },
+
+    --Middle Continent
     ["EXIT_SideLevel_OrangeForest"] =  { "Continent", "Middle Continent" },
     ["EXIT_SideLevel_CleasFlyingHouse"] =  { "Continent", "Middle Continent" },
     ["EXIT_ForgottenBattlefield"] =  { "Continent", "Middle Continent" },
     ["EXIT_SidelLevel_FrozenHearts"] =  { "Continent", "Middle Continent" },
-    ["EXIT_GestralVillage"] =  { "Continent", "South Continent" },
+    ["EXIT_OldLumiere"] =  { "Continent", "Middle Continent" },
     ["EXIT_MonocoStation"] =  { "Continent", "Middle Continent" },
-    ["EXIT_Lumiere"] =  { "Continent", "South Continent" },
+    ["EXIT_SideLevel_TwilightSanctuary"] =  { "Continent", "Middle Continent" },
+    ["EXIT_MiniLevel_BladesGraveyard"] = { "Continent", "Middle Continent" },
+    ["EXIT_MiniLevel_BoatGraveyardPurple"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_CoastalCave"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_StoneQuarry"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_TheCarrousel"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_SacredRiver"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_DoorMaze"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_ChosenPath"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_ChromaZoneEntry"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_WhiteSands"] = { "Continent", "Middle Continent" },
+    ["EXIT_SmallLevel_FloatingIsland"] = { "Continent", "Middle Continent" },
+    
+    --North Continent
     ["EXIT_Monolith_Interior_PaintressIntro"] =  { "Continent", "North Continent" },
     ["EXIT_Monolith_Interior_Climb"] =  { "Continent", "North Continent" },
-    ["EXIT_OldLumiere"] =  { "Continent", "Middle Continent" },
     ["EXIT_SideLevel_Reacher"] =  { "Continent", "North Continent" },
     ["EXIT_SideLevel_AxonPath"] =  { "Continent", "North Continent" },
     ["EXIT_SmallLevel_SimonArea"] =  { "Continent", "North Continent" },
-    ["EXIT_SeaCliff"] =  { "Continent", "South Continent" },
     ["EXIT_Sirene"] =  { "Continent", "North Continent" },
-    ["EXIT_SideLevel_TwilightSanctuary"] =  { "Continent", "Middle Continent" },
     ["EXIT_Visages"] =  { "Continent", "North Continent" },
-    ["EXIT_SideLevel_YellowForest"] =  { "Continent", "South Continent" },
-    ["EXIT_SideLevel_DarkShores"] =  { "Continent", "South Continent" },
-    ["EXIT_SmallLevel_SinisterCave"] = { "Continent", "North Continent" }
+    ["EXIT_SmallLevel_SinisterCave"] = { "Continent", "North Continent" },
+    ["EXIT_SmallLevel_TheCanvas"] = { "Continent", "North Continent" },
+    ["EXIT_SmallLevel_Visages"] = { "Continent", "North Continent" },
+    ["EXIT_SmallLevel_Reacher"] = { "Continent", "North Continent" }
 }

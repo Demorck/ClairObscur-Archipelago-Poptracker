@@ -107,6 +107,11 @@
         "codes": "goal_curator"
       },
       {
+        "name": "Clea",
+        "img": "images/items/flying_manor.png",
+        "codes": "goal_clea"
+      },
+      {
         "name": "Painted Love",
         "img": "images/items/endless_tower.png",
         "codes": "goal_painted-love"

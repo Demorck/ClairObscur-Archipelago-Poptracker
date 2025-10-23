@@ -362,12 +362,12 @@
             {
                 "name": "Chromatic Aberration",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Benisseur",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Bruler",
@@ -376,22 +376,22 @@
             {
                 "name": "Chromatic Demineur",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Goblu",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Moissoneuse",
                 "access_rules": ["$north_sea"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Petank",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Chromatic Jar",
@@ -404,7 +404,7 @@
             {
                 "name": "Chromatic Portier",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Mime",
@@ -413,12 +413,12 @@
             {
                 "name": "Frost Eveque",
                 "access_rules": ["$secondcont_south"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Thunder Eveque",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Grosse Tete",
@@ -427,12 +427,12 @@
             {
                 "name": "Serpenphare",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Sprong",
                 "access_rules": ["$south_sea,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Lost Gestral near Esquie's Nest",

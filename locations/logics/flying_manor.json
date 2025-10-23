@@ -205,6 +205,6 @@
             }
         ],
         "access_rules": ["$sky_no_pp,FlyingManor"],
-        "visibility_rules": ["include_endgame_locations"]
+        "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

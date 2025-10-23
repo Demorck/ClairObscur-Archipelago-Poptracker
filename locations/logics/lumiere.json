@@ -228,6 +228,7 @@
         "access_rules": ["$sky_no_pp,Lumiere"],
         "visibility_rules": ["include_endgame_locations",
                              "goal_curator",
+                             "goal_clea",
                              "goal_painted-love",
                              "goal_simon"]
     }

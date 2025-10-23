@@ -161,6 +161,6 @@
             }
         ],
         "access_rules": ["$secondcont_ne,FrozenHearts"],
-        "visibility_rules": ["include_endgame_locations"]
+        "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

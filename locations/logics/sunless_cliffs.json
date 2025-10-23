@@ -7,7 +7,8 @@
         "sections": [
             {
                 "name": "Bald Mime",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations"]
             }
         ],
         "access_rules": ["$sky_no_pp,[PaintedPower]"],

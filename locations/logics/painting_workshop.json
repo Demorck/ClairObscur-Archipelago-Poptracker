@@ -9,7 +9,8 @@
         "sections": [
             {
                 "name": "Lampmaster",
-                "access_rules": ["$has_beast_part|3"]
+                "access_rules": ["$has_beast_part|3"],
+                "visibility_rules": ["$hide_clea_endgame_locations"]
             }
         ],
         "access_rules": ["$south_sea"],

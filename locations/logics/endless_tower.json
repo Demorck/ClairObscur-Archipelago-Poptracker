@@ -103,43 +103,52 @@
             },
             {
                 "name": "Stage 9-1",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 9-2",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 9-3",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-1",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-2",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-3",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-1",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-2",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-3",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             }
         ],
         "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"],
-        "visibility_rules": ["include_endless_tower,include_endgame_locations"]
+        "visibility_rules": ["include_endless_tower","include_endgame_locations","goal_clea"]
 
     }
 ]

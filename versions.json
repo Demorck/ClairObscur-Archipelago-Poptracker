@@ -1,6 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "0.1.6",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.6/ClairObscurAP_Poptracker.zip",
+            "sha256": "ABB7F613596F6C0C1976F2CD024985AF9FF41CE716130E5705E57CD20C46998A",
+            "changelog": [
+                "Fixed various location positions, logic, and inconsistencies",
+                "Actually fixed Gestral mapping",
+                "Fixed autotabbing inconsistencies with exiting most minor areas",
+                "Fixed flag mapping in Forgotten Battlefield because someone decided to make the internal names not make sense",
+                "Removed paths from Flying Manor",
+                "Fixed some nonsense in Lumiere. I genuinely don't know what happened there lmao",
+                "Added Clea goal and modified logic to force include some endgame locations regardless of exclude_endgame_locations option"
+            ]
+        },
+        {
             "package_version": "0.1.5",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.5/ClairObscurAP_Poptracker.zip",
             "sha256": "A49BA9A9DC2E8F4880F54E1CEC1895A92704DE779AE014F0719F059D963EA4DB",

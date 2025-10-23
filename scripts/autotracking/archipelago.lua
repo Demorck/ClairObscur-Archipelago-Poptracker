@@ -111,9 +111,9 @@ function apply_slot_data(slot_data)
 	goals are: 
 	0 = Paintress (The Monolith)
 	1 = Curator (Lumiere)
-	2 = Clea (Flying Manor)
-	3 = Painted Love (Endless Tower)
-	4 = Simon (Renoir's Draft) 
+	2 = Painted Love (Endless Tower)
+	3 = Simon (Renoir's Draft)
+	4 = Clea (Flying Manor) 
 	]]
 	if options['goal'] then
 		goal = options['goal']

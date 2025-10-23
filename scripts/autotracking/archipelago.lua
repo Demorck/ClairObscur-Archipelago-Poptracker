@@ -120,7 +120,18 @@ function apply_slot_data(slot_data)
 		print("goal: "..goal)
 
 		local itemOption = Tracker:FindObjectForCode("goal")
-		itemOption.CurrentStage = goal + 1
+		if goal == 0 then 
+			itemOption.CurrentStage = 1
+		elseif goal == 1 then --Curator
+			itemOption.CurrentStage = 2
+		elseif goal == 2 then --Painted Love
+			itemOption.CurrentStage = 4
+		elseif goal == 3 then --Simon
+			itemOption.CurrentStage = 5
+		elseif goal == 4 then --Clea
+			itemOption.CurrentStage = 3
+		end
+		
 	end
 
 	-- Shuffle Free Aim

@@ -32,7 +32,13 @@ function hide_clea_endgame_locations()
     if has("goal_clea") then
         return false
     end
-    return true
+    
+    if Tracker:FindObjectForCode("goal") <= 2 then
+        return false
+    else
+        return true
+    end
+
 end
 
 -- Continent Pathing Functions
@@ -62,7 +68,7 @@ function secondcont_south()
 end
 
 function secondcont_nw()
-    return (secondcont_south() and has("MonocosStation")) or has("fly")
+    return (secondcont_south() and has("MonocosStation")) or has("coral") or has("fly")
 end
 
 function secondcont_ne()

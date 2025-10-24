@@ -23,7 +23,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea"]
+        "access_rules": ["$north_sea,[$calculate_picto_count_from_level|13]"]
 
     }
 ]

@@ -146,6 +146,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["FlyingWaters"]
+        "access_rules": ["FlyingWaters,[$calculate_picto_count_from_level|3]"]
     }
 ]

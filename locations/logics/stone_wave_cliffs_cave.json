@@ -27,7 +27,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$south_sea"]
+        "access_rules": ["$south_sea,[$calculate_picto_count_from_level|8]"]
 
     }
 ]

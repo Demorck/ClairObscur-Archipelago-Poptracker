@@ -165,7 +165,7 @@
             },
             {
                 "name": "Chromatic Gault",
-                "access_rules": ["PaintBreak"],
+                "access_rules": ["PaintBreak,[$calculate_picto_count_from_level|20]"],
                 "visibility_rules": ["include_endgame_locations"]
             },
             {
@@ -199,6 +199,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$firstcont_north_and_esquie,StoneWaveCliffs"]
+        "access_rules": ["$firstcont_north_and_esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]"]
     }
 ]

@@ -252,6 +252,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,TheMonolith"]
+        "access_rules": ["$north_sea,TheMonolith,[$calculate_picto_count_from_level|15]"]
     }
 ]

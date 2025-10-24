@@ -7,143 +7,143 @@
         "sections": [
             {
                 "name": "Stage 1-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|21]"]
             },
             {
                 "name": "Stage 1-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|21]"]
             },
             {
                 "name": "Stage 1-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|21]"]
             },
             {
                 "name": "Stage 2-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|22]"]
             },
             {
                 "name": "Stage 2-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|22]"]
             },
             {
                 "name": "Stage 2-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|22]"]
             },
             {
                 "name": "Stage 3-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|23]"]
             },
             {
                 "name": "Stage 3-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|23]"]
             },
             {
                 "name": "Stage 3-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|23]"]
             },
             {
                 "name": "Stage 4-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|24]"]
             },
             {
                 "name": "Stage 4-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|24]"]
             },
             {
                 "name": "Stage 4-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|24]"]
             },
             {
                 "name": "Stage 5-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|25]"]
             },
             {
                 "name": "Stage 5-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|25]"]
             },
             {
                 "name": "Stage 5-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|25]"]
             },
             {
                 "name": "Stage 6-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|26]"]
             },
             {
                 "name": "Stage 6-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|26]"]
             },
             {
                 "name": "Stage 6-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|26]"]
             },
             {
                 "name": "Stage 7-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|27]"]
             },
             {
                 "name": "Stage 7-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|27]"]
             },
             {
                 "name": "Stage 7-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|27]"]
             },
             {
                 "name": "Stage 8-1",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|28]"]
             },
             {
                 "name": "Stage 8-2",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|28]"]
             },
             {
                 "name": "Stage 8-3",
-                "access_rules": []
+                "access_rules": [",[$calculate_picto_count_from_level|28]"]
             },
             {
                 "name": "Stage 9-1",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|29]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 9-2",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|29]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 9-3",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|29]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-1",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-2",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 10-3",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-1",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|31]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-2",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|31]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             },
             {
                 "name": "Stage 11-3",
-                "access_rules": [],
+                "access_rules": [",[$calculate_picto_count_from_level|31]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             }
         ],

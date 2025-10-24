@@ -42,7 +42,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$south_sea,[paintedpower]"],
+        "access_rules": ["$south_sea,[paintedpower],[$calculate_picto_count_from_level|23]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
 
     }

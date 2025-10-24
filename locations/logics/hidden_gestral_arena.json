@@ -22,7 +22,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$firstcont_north"]
+        "access_rules": ["$firstcont_north,[$calculate_picto_count_from_level|6]"]
 
     }
 ]

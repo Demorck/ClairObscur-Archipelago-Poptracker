@@ -41,7 +41,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["FallingLeaves,$north_sea"]
+        "access_rules": ["FallingLeaves,$north_sea,[$calculate_picto_count_from_level|14]"]
 
     }
 ]

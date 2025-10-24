@@ -204,7 +204,7 @@
                 "visibility_rules": ["hidden"]
             }
         ],
-        "access_rules": ["$sky_no_pp,FlyingManor"],
+        "access_rules": ["$sky_no_pp,FlyingManor,[$calculate_picto_count_from_level|28]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

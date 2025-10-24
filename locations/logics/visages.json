@@ -114,6 +114,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,Visages"]
+        "access_rules": ["$north_sea,Visages,[$calculate_picto_count_from_level|11]"]
     }
 ]

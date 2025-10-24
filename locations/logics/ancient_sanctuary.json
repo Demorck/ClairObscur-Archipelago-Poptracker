@@ -109,6 +109,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$firstcont_north,AncientSanctuary"]
+        "access_rules": ["$firstcont_north,AncientSanctuary,[$calculate_picto_count_from_level|4]"]
     }
 ]

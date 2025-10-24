@@ -366,44 +366,44 @@
             },
             {
                 "name": "Chromatic Benisseur",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|28]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Bruler",
-                "access_rules": ["$firstcont_north"]
+                "access_rules": ["$firstcont_north,[$calculate_picto_count_from_level|8]"]
             },
             {
                 "name": "Chromatic Demineur",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Goblu",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Moissoneuse",
-                "access_rules": ["$north_sea"],
+                "access_rules": ["$north_sea,[$calculate_picto_count_from_level|17]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Petank",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
                 "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Chromatic Jar",
-                "access_rules": ["$south_sea"]
+                "access_rules": ["$south_sea,[$calculate_picto_count_from_level|13]"]
             },
             {
                 "name": "Chromatic Reaper Cultist",
-                "access_rules": ["$north_sea"]
+                "access_rules": ["$north_sea,[$calculate_picto_count_from_level|12]"]
             },
             {
                 "name": "Chromatic Portier",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
@@ -412,26 +412,26 @@
             },
             {
                 "name": "Frost Eveque",
-                "access_rules": ["$secondcont_south"],
+                "access_rules": ["$secondcont_south,[$calculate_picto_count_from_level|17]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
                 "name": "Thunder Eveque",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
                 "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Grosse Tete",
-                "access_rules": ["$secondcont_south"]
+                "access_rules": ["$secondcont_south,[$calculate_picto_count_from_level|15]"]
             },
             {
                 "name": "Serpenphare",
-                "access_rules": ["$sky_no_pp,[paintedpower]"],
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Sprong",
-                "access_rules": ["$south_sea,[paintedpower]"],
+                "access_rules": ["$south_sea,[paintedpower],[$calculate_picto_count_from_level|24]"],
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {

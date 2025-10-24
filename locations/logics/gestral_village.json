@@ -51,7 +51,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
-                         "$sky_no_pp,GestralVillage"]
+        "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]",
+                         "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]"]
     }
 ]

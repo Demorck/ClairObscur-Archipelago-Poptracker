@@ -33,12 +33,17 @@ function hide_clea_endgame_locations()
         return false
     end
     
-    if Tracker:FindObjectForCode("goal") <= 2 then
+    if has("goal_paintress") or has("goal_curator") then
         return false
     else
         return true
     end
+end
 
+function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent
+    local estimatedLevel = math.ceil((tonumber(count)-1) * 5.8) -- Yoinked from convert_pictos() function on the APWorld
+
+    return has_at_least("Picto",estimatedLevel)
 end
 
 -- Continent Pathing Functions

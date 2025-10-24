@@ -63,6 +63,6 @@
                 "visibility_rules": ["hidden"]
             }
         ],
-        "access_rules": ["$firstcont_north_and_esquie,YellowHarvest"]
+        "access_rules": ["$firstcont_north_and_esquie,YellowHarvest,[$calculate_picto_count_from_level|7]"]
     }
 ]

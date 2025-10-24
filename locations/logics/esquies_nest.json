@@ -62,6 +62,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$firstcont_north,EsquiesNest"]
+        "access_rules": ["$firstcont_north,EsquiesNest,[$calculate_picto_count_from_level|5]"]
     }
 ]

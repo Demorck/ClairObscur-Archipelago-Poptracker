@@ -9,7 +9,7 @@
         "sections": [
             {
                 "name": "Lampmaster",
-                "access_rules": ["$has_beast_part|3"],
+                "access_rules": ["$has_beast_part|3,[$calculate_picto_count_from_level|30]"],
                 "visibility_rules": ["$hide_clea_endgame_locations"]
             }
         ],

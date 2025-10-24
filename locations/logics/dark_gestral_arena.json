@@ -22,7 +22,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,[paintedpower]"],
+        "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|25]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
 
     }

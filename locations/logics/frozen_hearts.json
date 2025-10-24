@@ -160,7 +160,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$secondcont_ne,FrozenHearts"],
+        "access_rules": ["$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

@@ -11,7 +11,7 @@
                 "visibility_rules": ["$hide_clea_endgame_locations"]
             }
         ],
-        "access_rules": ["$sky_no_pp,[PaintedPower]"],
+        "access_rules": ["$sky_no_pp,[PaintedPower],[$calculate_picto_count_from_level|31]"],
         "visibility_rules": ["include_endgame_locations"]
 
     }

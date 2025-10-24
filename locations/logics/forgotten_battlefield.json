@@ -146,6 +146,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$south_sea,ForgottenBattlefield"]
+        "access_rules": ["$south_sea,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"]
     }
 ]

@@ -226,10 +226,10 @@
             }
         ],
         "access_rules": ["$sky_no_pp,Lumiere"],
-        "visibility_rules": ["include_endgame_locations",
-                             "goal_curator",
-                             "goal_clea",
-                             "goal_painted-love",
-                             "goal_simon"]
+        "visibility_rules": ["include_endgame_locations,[$calculate_picto_count_from_level|16]",
+                             "goal_curator,[$calculate_picto_count_from_level|16]",
+                             "goal_clea,[$calculate_picto_count_from_level|16]",
+                             "goal_painted-love,[$calculate_picto_count_from_level|16]",
+                             "goal_simon,[$calculate_picto_count_from_level|16]"]
     }
 ]

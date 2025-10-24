@@ -168,6 +168,6 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,Sirene"]
+        "access_rules": ["$north_sea,Sirene,[$calculate_picto_count_from_level|13]"]
     }
 ]

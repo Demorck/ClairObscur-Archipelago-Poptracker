@@ -7,7 +7,7 @@
         "sections":  [
             {
                 "name":  "Chromatic Abbest",
-                "access_rules":  ["[PaintedPower]"]
+                "access_rules":  ["[PaintedPower],[$calculate_picto_count_from_level|10]"]
             }
         ]
 

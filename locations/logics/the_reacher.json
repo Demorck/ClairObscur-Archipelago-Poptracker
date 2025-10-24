@@ -158,7 +158,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$sky_no_pp,TheReacher"],
+        "access_rules": ["$sky_no_pp,TheReacher,[$calculate_picto_count_from_level|20]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

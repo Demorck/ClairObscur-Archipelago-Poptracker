@@ -82,7 +82,7 @@
                 "access_rules": []
             }
         ],
-        "access_rules": ["$north_sea,$dive,RenoirsDrafts"],
+        "access_rules": ["$north_sea,$dive,RenoirsDrafts,[$calculate_picto_count_from_level|31]"],
         "visibility_rules": ["include_endgame_locations","goal_clea"]
     }
 ]

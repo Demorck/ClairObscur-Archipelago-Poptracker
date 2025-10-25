@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.7.2",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.7.1/ClairObscurAP_Poptracker.zip",
+            "sha256": "FA5A89C1435DF514017BC0F641CCB567995806404372009B6C070EAA34D7E1D3",
+            "changelog": [
+                "Fixed Jo's personal attack against me (Single lumina was deleted and IDs needed to be shifted)"
+            ]
+        },
+        {
             "package_version": "0.1.7.1",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.1.7.1/ClairObscurAP_Poptracker.zip",
             "sha256": "06B0C2A27D66850642BCD86F0AA298880275F2F836A5BCBBCC3C95427E906BB0",

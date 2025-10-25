@@ -43,6 +43,11 @@ end
 function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent
     local estimatedLevel = math.ceil((tonumber(count)-1) * 5.8) -- Yoinked from convert_pictos() function on the APWorld
 
+    --If the player has painted power, reduce the estimatedLevel by 1 since it doesn't count as a picto
+    if has("PaintedPower") then
+        estimatedLevel = estimatedLevel - 1
+    end
+
     return has_at_least("Picto",estimatedLevel)
 end
 

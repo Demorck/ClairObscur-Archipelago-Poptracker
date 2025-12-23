@@ -36,8 +36,9 @@
             { "map": "Dark Shores", "x": 115, "y": 259, "shape": "trapezoid", "size": 20 },
             { "map": "Endless Night Sanctuary", "x": 94, "y": 164, "shape": "trapezoid", "size": 22 },
             { "map": "Endless Night Sanctuary", "x": 117, "y": 758, "shape": "trapezoid", "size": 22 },
-            { "map": "Falling Leaves", "x": 70, "y": 770, "shape": "trapezoid", "size": 22 }
-        ],
+            { "map": "Falling Leaves", "x": 70, "y": 770, "shape": "trapezoid", "size": 22 },
+            { "map": "Verso's Drafts", "x":  1455, "y": 1855, "shape": "trapezoid", "size": 22 }
+                ],
         "sections": [
             {
                 "name": "First Continent - Outside Ancient Gestral City",

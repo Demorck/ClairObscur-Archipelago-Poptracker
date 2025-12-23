@@ -27,6 +27,7 @@ AUTOTAB_MAPPING = {
     ["Manor"] = { "Continent", "South Continent" },
     ["Camps"] = { "Continent", "South Continent" },
     ["WorldMap"] = { "Continent" },
+    ["SideLevel_VersosDraft"] = { "Continent", "South Continent", "Verso's Drafts"},
 
 
     ---EXITS---
@@ -55,6 +56,7 @@ AUTOTAB_MAPPING = {
     ["EXIT_SmallLevel_FlyingCasinoEntrance"] = { "Continent", "South Continent" },
     ["EXIT_SmallLevel_CavernCrusher"] = { "Continent", "South Continent" },
     ["EXIT_MiniLevel_CleasOrangeArea"] = { "Continent", "South Continent" },
+    ["EXIT_SideLevel_VersosDraft"] = { "Continent", "South Continent"},
 
     --Middle Continent
     ["EXIT_SideLevel_OrangeForest"] =  { "Continent", "Middle Continent" },

@@ -167,6 +167,26 @@
                 "sections": [{ "ref": "Entrance - Endless Tower/Stage 11-3" }],
                 "name":  "Stage 11-3",
                 "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 280}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/Duollistes" }],
+                "name":  "Duollistes",
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/Chromatic Lampmaster" }],
+                "name":  "Chromatic Lampmaster",
+                "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/Clea Unleashed" }],
+                "name":  "Clea Unleashed",
+                "map_locations": [{ "map": "Endless Tower", "x": 100, "y": 360}]
+            },
+            {
+                "sections": [{ "ref": "Simon, the Divergent Star" }],
+                "name":  "Stage 11-3",
+                "map_locations": [{ "map": "Endless Tower", "x": 60, "y": 280}]
             }
         ]
 

@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Entrance - Verso's Drafts",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "map_locations": [{"map": "South Continent", "x":  19, "y": 485, "shape": "trapezoid", "size": 32}],
+        "sections": [
+            {
+                "name": "Reverie Path - Behind the waterfall",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Esquie statue in the forest",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - In hut near the flag",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Waterfall near 2 Esquies",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - On the edge of the cliff near the merchant",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Next to the treehouse piano",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - On the treehouse roof",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - In candy jars at the carnival",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Paint cage in the forest",
+                "access_rules": ["FreeAim"]
+            },
+            {
+                "name": "Open Playground - By the blue Licornes in the bath",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Across the Esquie platforms in the forest",
+                "access_rules": []
+            },
+            {
+                "name": "In candy jar across from the cake door",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - On the diving board",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Behind the crowded slide",
+                "access_rules": []
+            },
+            {
+                "name": "Open Playground - Paint cage",
+                "access_rules": ["FreeAim"]
+            },
+            {
+                "name": "On the train tracks through the door",
+                "access_rules": []
+            },
+            {
+                "name": "On a box through the door",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - Through the blue tunnel by the Open Playground entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - Guarded by Barbasucettes near the flag",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - In jar near carnival exit",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - Behind Very Very Cool Gestral",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - Behind Chromatic Franctale",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - Edge of the water before the carnival",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - Cross the beams",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Beside balloon gestral",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - In candy jar before carnival entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - Up the climbing holds",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - Behind giant blocks near xylophone bridge",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - In a jar by the Open Playground entrance",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - In a jar by the blue tunnel",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Hopscotch by the flag",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Hopscotch in the seesaw bath",
+                "access_rules": []
+            },
+            {
+                "name": "Candy land - Hopscotch in the cave",
+                "access_rules": []
+            },
+            {
+                "name": "Gestral Baths - Hopscotch in the forest",
+                "access_rules": []
+            },
+            {
+                "name": "Reverie Path - In train car with a Licorne",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Licorne",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Machinapieds",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Franctale",
+                "access_rules": []
+            },
+            {
+                "name": "Chromatic Barbasucette",
+                "access_rules": []
+            },
+            {
+                "name": "Half-baked Gestral",
+                "access_rules": []
+            },
+            {
+                "name": "Licornapieds",
+                "access_rules": []
+            },
+            {
+                "name": "Root of All Evil - Osquio",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Reverie Path",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Gestral Baths",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Candy Land",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Open Playground",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Licornapieds Station",
+                "access_rules": []
+            },
+            {
+                "name": "Flag - Root of All Evil",
+                "access_rules": []
+            }
+        ],
+        "access_rules": ["versosdrafts,$dive,[$calculate_picto_count_from_level|31]"],
+        "visibility_rules": ["include_endgame_locations","goal_clea"]
+    }
+]
+

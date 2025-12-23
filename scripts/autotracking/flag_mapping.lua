@@ -88,6 +88,12 @@ FLAG_MAPPING = {
     ["Level_Side_FrozenHeart=>TrainStation"] = { "@Entrance - Frozen Hearts/Flag - Icebound Train Station" },
     ["Level_Side_FrozenHeart=>CaveStation"] = { "@Entrance - Frozen Hearts/Flag - Icebound Terminal" },
     ["Level_Side_FrozenHeart=>CaveForest"] = { "@Entrance - Frozen Hearts/Flag - Iced Heart" },
-    ["Level_Side_FrozenHeart=>Frozenlakes"] = { "@Entrance - Frozen Hearts/Flag - Glacial Falls" }
+    ["Level_Side_FrozenHeart=>Frozenlakes"] = { "@Entrance - Frozen Hearts/Flag - Glacial Falls" },
+    ["Level_Side_VersosDraft=>OpenField"] = { "@Entrance - Verso's Drafts/Flag - Reverie Path" },
+    ["Level_Side_VersosDraft=>GestralBaths"] = { "@Entrance - Verso's Drafts/Flag - Gestral Baths" },
+    ["Level_Side_VersosDraft=>CandyLand"] = { "@Entrance - Verso's Drafts/Flag - Candy Land" },
+    ["Level_Side_VersosDraft=>GooglyEyesDoor"] = { "@Entrance - Verso's Drafts/Flag - Open Playground" },
+    ["Level_Side_VersosDraft=>LicornapiedStation"] = { "@Entrance - Verso's Drafts/Flag - Licornapieds Station" },
+    ["Level_Small_EsquieRealCousin=>MainField"] = { "@Entrance - Verso's Drafts/Flag - Root of All Evil" }
     
 }

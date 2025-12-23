@@ -209,6 +209,15 @@
                 }
             },
             {
+                "title": "Verso's Drafts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Verso's Drafts"
+                    ]
+                }
+            },
+            {
                 "title": "Dark Shores",
                 "content": {
                     "type": "map",

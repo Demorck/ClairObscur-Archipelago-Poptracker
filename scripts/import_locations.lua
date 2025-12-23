@@ -84,6 +84,10 @@ Tracker:AddLocations("locations/logics/the_reacher.json")
 Tracker:AddLocations("locations/renoirs_draft.json")
 Tracker:AddLocations("locations/logics/renoirs_draft.json")
 
+-- Verso's Drafts
+Tracker:AddLocations("locations/versos_drafts.json")
+Tracker:AddLocations("locations/logics/versos_drafts.json")
+
 
 
 

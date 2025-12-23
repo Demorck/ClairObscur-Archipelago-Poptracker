@@ -145,6 +145,26 @@
                 "name": "Stage 11-3",
                 "access_rules": [",[$calculate_picto_count_from_level|31]"],
                 "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+            },
+            {
+                "name": "Duollistes",
+                "access_rules": [",[$calculate_picto_count_from_level|32]"],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+            },
+            {
+                "name": "Chromatic Lampmaster",
+                "access_rules": [",[$calculate_picto_count_from_level|32]"],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+            },
+            {
+                "name": "Clea Unleashed",
+                "access_rules": [",[$calculate_picto_count_from_level|32]"],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+            },
+            {
+                "name": "Simon, the Divergent Star",
+                "access_rules": [",[$calculate_picto_count_from_level|32]"],
+                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
             }
         ],
         "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"],

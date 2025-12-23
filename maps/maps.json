@@ -138,6 +138,12 @@
     "img": "images/maps/renoirs_draft.png"
   },
   {
+    "name": "Verso's Drafts",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/versos_drafts.png"
+  },
+  {
     "name": "Camp",
     "location_size": 8,
     "location_border_thickness": 2,

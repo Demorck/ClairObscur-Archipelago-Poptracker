@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Verso's Drafts",
+        "children": [
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - Behind the waterfall" }],
+                "name": "Reverie Path - Behind the waterfall",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 431, "y": 417}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Esquie statue in the forest" }],
+                "name": "Gestral Baths - Esquie statue in the forest",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 296, "y": 569}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - In hut near the flag" }],
+                "name": "Gestral Baths - In hut near the flag",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 235, "y": 550}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Waterfall near 2 Esquies" }],
+                "name": "Gestral Baths - Waterfall near 2 Esquies",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 239, "y": 417}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - On the edge of the cliff near the merchant" }],
+                "name": "Reverie Path - On the edge of the cliff near the merchant",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 568, "y": 344}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Next to the treehouse piano" }],
+                "name": "Gestral Baths - Next to the treehouse piano",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 377, "y": 564}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - On the treehouse roof" }],
+                "name": "Gestral Baths - On the treehouse roof",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 406, "y": 583}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - In candy jars at the carnival" }],
+                "name": "Candy land - In candy jars at the carnival",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 349, "y": 162}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Paint cage in the forest" }],
+                "name": "Gestral Baths - Paint cage in the forest",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 402, "y": 629}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Open Playground - By the blue Licornes in the bath" }],
+                "name": "Open Playground - By the blue Licornes in the bath",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 200, "y": 456}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Across the Esquie platforms in the forest" }],
+                "name": "Gestral Baths - Across the Esquie platforms in the forest",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 343, "y": 626}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/In candy jar across from the cake door" }],
+                "name": "In candy jar across from the cake door",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 364, "y": 540}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - On the diving board" }],
+                "name": "Gestral Baths - On the diving board",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 294, "y": 503}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Behind the crowded slide" }],
+                "name": "Gestral Baths - Behind the crowded slide",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 362, "y": 442}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Open Playground - Paint cage" }],
+                "name": "Open Playground - Paint cage",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 288, "y": 337}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/On the train tracks through the door" }],
+                "name": "On the train tracks through the door",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 476, "y": 558}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/On a box through the door" }],
+                "name": "On a box through the door",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 526, "y": 548}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Through the blue tunnel by the Open Playground entrance" }],
+                "name": "Candy land - Through the blue tunnel by the Open Playground entrance",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 305, "y": 171}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Guarded by Barbasucettes near the flag" }],
+                "name": "Candy land - Guarded by Barbasucettes near the flag",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 320, "y": 113}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - In jar near carnival exit" }],
+                "name": "Candy land - In jar near carnival exit",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 285, "y": 22}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Behind Very Very Cool Gestral" }],
+                "name": "Candy land - Behind Very Very Cool Gestral",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 392, "y": 128}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - Behind Chromatic Franctale" }],
+                "name": "Reverie Path - Behind Chromatic Franctale",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 328, "y": 275}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - Edge of the water before the carnival" }],
+                "name": "Reverie Path - Edge of the water before the carnival",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 441, "y": 158}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - Cross the beams" }],
+                "name": "Reverie Path - Cross the beams",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 445, "y": 214}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Beside balloon gestral" }],
+                "name": "Gestral Baths - Beside balloon gestral",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 412, "y": 394}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - In candy jar before carnival entrance" }],
+                "name": "Reverie Path - In candy jar before carnival entrance",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 405, "y": 306}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Up the climbing holds" }],
+                "name": "Candy land - Up the climbing holds",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 239, "y": 112}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - Behind giant blocks near xylophone bridge" }],
+                "name": "Reverie Path - Behind giant blocks near xylophone bridge",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 494, "y": 296}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - In a jar by the Open Playground entrance" }],
+                "name": "Candy land - In a jar by the Open Playground entrance",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 262, "y": 246}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - In a jar by the blue tunnel" }],
+                "name": "Candy land - In a jar by the blue tunnel",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 281, "y": 211}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Hopscotch by the flag" }],
+                "name": "Gestral Baths - Hopscotch by the flag",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 247, "y": 579}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Hopscotch in the seesaw bath" }],
+                "name": "Gestral Baths - Hopscotch in the seesaw bath",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 363, "y": 381}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Hopscotch in the cave" }],
+                "name": "Candy land - Hopscotch in the cave",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 243, "y": 179}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Gestral Baths - Hopscotch in the forest" }],
+                "name": "Gestral Baths - Hopscotch in the forest",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 381, "y": 600}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Reverie Path - In train car with a Licorne" }],
+                "name": "Reverie Path - In train car with a Licorne",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 459, "y": 246}]
+            },
+
+
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Chromatic Licorne" }],
+                "name": "Chromatic Licorne",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 527, "y": 259}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Chromatic Machinapieds" }],
+                "name": "Chromatic Machinapieds",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 266, "y": 125}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Chromatic Franctale" }],
+                "name": "Chromatic Franctale",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 343, "y": 260}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Chromatic Barbasucette" }],
+                "name": "Chromatic Barbasucette",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 515, "y": 347}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Half-baked Gestral" }],
+                "name": "Half-baked Gestral",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 395, "y": 363}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Licornapieds" }],
+                "name": "Licornapieds",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 594, "y": 558}]
+            },
+            {
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Root of All Evil - Osquio" }],
+                "name": "Root of All Evil - Osquio",
+                "map_locations": [{ "map": "Verso's Drafts", "x": 766, "y": 450}]
+            },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Reverie Path" }],
+                "name":  "Flag - Reverie Path",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 510, "y": 399, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Gestral Baths" }],
+                "name":  "Flag - Gestral Baths",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 261, "y": 574, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Candy Land" }],
+                "name":  "Flag - Candy Land",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 272, "y": 77, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Open Playground" }],
+                "name":  "Flag - Open Playground",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 143, "y": 399, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Licornapieds Station" }],
+                "name":  "Flag - Licornapieds Station",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 574, "y": 559, "shape": "diamond"}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Root of All Evil" }],
+                "name":  "Flag - Root of All Evil",
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 741, "y": 451, "shape": "diamond"}]
+            }
+        ]
+    }
+]

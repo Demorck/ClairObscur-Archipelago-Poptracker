@@ -3,7 +3,7 @@
         {
             "package_version": "0.2.1",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.1/ClairObscurAP_Poptracker.zip",
-            "sha256": "886FA0A3F3FFEBABE880FBF287C1CCEFDE067D11FEF24D10262DFDD9E65F0B26",
+            "sha256": "5ADFEC09E3152A5463A7FB9129E6A8D6CDA2A250368E5C76A247600472F373CF",
             "changelog": [
                 "Fixed location of Verso's Drafts in both south continent and the VD map."
             ]

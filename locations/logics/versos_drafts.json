@@ -3,7 +3,7 @@
         "name": "Entrance - Verso's Drafts",
         "chest_unopened_img": "images/locked.png",
         "chest_opened_img": "images/checked.png",
-        "map_locations": [{"map": "South Continent", "x":  19, "y": 485, "shape": "trapezoid", "size": 32}],
+        "map_locations": [{"map": "South Continent", "x":  1422, "y": 1818, "shape": "trapezoid", "size": 32}],
         "sections": [
             {
                 "name": "Reverie Path - Behind the waterfall",

@@ -163,7 +163,7 @@
             },
             {
                 "name": "Half-baked Gestral",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Licornapieds",

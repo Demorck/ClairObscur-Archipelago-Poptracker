@@ -35,7 +35,8 @@
             },
             {
                 "name": "Get Outta My Way! - Go right from Sunniso",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["hidden"]
             },
 
             

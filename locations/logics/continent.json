@@ -74,7 +74,8 @@
             },
             {
                 "name": "Unknown 1",
-                "access_rules": ["false"]
+                "access_rules": ["false"],
+                "visibility_rules": ["hidden"]
             },
             {
                 "name": "First Continent - Paint spike west of Flying Waters exit",

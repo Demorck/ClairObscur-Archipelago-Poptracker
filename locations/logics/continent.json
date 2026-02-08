@@ -437,6 +437,28 @@
                 "visibility_rules": ["include_endgame_locations","goal_clea"]
             },
             {
+                "name": "First Continent - Bourgeon near Stone Wave Cliffs",
+                "access_rules": ["$firstcont_north_and_esquie,[$calculate_picto_count_from_level|8]"],
+                "visibility_rules": []
+            },
+            {
+                "name": "First Continent - Bourgeon near The Meadows",
+                "access_rules": ["$south_sea,[$calculate_picto_count_from_level|10]"],
+                "visibility_rules": []
+            },
+            {
+                "name": "Second Continent - Bourgeon near Forgotten Battlefield",
+                "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
+                "visibility_rules": ["include_endgame_locations","goal_clea"]
+            },
+            {
+                "name": "Second Continent - Bourgeon far west",
+                "access_rules": ["$secondcont_nw,[$calculate_picto_count_from_level|9]"],
+                "visibility_rules": []
+            },
+
+
+            {
                 "name": "Lost Gestral near Esquie's Nest",
                 "access_rules": ["$firstcont_north"],
                 "visibility_rules": ["gestral_shuffle"]

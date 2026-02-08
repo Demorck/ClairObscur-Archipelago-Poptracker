@@ -1,6 +1,21 @@
 {
     "versions": [
         {
+            "package_version": "0.2.2",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.2/ClairObscurAP_Poptracker.zip",
+            "sha256": "D118203EA8CC476A323F1E66A20979FA1EC4C1BC6DC2252E231E08AA2F97580C",
+            "changelog": [
+                "Added Toy Boat item and logic to 3 locations and a flag in Verso's Drafts.",
+                "Removed the two mystery items in Lumiere",
+                "Removed SWC Manor Wardrobe, FB Fort Ruins Dead End, Monolith item near Renoir, and Esquies Nest right of Sunniso due to the disappearing item issue.",
+                "Flipped Carousel item IDs",
+                "Added VD Mime",
+                "Added four missing Bourgeons and their respective logic",
+                "Changed images for progressive rocks so that it is clear how many you have",
+                "Changed display name on rocks to indicate you receive those from Progressive Rocks"
+            ]
+        },
+        {
             "package_version": "0.2.1",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.1/ClairObscurAP_Poptracker.zip",
             "sha256": "5ADFEC09E3152A5463A7FB9129E6A8D6CDA2A250368E5C76A247600472F373CF",

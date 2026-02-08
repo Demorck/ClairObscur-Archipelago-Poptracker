@@ -135,32 +135,28 @@
     "codes": "rock",
     "stages": [
         {
-            "name": "Esquie",
+            "name": "Progressive Rock 1 - Esquie",
             "img": "images/items/rock.png",
             "codes": "esquie"
         },
         {
-            "name": "Swim",
-            "img": "images/items/rock.png",
-            "img_mods": "overlay|images/items/rock.png",
+            "name": "Progressive Rock 2 - Swim",
+            "img": "images/items/rock_swim.png",
             "codes": "swim"
         },
         {
-            "name": "Destroy coral",
-            "img": "images/items/rock.png",
-            "img_mods": "overlay|images/items/rock.png",
+            "name": "Progressive Rock 3 - Destroy coral",
+            "img": "images/items/rock_coral.png",
             "codes": "coral"
         },
         {
-            "name": "Fly",
-            "img": "images/items/rock.png",
-            "img_mods": "overlay|images/items/rock.png",
+            "name": "Progressive Rock 4 - Fly",
+            "img": "images/items/rock_fly.png",
             "codes": "fly"
         },
         {
-            "name": "Dive",
-            "img": "images/items/rock.png",
-            "img_mods": "overlay|images/items/rock.png",
+            "name": "Progressive Rock 5 - Dive",
+            "img": "images/items/rock_dive.png",
             "codes": "dive"
         }
     ]
@@ -414,6 +410,12 @@
     "name": "Manor Family Canvas",
     "codes": "FamilyCanvas",
     "img": "images/items/manor_family_canvas.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Toy Boat",
+    "codes": "ToyBoat",
+    "img": "images/items/toy_boat.png",
     "type": "toggle"
   },
   {

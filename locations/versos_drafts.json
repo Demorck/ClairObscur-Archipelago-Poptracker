@@ -163,8 +163,8 @@
                 "map_locations": [{ "map": "Verso's Drafts", "x": 363, "y": 381}]
             },
             {
-                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Hopscotch in the cave" }],
-                "name": "Candy land - Hopscotch in the cave",
+                "sections": [{ "ref": "Entrance - Verso's Drafts/Candy land - Hopscotch in the cave", "name": "Candy land - Hopscotch in the cave"},
+                             { "ref": "Entrance - Verso's Drafts/Mime", "name": "Mime" }],
                 "map_locations": [{ "map": "Verso's Drafts", "x": 243, "y": 179}]
             },
             {
@@ -214,6 +214,7 @@
                 "name": "Root of All Evil - Osquio",
                 "map_locations": [{ "map": "Verso's Drafts", "x": 766, "y": 450}]
             },
+            
 
 
             {

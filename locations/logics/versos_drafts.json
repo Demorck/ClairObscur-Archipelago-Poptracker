@@ -67,11 +67,11 @@
             },
             {
                 "name": "On the train tracks through the door",
-                "access_rules": []
+                "access_rules": ["ToyBoat"]
             },
             {
                 "name": "On a box through the door",
-                "access_rules": []
+                "access_rules": ["ToyBoat"]
             },
             {
                 "name": "Candy land - Through the blue tunnel by the Open Playground entrance",
@@ -145,6 +145,8 @@
                 "name": "Reverie Path - In train car with a Licorne",
                 "access_rules": []
             },
+
+
             {
                 "name": "Chromatic Licorne",
                 "access_rules": []
@@ -163,16 +165,22 @@
             },
             {
                 "name": "Half-baked Gestral",
-                "access_rules": []
+                "access_rules": ["FreeAim"]
             },
             {
                 "name": "Licornapieds",
-                "access_rules": []
+                "access_rules": ["ToyBoat"]
             },
             {
                 "name": "Root of All Evil - Osquio",
+                "access_rules": ["ForgottenBattlefield"]
+            },
+            {
+                "name": "Mime",
                 "access_rules": []
             },
+
+
             {
                 "name": "Flag - Reverie Path",
                 "access_rules": []
@@ -191,7 +199,7 @@
             },
             {
                 "name": "Flag - Licornapieds Station",
-                "access_rules": []
+                "access_rules": ["ToyBoat"]
             },
             {
                 "name": "Flag - Root of All Evil",

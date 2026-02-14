@@ -76,7 +76,8 @@
             },
             {
                 "name": "Manor Door: From Stone Wave Cliffs - In the wardrobe",
-                "access_rules": ["$firstcont_north_and_esquie,stonewavecliffs"]
+                "access_rules": ["$firstcont_north_and_esquie,stonewavecliffs"],
+                "visibility_rules": ["hidden"]
             },
             {
                 "name": "Manor Door: From Sirene - Break the bathroom mirror",

@@ -18,8 +18,10 @@
                 "map_locations":  [{ "map": "South Continent", "x": 787, "y": 1235}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Continent/First Continent - Beach outside The Meadows" }],
-                "name":  "First Continent - Beach outside The Meadows",
+                "sections":  [{ "ref": "Entrance - Continent/First Continent - Beach outside The Meadows", 
+                                "name":  "First Continent - Beach outside The Meadows"},
+                              { "ref": "Entrance - Continent/First Continent - Bourgeon near The Meadows", 
+                                "name": "First Continent - Bourgeon near The Meadows" }],
                 "map_locations":  [{ "map": "South Continent", "x": 1124, "y": 1104}]
             },
             {
@@ -458,6 +460,23 @@
                 "map_locations":  [{ "map": "South Continent", "x": 406, "y": 62},
                                    { "map": "Middle Continent", "x": 991, "y": 2145}]
             },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/First Continent - Bourgeon near Stone Wave Cliffs" }],
+                "name":  "First Continent - Bourgeon near Stone Wave Cliffs",
+                "map_locations":  [{ "map": "South Continent", "x": 961, "y": 752}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Second Continent - Bourgeon near Forgotten Battlefield" }],
+                "name":  "Second Continent - Bourgeon near Forgotten Battlefield",
+                "map_locations":  [{ "map": "Middle Continent", "x": 1573, "y": 2102}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Second Continent - Bourgeon far west" }],
+                "name":  "Second Continent - Bourgeon far west",
+                "map_locations":  [{ "map": "Middle Continent", "x": 710, "y": 1138}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Esquie's Nest" }],
                 "name":  "Lost Gestral near Esquie's Nest",

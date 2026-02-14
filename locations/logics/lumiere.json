@@ -71,7 +71,8 @@
             },
             {
                 "name": "Lumina 5",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["false"]
             },
             {
                 "name": "Shattered Alley - Behind Chromatic miniboss",
@@ -107,7 +108,8 @@
             },
             {
                 "name": "Upgrade 6",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["false"]
             },
             {
                 "name": "Opera House - Cliffside overlooking ruined Lumiere",

@@ -13,7 +13,47 @@ function estimated_level_50()
 end
 
 function has_lost_gestral(count)
-    return has_at_least("LostGestral", tonumber(count))
+    if has("gestral_shuffle") then
+        return has_at_least("LostGestral", tonumber(count))
+    else
+        local calculatedCount = 0
+
+        --Esquies Nest (1)
+        if(firstcont_north()) then
+            calculatedCount = calculatedCount + 1
+        end
+
+        --Outside SWC (2)
+        if(firstcont_north_and_esquie()) then
+            calculatedCount = calculatedCount + 1
+        end
+
+        --White Tree (3)
+        if(south_sea()) then
+            calculatedCount = calculatedCount + 1
+        end
+
+        --near Monoco's Station (4)
+        if(secondcont_south()) then
+            calculatedCount = calculatedCount + 1
+        end
+
+        --Near Costal Cave and mimes on red island after OL (6)
+        if(north_sea()) then
+            calculatedCount = calculatedCount + 2
+        end
+
+        --ENS, Reacher, and ET (9)
+        if(sky_no_pp()) then
+            calculatedCount = calculatedCount + 3
+        end
+
+        if(calculatedCount >= tonumber(count)) then
+            return true
+        else
+            return false
+        end
+    end 
 end
 
 function has_beast_part(count)

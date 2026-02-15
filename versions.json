@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.2.3",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.3/ClairObscurAP_Poptracker.zip",
+            "sha256": "7DA433249465447FC70BD44E95E93980040E3D463807704C37E5368DCBB32FF7",
+            "changelog": [
+                "Added support for gestral camp rewards with Gestral Shuffle off."
+            ]
+        },
+        {
             "package_version": "0.2.2",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.2/ClairObscurAP_Poptracker.zip",
             "sha256": "D118203EA8CC476A323F1E66A20979FA1EC4C1BC6DC2252E231E08AA2F97580C",

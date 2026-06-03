@@ -145,19 +145,23 @@
 
             {
                 "name": "Flag - Icebound Train Station",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Glacial Falls",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Iced Heart",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Icebound Terminal",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"],

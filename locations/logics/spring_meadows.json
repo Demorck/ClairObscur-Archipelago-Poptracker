@@ -130,19 +130,23 @@
 
       {
         "name": "Flag - Meadows Corridor",
-        "access_rules": []
+        "access_rules": [],
+        "visibility_rules": ["EnableFlags"]
       },
       {
         "name": "Flag - Grand Meadow",
-        "access_rules": []
+        "access_rules": [],
+        "visibility_rules": ["EnableFlags"]
       },
       {
         "name": "Flag - Abandoned Expeditioner Camp",
-        "access_rules": []
+        "access_rules": [],
+        "visibility_rules": ["EnableFlags"]
       },
       {
         "name": "Flag - The Indigo Tree",
-        "access_rules": []
+        "access_rules": [],
+        "visibility_rules": ["EnableFlags"]
       }
     ],
     "access_rules": ["$firstcont_south"]

@@ -44,11 +44,13 @@
 
             {
                 "name": "Flag - Gestral Village",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Gestral Arena",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]",

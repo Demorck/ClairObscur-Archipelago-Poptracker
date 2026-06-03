@@ -176,27 +176,34 @@
             
             {
                 "name": "Flag - Entrance",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
+                
             },
             {
                 "name": "Flag - Paintress Shrine",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Old Farm",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Flooded Buildings",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Tide Caverns",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Basalt Waves",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$firstcont_north_and_esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]"]

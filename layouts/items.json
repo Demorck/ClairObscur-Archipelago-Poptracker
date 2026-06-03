@@ -239,7 +239,8 @@
                 "autotab"
               ],
               [
-                "FeetTrap"
+                "FeetTrap",
+                "EnableFlags"
               ]
             ]
           }

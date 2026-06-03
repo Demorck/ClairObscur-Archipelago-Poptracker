@@ -135,27 +135,33 @@
 
             {
                 "name": "Flag - Entrance",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Mountain",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Ladder Area",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Foggy Area",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Peak",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Alicia",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$sky_no_pp,TheReacher,[$calculate_picto_count_from_level|20]"],

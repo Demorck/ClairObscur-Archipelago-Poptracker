@@ -181,7 +181,8 @@
 
             {
                 "name": "Flag - Central Plaza",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Path - Eveque Wing",

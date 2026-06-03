@@ -7,39 +7,39 @@
         "sections": [
             {
                 "name": "Lost Gestral reward 1",
-                "access_rules": ["$has_lost_gestral|1"]
+                "access_rules": ["$has_lost_gestral|1,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 2",
-                "access_rules": ["$has_lost_gestral|2"]
+                "access_rules": ["$has_lost_gestral|2,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 3",
-                "access_rules": ["$has_lost_gestral|3"]
+                "access_rules": ["$has_lost_gestral|3,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 4",
-                "access_rules": ["$has_lost_gestral|4"]
+                "access_rules": ["$has_lost_gestral|4,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 5",
-                "access_rules": ["$has_lost_gestral|5"]
+                "access_rules": ["$has_lost_gestral|5,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 6",
-                "access_rules": ["$has_lost_gestral|6"]
+                "access_rules": ["$has_lost_gestral|6,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 7",
-                "access_rules": ["$has_lost_gestral|7"]
+                "access_rules": ["$has_lost_gestral|7,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 8",
-                "access_rules": ["$has_lost_gestral|8"]
+                "access_rules": ["$has_lost_gestral|8,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Lost Gestral reward 9",
-                "access_rules": ["$has_lost_gestral|9"]
+                "access_rules": ["$has_lost_gestral|9,$firstcont_north_and_esquie"]
             },
             {
                 "name": "Gestrals - Break Paint Spike",

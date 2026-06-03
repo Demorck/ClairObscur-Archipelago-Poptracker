@@ -71,15 +71,18 @@
 
             {
                 "name": "Flag - Entrance",
-               "access_rules": []
+               "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Golden Tree",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - The Abyss",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$north_sea,$dive,RenoirsDrafts,[$calculate_picto_count_from_level|31]"],

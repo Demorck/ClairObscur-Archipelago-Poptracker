@@ -94,19 +94,23 @@
             
             {
                 "name": "Flag - Entrance",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Sanctuary Maze",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Gestral Totem",
-                "access_rules": ["paintbreak"]
+                "access_rules": ["paintbreak"],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Giant Bell Alley",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$firstcont_north,AncientSanctuary,[$calculate_picto_count_from_level|4]"]

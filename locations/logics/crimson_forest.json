@@ -48,11 +48,13 @@
 
             {
                 "name": "Flag - Crimson Perch",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - The Three Blades",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["$sky_no_pp,[paintedpower],CrimsonForest,[$calculate_picto_count_from_level|24]"],

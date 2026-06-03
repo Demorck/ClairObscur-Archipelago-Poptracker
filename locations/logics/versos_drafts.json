@@ -183,27 +183,33 @@
 
             {
                 "name": "Flag - Reverie Path",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Gestral Baths",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Candy Land",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Open Playground",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Licornapieds Station",
-                "access_rules": ["ToyBoat"]
+                "access_rules": ["ToyBoat"],
+                "visibility_rules": ["EnableFlags"]
             },
             {
                 "name": "Flag - Root of All Evil",
-                "access_rules": []
+                "access_rules": [],
+                "visibility_rules": ["EnableFlags"]
             }
         ],
         "access_rules": ["versosdrafts,$dive,[$calculate_picto_count_from_level|31]"],

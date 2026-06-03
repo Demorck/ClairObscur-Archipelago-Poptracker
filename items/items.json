@@ -443,5 +443,12 @@
     "codes": "FeetTrap",
     "img": "images/items/feet_trap.png",
     "type": "consumable"
+  },
+  {
+    "name": "Enable Flags",
+    "codes": "EnableFlags",
+    "img": "images/items/enableFlags.png",
+    "type": "toggle",
+    "initial_active_state": true
   }
 ]

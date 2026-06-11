@@ -7,99 +7,123 @@
         "sections": [
             {
                 "name": "Stage 1-1",
-                "access_rules": [",[$calculate_picto_count_from_level|21]"]
+                "access_rules": [",[$calculate_picto_count_from_level|21]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 1-2",
-                "access_rules": [",[$calculate_picto_count_from_level|21]"]
+                "access_rules": [",[$calculate_picto_count_from_level|21]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 1-3",
-                "access_rules": [",[$calculate_picto_count_from_level|21]"]
+                "access_rules": [",[$calculate_picto_count_from_level|21]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 2-1",
-                "access_rules": [",[$calculate_picto_count_from_level|22]"]
+                "access_rules": [",[$calculate_picto_count_from_level|22]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 2-2",
-                "access_rules": [",[$calculate_picto_count_from_level|22]"]
+                "access_rules": [",[$calculate_picto_count_from_level|22]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 2-3",
-                "access_rules": [",[$calculate_picto_count_from_level|22]"]
+                "access_rules": [",[$calculate_picto_count_from_level|22]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 3-1",
-                "access_rules": [",[$calculate_picto_count_from_level|23]"]
+                "access_rules": [",[$calculate_picto_count_from_level|23]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 3-2",
-                "access_rules": [",[$calculate_picto_count_from_level|23]"]
+                "access_rules": [",[$calculate_picto_count_from_level|23]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 3-3",
-                "access_rules": [",[$calculate_picto_count_from_level|23]"]
+                "access_rules": [",[$calculate_picto_count_from_level|23]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 4-1",
-                "access_rules": [",[$calculate_picto_count_from_level|24]"]
+                "access_rules": [",[$calculate_picto_count_from_level|24]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 4-2",
-                "access_rules": [",[$calculate_picto_count_from_level|24]"]
+                "access_rules": [",[$calculate_picto_count_from_level|24]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 4-3",
-                "access_rules": [",[$calculate_picto_count_from_level|24]"]
+                "access_rules": [",[$calculate_picto_count_from_level|24]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 5-1",
-                "access_rules": [",[$calculate_picto_count_from_level|25]"]
+                "access_rules": [",[$calculate_picto_count_from_level|25]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 5-2",
-                "access_rules": [",[$calculate_picto_count_from_level|25]"]
+                "access_rules": [",[$calculate_picto_count_from_level|25]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 5-3",
-                "access_rules": [",[$calculate_picto_count_from_level|25]"]
+                "access_rules": [",[$calculate_picto_count_from_level|25]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 6-1",
-                "access_rules": [",[$calculate_picto_count_from_level|26]"]
+                "access_rules": [",[$calculate_picto_count_from_level|26]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 6-2",
-                "access_rules": [",[$calculate_picto_count_from_level|26]"]
+                "access_rules": [",[$calculate_picto_count_from_level|26]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 6-3",
-                "access_rules": [",[$calculate_picto_count_from_level|26]"]
+                "access_rules": [",[$calculate_picto_count_from_level|26]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 7-1",
-                "access_rules": [",[$calculate_picto_count_from_level|27]"]
+                "access_rules": [",[$calculate_picto_count_from_level|27]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 7-2",
-                "access_rules": [",[$calculate_picto_count_from_level|27]"]
+                "access_rules": [",[$calculate_picto_count_from_level|27]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 7-3",
-                "access_rules": [",[$calculate_picto_count_from_level|27]"]
+                "access_rules": [",[$calculate_picto_count_from_level|27]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 8-1",
-                "access_rules": [",[$calculate_picto_count_from_level|28]"]
+                "access_rules": [",[$calculate_picto_count_from_level|28]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 8-2",
-                "access_rules": [",[$calculate_picto_count_from_level|28]"]
+                "access_rules": [",[$calculate_picto_count_from_level|28]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 8-3",
-                "access_rules": [",[$calculate_picto_count_from_level|28]"]
+                "access_rules": [",[$calculate_picto_count_from_level|28]"],
+                "visibility_rules": ["include_endless_tower"]
             },
             {
                 "name": "Stage 9-1",
@@ -149,26 +173,26 @@
             {
                 "name": "Duollistes",
                 "access_rules": [",[$calculate_picto_count_from_level|32]"],
-                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+                "visibility_rules": ["include_superbosses"]
             },
             {
                 "name": "Chromatic Lampmaster",
                 "access_rules": [",[$calculate_picto_count_from_level|32]"],
-                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+                "visibility_rules": ["include_superbosses"]
             },
             {
                 "name": "Clea Unleashed",
                 "access_rules": [",[$calculate_picto_count_from_level|32]"],
-                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+                "visibility_rules": ["include_superbosses"]
             },
             {
                 "name": "Simon, the Divergent Star",
                 "access_rules": [",[$calculate_picto_count_from_level|32]"],
-                "visibility_rules": ["$hide_clea_endgame_locations","include_endless_tower"]
+                "visibility_rules": ["include_superbosses"]
             }
         ],
         "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"],
-        "visibility_rules": ["include_endless_tower","include_endgame_locations","goal_clea"]
+        "visibility_rules": ["include_endless_tower","include_endgame_locations","goal_clea","include_superbosses"]
 
     }
 ]

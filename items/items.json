@@ -95,6 +95,7 @@
     "name": "Goal",
     "codes": "goal",
     "type": "progressive",
+    "allow_disabled": false,
     "stages": [
       {
         "name": "Paintress",
@@ -450,5 +451,11 @@
     "img": "images/items/enableFlags.png",
     "type": "toggle",
     "initial_active_state": true
+  },
+  {
+    "name": "Include Superbosses",
+    "codes": "include_superbosses",
+    "img": "images/items/include_superbosses.png",
+    "type": "toggle"
   }
 ]

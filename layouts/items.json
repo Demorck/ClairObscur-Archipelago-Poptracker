@@ -235,12 +235,13 @@
                 "gestral_shuffle",
                 "include_endgame_locations",
                 "include_endless_tower",
-                "goal",
-                "autotab"
+                "include_superbosses",
+                "goal"
               ],
               [
                 "FeetTrap",
-                "EnableFlags"
+                "EnableFlags",
+                "autotab"
               ]
             ]
           }

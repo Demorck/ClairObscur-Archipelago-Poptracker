@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.2.5",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.5/ClairObscurAP_Poptracker.zip",
+            "sha256": "",
+            "changelog": [
+                "Added support for Multiple Locations.",
+                "Fixed location index after Demo betrayed me (by removing extraneous locations).",
+                "Added Include Superbosses option support",
+                "Renamed a couple locations"
+            ]
+        },
+        {
             "package_version": "0.2.4",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.4/ClairObscurAP_Poptracker.zip",
             "sha256": "2BDC53D82ABD0DB7B3B286123BD18B7A94DB24D252900BCD6BECD000D37AEDA3",

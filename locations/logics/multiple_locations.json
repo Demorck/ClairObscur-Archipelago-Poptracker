@@ -15,7 +15,7 @@
             },
             {
                 "name": "Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag",
-                "access_rules": []
+                "access_rules": ["$firstcont_north,EsquiesNest,[$calculate_picto_count_from_level|5]","$north_sea,TheMonolith,[$calculate_picto_count_from_level|15]"]
             }
         ]
     }

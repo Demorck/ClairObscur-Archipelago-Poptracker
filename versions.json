@@ -3,7 +3,7 @@
         {
             "package_version": "0.2.5",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.5/ClairObscurAP_Poptracker.zip",
-            "sha256": "",
+            "sha256": "4661EB6AAC9118028E7A6A89F53F9A0E491E660FF0309B265145187082766F09",
             "changelog": [
                 "Added support for Multiple Locations.",
                 "Fixed location index after Demo betrayed me (by removing extraneous locations).",

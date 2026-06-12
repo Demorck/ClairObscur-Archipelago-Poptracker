@@ -28,8 +28,8 @@
                 "map_locations":  [{ "map": "Ancient Sanctuary", "x": 155, "y": 595}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Ancient Sanctuary/Entrance - Across bridge" }],
-                "name":  "Entrance - Across bridge",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end" }],
+                "name":  "Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end",
                 "map_locations":  [{ "map": "Ancient Sanctuary", "x": 515, "y": 610}]
             },
             {

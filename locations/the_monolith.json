@@ -203,8 +203,8 @@
                 "map_locations":  [{ "map": "The Monolith", "x": 416, "y": 1096}]
             },
             {
-                "sections":  [{ "ref": "Entrance - The Monolith/Tainted Lumiere - Left before Expedition Flag" }],
-                "name":  "Tainted Lumiere - Left before Expedition Flag",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag" }],
+                "name":  "Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag",
                 "map_locations":  [{ "map": "The Monolith", "x": 230, "y": 1180}]
             },
             {

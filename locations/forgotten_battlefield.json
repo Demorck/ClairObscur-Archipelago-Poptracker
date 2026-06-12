@@ -13,8 +13,8 @@
                 "map_locations":  [{ "map": "Forgotten Battlefield", "x": 1030, "y": 301}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Fort Ruins - In left ruins near dead end" }],
-                "name":  "Fort Ruins - In left ruins near dead end",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end" }],
+                "name":  "Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end",
                 "map_locations":  [{ "map": "Forgotten Battlefield", "x": 934, "y": 110}]
             },
             {

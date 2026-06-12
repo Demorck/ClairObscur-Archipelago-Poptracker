@@ -121,15 +121,15 @@ function apply_slot_data(slot_data)
 
 		local itemOption = Tracker:FindObjectForCode("goal")
 		if goal == 0 then 
-			itemOption.CurrentStage = 1
+			itemOption.CurrentStage = 0
 		elseif goal == 1 then --Curator
-			itemOption.CurrentStage = 2
+			itemOption.CurrentStage = 1
 		elseif goal == 2 then --Painted Love
-			itemOption.CurrentStage = 4
-		elseif goal == 3 then --Simon
-			itemOption.CurrentStage = 5
-		elseif goal == 4 then --Clea
 			itemOption.CurrentStage = 3
+		elseif goal == 3 then --Simon
+			itemOption.CurrentStage = 4
+		elseif goal == 4 then --Clea
+			itemOption.CurrentStage = 2
 		end
 		
 	end

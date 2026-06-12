@@ -10,7 +10,8 @@
                 "access_rules": []
             },
             {
-                "name": "Item 2",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Isle of the Eyes or The Crows: Item 2 or Item" }],
+                "name":  "Isle of the Eyes or The Crows: Item 2 or Item",
                 "access_rules": []
             },
             

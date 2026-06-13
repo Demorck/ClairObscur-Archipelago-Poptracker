@@ -30,8 +30,8 @@
                 "map_locations":  [{ "map": "South Continent", "x": 754, "y": 1134}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Continent/Unknown 2" }],
-                "name":  "Unknown 2",
+                "sections":  [{ "ref": "Entrance - Continent/First Continent - In crates before Flying Waters" }],
+                "name":  "First Continent - In crates before Flying Waters",
                 "map_locations":  [{ "map": "South Continent", "x": 785, "y": 1114}]
             },
             {

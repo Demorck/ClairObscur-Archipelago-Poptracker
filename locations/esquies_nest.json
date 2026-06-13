@@ -38,8 +38,8 @@
                 "map_locations":  [{ "map": "Esquie's Nest", "x": 625, "y": 680}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Esquie's Nest/Get Outta My Way! - Go right from Sunniso" }],
-                "name":  "Get Outta My Way! - Go right from Sunniso",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag" }],
+                "name":  "Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag",
                 "map_locations":  [{ "map": "Esquie's Nest", "x": 450, "y": 1050}]
             },
             {

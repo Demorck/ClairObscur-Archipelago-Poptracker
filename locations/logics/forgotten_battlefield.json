@@ -15,9 +15,9 @@
                 "access_rules": []
             },
             {
-                "name": "Fort Ruins - In left ruins near dead end",
-                "access_rules": ["paintbreak"],
-                "visibility_rules": ["hidden"]
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end" }],
+                "name":  "Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end",
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Battlefield - On wooden platform near Petank end",

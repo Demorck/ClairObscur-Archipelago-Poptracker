@@ -34,9 +34,9 @@
                 "access_rules": []
             },
             {
-                "name": "Get Outta My Way! - Go right from Sunniso",
-                "access_rules": [],
-                "visibility_rules": ["hidden"]
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag" }],
+                "name":  "Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag",
+                "access_rules": []
             },
 
             

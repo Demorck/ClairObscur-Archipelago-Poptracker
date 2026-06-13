@@ -3,8 +3,8 @@
         "name": "The Crows",
         "children": [
             {
-                "sections":  [{ "ref": "Entrance - The Crows/Item" }],
-                "name":  "Item",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Isle of the Eyes or The Crows: Item 2 or Item" }],
+                "name":  "Isle of the Eyes or The Crows: Item 2 or Item",
                 "map_locations":  [{ "map": "The Crows", "x": 60, "y": 120}]
             },
             {

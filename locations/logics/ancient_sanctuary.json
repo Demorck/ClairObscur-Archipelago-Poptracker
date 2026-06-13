@@ -26,7 +26,8 @@
                 "access_rules": ["paintbreak"]
             },
             {
-                "name": "Entrance - Across bridge",
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end" }],
+                "name":  "Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end",
                 "access_rules": []
             },
             {

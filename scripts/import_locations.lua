@@ -5,6 +5,9 @@
 Tracker:AddLocations("locations/continent.json")
 Tracker:AddLocations("locations/logics/continent.json")
 
+-- Multiple Locations
+Tracker:AddLocations("locations/logics/multiple_locations.json")
+
 
 ------Major Zones------
 

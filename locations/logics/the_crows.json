@@ -6,8 +6,9 @@
         "map_locations": [{"map": "North Continent", "x": 89, "y": 2149, "shape": "trapezoid"}],
         "sections": [
             {
-                "name": "Item",
-                "access_rules": []
+                "sections":  [{ "ref": "Entrance - Multiple Locations/Isle of the Eyes or The Crows: Item 2 or Item" }],
+                "name":  "Isle of the Eyes or The Crows: Item 2 or Item",
+                "access_rules": ["[PaintedPower],FreeAim"]
             },
             {
                 "name": "Chromatic Chapelier",

@@ -121,15 +121,15 @@ function apply_slot_data(slot_data)
 
 		local itemOption = Tracker:FindObjectForCode("goal")
 		if goal == 0 then 
-			itemOption.CurrentStage = 1
+			itemOption.CurrentStage = 0
 		elseif goal == 1 then --Curator
-			itemOption.CurrentStage = 2
+			itemOption.CurrentStage = 1
 		elseif goal == 2 then --Painted Love
-			itemOption.CurrentStage = 4
-		elseif goal == 3 then --Simon
-			itemOption.CurrentStage = 5
-		elseif goal == 4 then --Clea
 			itemOption.CurrentStage = 3
+		elseif goal == 3 then --Simon
+			itemOption.CurrentStage = 4
+		elseif goal == 4 then --Clea
+			itemOption.CurrentStage = 2
 		end
 		
 	end
@@ -189,6 +189,26 @@ function apply_slot_data(slot_data)
 			itemOption.Active = setOption
 		end
 		
+	end
+
+
+	-- include Exclude Superbosses rule. Determines whether to show or hide the 4 ET superbosses
+	-- if set to 0, hide superbosses
+	-- if set to 1 or 2, display superbosses
+	if options['exclude_superbosses'] then
+		local setOption = options['exclude_superbosses']
+		local itemOption = Tracker:FindObjectForCode("include_superbosses")
+
+		print("exclude_superbosses: "..setOption)
+
+		-- If exclude_superbosses is 0 (bosses are hidden), do not activate include_superbosses
+		if setOption == 0 then
+			itemOption.Active = 0
+		
+		-- If exclude_superbosses is 0 or 1 (don't care if incl or filler), activate to display
+		else 
+			itemOption.Active = 1
+		end
 	end
 end
 

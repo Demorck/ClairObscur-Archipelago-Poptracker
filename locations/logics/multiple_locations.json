@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Entrance - Multiple Locations",
+        "chest_unopened_img": "images/locked.png",
+        "chest_opened_img": "images/checked.png",
+        "sections": [
+            {
+                "name": "Ancient Sanctuary or Forgotten Battlefield: Entrance - Across bridge or Fort Ruins - In left ruins near dead end",
+                "access_rules": ["$firstcont_north,AncientSanctuary,[$calculate_picto_count_from_level|4]","$south_sea,ForgottenBattlefield,[$calculate_picto_count_from_level|8],paintbreak"]
+            },
+            {
+                "name": "Isle of the Eyes or The Crows: Item 2 or Item",
+                "access_rules": ["$sky_no_pp,[$calculate_picto_count_from_level|22]","$north_sea"],
+                "visibility_rules": []
+            },
+            {
+                "name": "Esquie's Nest or Monolith: Get Outta My Way! - Go right from Sunniso or Tainted Lumiere - Left before Expedition Flag",
+                "access_rules": ["$firstcont_north,EsquiesNest,[$calculate_picto_count_from_level|5]","$north_sea,TheMonolith,[$calculate_picto_count_from_level|15]"]
+            }
+        ]
+    }
+]

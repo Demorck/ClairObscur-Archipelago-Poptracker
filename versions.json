@@ -4,7 +4,7 @@
         {
             "package_version": "0.3",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.3/ClairObscurAP_Poptracker.zip",
-            "sha256": "5B4F0FB84AA93272C3599F6199EADAA0C09A76D6568DB2B3B5FF1441EFA4446C",
+            "sha256": "02D6289615E8B863398214E83CD163F54511808824C6AACA9B71470FA27640B1",
             "changelog": [
                 "Added initial logic for shop update",
                 "Added documentation"

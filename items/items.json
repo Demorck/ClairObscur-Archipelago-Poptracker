@@ -457,5 +457,25 @@
     "codes": "include_superbosses",
     "img": "images/items/include_superbosses.png",
     "type": "toggle"
+  },
+  {
+    "name": "Shopsanity",
+    "codes": "shopsanity",
+    "img": "images/items/include_superbosses.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Location Per Shop",
+    "codes": "location_per_shop",
+    "img": "images/items/include_superbosses.png",
+    "type": "consumable",
+    "max_quantity": 8
+  },
+  {
+    "name": "Extra Location Per Shop",
+    "codes": "extra_location_per_shop",
+    "img": "images/items/include_superbosses.png",
+    "type": "consumable",
+    "max_quantity": 8
   }
 ]

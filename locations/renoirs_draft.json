@@ -67,11 +67,31 @@
         "name":  "Entrance - Chromatic Creation",
         "map_locations":  [{ "map": "Renoir's Draft", "x": 39, "y": 690}]
     },
+
+
     {
-        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Merchant Grour" }],
-        "name":  "Merchant Grour",
-        "map_locations":  [{ "map": "Renoir's Draft", "x": 430, "y": 383, "shape": "diamond"}]
+        "sections":  [{ "ref": "Entrance - Renoir's Drafts/Grour - Item 1", "name":  "Grour - Item 1" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 2", "name":  "Grour - Item 2" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 3", "name":  "Grour - Item 3" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 4", "name":  "Grour - Item 4" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 5", "name":  "Grour - Item 5" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 6", "name":  "Grour - Item 6" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 7", "name":  "Grour - Item 7" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Item 8", "name":  "Grour - Item 8" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Fight", "name":  "Grour - Fight" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 1", "name":  "Grour - Extra Item 1" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 2", "name":  "Grour - Extra Item 2" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 3", "name":  "Grour - Extra Item 3" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 4", "name":  "Grour - Extra Item 4" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 5", "name":  "Grour - Extra Item 5" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 6", "name":  "Grour - Extra Item 6" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 7", "name":  "Grour - Extra Item 7" },
+                      { "ref": "Entrance - Renoir's Drafts/Grour - Extra Item 8", "name":  "Grour - Extra Item 8" }
+                     ],
+        "map_locations":  [{ "map": "Renoir's Draft", "x": 415, "y": 368}]
     },
+
+
     {
         "sections":  [{ "ref": "Entrance - Renoir's Drafts/Flag - Entrance" }],
         "name":  "Flag - Entrance",

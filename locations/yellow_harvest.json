@@ -47,6 +47,31 @@
                 "name":  "Glaise",
                 "map_locations":  [{ "map": "Yellow Harvest", "x": 302, "y": 190}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Yellow Harvest/Pinabby - Item 1", "name":  "Pinabby - Item 1" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 2", "name":  "Pinabby - Item 2" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 3", "name":  "Pinabby - Item 3" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 4", "name":  "Pinabby - Item 4" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 5", "name":  "Pinabby - Item 5" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 6", "name":  "Pinabby - Item 6" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 7", "name":  "Pinabby - Item 7" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Item 8", "name":  "Pinabby - Item 8" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Fight", "name":  "Pinabby - Fight" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 1", "name":  "Pinabby - Extra Item 1" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 2", "name":  "Pinabby - Extra Item 2" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 3", "name":  "Pinabby - Extra Item 3" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 4", "name":  "Pinabby - Extra Item 4" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 5", "name":  "Pinabby - Extra Item 5" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 6", "name":  "Pinabby - Extra Item 6" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 7", "name":  "Pinabby - Extra Item 7" },
+                              { "ref": "Entrance - Yellow Harvest/Pinabby - Extra Item 8", "name":  "Pinabby - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Yellow Harvest", "x": 550, "y": 824}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Yellow Harvest/Flag - Entrance" }],
                 "name":  "Flag - Entrance",
@@ -61,11 +86,6 @@
                 "sections":  [{ "ref": "Entrance - Yellow Harvest/Flag - Harvester's Hollow" }],
                 "name":  "Flag - Harvester's Hollow",
                 "map_locations":  [{ "map": "Yellow Harvest", "x": 394, "y": 740, "shape": "diamond"}]
-            },
-            {
-                "sections":  [{ "ref": "Entrance - Yellow Harvest/Merchant Pinabby" }],
-                "name":  "Merchant Pinabby",
-                "map_locations":  [{ "map": "Yellow Harvest", "x": 550, "y": 824, "shape": "diamond"}]
             }
         ]
 

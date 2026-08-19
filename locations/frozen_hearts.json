@@ -172,6 +172,22 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Frozen Hearts", "x": 930, "y": 276}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Frozen Hearts/Verogo - Item 1", "name":  "Verogo - Item 1" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 2", "name":  "Verogo - Item 2" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 3", "name":  "Verogo - Item 3" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 4", "name":  "Verogo - Item 4" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 5", "name":  "Verogo - Item 5" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 6", "name":  "Verogo - Item 6" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 7", "name":  "Verogo - Item 7" },
+                              { "ref": "Entrance - Frozen Hearts/Verogo - Item 8", "name":  "Verogo - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Frozen Hearts", "x": 505, "y": 353}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Frozen Hearts/Flag - Icebound Train Station" }],
                 "name":  "Flag - Icebound Train Station",

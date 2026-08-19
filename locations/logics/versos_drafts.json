@@ -182,6 +182,134 @@
 
 
             {
+                "name": "Osquio Merchant - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Osquio Merchant - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Osquio Merchant - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Osquio Merchant - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Osquio Merchant - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Osquio Merchant - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Osquio Merchant - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Osquio Merchant - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+
+            {
+                "name": "Najabla - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Najabla - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Najabla - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Najabla - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Najabla - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Najabla - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Najabla - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Najabla - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Najabla - Fight",
+                "access_rules": [],
+                "visibility_rules": ["shopsanity"]
+            },
+            {
+                "name": "Najabla - Extra Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|1"]
+            },
+            {
+                "name": "Najabla - Extra Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|2"]
+            },
+            {
+                "name": "Najabla - Extra Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|3"]
+            },
+            {
+                "name": "Najabla - Extra Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|4"]
+            },
+            {
+                "name": "Najabla - Extra Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|5"]
+            },
+            {
+                "name": "Najabla - Extra Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|6"]
+            },
+            {
+                "name": "Najabla - Extra Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|7"]
+            },
+            {
+                "name": "Najabla - Extra Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|8"]
+            },
+
+
+            {
                 "name": "Flag - Reverie Path",
                 "access_rules": [],
                 "visibility_rules": ["EnableFlags"]

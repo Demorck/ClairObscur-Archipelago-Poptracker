@@ -207,6 +207,31 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 567, "y": 636}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 1", "name":  "Jerijeri - Item 1" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 2", "name":  "Jerijeri - Item 2" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 3", "name":  "Jerijeri - Item 3" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 4", "name":  "Jerijeri - Item 4" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 5", "name":  "Jerijeri - Item 5" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 6", "name":  "Jerijeri - Item 6" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 7", "name":  "Jerijeri - Item 7" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Item 8", "name":  "Jerijeri - Item 8" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Fight", "name":  "Jerijeri - Fight" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 1", "name":  "Jerijeri - Extra Item 1" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 2", "name":  "Jerijeri - Extra Item 2" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 3", "name":  "Jerijeri - Extra Item 3" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 4", "name":  "Jerijeri - Extra Item 4" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 5", "name":  "Jerijeri - Extra Item 5" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 6", "name":  "Jerijeri - Extra Item 6" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 7", "name":  "Jerijeri - Extra Item 7" },
+                              { "ref": "Entrance - Stone Wave Cliffs/Jerijeri - Extra Item 8", "name":  "Jerijeri - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Stone Wave Cliffs", "x": 312, "y": 603}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Stone Wave Cliffs/Flag - Entrance" }],
                 "name":  "Flag - Entrance",

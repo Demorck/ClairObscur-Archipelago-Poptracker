@@ -210,6 +210,31 @@ function apply_slot_data(slot_data)
 			itemOption.Active = 1
 		end
 	end
+
+
+
+	-- Shopsanity
+	if options['shopsanity'] then
+		local shopOptions = {options['shopsanity'], options['location_per_shop'], options['extra_location_per_shop']}
+		local itemOptions = {Tracker:FindObjectForCode('shopsanity'), Tracker:FindObjectForCode('location_per_shop'), Tracker:FindObjectForCode('extra_location_per_shop')}
+		local shopsanity = 1
+		local loc = 2
+		local extra_loc = 3
+
+		itemOptions[shopsanity].Active = shopOptions[shopsanity]
+		--print("shopsanity.Active is:")
+		--print(itemOptions[shopsanity].Active)
+
+		itemOptions[loc].Active = 1
+		itemOptions[loc].AcquiredCount = shopOptions[loc]
+		--print("location_per_shop.AcquiredCount is:")
+		--print(itemOptions[loc].AcquiredCount)
+
+		itemOptions[extra_loc].Active = 1
+		itemOptions[extra_loc].AcquiredCount = shopOptions[extra_loc]
+		--print("extra_location_per_shop.AcquiredCount is:")
+		--print(itemOptions[extra_loc].AcquiredCount)
+	end
 end
 
 -- called right after an AP slot is connected

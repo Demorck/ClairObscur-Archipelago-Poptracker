@@ -27,9 +27,89 @@
             },
             
             {
-                "name": "Merchant Persik",
+                "name": "Persik - Item 1",
                 "access_rules": [],
-                "visibility_rules": ["hidden"]
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Persik - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Persik - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Persik - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Persik - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Persik - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Persik - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Persik - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Persik - Fight",
+                "access_rules": [],
+                "visibility_rules": ["shopsanity"]
+            },
+            {
+                "name": "Persik - Extra Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|1"]
+            },
+            {
+                "name": "Persik - Extra Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|2"]
+            },
+            {
+                "name": "Persik - Extra Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|3"]
+            },
+            {
+                "name": "Persik - Extra Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|4"]
+            },
+            {
+                "name": "Persik - Extra Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|5"]
+            },
+            {
+                "name": "Persik - Extra Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|6"]
+            },
+            {
+                "name": "Persik - Extra Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|7"]
+            },
+            {
+                "name": "Persik - Extra Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|8"]
             },
             
             {

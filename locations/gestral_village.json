@@ -47,6 +47,76 @@
                 "name":  "Near casino",
                 "map_locations":  [{ "map": "Gestral Village", "x": 505, "y": 85}]
             },
+
+            {
+                "sections":  [{ "ref": "Entrance - Gestral Village/Alexcyclo - Item 1", "name":  "Alexcyclo - Item 1" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 2", "name":  "Alexcyclo - Item 2" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 3", "name":  "Alexcyclo - Item 3" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 4", "name":  "Alexcyclo - Item 4" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 5", "name":  "Alexcyclo - Item 5" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 6", "name":  "Alexcyclo - Item 6" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 7", "name":  "Alexcyclo - Item 7" },
+                              { "ref": "Entrance - Gestral Village/Alexcyclo - Item 8", "name":  "Alexcyclo - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Gestral Village", "x": 410, "y": 194}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Gestral Village/Delsitra - Item 1", "name":  "Delsitra - Item 1" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 2", "name":  "Delsitra - Item 2" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 3", "name":  "Delsitra - Item 3" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 4", "name":  "Delsitra - Item 4" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 5", "name":  "Delsitra - Item 5" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 6", "name":  "Delsitra - Item 6" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 7", "name":  "Delsitra - Item 7" },
+                              { "ref": "Entrance - Gestral Village/Delsitra - Item 8", "name":  "Delsitra - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Gestral Village", "x": 120, "y": 205}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Gestral Village/Jujubree - Item 1", "name":  "Jujubree - Item 1" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 2", "name":  "Jujubree - Item 2" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 3", "name":  "Jujubree - Item 3" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 4", "name":  "Jujubree - Item 4" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 5", "name":  "Jujubree - Item 5" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 6", "name":  "Jujubree - Item 6" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 7", "name":  "Jujubree - Item 7" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Item 8", "name":  "Jujubree - Item 8" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Fight", "name":  "Jujubree - Fight" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 1", "name":  "Jujubree - Extra Item 1" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 2", "name":  "Jujubree - Extra Item 2" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 3", "name":  "Jujubree - Extra Item 3" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 4", "name":  "Jujubree - Extra Item 4" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 5", "name":  "Jujubree - Extra Item 5" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 6", "name":  "Jujubree - Extra Item 6" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 7", "name":  "Jujubree - Extra Item 7" },
+                              { "ref": "Entrance - Gestral Village/Jujubree - Extra Item 8", "name":  "Jujubree - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Gestral Village", "x": 185, "y": 293}]
+            },
+
+            {
+                "sections":  [{ "ref": "Entrance - Gestral Village/Eesda - Item 1", "name":  "Eesda - Item 1" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 2", "name":  "Eesda - Item 2" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 3", "name":  "Eesda - Item 3" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 4", "name":  "Eesda - Item 4" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 5", "name":  "Eesda - Item 5" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 6", "name":  "Eesda - Item 6" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 7", "name":  "Eesda - Item 7" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Item 8", "name":  "Eesda - Item 8" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Fight", "name":  "Eesda - Fight" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 1", "name":  "Eesda - Extra Item 1" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 2", "name":  "Eesda - Extra Item 2" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 3", "name":  "Eesda - Extra Item 3" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 4", "name":  "Eesda - Extra Item 4" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 5", "name":  "Eesda - Extra Item 5" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 6", "name":  "Eesda - Extra Item 6" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 7", "name":  "Eesda - Extra Item 7" },
+                              { "ref": "Entrance - Gestral Village/Eesda - Extra Item 8", "name":  "Eesda - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Gestral Village", "x": 135, "y": 287}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Gestral Village/Flag - Gestral Village" }],
                 "name":  "Flag - Gestral Village",

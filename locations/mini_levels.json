@@ -38,8 +38,25 @@
                 "map_locations":  [{ "map": "South Continent", "x": 914, "y": 1044}]
             },
             {
-                "sections":  [{ "ref": "Overview - Mini Levels/Coastal Cave: Left side" }],
-                "name":  "Coastal Cave: Left side",
+                "sections":  [{ "ref": "Overview - Mini Levels/Coastal Cave: Left side", "name":  "Coastal Cave: Left side" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 1", "name": "Coastal Cave: White Bruler - Item 1" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 2", "name": "Coastal Cave: White Bruler - Item 2" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 3", "name": "Coastal Cave: White Bruler - Item 3" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 4", "name": "Coastal Cave: White Bruler - Item 4" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 5", "name": "Coastal Cave: White Bruler - Item 5" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 6", "name": "Coastal Cave: White Bruler - Item 6" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 7", "name": "Coastal Cave: White Bruler - Item 7" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Bruler - Item 8", "name": "Coastal Cave: White Bruler - Item 8" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 1", "name": "Coastal Cave: White Cruler - Item 1" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 2", "name": "Coastal Cave: White Cruler - Item 2" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 3", "name": "Coastal Cave: White Cruler - Item 3" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 4", "name": "Coastal Cave: White Cruler - Item 4" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 5", "name": "Coastal Cave: White Cruler - Item 5" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 6", "name": "Coastal Cave: White Cruler - Item 6" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 7", "name": "Coastal Cave: White Cruler - Item 7" },
+                              { "ref": "Overview - Mini Levels/Coastal Cave: White Cruler - Item 8", "name": "Coastal Cave: White Cruler - Item 8" }
+                             ],
+                
                 "map_locations":  [{ "map": "Middle Continent", "x": 1972, "y": 1457}]
             },
             {

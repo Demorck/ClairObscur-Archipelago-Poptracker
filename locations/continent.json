@@ -478,6 +478,248 @@
 
 
             {
+                "sections":  [{ "ref": "Entrance - Continent/Blabary - Item 1", "name":  "Blabary - Item 1" },
+                              { "ref": "Entrance - Continent/Blabary - Item 2", "name":  "Blabary - Item 2" },
+                              { "ref": "Entrance - Continent/Blabary - Item 3", "name":  "Blabary - Item 3" },
+                              { "ref": "Entrance - Continent/Blabary - Item 4", "name":  "Blabary - Item 4" },
+                              { "ref": "Entrance - Continent/Blabary - Item 5", "name":  "Blabary - Item 5" },
+                              { "ref": "Entrance - Continent/Blabary - Item 6", "name":  "Blabary - Item 6" },
+                              { "ref": "Entrance - Continent/Blabary - Item 7", "name":  "Blabary - Item 7" },
+                              { "ref": "Entrance - Continent/Blabary - Item 8", "name":  "Blabary - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 715, "y": 957}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Carrabi - Item 1", "name":  "Carrabi - Item 1" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 2", "name":  "Carrabi - Item 2" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 3", "name":  "Carrabi - Item 3" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 4", "name":  "Carrabi - Item 4" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 5", "name":  "Carrabi - Item 5" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 6", "name":  "Carrabi - Item 6" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 7", "name":  "Carrabi - Item 7" },
+                              { "ref": "Entrance - Continent/Carrabi - Item 8", "name":  "Carrabi - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 928, "y": 834}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Jumeliba - Item 1", "name":  "Jumeliba - Item 1" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 2", "name":  "Jumeliba - Item 2" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 3", "name":  "Jumeliba - Item 3" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 4", "name":  "Jumeliba - Item 4" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 5", "name":  "Jumeliba - Item 5" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 6", "name":  "Jumeliba - Item 6" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 7", "name":  "Jumeliba - Item 7" },
+                              { "ref": "Entrance - Continent/Jumeliba - Item 8", "name":  "Jumeliba - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 792, "y": 741}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Appla - Item 1", "name":  "Appla - Item 1" },
+                              { "ref": "Entrance - Continent/Appla - Item 2", "name":  "Appla - Item 2" },
+                              { "ref": "Entrance - Continent/Appla - Item 3", "name":  "Appla - Item 3" },
+                              { "ref": "Entrance - Continent/Appla - Item 4", "name":  "Appla - Item 4" },
+                              { "ref": "Entrance - Continent/Appla - Item 5", "name":  "Appla - Item 5" },
+                              { "ref": "Entrance - Continent/Appla - Item 6", "name":  "Appla - Item 6" },
+                              { "ref": "Entrance - Continent/Appla - Item 7", "name":  "Appla - Item 7" },
+                              { "ref": "Entrance - Continent/Appla - Item 8", "name":  "Appla - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 1270, "y": 710}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Colaro - Item 1", "name":  "Colaro - Item 1" },
+                              { "ref": "Entrance - Continent/Colaro - Item 2", "name":  "Colaro - Item 2" },
+                              { "ref": "Entrance - Continent/Colaro - Item 3", "name":  "Colaro - Item 3" },
+                              { "ref": "Entrance - Continent/Colaro - Item 4", "name":  "Colaro - Item 4" },
+                              { "ref": "Entrance - Continent/Colaro - Item 5", "name":  "Colaro - Item 5" },
+                              { "ref": "Entrance - Continent/Colaro - Item 6", "name":  "Colaro - Item 6" },
+                              { "ref": "Entrance - Continent/Colaro - Item 7", "name":  "Colaro - Item 7" },
+                              { "ref": "Entrance - Continent/Colaro - Item 8", "name":  "Colaro - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 900, "y": 584}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Geranjo - Item 1", "name":  "Geranjo - Item 1" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 2", "name":  "Geranjo - Item 2" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 3", "name":  "Geranjo - Item 3" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 4", "name":  "Geranjo - Item 4" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 5", "name":  "Geranjo - Item 5" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 6", "name":  "Geranjo - Item 6" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 7", "name":  "Geranjo - Item 7" },
+                              { "ref": "Entrance - Continent/Geranjo - Item 8", "name":  "Geranjo - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 537, "y": 271}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Chic Gestral Merchant - Item 1", "name":  "Chic Gestral Merchant - Item 1" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 2", "name":  "Chic Gestral Merchant - Item 2" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 3", "name":  "Chic Gestral Merchant - Item 3" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 4", "name":  "Chic Gestral Merchant - Item 4" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 5", "name":  "Chic Gestral Merchant - Item 5" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 6", "name":  "Chic Gestral Merchant - Item 6" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 7", "name":  "Chic Gestral Merchant - Item 7" },
+                              { "ref": "Entrance - Continent/Chic Gestral Merchant - Item 8", "name":  "Chic Gestral Merchant - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 1930, "y": 1390}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Pecha - Item 1", "name":  "Pecha - Item 1" },
+                              { "ref": "Entrance - Continent/Pecha - Item 2", "name":  "Pecha - Item 2" },
+                              { "ref": "Entrance - Continent/Pecha - Item 3", "name":  "Pecha - Item 3" },
+                              { "ref": "Entrance - Continent/Pecha - Item 4", "name":  "Pecha - Item 4" },
+                              { "ref": "Entrance - Continent/Pecha - Item 5", "name":  "Pecha - Item 5" },
+                              { "ref": "Entrance - Continent/Pecha - Item 6", "name":  "Pecha - Item 6" },
+                              { "ref": "Entrance - Continent/Pecha - Item 7", "name":  "Pecha - Item 7" },
+                              { "ref": "Entrance - Continent/Pecha - Item 8", "name":  "Pecha - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 1234, "y": 1486}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Strabami - Item 1", "name":  "Strabami - Item 1" },
+                              { "ref": "Entrance - Continent/Strabami - Item 2", "name":  "Strabami - Item 2" },
+                              { "ref": "Entrance - Continent/Strabami - Item 3", "name":  "Strabami - Item 3" },
+                              { "ref": "Entrance - Continent/Strabami - Item 4", "name":  "Strabami - Item 4" },
+                              { "ref": "Entrance - Continent/Strabami - Item 5", "name":  "Strabami - Item 5" },
+                              { "ref": "Entrance - Continent/Strabami - Item 6", "name":  "Strabami - Item 6" },
+                              { "ref": "Entrance - Continent/Strabami - Item 7", "name":  "Strabami - Item 7" },
+                              { "ref": "Entrance - Continent/Strabami - Item 8", "name":  "Strabami - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 1428, "y": 1315}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Blakora - Item 1", "name":  "Blakora - Item 1" },
+                              { "ref": "Entrance - Continent/Blakora - Item 2", "name":  "Blakora - Item 2" },
+                              { "ref": "Entrance - Continent/Blakora - Item 3", "name":  "Blakora - Item 3" },
+                              { "ref": "Entrance - Continent/Blakora - Item 4", "name":  "Blakora - Item 4" },
+                              { "ref": "Entrance - Continent/Blakora - Item 5", "name":  "Blakora - Item 5" },
+                              { "ref": "Entrance - Continent/Blakora - Item 6", "name":  "Blakora - Item 6" },
+                              { "ref": "Entrance - Continent/Blakora - Item 7", "name":  "Blakora - Item 7" },
+                              { "ref": "Entrance - Continent/Blakora - Item 8", "name":  "Blakora - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 975, "y": 1415}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Carnovi - Item 1", "name":  "Carnovi - Item 1" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 2", "name":  "Carnovi - Item 2" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 3", "name":  "Carnovi - Item 3" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 4", "name":  "Carnovi - Item 4" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 5", "name":  "Carnovi - Item 5" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 6", "name":  "Carnovi - Item 6" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 7", "name":  "Carnovi - Item 7" },
+                              { "ref": "Entrance - Continent/Carnovi - Item 8", "name":  "Carnovi - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 675, "y": 1150}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Papasso - Item 1", "name":  "Papasso - Item 1" },
+                              { "ref": "Entrance - Continent/Papasso - Item 2", "name":  "Papasso - Item 2" },
+                              { "ref": "Entrance - Continent/Papasso - Item 3", "name":  "Papasso - Item 3" },
+                              { "ref": "Entrance - Continent/Papasso - Item 4", "name":  "Papasso - Item 4" },
+                              { "ref": "Entrance - Continent/Papasso - Item 5", "name":  "Papasso - Item 5" },
+                              { "ref": "Entrance - Continent/Papasso - Item 6", "name":  "Papasso - Item 6" },
+                              { "ref": "Entrance - Continent/Papasso - Item 7", "name":  "Papasso - Item 7" },
+                              { "ref": "Entrance - Continent/Papasso - Item 8", "name":  "Papasso - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 560, "y": 1190}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Rederi - Item 1", "name":  "Rederi - Item 1" },
+                              { "ref": "Entrance - Continent/Rederi - Item 2", "name":  "Rederi - Item 2" },
+                              { "ref": "Entrance - Continent/Rederi - Item 3", "name":  "Rederi - Item 3" },
+                              { "ref": "Entrance - Continent/Rederi - Item 4", "name":  "Rederi - Item 4" },
+                              { "ref": "Entrance - Continent/Rederi - Item 5", "name":  "Rederi - Item 5" },
+                              { "ref": "Entrance - Continent/Rederi - Item 6", "name":  "Rederi - Item 6" },
+                              { "ref": "Entrance - Continent/Rederi - Item 7", "name":  "Rederi - Item 7" },
+                              { "ref": "Entrance - Continent/Rederi - Item 8", "name":  "Rederi - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 1765, "y": 220}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Granasori - Item 1", "name":  "Granasori - Item 1" },
+                              { "ref": "Entrance - Continent/Granasori - Item 2", "name":  "Granasori - Item 2" },
+                              { "ref": "Entrance - Continent/Granasori - Item 3", "name":  "Granasori - Item 3" },
+                              { "ref": "Entrance - Continent/Granasori - Item 4", "name":  "Granasori - Item 4" },
+                              { "ref": "Entrance - Continent/Granasori - Item 5", "name":  "Granasori - Item 5" },
+                              { "ref": "Entrance - Continent/Granasori - Item 6", "name":  "Granasori - Item 6" },
+                              { "ref": "Entrance - Continent/Granasori - Item 7", "name":  "Granasori - Item 7" },
+                              { "ref": "Entrance - Continent/Granasori - Item 8", "name":  "Granasori - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "North Continent", "x": 1120, "y": 1260}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Rubiju - Item 1", "name":  "Rubiju - Item 1" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 2", "name":  "Rubiju - Item 2" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 3", "name":  "Rubiju - Item 3" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 4", "name":  "Rubiju - Item 4" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 5", "name":  "Rubiju - Item 5" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 6", "name":  "Rubiju - Item 6" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 7", "name":  "Rubiju - Item 7" },
+                              { "ref": "Entrance - Continent/Rubiju - Item 8", "name":  "Rubiju - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "North Continent", "x": 585, "y": 1740}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Lucaroparfé - Item 1", "name":  "Lucaroparfé - Item 1" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 2", "name":  "Lucaroparfé - Item 2" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 3", "name":  "Lucaroparfé - Item 3" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 4", "name":  "Lucaroparfé - Item 4" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 5", "name":  "Lucaroparfé - Item 5" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 6", "name":  "Lucaroparfé - Item 6" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 7", "name":  "Lucaroparfé - Item 7" },
+                              { "ref": "Entrance - Continent/Lucaroparfé - Item 8", "name":  "Lucaroparfé - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 1940, "y": 1285}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Gestral Merchant - Item 1", "name":  "Gestral Merchant - Item 1" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 2", "name":  "Gestral Merchant - Item 2" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 3", "name":  "Gestral Merchant - Item 3" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 4", "name":  "Gestral Merchant - Item 4" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 5", "name":  "Gestral Merchant - Item 5" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 6", "name":  "Gestral Merchant - Item 6" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 7", "name":  "Gestral Merchant - Item 7" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 8", "name":  "Gestral Merchant - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "South Continent", "x": 0, "y": 0}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Citrelo - Item 1", "name":  "Citrelo - Item 1" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 2", "name":  "Citrelo - Item 2" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 3", "name":  "Citrelo - Item 3" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 4", "name":  "Citrelo - Item 4" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 5", "name":  "Citrelo - Item 5" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 6", "name":  "Citrelo - Item 6" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 7", "name":  "Citrelo - Item 7" },
+                              { "ref": "Entrance - Continent/Citrelo - Item 8", "name":  "Citrelo - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Middle Continent", "x": 1315, "y": 890}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Pearo - Item 1", "name":  "Pearo - Item 1" },
+                              { "ref": "Entrance - Continent/Pearo - Item 2", "name":  "Pearo - Item 2" },
+                              { "ref": "Entrance - Continent/Pearo - Item 3", "name":  "Pearo - Item 3" },
+                              { "ref": "Entrance - Continent/Pearo - Item 4", "name":  "Pearo - Item 4" },
+                              { "ref": "Entrance - Continent/Pearo - Item 5", "name":  "Pearo - Item 5" },
+                              { "ref": "Entrance - Continent/Pearo - Item 6", "name":  "Pearo - Item 6" },
+                              { "ref": "Entrance - Continent/Pearo - Item 7", "name":  "Pearo - Item 7" },
+                              { "ref": "Entrance - Continent/Pearo - Item 8", "name":  "Pearo - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "North Continent", "x": 2000, "y": 1775}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Continent/Sodasso - Item 1", "name":  "Sodasso - Item 1" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 2", "name":  "Sodasso - Item 2" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 3", "name":  "Sodasso - Item 3" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 4", "name":  "Sodasso - Item 4" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 5", "name":  "Sodasso - Item 5" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 6", "name":  "Sodasso - Item 6" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 7", "name":  "Sodasso - Item 7" },
+                              { "ref": "Entrance - Continent/Sodasso - Item 8", "name":  "Sodasso - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "North Continent", "x": 188, "y": 1803}]
+            },
+
+
+            {
                 "sections":  [{ "ref": "Entrance - Continent/Lost Gestral near Esquie's Nest" }],
                 "name":  "Lost Gestral near Esquie's Nest",
                 "map_locations":  [{ "map": "South Continent", "x": 873, "y": 915}]

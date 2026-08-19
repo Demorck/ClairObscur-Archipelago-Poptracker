@@ -177,6 +177,31 @@
                 "name":  "Red Petank",
                 "map_locations":  [{ "map": "Sirene", "x": 12, "y": 360}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Sirene/Klaudiso - Item 1", "name":  "Klaudiso - Item 1" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 2", "name":  "Klaudiso - Item 2" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 3", "name":  "Klaudiso - Item 3" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 4", "name":  "Klaudiso - Item 4" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 5", "name":  "Klaudiso - Item 5" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 6", "name":  "Klaudiso - Item 6" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 7", "name":  "Klaudiso - Item 7" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Item 8", "name":  "Klaudiso - Item 8" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Fight", "name":  "Klaudiso - Fight" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 1", "name":  "Klaudiso - Extra Item 1" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 2", "name":  "Klaudiso - Extra Item 2" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 3", "name":  "Klaudiso - Extra Item 3" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 4", "name":  "Klaudiso - Extra Item 4" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 5", "name":  "Klaudiso - Extra Item 5" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 6", "name":  "Klaudiso - Extra Item 6" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 7", "name":  "Klaudiso - Extra Item 7" },
+                              { "ref": "Entrance - Sirene/Klaudiso - Extra Item 8", "name":  "Klaudiso - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Sirene", "x": 1240, "y": 500}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Sirene/Flag - Dancing Classes" }],
                 "name":  "Flag - Dancing Classes",

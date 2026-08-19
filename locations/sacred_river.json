@@ -11,6 +11,18 @@
                 "sections":  [{ "ref": "Entrance - Sacred River/Golgra" }],
                 "name":  "Golgra",
                 "map_locations":  [{ "map": "Sacred River", "x": 60, "y": 460}]
+            },
+            
+            {
+                "sections":  [{ "ref": "Entrance - Sacred River/Gestral Merchant - Item 1", "name":  "Gestral Merchant - Item 1" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 2", "name":  "Gestral Merchant - Item 2" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 3", "name":  "Gestral Merchant - Item 3" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 4", "name":  "Gestral Merchant - Item 4" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 5", "name":  "Gestral Merchant - Item 5" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 6", "name":  "Gestral Merchant - Item 6" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 7", "name":  "Gestral Merchant - Item 7" },
+                              { "ref": "Entrance - Sacred River/Gestral Merchant - Item 8", "name":  "Gestral Merchant - Item 8" }
+                             ]
             }
         ]
     }

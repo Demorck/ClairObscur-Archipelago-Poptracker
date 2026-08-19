@@ -117,6 +117,31 @@
                 "name":  "Renoir",
                 "map_locations":  [{ "map": "Old Lumiere", "x": 216, "y": 50}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Old Lumiere/Mandelgo - Item 1", "name":  "Mandelgo - Item 1" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 2", "name":  "Mandelgo - Item 2" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 3", "name":  "Mandelgo - Item 3" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 4", "name":  "Mandelgo - Item 4" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 5", "name":  "Mandelgo - Item 5" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 6", "name":  "Mandelgo - Item 6" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 7", "name":  "Mandelgo - Item 7" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Item 8", "name":  "Mandelgo - Item 8" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Fight", "name":  "Mandelgo - Fight" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 1", "name":  "Mandelgo - Extra Item 1" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 2", "name":  "Mandelgo - Extra Item 2" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 3", "name":  "Mandelgo - Extra Item 3" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 4", "name":  "Mandelgo - Extra Item 4" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 5", "name":  "Mandelgo - Extra Item 5" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 6", "name":  "Mandelgo - Extra Item 6" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 7", "name":  "Mandelgo - Extra Item 7" },
+                              { "ref": "Entrance - Old Lumiere/Mandelgo - Extra Item 8", "name":  "Mandelgo - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Old Lumiere", "x": 420, "y": 700}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Old Lumiere/Flag - Entrance" }],
                 "name":  "Flag - Entrance",

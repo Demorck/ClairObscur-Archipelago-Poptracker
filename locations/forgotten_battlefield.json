@@ -147,6 +147,31 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Forgotten Battlefield", "x": 681, "y": 470}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 1", "name":  "Kasumi - Item 1" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 2", "name":  "Kasumi - Item 2" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 3", "name":  "Kasumi - Item 3" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 4", "name":  "Kasumi - Item 4" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 5", "name":  "Kasumi - Item 5" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 6", "name":  "Kasumi - Item 6" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 7", "name":  "Kasumi - Item 7" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Item 8", "name":  "Kasumi - Item 8" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Fight", "name":  "Kasumi - Fight" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 1", "name":  "Kasumi - Extra Item 1" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 2", "name":  "Kasumi - Extra Item 2" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 3", "name":  "Kasumi - Extra Item 3" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 4", "name":  "Kasumi - Extra Item 4" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 5", "name":  "Kasumi - Extra Item 5" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 6", "name":  "Kasumi - Extra Item 6" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 7", "name":  "Kasumi - Extra Item 7" },
+                              { "ref": "Entrance - Forgotten Battlefield/Kasumi - Extra Item 8", "name":  "Kasumi - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Forgotten Battlefield", "x": 530, "y": 275}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Forgotten Battlefield/Flag - Main Gate" }],
                 "name":  "Flag - Main Gate",

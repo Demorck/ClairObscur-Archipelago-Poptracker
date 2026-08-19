@@ -27,11 +27,30 @@
                 "name":  "Scavenger",
                 "map_locations":  [{ "map": "Falling Leaves", "x": 170, "y": 43}]
             },
+
             {
-                "sections":  [{ "ref": "Entrance - Falling Leaves/Merchant Persik" }],
-                "name":  "Merchant Persik",
-                "map_locations":  [{ "map": "Falling Leaves", "x": 45, "y": 278, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Falling Leaves/Persik - Item 1", "name":  "Persik - Item 1" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 2", "name":  "Persik - Item 2" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 3", "name":  "Persik - Item 3" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 4", "name":  "Persik - Item 4" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 5", "name":  "Persik - Item 5" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 6", "name":  "Persik - Item 6" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 7", "name":  "Persik - Item 7" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Item 8", "name":  "Persik - Item 8" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Fight", "name":  "Persik - Fight" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 1", "name":  "Persik - Extra Item 1" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 2", "name":  "Persik - Extra Item 2" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 3", "name":  "Persik - Extra Item 3" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 4", "name":  "Persik - Extra Item 4" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 5", "name":  "Persik - Extra Item 5" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 6", "name":  "Persik - Extra Item 6" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 7", "name":  "Persik - Extra Item 7" },
+                              { "ref": "Entrance - Falling Leaves/Persik - Extra Item 8", "name":  "Persik - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Falling Leaves", "x": 45, "y": 278}]
             },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Falling Leaves/Flag - Resinveil Grove" }],
                 "name":  "Flag - Resinveil Grove",

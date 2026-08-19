@@ -459,6 +459,768 @@
 
 
             {
+                "name": "Blabary - Item 1",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Blabary - Item 2",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Blabary - Item 3",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Blabary - Item 4",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Blabary - Item 5",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Blabary - Item 6",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Blabary - Item 7",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Blabary - Item 8",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Carrabi - Item 1",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Carrabi - Item 2",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Carrabi - Item 3",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Carrabi - Item 4",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Carrabi - Item 5",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Carrabi - Item 6",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Carrabi - Item 7",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Carrabi - Item 8",
+                "access_rules": ["$firstcont_north"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Jumeliba - Item 1",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Jumeliba - Item 2",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Jumeliba - Item 3",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Jumeliba - Item 4",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Jumeliba - Item 5",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Jumeliba - Item 6",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Jumeliba - Item 7",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Jumeliba - Item 8",
+                "access_rules": ["$firstcont_north_and_esquie"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Appla - Item 1",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Appla - Item 2",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Appla - Item 3",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Appla - Item 4",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Appla - Item 5",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Appla - Item 6",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Appla - Item 7",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Appla - Item 8",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Colaro - Item 1",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Colaro - Item 2",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Colaro - Item 3",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Colaro - Item 4",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Colaro - Item 5",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Colaro - Item 6",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Colaro - Item 7",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Colaro - Item 8",
+                "access_rules": ["$south_sea","$firstcont_north_and_esquie,StoneWaveCliffs"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Geranjo - Item 1",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Geranjo - Item 2",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Geranjo - Item 3",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Geranjo - Item 4",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Geranjo - Item 5",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Geranjo - Item 6",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Geranjo - Item 7",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Geranjo - Item 8",
+                "access_rules": ["$south_sea"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Chic Gestral Merchant - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Pecha - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Pecha - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Pecha - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Pecha - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Pecha - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Pecha - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Pecha - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Pecha - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Strabami - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Strabami - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Strabami - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Strabami - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Strabami - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Strabami - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Strabami - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Strabami - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Blakora - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Blakora - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Blakora - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Blakora - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Blakora - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Blakora - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Blakora - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Blakora - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Carnovi - Item 1",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Carnovi - Item 2",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Carnovi - Item 3",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Carnovi - Item 4",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Carnovi - Item 5",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Carnovi - Item 6",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Carnovi - Item 7",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Carnovi - Item 8",
+                "access_rules": ["$secondcont_nw"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Papasso - Item 1",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Papasso - Item 2",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Papasso - Item 3",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Papasso - Item 4",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Papasso - Item 5",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Papasso - Item 6",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Papasso - Item 7",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Papasso - Item 8",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Rederi - Item 1",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Rederi - Item 2",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Rederi - Item 3",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Rederi - Item 4",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Rederi - Item 5",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Rederi - Item 6",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Rederi - Item 7",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Rederi - Item 8",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Granasori - Item 1",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Granasori - Item 2",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Granasori - Item 3",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Granasori - Item 4",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Granasori - Item 5",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Granasori - Item 6",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Granasori - Item 7",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Granasori - Item 8",
+                "access_rules": ["$north_sea"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Rubiju - Item 1",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Rubiju - Item 2",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Rubiju - Item 3",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Rubiju - Item 4",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Rubiju - Item 5",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Rubiju - Item 6",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Rubiju - Item 7",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Rubiju - Item 8",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Lucaroparfé - Item 1",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Lucaroparfé - Item 2",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Lucaroparfé - Item 3",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Lucaroparfé - Item 4",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Lucaroparfé - Item 5",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Lucaroparfé - Item 6",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Lucaroparfé - Item 7",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Lucaroparfé - Item 8",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Citrelo - Item 1",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Citrelo - Item 2",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Citrelo - Item 3",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Citrelo - Item 4",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Citrelo - Item 5",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Citrelo - Item 6",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Citrelo - Item 7",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Citrelo - Item 8",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Pearo - Item 1",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Pearo - Item 2",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Pearo - Item 3",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Pearo - Item 4",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Pearo - Item 5",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Pearo - Item 6",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Pearo - Item 7",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Pearo - Item 8",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Sodasso - Item 1",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Sodasso - Item 2",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Sodasso - Item 3",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Sodasso - Item 4",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Sodasso - Item 5",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Sodasso - Item 6",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Sodasso - Item 7",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Sodasso - Item 8",
+                "access_rules": ["$sky_no_pp"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+
+
+            {
                 "name": "Lost Gestral near Esquie's Nest",
                 "access_rules": ["$firstcont_north"],
                 "visibility_rules": ["gestral_shuffle"]

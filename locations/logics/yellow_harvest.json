@@ -44,6 +44,94 @@
                 "access_rules": []
             },
 
+
+            {
+                "name": "Pinabby - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Pinabby - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Pinabby - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Pinabby - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Pinabby - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Pinabby - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Pinabby - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Pinabby - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Pinabby - Fight",
+                "access_rules": [],
+                "visibility_rules": ["shopsanity"]
+            },
+            {
+                "name": "Pinabby - Extra Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|1"]
+            },
+            {
+                "name": "Pinabby - Extra Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|2"]
+            },
+            {
+                "name": "Pinabby - Extra Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|3"]
+            },
+            {
+                "name": "Pinabby - Extra Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|4"]
+            },
+            {
+                "name": "Pinabby - Extra Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|5"]
+            },
+            {
+                "name": "Pinabby - Extra Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|6"]
+            },
+            {
+                "name": "Pinabby - Extra Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|7"]
+            },
+            {
+                "name": "Pinabby - Extra Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|8"]
+            },
+
+
             {
                 "name": "Flag - Entrance",
                 "access_rules": [],

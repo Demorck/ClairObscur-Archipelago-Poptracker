@@ -11,6 +11,12 @@
             ]
         },
         {
+            "package_version": "0.3",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.0/ClairObscurAP_Poptracker.zip",
+            "sha256": "02D6289615E8B863398214E83CD163F54511808824C6AACA9B71470FA27640B1",
+            "changelog": []
+        },
+        {
             "package_version": "0.2.5",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.2.5/ClairObscurAP_Poptracker.zip",
             "sha256": "4661EB6AAC9118028E7A6A89F53F9A0E491E660FF0309B265145187082766F09",

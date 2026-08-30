@@ -212,6 +212,31 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Flying Manor", "x": 1032, "y": 689}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Flying Manor/Fusoka - Item 1", "name":  "Fusoka - Item 1" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 2", "name":  "Fusoka - Item 2" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 3", "name":  "Fusoka - Item 3" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 4", "name":  "Fusoka - Item 4" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 5", "name":  "Fusoka - Item 5" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 6", "name":  "Fusoka - Item 6" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 7", "name":  "Fusoka - Item 7" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Item 8", "name":  "Fusoka - Item 8" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Fight", "name":  "Fusoka - Fight" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 1", "name":  "Fusoka - Extra Item 1" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 2", "name":  "Fusoka - Extra Item 2" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 3", "name":  "Fusoka - Extra Item 3" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 4", "name":  "Fusoka - Extra Item 4" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 5", "name":  "Fusoka - Extra Item 5" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 6", "name":  "Fusoka - Extra Item 6" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 7", "name":  "Fusoka - Extra Item 7" },
+                              { "ref": "Entrance - Flying Manor/Fusoka - Extra Item 8", "name":  "Fusoka - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Flying Manor", "x": 630, "y": 170}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Flying Manor/Flag - Central Plaza" }],
                 "name":  "Flag - Central Plaza",

@@ -38,6 +38,86 @@
                 "name": "Coastal Cave: Left side",
                 "access_rules": ["$secondcont_south"]
             },
+            {
+                "name": "Coastal Cave: White Bruler - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Coastal Cave: White Bruler - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 1",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 2",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 3",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 4",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 5",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 6",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 7",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Coastal Cave: White Cruler - Item 8",
+                "access_rules": ["$secondcont_south"],
+                "visibility_rules": ["$shop_count|8"]
+            },
 
             {
                 "name": "Flying Casino: Item",

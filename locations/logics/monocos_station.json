@@ -16,6 +16,94 @@
                 "access_rules": []
             },
 
+
+            {
+                "name": "Grandis - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Grandis - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Grandis - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Grandis - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Grandis - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Grandis - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Grandis - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Grandis - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Grandis - Fight",
+                "access_rules": [],
+                "visibility_rules": ["shopsanity"]
+            },
+            {
+                "name": "Grandis - Extra Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|1"]
+            },
+            {
+                "name": "Grandis - Extra Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|2"]
+            },
+            {
+                "name": "Grandis - Extra Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|3"]
+            },
+            {
+                "name": "Grandis - Extra Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|4"]
+            },
+            {
+                "name": "Grandis - Extra Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|5"]
+            },
+            {
+                "name": "Grandis - Extra Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|6"]
+            },
+            {
+                "name": "Grandis - Extra Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|7"]
+            },
+            {
+                "name": "Grandis - Extra Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|8"]
+            },
+
+
             {
                 "name": "Flag - Ice corridor",
                 "access_rules": [],

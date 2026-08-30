@@ -107,6 +107,31 @@
                 "name":  "Mask Keeper",
                 "map_locations":  [{ "map": "Visages", "x": 1088, "y": 58}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Visages/Blooraga - Item 1", "name":  "Blooraga - Item 1" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 2", "name":  "Blooraga - Item 2" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 3", "name":  "Blooraga - Item 3" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 4", "name":  "Blooraga - Item 4" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 5", "name":  "Blooraga - Item 5" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 6", "name":  "Blooraga - Item 6" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 7", "name":  "Blooraga - Item 7" },
+                              { "ref": "Entrance - Visages/Blooraga - Item 8", "name":  "Blooraga - Item 8" },
+                              { "ref": "Entrance - Visages/Blooraga - Fight", "name":  "Blooraga - Fight" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 1", "name":  "Blooraga - Extra Item 1" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 2", "name":  "Blooraga - Extra Item 2" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 3", "name":  "Blooraga - Extra Item 3" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 4", "name":  "Blooraga - Extra Item 4" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 5", "name":  "Blooraga - Extra Item 5" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 6", "name":  "Blooraga - Extra Item 6" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 7", "name":  "Blooraga - Extra Item 7" },
+                              { "ref": "Entrance - Visages/Blooraga - Extra Item 8", "name":  "Blooraga - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Visages", "x": 750, "y": 570}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Visages/Flag - Plazza" }],
                 "name":  "Flag - Plazza",

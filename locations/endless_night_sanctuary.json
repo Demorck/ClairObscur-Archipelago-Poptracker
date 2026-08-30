@@ -92,11 +92,31 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 57, "y": 384}]
             },
+
+
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Merchant Anthonypo" }],
-                "name":  "Merchant Anthonypo",
-                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 504, "y": 47, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 1", "name":  "Anthonypo - Item 1" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 2", "name":  "Anthonypo - Item 2" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 3", "name":  "Anthonypo - Item 3" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 4", "name":  "Anthonypo - Item 4" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 5", "name":  "Anthonypo - Item 5" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 6", "name":  "Anthonypo - Item 6" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 7", "name":  "Anthonypo - Item 7" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 8", "name":  "Anthonypo - Item 8" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Fight", "name":  "Anthonypo - Fight" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 1", "name":  "Anthonypo - Extra Item 1" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 2", "name":  "Anthonypo - Extra Item 2" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 3", "name":  "Anthonypo - Extra Item 3" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 4", "name":  "Anthonypo - Extra Item 4" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 5", "name":  "Anthonypo - Extra Item 5" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 6", "name":  "Anthonypo - Extra Item 6" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 7", "name":  "Anthonypo - Extra Item 7" },
+                              { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Extra Item 8", "name":  "Anthonypo - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 504, "y": 47}]
             },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Flag - Entrance" }],
                 "name":  "Flag - Entrance",

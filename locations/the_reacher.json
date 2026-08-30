@@ -147,11 +147,31 @@
                 "name":  "Ladder Area - Petank",
                 "map_locations":  [{ "map": "Reacher", "x": 574, "y": 201}]
             },
+
+
             {
-                "sections":  [{ "ref": "Entrance - Reacher/Merchant Eragol" }],
-                "name":  "Merchant Eragol",
-                "map_locations":  [{ "map": "Reacher", "x": 404, "y": 915, "shape": "diamond"}]
+                "sections":  [{ "ref": "Entrance - Reacher/Eragol - Item 1", "name":  "Eragol - Item 1" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 2", "name":  "Eragol - Item 2" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 3", "name":  "Eragol - Item 3" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 4", "name":  "Eragol - Item 4" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 5", "name":  "Eragol - Item 5" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 6", "name":  "Eragol - Item 6" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 7", "name":  "Eragol - Item 7" },
+                              { "ref": "Entrance - Reacher/Eragol - Item 8", "name":  "Eragol - Item 8" },
+                              { "ref": "Entrance - Reacher/Eragol - Fight", "name":  "Eragol - Fight" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 1", "name":  "Eragol - Extra Item 1" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 2", "name":  "Eragol - Extra Item 2" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 3", "name":  "Eragol - Extra Item 3" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 4", "name":  "Eragol - Extra Item 4" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 5", "name":  "Eragol - Extra Item 5" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 6", "name":  "Eragol - Extra Item 6" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 7", "name":  "Eragol - Extra Item 7" },
+                              { "ref": "Entrance - Reacher/Eragol - Extra Item 8", "name":  "Eragol - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Reacher", "x": 404, "y": 915}]
             },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Reacher/Flag - Entrance" }],
                 "name":  "Flag - Entrance",

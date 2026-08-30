@@ -13,6 +13,47 @@
             {
                 "name": "Golgra",
                 "access_rules": ["[paintedpower]"]
+            },
+
+            {
+                "name": "Gestral Merchant - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Gestral Merchant - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Gestral Merchant - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Gestral Merchant - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Gestral Merchant - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Gestral Merchant - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Gestral Merchant - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Gestral Merchant - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
             }
         ],
         "access_rules": ["$sky_no_pp"],

@@ -216,6 +216,40 @@
             },
             
 
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 1", "name":  "Osquio Merchant - Item 1" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 2", "name":  "Osquio Merchant - Item 2" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 3", "name":  "Osquio Merchant - Item 3" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 4", "name":  "Osquio Merchant - Item 4" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 5", "name":  "Osquio Merchant - Item 5" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 6", "name":  "Osquio Merchant - Item 6" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 7", "name":  "Osquio Merchant - Item 7" },
+                              { "ref": "Entrance - Verso's Drafts/Osquio Merchant - Item 8", "name":  "Osquio Merchant - Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 741, "y": 475}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Verso's Drafts/Najabla - Item 1", "name":  "Najabla - Item 1" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 2", "name":  "Najabla - Item 2" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 3", "name":  "Najabla - Item 3" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 4", "name":  "Najabla - Item 4" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 5", "name":  "Najabla - Item 5" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 6", "name":  "Najabla - Item 6" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 7", "name":  "Najabla - Item 7" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Item 8", "name":  "Najabla - Item 8" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Fight", "name":  "Najabla - Fight" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 1", "name":  "Najabla - Extra Item 1" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 2", "name":  "Najabla - Extra Item 2" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 3", "name":  "Najabla - Extra Item 3" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 4", "name":  "Najabla - Extra Item 4" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 5", "name":  "Najabla - Extra Item 5" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 6", "name":  "Najabla - Extra Item 6" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 7", "name":  "Najabla - Extra Item 7" },
+                              { "ref": "Entrance - Verso's Drafts/Najabla - Extra Item 8", "name":  "Najabla - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Verso's Drafts", "x": 540, "y": 390}]
+            },
+
 
             {
                 "sections":  [{ "ref": "Entrance - Verso's Drafts/Flag - Reverie Path" }],

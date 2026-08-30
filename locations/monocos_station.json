@@ -12,6 +12,31 @@
                 "name":  "Near Grandis Merchant",
                 "map_locations":  [{ "map": "Monoco's Station", "x": 387, "y": 84}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Monoco's Station/Grandis - Item 1", "name":  "Grandis - Item 1" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 2", "name":  "Grandis - Item 2" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 3", "name":  "Grandis - Item 3" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 4", "name":  "Grandis - Item 4" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 5", "name":  "Grandis - Item 5" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 6", "name":  "Grandis - Item 6" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 7", "name":  "Grandis - Item 7" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Item 8", "name":  "Grandis - Item 8" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Fight", "name":  "Grandis - Fight" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 1", "name":  "Grandis - Extra Item 1" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 2", "name":  "Grandis - Extra Item 2" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 3", "name":  "Grandis - Extra Item 3" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 4", "name":  "Grandis - Extra Item 4" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 5", "name":  "Grandis - Extra Item 5" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 6", "name":  "Grandis - Extra Item 6" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 7", "name":  "Grandis - Extra Item 7" },
+                              { "ref": "Entrance - Monoco's Station/Grandis - Extra Item 8", "name":  "Grandis - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Monoco's Station", "x": 320, "y": 97}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Monoco's Station/Flag - Ice corridor" }],
                 "name":  "Flag - Ice corridor",

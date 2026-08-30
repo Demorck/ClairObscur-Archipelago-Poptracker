@@ -157,6 +157,31 @@
                 "name":  "Goblu",
                 "map_locations":  [{ "map": "Flying Waters", "x": 180, "y": 380}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Flying Waters/Noco - Item 1", "name":  "Noco - Item 1" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 2", "name":  "Noco - Item 2" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 3", "name":  "Noco - Item 3" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 4", "name":  "Noco - Item 4" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 5", "name":  "Noco - Item 5" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 6", "name":  "Noco - Item 6" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 7", "name":  "Noco - Item 7" },
+                              { "ref": "Entrance - Flying Waters/Noco - Item 8", "name":  "Noco - Item 8" },
+                              { "ref": "Entrance - Flying Waters/Noco - Fight", "name":  "Noco - Fight" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 1", "name":  "Noco - Extra Item 1" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 2", "name":  "Noco - Extra Item 2" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 3", "name":  "Noco - Extra Item 3" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 4", "name":  "Noco - Extra Item 4" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 5", "name":  "Noco - Extra Item 5" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 6", "name":  "Noco - Extra Item 6" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 7", "name":  "Noco - Extra Item 7" },
+                              { "ref": "Entrance - Flying Waters/Noco - Extra Item 8", "name":  "Noco - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Flying Waters", "x": 700, "y": 185}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Flying Waters/Flag - Noco's Hut" }],
                 "name":  "Flag - Noco's Hut",

@@ -179,6 +179,94 @@
                 "access_rules": ["[paintedpower]"]
             },
 
+
+            {
+                "name": "Fusoka - Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|1"]
+            },
+            {
+                "name": "Fusoka - Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|2"]
+            },
+            {
+                "name": "Fusoka - Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|3"]
+            },
+            {
+                "name": "Fusoka - Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|4"]
+            },
+            {
+                "name": "Fusoka - Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|5"]
+            },
+            {
+                "name": "Fusoka - Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|6"]
+            },
+            {
+                "name": "Fusoka - Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|7"]
+            },
+            {
+                "name": "Fusoka - Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$shop_count|8"]
+            },
+            {
+                "name": "Fusoka - Fight",
+                "access_rules": [],
+                "visibility_rules": ["shopsanity"]
+            },
+            {
+                "name": "Fusoka - Extra Item 1",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|1"]
+            },
+            {
+                "name": "Fusoka - Extra Item 2",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|2"]
+            },
+            {
+                "name": "Fusoka - Extra Item 3",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|3"]
+            },
+            {
+                "name": "Fusoka - Extra Item 4",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|4"]
+            },
+            {
+                "name": "Fusoka - Extra Item 5",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|5"]
+            },
+            {
+                "name": "Fusoka - Extra Item 6",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|6"]
+            },
+            {
+                "name": "Fusoka - Extra Item 7",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|7"]
+            },
+            {
+                "name": "Fusoka - Extra Item 8",
+                "access_rules": [],
+                "visibility_rules": ["$extra_shop_count|8"]
+            },
+
+
             {
                 "name": "Flag - Central Plaza",
                 "access_rules": [],

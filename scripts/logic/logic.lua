@@ -64,6 +64,7 @@ function has_rock_crystal(count)
     return has_at_least("RockCrystal", tonumber(count))
 end
 
+-- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
 function hide_clea_endgame_locations()
     if has("include_endgame_locations") then
         return true
@@ -102,7 +103,7 @@ function north_sea()
 end
 
 function firstcont_south()
-    return true --for random starting location
+    return true --for random starting location, if that is ever added.
 end
 
 function firstcont_north()
@@ -136,3 +137,28 @@ end
 function dive()
     return has("swim") and has("dive")
 end
+
+-- Shopsanity logic --
+-- Shopsanity is an item, so no need for a script to check that
+
+function shop_count(count)
+    --print("Dumping shopsanity, location_per_shop, count, has_at_least(location_per_shop, count):")
+    --print(has("shopsanity"))
+    --print(has("location_per_shop"))
+    --print(count)
+    --print(has_at_least("location_per_shop", tonumber(count)))
+    if has("shopsanity") and has_at_least("location_per_shop", tonumber(count)) then
+        return true
+    else
+        return false
+    end
+end
+
+function extra_shop_count(count)
+    if has("shopsanity") and has_at_least("extra_location_per_shop", tonumber(count)) then
+        return true
+    else
+        return false
+    end
+end
+

@@ -232,6 +232,31 @@
                 "name":  "Creation",
                 "map_locations":  [{ "map": "Lumiere", "x": 179, "y": 423}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - Lumiere/Cribappa - Item 1", "name":  "Cribappa - Item 1" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 2", "name":  "Cribappa - Item 2" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 3", "name":  "Cribappa - Item 3" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 4", "name":  "Cribappa - Item 4" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 5", "name":  "Cribappa - Item 5" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 6", "name":  "Cribappa - Item 6" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 7", "name":  "Cribappa - Item 7" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Item 8", "name":  "Cribappa - Item 8" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Fight", "name":  "Cribappa - Fight" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 1", "name":  "Cribappa - Extra Item 1" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 2", "name":  "Cribappa - Extra Item 2" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 3", "name":  "Cribappa - Extra Item 3" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 4", "name":  "Cribappa - Extra Item 4" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 5", "name":  "Cribappa - Extra Item 5" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 6", "name":  "Cribappa - Extra Item 6" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 7", "name":  "Cribappa - Extra Item 7" },
+                              { "ref": "Entrance - Lumiere/Cribappa - Extra Item 8", "name":  "Cribappa - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "Lumiere", "x": 475, "y": 320}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - Lumiere/Flag - Harbour" }],
                 "name":  "Flag - Harbour",

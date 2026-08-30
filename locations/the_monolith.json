@@ -242,6 +242,53 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "The Monolith", "x": 1405, "y": 1494}]
             },
+
+
+            {
+                "sections":  [{ "ref": "Entrance - The Monolith/Mistra - Item 1", "name":  "Mistra - Item 1" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 2", "name":  "Mistra - Item 2" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 3", "name":  "Mistra - Item 3" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 4", "name":  "Mistra - Item 4" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 5", "name":  "Mistra - Item 5" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 6", "name":  "Mistra - Item 6" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 7", "name":  "Mistra - Item 7" },
+                              { "ref": "Entrance - The Monolith/Mistra - Item 8", "name":  "Mistra - Item 8" },
+                              { "ref": "Entrance - The Monolith/Mistra - Fight", "name":  "Mistra - Fight" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 1", "name":  "Mistra - Extra Item 1" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 2", "name":  "Mistra - Extra Item 2" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 3", "name":  "Mistra - Extra Item 3" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 4", "name":  "Mistra - Extra Item 4" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 5", "name":  "Mistra - Extra Item 5" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 6", "name":  "Mistra - Extra Item 6" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 7", "name":  "Mistra - Extra Item 7" },
+                              { "ref": "Entrance - The Monolith/Mistra - Extra Item 8", "name":  "Mistra - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "The Monolith", "x": 1468, "y": 580}]
+            },
+
+            {
+                "sections":  [{ "ref": "Entrance - The Monolith/Melosh - Item 1", "name":  "Melosh - Item 1" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 2", "name":  "Melosh - Item 2" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 3", "name":  "Melosh - Item 3" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 4", "name":  "Melosh - Item 4" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 5", "name":  "Melosh - Item 5" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 6", "name":  "Melosh - Item 6" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 7", "name":  "Melosh - Item 7" },
+                              { "ref": "Entrance - The Monolith/Melosh - Item 8", "name":  "Melosh - Item 8" },
+                              { "ref": "Entrance - The Monolith/Melosh - Fight", "name":  "Melosh - Fight" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 1", "name":  "Melosh - Extra Item 1" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 2", "name":  "Melosh - Extra Item 2" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 3", "name":  "Melosh - Extra Item 3" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 4", "name":  "Melosh - Extra Item 4" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 5", "name":  "Melosh - Extra Item 5" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 6", "name":  "Melosh - Extra Item 6" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 7", "name":  "Melosh - Extra Item 7" },
+                              { "ref": "Entrance - The Monolith/Melosh - Extra Item 8", "name":  "Melosh - Extra Item 8" }
+                             ],
+                "map_locations":  [{ "map": "The Monolith", "x": 1070, "y": 1655}]
+            },
+
+
             {
                 "sections":  [{ "ref": "Entrance - The Monolith/Flag - Entrance" }],
                 "name":  "Flag - Entrance",

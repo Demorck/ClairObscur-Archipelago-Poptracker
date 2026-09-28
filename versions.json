@@ -1,6 +1,14 @@
 {
     "versions": [
-        
+        {
+            "package_version": "0.4.1",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.1/ClairObscurAP_Poptracker.zip",
+            "sha256": "20148886ABAD93AACE7374836F3F420A44C1D9EBB07D86D48EB2DD91BA67F6A6",
+            "changelog": [
+                "Added Gestral Merchant Extra Items 1-8 and Fight",
+                "Shifted IDs in location_mapping to resolve desync"
+            ]
+        },
         {
             "package_version": "0.4",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4/ClairObscurAP_Poptracker.zip",

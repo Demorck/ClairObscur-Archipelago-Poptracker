@@ -677,9 +677,18 @@
                               { "ref": "Entrance - Continent/Gestral Merchant - Item 5", "name":  "Gestral Merchant - Item 5" },
                               { "ref": "Entrance - Continent/Gestral Merchant - Item 6", "name":  "Gestral Merchant - Item 6" },
                               { "ref": "Entrance - Continent/Gestral Merchant - Item 7", "name":  "Gestral Merchant - Item 7" },
-                              { "ref": "Entrance - Continent/Gestral Merchant - Item 8", "name":  "Gestral Merchant - Item 8" }
+                              { "ref": "Entrance - Continent/Gestral Merchant - Item 8", "name":  "Gestral Merchant - Item 8" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Fight", "name":  "Gestral Merchant - Fight" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 1", "name":  "Gestral Merchant - Extra Item 1" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 2", "name":  "Gestral Merchant - Extra Item 2" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 3", "name":  "Gestral Merchant - Extra Item 3" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 4", "name":  "Gestral Merchant - Extra Item 4" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 5", "name":  "Gestral Merchant - Extra Item 5" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 6", "name":  "Gestral Merchant - Extra Item 6" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 7", "name":  "Gestral Merchant - Extra Item 7" },
+                              { "ref": "Entrance - Continent/Gestral Merchant - Extra Item 8", "name":  "Gestral Merchant - Extra Item 8" }
                              ],
-                "map_locations":  [{ "map": "South Continent", "x": 0, "y": 0}]
+                "map_locations":  [{ "map": "Middle Continent", "x": 1300, "y": 920}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Continent/Citrelo - Item 1", "name":  "Citrelo - Item 1" },

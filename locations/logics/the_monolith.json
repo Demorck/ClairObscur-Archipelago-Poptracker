@@ -264,42 +264,42 @@
             },
             {
                 "name": "Mistra - Extra Item 1",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|1"]
             },
             {
                 "name": "Mistra - Extra Item 2",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|2"]
             },
             {
                 "name": "Mistra - Extra Item 3",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|3"]
             },
             {
                 "name": "Mistra - Extra Item 4",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|4"]
             },
             {
                 "name": "Mistra - Extra Item 5",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|5"]
             },
             {
                 "name": "Mistra - Extra Item 6",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|6"]
             },
             {
                 "name": "Mistra - Extra Item 7",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|7"]
             },
             {
                 "name": "Mistra - Extra Item 8",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Mistra"],
                 "visibility_rules": ["$extra_shop_count|8"]
             },
 
@@ -350,42 +350,42 @@
             },
             {
                 "name": "Melosh - Extra Item 1",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|1"]
             },
             {
                 "name": "Melosh - Extra Item 2",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|2"]
             },
             {
                 "name": "Melosh - Extra Item 3",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|3"]
             },
             {
                 "name": "Melosh - Extra Item 4",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|4"]
             },
             {
                 "name": "Melosh - Extra Item 5",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|5"]
             },
             {
                 "name": "Melosh - Extra Item 6",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|6"]
             },
             {
                 "name": "Melosh - Extra Item 7",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|7"]
             },
             {
                 "name": "Melosh - Extra Item 8",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_TM_Melosh"],
                 "visibility_rules": ["$extra_shop_count|8"]
             },
 

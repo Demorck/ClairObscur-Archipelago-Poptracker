@@ -408,6 +408,126 @@
     "type": "toggle"
   },
   {
+    "name": "Merchant (Endless Night Sanctuary): Anthonypo - Extra shop unlock",
+    "codes": "Merchant_Extra_ENS_Anthonypo",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Falling Leaves): Persik - Extra shop unlock",
+    "codes": "Merchant_Extra_FL_Persik",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Flying Manor): Fusoka - Extra shop unlock",
+    "codes": "Merchant_Extra_FM_Fusoka",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Flying Waters): Noco - Extra shop unlock",
+    "codes": "Merchant_Extra_FW_Noco",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Forgotten Battlefield): Kasumi - Extra shop unlock",
+    "codes": "Merchant_Extra_FB_Kasumi",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Gestral Village): Eesda - Extra shop unlock",
+    "codes": "Merchant_Extra_GV_Eesda",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Gestral Village): Jujubree - Extra shop unlock",
+    "codes": "Merchant_Extra_GV_Jujubree",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Lumiere): Cribappa - Extra shop unlock",
+    "codes": "Merchant_Extra_LUM_Cribappa",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Monoco's Station): Grandis - Extra shop unlock",
+    "codes": "Merchant_Extra_MS_Grandis",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Old Lumiere): Mandelgo - Extra shop unlock",
+    "codes": "Merchant_Extra_OL_Mandelgo",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Renoir's Drafts): Grour - Extra shop unlock",
+    "codes": "Merchant_Extra_RD_Grour",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Sirene): Klaudiso - Extra shop unlock",
+    "codes": "Merchant_Extra_SIR_Klaudiso",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Stone Wave Cliffs): Jerijeri - Extra shop unlock",
+    "codes": "Merchant_Extra_SWC_Jerijeri",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (The Monolith): Melosh - Extra shop unlock",
+    "codes": "Merchant_Extra_TM_Melosh",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (The Monolith): Mistra - Extra shop unlock",
+    "codes": "Merchant_Extra_TM_Mistra",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (The Reacher): Eragol - Extra shop unlock",
+    "codes": "Merchant_Extra_TR_Eragol",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Verso's Drafts): Najabla - Extra shop unlock",
+    "codes": "Merchant_Extra_VD_Najabla",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Visages): Blooraga - Extra shop unlock",
+    "codes": "Merchant_Extra_VIS_Blooraga",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Sacred River): Gestral Merchant - Extra shop unlock",
+    "codes": "Merchant_Extra_SR_GestralMerchant",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Merchant (Yellow Harvest): Pinabby - Extra shop unlock",
+    "codes": "Merchant_Extra_YH_Pinabby",
+    "img": "images/items/gestral.png",
+    "type": "toggle"
+  },
+  {
     "name": "Manor Family Canvas",
     "codes": "FamilyCanvas",
     "img": "images/items/manor_family_canvas.png",

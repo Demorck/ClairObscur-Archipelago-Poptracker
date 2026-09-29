@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "0.4.3",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.3/ClairObscurAP_Poptracker.zip",
+            "sha256": "C5E751A9C335291B13AE5DC5C639D57D6D01461EE23CF30AC54EE2E4BEB34A0C",
+            "changelog": [
+                "Fixed logic issue in The Crows",
+                "Fixed location name in Flying Manor"
+            ]
+        },
+        {
             "package_version": "0.4.2",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.2/ClairObscurAP_Poptracker.zip",
             "sha256": "E4D76ABAFA455EF41297B2600A868EA37A1E168BC00961ADDA15440FA127998F",

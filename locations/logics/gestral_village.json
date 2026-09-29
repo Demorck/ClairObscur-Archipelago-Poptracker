@@ -170,42 +170,42 @@
             },
             {
                 "name": "Jujubree - Extra Item 1",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|1"]
             },
             {
                 "name": "Jujubree - Extra Item 2",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|2"]
             },
             {
                 "name": "Jujubree - Extra Item 3",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|3"]
             },
             {
                 "name": "Jujubree - Extra Item 4",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|4"]
             },
             {
                 "name": "Jujubree - Extra Item 5",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|5"]
             },
             {
                 "name": "Jujubree - Extra Item 6",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|6"]
             },
             {
                 "name": "Jujubree - Extra Item 7",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|7"]
             },
             {
                 "name": "Jujubree - Extra Item 8",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Jujubree"],
                 "visibility_rules": ["$extra_shop_count|8"]
             },
 
@@ -256,42 +256,42 @@
             },
             {
                 "name": "Eesda - Extra Item 1",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|1"]
             },
             {
                 "name": "Eesda - Extra Item 2",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|2"]
             },
             {
                 "name": "Eesda - Extra Item 3",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|3"]
             },
             {
                 "name": "Eesda - Extra Item 4",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|4"]
             },
             {
                 "name": "Eesda - Extra Item 5",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|5"]
             },
             {
                 "name": "Eesda - Extra Item 6",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|6"]
             },
             {
                 "name": "Eesda - Extra Item 7",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|7"]
             },
             {
                 "name": "Eesda - Extra Item 8",
-                "access_rules": [],
+                "access_rules": ["Merchant_Extra_GV_Eesda"],
                 "visibility_rules": ["$extra_shop_count|8"]
             },
 

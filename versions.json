@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "0.4.2",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.2/ClairObscurAP_Poptracker.zip",
+            "sha256": "E4D76ABAFA455EF41297B2600A868EA37A1E168BC00961ADDA15440FA127998F",
+            "changelog": [
+                "Added missing Extra shop unlock items",
+                "Configured logic for Extra shop unlock items",
+                "Fixed logic issue with Lumiere not requiring any Pictos"
+            ]
+        },
+        {
             "package_version": "0.4.1",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.1/ClairObscurAP_Poptracker.zip",
             "sha256": "20148886ABAD93AACE7374836F3F420A44C1D9EBB07D86D48EB2DD91BA67F6A6",

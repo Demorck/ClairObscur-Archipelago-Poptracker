@@ -393,7 +393,7 @@
             {
                 "name": "Chromatic Petank",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$hide_clea_endgame_locations"]
             },
             {
                 "name": "Chromatic Jar",
@@ -420,7 +420,7 @@
             {
                 "name": "Thunder Eveque",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$hide_clea_endgame_locations"]
             },
             {
                 "name": "Grosse Tete",
@@ -429,7 +429,7 @@
             {
                 "name": "Serpenphare",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$hide_clea_endgame_locations"]
             },
             {
                 "name": "Sprong",
@@ -820,42 +820,42 @@
             },
             {
                 "name": "Blakora - Item 1",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|1"]
             },
             {
                 "name": "Blakora - Item 2",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|2"]
             },
             {
                 "name": "Blakora - Item 3",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|3"]
             },
             {
                 "name": "Blakora - Item 4",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|4"]
             },
             {
                 "name": "Blakora - Item 5",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|5"]
             },
             {
                 "name": "Blakora - Item 6",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|6"]
             },
             {
                 "name": "Blakora - Item 7",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|7"]
             },
             {
                 "name": "Blakora - Item 8",
-                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"],
+                "access_rules": ["$secondcont_nw","swim,ForgottenBattlefield,MonocosStation,[$calculate_picto_count_from_level|9]"],
                 "visibility_rules": ["$shop_count|8"]
             },
             {

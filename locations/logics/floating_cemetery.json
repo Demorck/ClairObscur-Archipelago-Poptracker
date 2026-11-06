@@ -14,10 +14,6 @@
                 "access_rules": []
             },
             {
-                "name": "Defeat the Nevron",
-                "access_rules": ["[paintedpower]"]
-            },
-            {
                 "name": "Next to Gramophone",
                 "access_rules": []
             }

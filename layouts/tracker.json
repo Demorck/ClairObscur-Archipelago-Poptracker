@@ -13,6 +13,15 @@
             "content": [
               {
                 "type": "group",
+                "header": "Goals",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "goals"
+                }
+              },
+              {
+                "type": "group",
                 "header": "Upgrades",
                 "dock": "top",
                 "content": {
@@ -40,38 +49,11 @@
               },
               {
                 "type": "group",
-                "header": "South Continent (Walking/Esquie)",
+                "header": "Areas",
                 "dock": "top",
                 "content": {
                   "type": "layout",
-                  "key": "esquie"
-                }
-              },
-              {
-                "type": "group",
-                "header": "Middle Continent (Esquie Swim)",
-                "dock": "top",
-                "content": {
-                  "type": "layout",
-                  "key": "esquieswim"
-                }
-              },
-              {
-                "type": "group",
-                "header": "North Continent (Esquie Coral)",
-                "dock": "top",
-                "content": {
-                  "type": "layout",
-                  "key": "esquiecoral"
-                }
-              },
-              {
-                "type": "group",
-                "header": "Sky (Esquie Fly & Dive)",
-                "dock": "top",
-                "content": {
-                  "type": "layout",
-                  "key": "esquieflydive"
+                  "key": "areas"
                 }
               },
               {

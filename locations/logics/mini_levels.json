@@ -36,7 +36,7 @@
 
             {
                 "name": "Coastal Cave: Left side",
-                "access_rules": ["$secondcont_south,[$calculate_picto_count_from_level|8]","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"]
+                "access_rules": ["$secondcont_south","swim,ForgottenBattlefield,[$calculate_picto_count_from_level|8]"]
             },
             {
                 "name": "Coastal Cave: White Bruler - Item 1",

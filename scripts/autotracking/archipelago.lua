@@ -20,6 +20,61 @@ CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
+local GOAL_TIERS = {
+	paintress = 0,
+	curator = 0,
+	clea = 1,
+	painted_love = 2,
+	simon = 2,
+	osquio = 2,
+}
+
+local GOAL_CODES = {
+	paintress = "goal_paintress",
+	curator = "goal_curator",
+	clea = "goal_clea",
+	painted_love = "goal_painted-love",
+	simon = "goal_simon",
+	osquio = "goal_osquio",
+}
+
+local GOAL_LOCATION_NAMES = {
+	paintress = "The Monolith: The Paintress",
+	curator = "Lumiere (Act 3): The Curator",
+	clea = "Flying Manor: Clea",
+	painted_love = "Endless Tower: Stage 11-3",
+	simon = "The Abyss: Simon",
+	osquio = "Root of All Evil: Osquio",
+}
+
+function getHighestGoalTier(goal_options)
+	if type(goal_options) ~= "table" then
+		print("[WARNING] getHighestGoalTier: expected slot_data.options.goal to be an array of goal names")
+		return nil
+	end
+
+	local highest_tier = -1
+
+	for _, goal_name in ipairs(goal_options) do
+		local tier = GOAL_TIERS[goal_name]
+		if tier == nil then
+			print("[WARNING] getHighestGoalTier: unknown goal in slot data: " .. tostring(goal_name))
+			return nil
+		end
+
+		if tier > highest_tier then
+			highest_tier = tier
+		end
+	end
+
+	if highest_tier == -1 then
+		print("[WARNING] getHighestGoalTier: slot data did not include any goals")
+		return nil
+	end
+
+	return highest_tier
+end
+
 -- gets the data storage key for hints for the current player
 -- returns nil when not connected to AP
 function getHintDataStorageKey()
@@ -103,36 +158,33 @@ function apply_slot_data(slot_data)
 
 	local options = slot_data["options"]
 
+	local goal_options = options['goal']
+	local goal_tier = getHighestGoalTier(goal_options)
+	if goal_tier == nil then
+		return
+	end
+
 	-- Default autotab to on
 	local autotabItem = Tracker:FindObjectForCode("autotab")
 	autotabItem.Active = 1
 
-	--[[ 
-	goals are: 
-	0 = Paintress (The Monolith)
-	1 = Curator (Lumiere)
-	2 = Painted Love (Endless Tower)
-	3 = Simon (Renoir's Draft)
-	4 = Clea (Flying Manor) 
-	]]
-	if options['goal'] then
-		goal = options['goal']
-		print("goal: "..goal)
-
-		local itemOption = Tracker:FindObjectForCode("goal")
-		if goal == 0 then 
-			itemOption.CurrentStage = 0
-		elseif goal == 1 then --Curator
-			itemOption.CurrentStage = 1
-		elseif goal == 2 then --Painted Love
-			itemOption.CurrentStage = 3
-		elseif goal == 3 then --Simon
-			itemOption.CurrentStage = 4
-		elseif goal == 4 then --Clea
-			itemOption.CurrentStage = 2
-		end
-		
+	for _, goal_code in pairs(GOAL_CODES) do
+		local goalItem = Tracker:FindObjectForCode(goal_code)
+		goalItem.CurrentStage = 0
 	end
+	for _, goal_name in ipairs(goal_options) do
+		local goalItem = Tracker:FindObjectForCode(GOAL_CODES[goal_name])
+		goalItem.CurrentStage = 1
+	end
+
+	local goalRequirement = options['goal_requirement']
+	if goalRequirement ~= 0 and goalRequirement ~= 1 then
+		print("[WARNING] apply_slot_data: unknown goal_requirement value: " .. tostring(goalRequirement))
+		return
+	end
+
+	local goalRequirementItem = Tracker:FindObjectForCode("goal_requirement")
+	goalRequirementItem.CurrentStage = goalRequirement
 
 	-- Shuffle Free Aim
 	if options['shuffle_free_aim'] then
@@ -160,7 +212,7 @@ function apply_slot_data(slot_data)
 
 	-- include Endgame Locations
 	-- Changed this to include to make visibility rules simpler
-	if options['exclude_endgame_locations'] and (goal <= 1 or goal == 4) then
+	if options['exclude_endgame_locations'] and goal_tier < 2 then
 		local setOption = options['exclude_endgame_locations']
 		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
 		print("exclude_endgame_locations: "..setOption)
@@ -181,7 +233,7 @@ function apply_slot_data(slot_data)
 		
 		print("exclude_endless_tower: "..setOption)
 
-		if goal >= 2 and goal ~= 4 then
+		if goal_tier == 2 then
 			itemOption.Active = 1
 		elseif endgameSetOption == 0 then
 			itemOption.Active = 0
@@ -389,6 +441,17 @@ function onLocation(location_id, location_name)
 	if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 		print(string.format("called onLocation: %s, %s", location_id, location_name))
 	end
+
+	for goal_name, goal_location_name in pairs(GOAL_LOCATION_NAMES) do
+		if location_name == goal_location_name then
+			local goalItem = Tracker:FindObjectForCode(GOAL_CODES[goal_name])
+			if goalItem and goalItem.CurrentStage > 0 then
+				goalItem.CurrentStage = 2
+			end
+			break
+		end
+	end
+
 	if not AUTOTRACKER_ENABLE_LOCATION_TRACKING then
 		return
 	end

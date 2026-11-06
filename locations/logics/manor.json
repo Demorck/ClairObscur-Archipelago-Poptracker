@@ -70,8 +70,8 @@
                                  "$firstcont_north,GestralVillage,AncientSanctuary,FamilyCanvas,[$calculate_picto_count_from_level|4]", "$sky_no_pp,GestralVillage,FamilyCanvas",
                                  "$north_sea,FamilyCanvas",
                                  "$secondcont_nw,OldLumiere,FamilyCanvas,[$calculate_picto_count_from_level|10]",
-                                 "$firstcont_north_and_esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]",
-                                 "FlyingWaters,esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]",
+                                 "$firstcont_north_and_esquie,StoneWaveCliffs,FamilyCanvas,[$calculate_picto_count_from_level|7]",
+                                 "FlyingWaters,esquie,StoneWaveCliffs,FamilyCanvas,[$calculate_picto_count_from_level|7]",
                                  "$secondcont_ne,FrozenHearts,FamilyCanvas,[$calculate_picto_count_from_level|21]"]
             },
             {

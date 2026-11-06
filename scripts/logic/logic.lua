@@ -60,10 +60,6 @@ function has_beast_part(count)
     return has_at_least("BeastPart", tonumber(count))
 end
 
-function show_endgame_locations()
-    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio")
-end
-
 function has_five_characters()
     local characters = {"Gustave", "Maelle", "Lune", "Sciel", "Monoco", "Verso"}
     local count = 0
@@ -81,21 +77,21 @@ function has_rock_crystal(count)
     return has_at_least("RockCrystal", tonumber(count))
 end
 
+function show_endgame_locations()
+    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio") or has("goal_painted-love")
+end
+
 -- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
 function hide_clea_endgame_locations()
-    if has("include_endgame_locations") then
+    if show_endgame_locations() then
         return true
     end
 
-    if has("goal_clea") then
+    if has("goal_clea") or has("goal_paintress") or has("goal_curator") then
         return false
     end
-    
-    if has("goal_paintress") or has("goal_curator") then
-        return false
-    else
-        return true
-    end
+
+    return true
 end
 
 function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent
@@ -177,4 +173,52 @@ function extra_shop_count(count)
     else
         return false
     end
+end
+
+-- Multiple Goal logic --
+
+local goals = {
+    paintress = "goal_paintress",
+    curator = "goal_curator",
+    clea = "goal_clea",
+    painted_love = "goal_painted-love",
+    simon = "goal_simon",
+    osquio = "goal_osquio"
+}
+
+function is_goal_selected(goal)
+    local goal_key = goals[goal]
+    return has(goal_key)
+end
+
+function goal_finishes_run(goal)
+    local goal_key = goals[goal]
+    
+    if not goal_key then
+        return false
+    end
+    
+    if not has(goal_key) then
+        return false
+    end
+
+    if has("goal_requirement_any") then
+        return true
+    end
+
+    for goal_name, goal_key in pairs(goals) do
+        if goal_name ~= goal and has(goal_key) then
+            local goalStatus = Tracker:FindObjectForCode(goal_key)
+
+            if not goalStatus then
+                return false
+            end
+
+            if (goalStatus.CurrentStage ~= 2) then
+                return false
+            end
+        end
+    end
+
+    return true
 end

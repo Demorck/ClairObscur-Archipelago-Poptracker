@@ -112,7 +112,7 @@
 
             {
                 "name": "Alicia",
-                "access_rules": []
+                "access_rules": ["[Maelle],Gustave", "[Gustave],Maelle"]
             },
             {
                 "name": "Peak - Chromatic Braseleur",

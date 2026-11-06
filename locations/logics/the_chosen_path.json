@@ -7,7 +7,7 @@
         "sections": [
             {
                 "name": "Complete all Canvases",
-                "access_rules": ["[PaintedPower]"]
+                "access_rules": ["[PaintedPower],[$has_five_characters]"]
             },
 
             {
@@ -31,7 +31,7 @@
                 "access_rules": ["[PaintedPower]"]
             }
         ],
-        "access_rules": ["$sky_no_pp,[$calculate_picto_count_from_level|20],$has_five_characters"],
+        "access_rules": ["$sky_no_pp,[$calculate_picto_count_from_level|20]"],
         "visibility_rules": ["$show_endgame_locations","goal_clea"]
 
     }

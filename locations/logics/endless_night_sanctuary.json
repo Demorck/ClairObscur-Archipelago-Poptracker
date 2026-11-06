@@ -6,7 +6,7 @@
         "map_locations": [{"map": "Middle Continent", "x": 3145, "y": 756, "shape": "trapezoid"}],
         "sections": [
             {
-                "name": "Warrior' Route - Near expeditioner corpse",
+                "name": "Warrior's Route - Near expeditioner corpse",
                 "access_rules": []
             },
             {
@@ -14,7 +14,7 @@
                 "access_rules": []
             },
             {
-                "name": "Entrance - Right path before Warrior' Route flag",
+                "name": "Entrance - Right path before Warrior's Route flag",
                 "access_rules": []
             },
             {
@@ -22,7 +22,7 @@
                 "access_rules": []
             },
             {
-                "name": "Warrior' Route - After Petank 2",
+                "name": "Warrior's Route - After Petank 2",
                 "access_rules": []
             },
             {
@@ -42,15 +42,15 @@
                 "access_rules": []
             },
             {
-                "name": "Entrance - Before Warrior' Route flag",
+                "name": "Entrance - Before Warrior's Route flag",
                 "access_rules": []
             },
             {
-                "name": "Warrior' Route - After Petank 3",
+                "name": "Warrior's Route - After Petank 3",
                 "access_rules": []
             },
             {
-                "name": "Warrior' Route - After Petank 1",
+                "name": "Warrior's Route - After Petank 1",
                 "access_rules": []
             },
             {
@@ -76,6 +76,10 @@
             },
             {
                 "name": "Petank",
+                "access_rules": []
+            },
+            {
+                "name": "Ultimate Sakapatate",
                 "access_rules": []
             },
 

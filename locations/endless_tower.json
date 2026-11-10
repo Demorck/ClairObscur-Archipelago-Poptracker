@@ -4,10 +4,6 @@
         "children": [
             
             {
-                "sections": [{ "ref": "Entrance - Endless Tower/Underneath the right staircase" }],
-                "name": "Underneath the right staircase"
-            },
-            {
                 "sections": [{ "ref": "Entrance - Endless Tower/Stage 1-1" }],
                 "name":  "Stage 1-1",
                 "map_locations": [{ "map": "Endless Tower", "x": 80, "y": 280}]

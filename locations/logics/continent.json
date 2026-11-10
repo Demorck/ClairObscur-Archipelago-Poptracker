@@ -393,7 +393,7 @@
             {
                 "name": "Chromatic Petank",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["$hide_clea_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Chromatic Jar",
@@ -420,7 +420,7 @@
             {
                 "name": "Thunder Eveque",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["$hide_clea_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Grosse Tete",
@@ -429,7 +429,7 @@
             {
                 "name": "Serpenphare",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["$hide_clea_endgame_locations"]
+                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Sprong",

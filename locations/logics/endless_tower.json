@@ -6,10 +6,6 @@
         "map_locations": [{"map": "South Continent", "x": 337, "y": 388, "shape": "trapezoid"}],
         "sections": [
             {
-                "name": "Underneath the right staircase",
-                "visibility_rules": ["include_endless_tower"]
-            },
-            {
                 "name": "Stage 1-1",
                 "access_rules": ["[$calculate_picto_count_from_level|21]"],
                 "visibility_rules": ["include_endless_tower"]

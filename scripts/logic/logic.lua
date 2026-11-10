@@ -78,20 +78,20 @@ function has_rock_crystal(count)
 end
 
 function show_endgame_locations()
-    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio") or has("goal_painted-love")
+    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio")
 end
 
 -- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
 function hide_clea_endgame_locations()
-    if show_endgame_locations() then
+    if has("include_endgame_locations") then
         return true
     end
 
     if has("goal_clea") or has("goal_paintress") or has("goal_curator") then
         return false
     end
-
-    return true
+    
+            return true
 end
 
 function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent

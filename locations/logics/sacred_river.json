@@ -102,7 +102,7 @@
             }
         ],
         "access_rules": ["$sky_no_pp"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "visibility_rules": ["$should_endgame_location_be_visible|15"]
 
     }
 ]

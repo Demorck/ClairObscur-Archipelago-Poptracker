@@ -79,6 +79,10 @@
                 "access_rules": []
             },
             {
+                "name": "Ultimate Sakapatate",
+                "access_rules": []
+            },
+            {
                 "name": "Anthonypo - Item 1",
                 "access_rules": [],
                 "visibility_rules": ["$shop_count|1"]
@@ -182,7 +186,7 @@
             }
         ],
         "access_rules": ["EndlessNightSanctuary,$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|21]"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "visibility_rules": ["$should_endgame_location_be_visible|21"]
 
     }
 ]

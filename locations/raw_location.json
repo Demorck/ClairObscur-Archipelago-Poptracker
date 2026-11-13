@@ -3328,14 +3328,6 @@
         "type": "Chest"
     },
     {
-        "internal_name": "Chest_SmallLevel_Cemetery_3",
-        "name": "Cemetery: Defeat the Nevron",
-        "location": "Small Level Cemetery",
-        "original_item": "ChromaPack_ExtraLarge",
-        "condition": {},
-        "type": "Chest"
-    },
-    {
         "internal_name": "Chest_SmallLevel_Cemetery_4",
         "name": "Cemetery: Next to Gramophone",
         "location": "Small Level Cemetery",
@@ -6171,5 +6163,49 @@
         "condition": {},
         "original_item": "Consumable_LuminaPoint",
         "type": "Dive"
+    },
+    {
+        "name": "Endless Night Sanctuary: Ultimate Sakapatate",
+        "internal_name": "TS_PotatoBagBossTwilight*1_Tank*1_Ranger*1",
+        "location": "Endless Night Sanctuary",
+        "original_item": "",
+        "condition": {},
+        "type": "Boss",
+        "boss_type": "Area"
+    },
+    {
+        "name": "Visages: Anger Vale - Mask of Anger",
+        "internal_name": "MF_ANGRY_BoucheclierMaskAnger*3_0",
+        "location": "Visages",
+        "original_item": "",
+        "condition": {},
+        "type": "Boss",
+        "boss_type": "Elite"
+    },
+    {
+        "name": "Visages: Joy Vale - Mask of Joy",
+        "internal_name": "MF_JOY_Moissonneuse_MaskJoy*3_0",
+        "location": "Visages",
+        "original_item": "",
+        "condition": {},
+        "type": "Boss",
+        "boss_type": "Elite"
+    },
+    {
+        "name": "Visages: Sadness Vale - Mask of Sadness",
+        "internal_name": "MF_SADNESS_Chapelier_MaskSadness*3",
+        "location": "Visages",
+        "original_item": "",
+        "condition": {},
+        "type": "Boss",
+        "boss_type": "Elite"
+    },
+    {
+        "name": "Endless Tower: Underneath the right staircase",
+        "internal_name": "Chest_SideLevel_CleasTower_1",
+        "location": "Endless Tower",
+        "condition": {},
+        "original_item": "Verso - Visages Outfit",
+        "type": "Chest"
     }
 ]

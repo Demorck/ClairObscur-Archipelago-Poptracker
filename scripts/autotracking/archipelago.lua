@@ -22,11 +22,11 @@ GLOBAL_ITEMS = {}
 
 local GOAL_TIERS = {
 	paintress = 0,
-	curator = 0,
-	clea = 1,
-	painted_love = 2,
-	simon = 2,
-	osquio = 2,
+	curator = 1,
+	clea = 2,
+	painted_love = 3,
+	simon = 3,
+	osquio = 3,
 }
 
 local GOAL_CODES = {
@@ -164,6 +164,9 @@ function apply_slot_data(slot_data)
 		return
 	end
 
+	-- Set the global goal tier for use in endgame location visibility rules
+	AP_GOAL_TIER = goal_tier
+
 	-- Default autotab to on
 	local autotabItem = Tracker:FindObjectForCode("autotab")
 	autotabItem.Active = 1
@@ -212,33 +215,30 @@ function apply_slot_data(slot_data)
 
 	-- include Endgame Locations
 	-- Changed this to include to make visibility rules simpler
-	if options['exclude_endgame_locations'] and goal_tier < 2 then
+	if options['exclude_endgame_locations'] and goal_tier < 3 then
 		local setOption = options['exclude_endgame_locations']
 		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
 		print("exclude_endgame_locations: "..setOption)
 
 		itemOption.Active = setOption
 	else
-		print("Marking include_endgame_locations because it is 1, 2 or the goal is Simon or Painted Love")
+		print("Marking include_endgame_locations because the goal is tier 3")
 		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
 		itemOption.Active = 1
 	end
 
 	-- include Endless Tower
 	-- Changed this to include to make visibility rules simpler
-	if options['exclude_endless_tower'] and options['exclude_endgame_locations'] then
+	if options['exclude_endless_tower'] ~= nil then
 		local setOption = options['exclude_endless_tower']
-		local endgameSetOption = options['exclude_endgame_locations']
 		local itemOption = Tracker:FindObjectForCode("include_endless_tower")
 		
 		print("exclude_endless_tower: "..setOption)
 
-		if goal_tier == 2 then
-			itemOption.Active = 1
-		elseif endgameSetOption == 0 then
+		if setOption == 0 then
 			itemOption.Active = 0
 		else
-			itemOption.Active = setOption
+			itemOption.Active = 1
 		end
 		
 	end

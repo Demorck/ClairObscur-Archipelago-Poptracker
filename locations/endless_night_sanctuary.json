@@ -93,6 +93,11 @@
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 57, "y": 384}]
             },
             {
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Ultimate Sakapatate" }],
+                "name":  "Ultimate Sakapatate",
+                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 200, "y": 200}]
+            },
+            {
                 "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 1", "name":  "Anthonypo - Item 1" },
                               { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 2", "name":  "Anthonypo - Item 2" },
                               { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 3", "name":  "Anthonypo - Item 3" },

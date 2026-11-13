@@ -77,23 +77,6 @@ function has_rock_crystal(count)
     return has_at_least("RockCrystal", tonumber(count))
 end
 
-function show_endgame_locations()
-    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio")
-end
-
--- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
-function hide_clea_endgame_locations()
-    if has("include_endgame_locations") then
-        return true
-    end
-
-    if has("goal_clea") or has("goal_paintress") or has("goal_curator") then
-        return false
-    end
-    
-            return true
-end
-
 function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent
     local estimatedLevel = math.ceil((tonumber(count)-1) * 5.8) -- Yoinked from convert_pictos() function on the APWorld
 
@@ -186,6 +169,12 @@ local goals = {
     osquio = "goal_osquio"
 }
 
+local goal_level_caps = {
+    [0] = 15,
+    [1] = 16,
+    [2] = 28
+}
+
 function is_goal_selected(goal)
     local goal_key = goals[goal]
     return has(goal_key)
@@ -221,4 +210,16 @@ function goal_finishes_run(goal)
     end
 
     return true
+end
+
+function should_endgame_location_be_visible(level)
+      local highest_goal_tier = AP_GOAL_TIER
+      
+    if (has("include_endgame_locations") or highest_goal_tier > 2) then
+        return true
+    end
+
+    local level_cap = goal_level_caps[highest_goal_tier]
+
+    return tonumber(level) <= level_cap
 end

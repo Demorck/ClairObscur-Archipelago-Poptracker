@@ -2,7 +2,10 @@
     {
         "name": "Endless Tower",
         "children": [
-            
+            {
+                "sections": [{ "ref": "Entrance - Endless Tower/Underneath the right staircase" }],
+                "name": "Underneath the right staircase"
+            },
             {
                 "sections": [{ "ref": "Entrance - Endless Tower/Stage 1-1" }],
                 "name":  "Stage 1-1",

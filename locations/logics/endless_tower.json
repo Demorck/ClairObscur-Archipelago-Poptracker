@@ -6,6 +6,10 @@
         "map_locations": [{"map": "South Continent", "x": 337, "y": 388, "shape": "trapezoid"}],
         "sections": [
             {
+                "name": "Underneath the right staircase",
+                "visibility_rules": ["include_endless_tower"]
+            },
+            {
                 "name": "Stage 1-1",
                 "access_rules": ["[$calculate_picto_count_from_level|21]"],
                 "visibility_rules": ["include_endless_tower"]
@@ -128,47 +132,47 @@
             {
                 "name": "Stage 9-1",
                 "access_rules": ["[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|29,include_endless_tower"]
             },
             {
                 "name": "Stage 9-2",
                 "access_rules": ["[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|29,include_endless_tower"]
             },
             {
                 "name": "Stage 9-3",
                 "access_rules": ["[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|29,include_endless_tower"]
             },
             {
                 "name": "Stage 10-1",
                 "access_rules": ["[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|30,include_endless_tower"]
             },
             {
                 "name": "Stage 10-2",
                 "access_rules": ["[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|30,include_endless_tower"]
             },
             {
                 "name": "Stage 10-3",
                 "access_rules": ["[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|30,include_endless_tower"]
             },
             {
                 "name": "Stage 11-1",
                 "access_rules": ["[$calculate_picto_count_from_level|31]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|31,include_endless_tower"]
             },
             {
                 "name": "Stage 11-2",
                 "access_rules": ["[$calculate_picto_count_from_level|31]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|31,include_endless_tower"]
             },
             {
                 "name": "Stage 11-3",
                 "access_rules": ["[$calculate_picto_count_from_level|31]"],
-                "visibility_rules": ["$hide_clea_endgame_locations,include_endless_tower"]
+                "visibility_rules": ["$should_endgame_location_be_visible|31,include_endless_tower"]
             },
             {
                 "name": "Duollistes",
@@ -192,7 +196,7 @@
             }
         ],
         "access_rules": ["EndlessTower,$sky_no_pp,[paintedpower]"],
-        "visibility_rules": ["include_endless_tower","include_endgame_locations","goal_clea","include_superbosses"]
+        "visibility_rules": ["$should_endgame_location_be_visible|21,include_endless_tower","$should_endgame_location_be_visible|33,include_superbosses"]
 
     }
 ]

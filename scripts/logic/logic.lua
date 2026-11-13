@@ -60,25 +60,21 @@ function has_beast_part(count)
     return has_at_least("BeastPart", tonumber(count))
 end
 
-function has_rock_crystal(count)
-    return has_at_least("RockCrystal", tonumber(count))
+function has_five_characters()
+    local characters = {"Gustave", "Maelle", "Lune", "Sciel", "Monoco", "Verso"}
+    local count = 0
+
+    for _, character in ipairs(characters) do
+        if has(character) then
+            count = count + 1
+        end
+    end
+
+    return count >= 5
 end
 
--- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
-function hide_clea_endgame_locations()
-    if has("include_endgame_locations") then
-        return true
-    end
-
-    if has("goal_clea") then
-        return false
-    end
-    
-    if has("goal_paintress") or has("goal_curator") then
-        return false
-    else
-        return true
-    end
+function has_rock_crystal(count)
+    return has_at_least("RockCrystal", tonumber(count))
 end
 
 function calculate_picto_count_from_level(count) -- count is the picto level on the APWorld to keep consistent
@@ -99,7 +95,7 @@ function south_sea()
 end
 
 function north_sea()
-    return (has("swim") and has("coral")) or has("fly")
+    return (has("coral")) or has("fly")
 end
 
 function firstcont_south()
@@ -107,7 +103,7 @@ function firstcont_south()
 end
 
 function firstcont_north()
-    return (has("swim") or has("FlyingWaters")) or has("fly")
+    return (has("swim") or (has("FlyingWaters") and calculate_picto_count_from_level(3)) or has("fly")) --Picto level 3 gotten from the flying_waters.json in the logic folder
 end
 
 function firstcont_north_and_esquie()
@@ -115,15 +111,15 @@ function firstcont_north_and_esquie()
 end
 
 function secondcont_south()
-    return (south_sea() and has("ForgottenBattlefield")) or north_sea()
+    return (south_sea() and has("ForgottenBattlefield") and calculate_picto_count_from_level(8)) or north_sea() --Picto level 8 gotten from the forgotten_battlefield.json in the logic folder
 end
 
 function secondcont_nw()
-    return (secondcont_south() and has("MonocosStation")) or has("coral") or has("fly")
+    return (secondcont_south() and has("MonocosStation") and calculate_picto_count_from_level(9)) or has("coral") or has("fly") --Picto level 9 gotten from the monocos_station.json in the logic folder
 end
 
 function secondcont_ne()
-    return (secondcont_south() and has("MonocosStation")) or has("fly")
+    return (secondcont_south() and has("MonocosStation") and calculate_picto_count_from_level(9)) or has("fly") --Picto level 9 gotten from the monocos_station.json in the logic folder
 end
 
 function sky()
@@ -135,7 +131,7 @@ function sky_no_pp()
 end
 
 function dive()
-    return has("swim") and has("dive")
+    return has("dive")
 end
 
 -- Shopsanity logic --
@@ -162,3 +158,68 @@ function extra_shop_count(count)
     end
 end
 
+-- Multiple Goal logic --
+
+local goals = {
+    paintress = "goal_paintress",
+    curator = "goal_curator",
+    clea = "goal_clea",
+    painted_love = "goal_painted-love",
+    simon = "goal_simon",
+    osquio = "goal_osquio"
+}
+
+local goal_level_caps = {
+    [0] = 15,
+    [1] = 16,
+    [2] = 28
+}
+
+function is_goal_selected(goal)
+    local goal_key = goals[goal]
+    return has(goal_key)
+end
+
+function goal_finishes_run(goal)
+    local goal_key = goals[goal]
+    
+    if not goal_key then
+        return false
+    end
+    
+    if not has(goal_key) then
+        return false
+    end
+
+    if has("goal_requirement_any") then
+        return true
+    end
+
+    for goal_name, goal_key in pairs(goals) do
+        if goal_name ~= goal and has(goal_key) then
+            local goalStatus = Tracker:FindObjectForCode(goal_key)
+
+            if not goalStatus then
+                return false
+            end
+
+            if (goalStatus.CurrentStage ~= 2) then
+                return false
+            end
+        end
+    end
+
+    return true
+end
+
+function should_endgame_location_be_visible(level)
+      local highest_goal_tier = AP_GOAL_TIER
+      
+    if (has("include_endgame_locations") or highest_goal_tier > 2) then
+        return true
+    end
+
+    local level_cap = goal_level_caps[highest_goal_tier]
+
+    return tonumber(level) <= level_cap
+end

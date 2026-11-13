@@ -114,6 +114,6 @@
                 "visibility_rules": ["EnableFlags"]
             }
         ],
-        "access_rules": ["$firstcont_north,AncientSanctuary,[$calculate_picto_count_from_level|4]"]
+        "access_rules": ["$firstcont_north,AncientSanctuary,[$calculate_picto_count_from_level|4]","FlyingWaters,AncientSanctuary,[$calculate_picto_count_from_level|4]"]
     }
 ]

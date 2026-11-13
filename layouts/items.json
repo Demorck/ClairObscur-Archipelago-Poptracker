@@ -1,4 +1,36 @@
 {
+  "goals": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "goal_paintress",
+                "goal_curator",
+                "goal_clea",
+                "goal_painted-love",
+                "goal_simon",
+                "goal_osquio"
+              ],
+              [
+                "goal_requirement"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "items": {
     "type": "array",
     "orientation": "vertical",
@@ -98,7 +130,7 @@
       }
     ]
   },
-  "esquie": {
+  "areas": {
     "type": "array",
     "orientation": "vertical",
     "margin": "0, 0",
@@ -120,83 +152,19 @@
                 "EsquiesNest",
                 "YellowHarvest",
                 "StoneWaveCliffs"
-                
-              ]
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "esquieswim": {
-    "type": "array",
-    "orientation": "vertical",
-    "margin": "0, 0",
-    "content": [
-      {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0, 10, 0, 0",
-        "content": [
-          {
-            "type": "itemgrid",
-            "item_margin": "4, 4",
-            "h_alignment": "left",
-            "rows": [
+              ],
               [
                 "ForgottenBattlefield",
                 "MonocosStation",
                 "FrozenHearts",
                 "OldLumiere"
-              ]
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "esquiecoral": {
-    "type": "array",
-    "orientation": "vertical",
-    "margin": "0, 0",
-    "content": [
-      {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0, 10, 0, 0",
-        "content": [
-          {
-            "type": "itemgrid",
-            "item_margin": "4, 4",
-            "h_alignment": "left",
-            "rows": [
+              ],
               [
                 "FallingLeaves",
                 "Visages",
                 "Sirene",
                 "TheMonolith"
-              ]
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "esquieflydive": {
-    "type": "array",
-    "orientation": "vertical",
-    "margin": "0, 0",
-    "content": [
-      {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0, 10, 0, 0",
-        "content": [
-          {
-            "type": "itemgrid",
-            "item_margin": "4, 4",
-            "h_alignment": "left",
-            "rows": [
+              ],
               [
                 "CrimsonForest",
                 "TheReacher",
@@ -236,10 +204,9 @@
                 "include_endgame_locations",
                 "include_endless_tower",
                 "include_superbosses",
-                "goal"
+                "FeetTrap"
               ],
               [
-                "FeetTrap",
                 "EnableFlags",
                 "autotab"
               ]

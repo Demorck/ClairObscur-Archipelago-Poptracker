@@ -35,7 +35,7 @@
             },
             {
                 "name": "Candy land - In candy jars at the carnival",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Gestral Baths - Paint cage in the forest",
@@ -51,7 +51,7 @@
             },
             {
                 "name": "In candy jar across from the cake door",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Gestral Baths - On the diving board",
@@ -107,7 +107,7 @@
             },
             {
                 "name": "Reverie Path - In candy jar before carnival entrance",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Candy land - Up the climbing holds",
@@ -135,7 +135,7 @@
             },
             {
                 "name": "Candy land - Hopscotch in the cave",
-                "access_rules": []
+                "access_rules": ["paintbreak"]
             },
             {
                 "name": "Gestral Baths - Hopscotch in the forest",
@@ -173,7 +173,7 @@
             },
             {
                 "name": "Root of All Evil - Osquio",
-                "access_rules": ["ForgottenBattlefield"]
+                "access_rules": []
             },
             {
                 "name": "Mime",
@@ -341,7 +341,7 @@
             }
         ],
         "access_rules": ["versosdrafts,$dive,[$calculate_picto_count_from_level|31]"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "visibility_rules": ["$should_endgame_location_be_visible|31"]
     }
 ]
 

@@ -3,8 +3,8 @@
         "name": "Endless Night Sanctuary",
         "children": [
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - Near expeditioner corpse" }],
-                "name":  "Warrior' Route - Near expeditioner corpse",
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior's Route - Near expeditioner corpse" }],
+                "name":  "Warrior's Route - Near expeditioner corpse",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 65, "y": 613}]
             },
             {
@@ -13,8 +13,8 @@
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 148, "y": 500}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Right path before Warrior' Route flag" }],
-                "name":  "Entrance - Right path before Warrior' Route flag",
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Right path before Warrior's Route flag" }],
+                "name":  "Entrance - Right path before Warrior's Route flag",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 242, "y": 356}]
             },
             {
@@ -23,8 +23,8 @@
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 129, "y": 260}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 2" }],
-                "name":  "Warrior' Route - After Petank 2",
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior's Route - After Petank 2" }],
+                "name":  "Warrior's Route - After Petank 2",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 129, "y": 310}]
             },
             {
@@ -48,19 +48,19 @@
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 89, "y": 363}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Before Warrior' Route flag" }],
-                "name":  "Entrance - Before Warrior' Route flag",
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Entrance - Before Warrior's Route flag" }],
+                "name":  "Entrance - Before Warrior's Route flag",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 229, "y": 251}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 3" }],
-                "name":  "Warrior' Route - After Petank 3",
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior's Route - After Petank 3" }],
+                "name":  "Warrior's Route - After Petank 3",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 87, "y": 463}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior' Route - After Petank 1" }],
-                "name":  "Warrior' Route - After Petank 1",
-                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 93, "y": 402}]
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Warrior's Route - After Petank 1" }],
+                "name":  "Warrior's Route - After Petank 1",
+                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 70, "y": 402}]
             },
             {
                 "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Night Totem - Near Merchant" }],
@@ -92,8 +92,11 @@
                 "name":  "Petank",
                 "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 57, "y": 384}]
             },
-
-
+            {
+                "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Ultimate Sakapatate" }],
+                "name":  "Ultimate Sakapatate",
+                "map_locations":  [{ "map": "Endless Night Sanctuary", "x": 200, "y": 200}]
+            },
             {
                 "sections":  [{ "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 1", "name":  "Anthonypo - Item 1" },
                               { "ref": "Entrance - Endless Night Sanctuary/Anthonypo - Item 2", "name":  "Anthonypo - Item 2" },

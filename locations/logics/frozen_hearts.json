@@ -205,7 +205,7 @@
                 "visibility_rules": ["EnableFlags"]
             }
         ],
-        "access_rules": ["$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "access_rules": ["$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]","swim,ForgottenBattlefield,MonocosStation,FrozenHearts,[$calculate_picto_count_from_level|21]"],
+        "visibility_rules": ["$should_endgame_location_be_visible|21"]
     }
 ]

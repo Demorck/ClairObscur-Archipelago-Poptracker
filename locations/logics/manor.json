@@ -11,26 +11,27 @@
             },
             {
                 "name": "Dining Hall Puzzle",
-                "access_rules": ["FlyingWaters", 
+                "access_rules": ["FlyingWaters,[$calculate_picto_count_from_level|3]", 
                                  "$south_sea", 
                                  "$sky_no_pp", 
-                                 "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
+                                 "$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]", "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]",
                                  "$north_sea",
-                                 "$secondcont_nw,OldLumiere",
-                                 "$firstcont_north,StoneWaveCliffs",
-                                 "$secondcont_ne,FrozenHearts"
+                                 "$secondcont_nw,OldLumiere,[$calculate_picto_count_from_level|10]",
+                                 "$firstcont_north,StoneWaveCliffs,[$calculate_picto_count_from_level|7]",
+                                 "FlyingWaters,esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]",
+                                 "$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"
                                 ]
             },
             {
                 "name": "Through fake painting",
-                "access_rules": ["FlyingWaters", 
+                "access_rules": ["FlyingWaters,[$calculate_picto_count_from_level|3]", 
                                  "$south_sea", 
                                  "$sky_no_pp", 
-                                 "$firstcont_north,GestralVillage,AncientSanctuary", "$sky_no_pp,GestralVillage",
+                                 "$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]", "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]",
                                  "$north_sea",
-                                 "$secondcont_nw,OldLumiere",
-                                 "$firstcont_north,StoneWaveCliffs",
-                                 "$secondcont_ne,FrozenHearts"
+                                 "$secondcont_nw,OldLumiere,[$calculate_picto_count_from_level|10]",
+                                 "$firstcont_north,StoneWaveCliffs,[$calculate_picto_count_from_level|7]",
+                                 "$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"
                                 ]
             },
             {
@@ -39,54 +40,57 @@
             },
             {
                 "name": "Manor Door: From Gestral Village - In crawlspace",
-                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
-                                 "$sky_no_pp,GestralVillage"]
+                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]",
+                                 "FlyingWaters,AncientSanctuary,GestralVillage,[$calculate_picto_count_from_level|4]",
+                                 "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]"]
             },
             {
                 "name": "Manor Door: From Gestral Village - In boxes",
-                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary",
-                                 "$sky_no_pp,GestralVillage"]
+                "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]",
+                                "FlyingWaters,AncientSanctuary,GestralVillage,[$calculate_picto_count_from_level|4]",
+                                 "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]"]
             },
             {
                 "name": "Manor Door: From Falling Leaves - On the desk",
-                "access_rules": ["$north_sea,FallingLeaves"]
+                "access_rules": ["$north_sea,FallingLeaves,[$calculate_picto_count_from_level|14]"]
             },
             {
                 "name": "Manor Door: From Inside the Monolith - Near the vase on a table",
-                "access_rules": ["$north_sea,TheMonolith"]
+                "access_rules": ["$north_sea,TheMonolith,[$calculate_picto_count_from_level|15]"]
             },
             {
                 "name": "Manor Door: From Old Lumiere - In the sink",
-                "access_rules": ["$secondcont_nw,OldLumiere"]
+                "access_rules": ["$secondcont_nw,OldLumiere,[$calculate_picto_count_from_level|10]","swim,ForgottenBattlefield,MonocosStation,OldLumiere,[$calculate_picto_count_from_level|10]"]
             },
             {
                 "name": "Renoir's Atelier",
-                "access_rules": ["FlyingWaters,FamilyCanvas", 
+                "access_rules": ["FlyingWaters,FamilyCanvas,[$calculate_picto_count_from_level|3]", 
                                  "$south_sea,FamilyCanvas", 
                                  "$sky_no_pp,FamilyCanvas", 
-                                 "$firstcont_north,GestralVillage,AncientSanctuary,FamilyCanvas", "$sky_no_pp,GestralVillage,FamilyCanvas",
+                                 "$firstcont_north,GestralVillage,AncientSanctuary,FamilyCanvas,[$calculate_picto_count_from_level|4]", "$sky_no_pp,GestralVillage,FamilyCanvas",
                                  "$north_sea,FamilyCanvas",
-                                 "$secondcont_nw,OldLumiere,FamilyCanvas",
-                                 "$firstcont_north,StoneWaveCliffs,FamilyCanvas",
-                                 "$secondcont_ne,FrozenHearts,FamilyCanvas"]
+                                 "$secondcont_nw,OldLumiere,FamilyCanvas,[$calculate_picto_count_from_level|10]",
+                                 "$firstcont_north_and_esquie,StoneWaveCliffs,FamilyCanvas,[$calculate_picto_count_from_level|7]",
+                                 "FlyingWaters,esquie,StoneWaveCliffs,FamilyCanvas,[$calculate_picto_count_from_level|7]",
+                                 "$secondcont_ne,FrozenHearts,FamilyCanvas,[$calculate_picto_count_from_level|21]"]
             },
             {
                 "name": "Manor Door: From Visages - Next to piano",
-                "access_rules": ["$north_sea,Visages"]
+                "access_rules": ["$north_sea,Visages,[$calculate_picto_count_from_level|11]"]
             },
             {
                 "name": "Manor Door: From Stone Wave Cliffs - In the wardrobe",
-                "access_rules": ["$firstcont_north_and_esquie,stonewavecliffs"],
+                "access_rules": ["$firstcont_north_and_esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]","FlyingWaters,esquie,StoneWaveCliffs,[$calculate_picto_count_from_level|7]"],
                 "visibility_rules": ["hidden"]
             },
             {
                 "name": "Manor Door: From Sirene - Break the bathroom mirror",
-                "access_rules": ["$north_sea,Sirene"]
+                "access_rules": ["$north_sea,Sirene,[$calculate_picto_count_from_level|13]"]
             },
             {
                 "name": "Manor Door: From Frozen Hearts - At the harp",
-                "access_rules": ["$secondcont_ne,FrozenHearts"],
-                "visibility_rules": ["include_endgame_locations,goal_clea"]
+                "access_rules": ["$secondcont_ne,FrozenHearts,[$calculate_picto_count_from_level|21]"],
+                "visibility_rules": ["$should_endgame_location_be_visible|21"]
             },
             {
                 "name": "Manor Door: From First Continent Sea - Behind fake bookshelf",

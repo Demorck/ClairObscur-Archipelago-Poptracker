@@ -92,35 +92,164 @@
     "type": "toggle"
   },
   {
-    "name": "Goal",
-    "codes": "goal",
+    "name": "Goal Requirement",
+    "codes": "goal_requirement",
     "type": "progressive",
     "allow_disabled": false,
     "stages": [
       {
-        "name": "Paintress",
-        "img": "images/items/the_abyss.png",
+        "name": "All Goals",
+        "img": "images/all_goals.png",
+        "codes": "goal_requirement_all"
+      },
+      {
+        "name": "Any Goal",
+        "img": "images/any_goal.png",
+        "codes": "goal_requirement_any"
+      }
+    ]
+  },
+  {
+    "name": "Paintress",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Paintress - Not included",
+        "img": "images/items/the_monolith.png",
+        "img_mods": "greyscale,brightness|0.2"
+      },
+      {
+        "name": "Paintress - Included",
+        "img": "images/items/the_monolith.png",
+        "img_mods": "greyscale,brightness|0.75",
         "codes": "goal_paintress"
       },
       {
-        "name": "Curator",
+        "name": "Paintress - Completed",
+        "img": "images/items/the_monolith.png",
+        "codes": "goal_paintress"
+      }
+    ]
+  },
+  {
+    "name": "Curator",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Curator - Not included",
         "img": "images/items/lumiere.png",
+        "img_mods": "greyscale,brightness|0.2"
+      },
+      {
+        "name": "Curator - Included",
+        "img": "images/items/lumiere.png",
+        "img_mods": "greyscale,brightness|0.75",
         "codes": "goal_curator"
       },
       {
-        "name": "Clea",
+        "name": "Curator - Completed",
+        "img": "images/items/lumiere.png",
+        "codes": "goal_curator"
+      }
+    ]
+  },
+  {
+    "name": "Clea",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Clea - Not included",
         "img": "images/items/flying_manor.png",
+        "img_mods": "greyscale,brightness|0.2"
+      },
+      {
+        "name": "Clea - Included",
+        "img": "images/items/flying_manor.png",
+        "img_mods": "greyscale,brightness|0.75",
         "codes": "goal_clea"
       },
       {
-        "name": "Painted Love",
+        "name": "Clea - Completed",
+        "img": "images/items/flying_manor.png",
+        "codes": "goal_clea"
+      }
+    ]
+  },
+  {
+    "name": "Painted Love",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Painted Love - Not included",
         "img": "images/items/endless_tower.png",
+        "img_mods": "greyscale,brightness|0.1"
+      },
+      {
+        "name": "Painted Love - Included",
+        "img": "images/items/endless_tower.png",
+        "img_mods": "greyscale,brightness|0.75",
         "codes": "goal_painted-love"
       },
       {
-        "name": "Simon",
-        "img": "images/items/renoirs_draft.png",
+        "name": "Painted Love - Completed",
+        "img": "images/items/endless_tower.png",
+        "codes": "goal_painted-love"
+      }
+    ]
+  },
+  {
+    "name": "Simon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Simon - Not included",
+        "img": "images/items/the_abyss.png",
+        "img_mods": "greyscale,brightness|0.2"
+      },
+      {
+        "name": "Simon - Included",
+        "img": "images/items/the_abyss.png",
+        "img_mods": "greyscale,brightness|0.75",
         "codes": "goal_simon"
+      },
+      {
+        "name": "Simon - Completed",
+        "img": "images/items/the_abyss.png",
+        "codes": "goal_simon"
+      }
+    ]
+  },
+  {
+    "name": "Osquio",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "name": "Osquio - Not included",
+        "img": "images/items/versos_drafts.png",
+        "img_mods": "greyscale,brightness|0.2"
+      },
+      {
+        "name": "Osquio - Included",
+        "img": "images/items/versos_drafts.png",
+        "img_mods": "greyscale,brightness|0.75",
+        "codes": "goal_osquio"
+      },
+      {
+        "name": "Osquio - Completed",
+        "img": "images/items/versos_drafts.png",
+        "codes": "goal_osquio"
       }
     ]
   },
@@ -344,7 +473,7 @@
   {
     "name": "Area - The Monolith",
     "codes": "TheMonolith",
-    "img": "images/items/the_abyss.png",
+    "img": "images/items/the_monolith.png",
     "type": "toggle"
   },
   {
@@ -452,12 +581,6 @@
   {
     "name": "Merchant (Lumiere): Cribappa - Extra shop unlock",
     "codes": "Merchant_Extra_LUM_Cribappa",
-    "img": "images/items/gestral.png",
-    "type": "toggle"
-  },
-  {
-    "name": "Merchant (Monoco's Station): Grandis - Extra shop unlock",
-    "codes": "Merchant_Extra_MS_Grandis",
     "img": "images/items/gestral.png",
     "type": "toggle"
   },

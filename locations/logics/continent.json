@@ -364,12 +364,12 @@
             {
                 "name": "Chromatic Aberration",
                 "access_rules": ["$sky_no_pp,[paintedpower]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Benisseur",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|28]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Bruler",
@@ -378,22 +378,22 @@
             {
                 "name": "Chromatic Demineur",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Goblu",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Moissoneuse",
                 "access_rules": ["$north_sea,[$calculate_picto_count_from_level|17]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Chromatic Petank",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$show_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Chromatic Jar",
@@ -406,7 +406,7 @@
             {
                 "name": "Chromatic Portier",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Mime",
@@ -415,12 +415,12 @@
             {
                 "name": "Frost Eveque",
                 "access_rules": ["$secondcont_south,[$calculate_picto_count_from_level|17]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Thunder Eveque",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|29]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$show_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Grosse Tete",
@@ -429,12 +429,12 @@
             {
                 "name": "Serpenphare",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|30]"],
-                "visibility_rules": ["include_endgame_locations","$hide_clea_endgame_locations"]
+                "visibility_rules": ["$show_endgame_locations","$hide_clea_endgame_locations"]
             },
             {
                 "name": "Sprong",
                 "access_rules": ["$south_sea,[paintedpower],[$calculate_picto_count_from_level|24]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "First Continent - Bourgeon near Stone Wave Cliffs",
@@ -449,7 +449,7 @@
             {
                 "name": "Second Continent - Bourgeon near Forgotten Battlefield",
                 "access_rules": ["$sky_no_pp,[paintedpower],[$calculate_picto_count_from_level|24]"],
-                "visibility_rules": ["include_endgame_locations","goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Second Continent - Bourgeon far west",

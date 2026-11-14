@@ -121,6 +121,11 @@
         "name": "Simon",
         "img": "images/items/renoirs_draft.png",
         "codes": "goal_simon"
+      },
+      {
+        "name": "Osquio",
+        "img": "images/items/versos_drafts.png",
+        "codes": "goal_osquio"
       }
     ]
   },

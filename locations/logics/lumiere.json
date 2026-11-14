@@ -320,6 +320,6 @@
         ],
         "access_rules": ["$sky_no_pp,Lumiere,[$calculate_picto_count_from_level|16]"],
         "visibility_rules": ["include_endgame_locations",
-                             "goal_curator", "goal_clea", "goal_painted-love", "goal_simon"]
+                             "goal_curator", "goal_clea", "goal_painted-love", "goal_simon","goal_osquio"]
     }
 ]

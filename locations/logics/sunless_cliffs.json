@@ -12,7 +12,7 @@
             }
         ],
         "access_rules": ["$sky_no_pp,[PaintedPower],[$calculate_picto_count_from_level|31]"],
-        "visibility_rules": ["include_endgame_locations"]
+        "visibility_rules": ["$show_endgame_locations"]
 
     }
 ]

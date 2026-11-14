@@ -14,7 +14,7 @@
             }
         ],
         "access_rules": ["$south_sea"],
-        "visibility_rules": ["include_endgame_locations"]
+        "visibility_rules": ["$show_endgame_locations"]
 
     }
 ]

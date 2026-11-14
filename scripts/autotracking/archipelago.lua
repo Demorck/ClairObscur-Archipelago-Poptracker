@@ -114,6 +114,7 @@ function apply_slot_data(slot_data)
 	2 = Painted Love (Endless Tower)
 	3 = Simon (Renoir's Draft)
 	4 = Clea (Flying Manor) 
+	5 = Osquio (Verso's Drafts)
 	]]
 	if options['goal'] then
 		goal = options['goal']
@@ -130,6 +131,8 @@ function apply_slot_data(slot_data)
 			itemOption.CurrentStage = 4
 		elseif goal == 4 then --Clea
 			itemOption.CurrentStage = 2
+		elseif goal == 5 then --Osquio
+			itemOption.CurrentStage = 5
 		end
 		
 	end
@@ -167,7 +170,7 @@ function apply_slot_data(slot_data)
 
 		itemOption.Active = setOption
 	else
-		print("Marking include_endgame_locations because it is 1, 2 or the goal is Simon or Painted Love")
+		print("Marking include_endgame_locations because it is 1, 2 or the goal is Simon, Painted Love, or Osquio")
 		local itemOption = Tracker:FindObjectForCode("include_endgame_locations")
 		itemOption.Active = 1
 	end

@@ -60,20 +60,24 @@ function has_beast_part(count)
     return has_at_least("BeastPart", tonumber(count))
 end
 
+function show_endgame_locations()
+    return has("include_endgame_locations") or has("goal_simon") or has("goal_osquio")
+end
+
 function has_rock_crystal(count)
     return has_at_least("RockCrystal", tonumber(count))
 end
 
 -- This function was created because certain locations for Clea were initially flagged as "endgame locations", but need to be included for her goal.
 function hide_clea_endgame_locations()
-    if has("include_endgame_locations") then
+    if has("include_endgame_locations") or has("goal_simon") or has("goal_osquio") then
         return true
     end
 
     if has("goal_clea") then
         return false
     end
-    
+
     if has("goal_paintress") or has("goal_curator") then
         return false
     else

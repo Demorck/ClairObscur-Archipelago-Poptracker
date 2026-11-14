@@ -25,7 +25,7 @@
             }
         ],
         "access_rules": ["$sky_no_pp,[$calculate_picto_count_from_level|22]"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "visibility_rules": ["$show_endgame_locations","goal_clea"]
 
     }
 ]

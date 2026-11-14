@@ -86,7 +86,7 @@
             {
                 "name": "Manor Door: From Frozen Hearts - At the harp",
                 "access_rules": ["$secondcont_ne,FrozenHearts"],
-                "visibility_rules": ["include_endgame_locations,goal_clea"]
+                "visibility_rules": ["$show_endgame_locations","goal_clea"]
             },
             {
                 "name": "Manor Door: From First Continent Sea - Behind fake bookshelf",

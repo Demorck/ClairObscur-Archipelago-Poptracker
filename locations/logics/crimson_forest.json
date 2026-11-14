@@ -58,6 +58,6 @@
             }
         ],
         "access_rules": ["$sky_no_pp,[paintedpower],CrimsonForest,[$calculate_picto_count_from_level|24]"],
-        "visibility_rules": ["include_endgame_locations","goal_clea"]
+        "visibility_rules": ["$show_endgame_locations","goal_clea"]
     }
 ]

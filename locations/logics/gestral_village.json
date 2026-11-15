@@ -308,6 +308,7 @@
             }
         ],
         "access_rules": ["$firstcont_north,GestralVillage,AncientSanctuary,[$calculate_picto_count_from_level|4]",
+                         "FlyingWaters,AncientSanctuary,GestralVillage,[$calculate_picto_count_from_level|4]",
                          "$sky_no_pp,GestralVillage,[$calculate_picto_count_from_level|4]"]
     }
 ]

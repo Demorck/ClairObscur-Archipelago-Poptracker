@@ -214,6 +214,6 @@
                 "visibility_rules": ["EnableFlags"]
             }
         ],
-        "access_rules": ["$secondcont_nw,OldLumiere,[$calculate_picto_count_from_level|10]"]
+        "access_rules": ["$secondcont_nw,OldLumiere,[$calculate_picto_count_from_level|10]","swim,ForgottenBattlefield,MonocosStation,OldLumiere,[$calculate_picto_count_from_level|10]"]
     }
 ]

@@ -8,11 +8,11 @@
             {
                 "sections":  [{ "ref": "Entrance - Multiple Locations/Isle of the Eyes or The Crows: Item 2 or Item" }],
                 "name":  "Isle of the Eyes or The Crows: Item 2 or Item",
-                "access_rules": ["FreeAim"]
+                "access_rules": []
             },
             {
                 "name": "Chromatic Chapelier",
-                "access_rules": ["FreeAim"]
+                "access_rules": ["FreeAim,[$calculate_picto_count_from_level|13]"]
             }
         ],
         "access_rules": ["$north_sea"]

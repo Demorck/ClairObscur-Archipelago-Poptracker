@@ -13,11 +13,6 @@
                 "map_locations":  [{ "map": "Floating Cemetery", "x": 100, "y": 120}]
             },
             {
-                "sections":  [{ "ref": "Entrance - Floating Cemetery/Defeat the Nevron" }],
-                "name":  "Defeat the Nevron",
-                "map_locations":  [{ "map": "Floating Cemetery", "x": 0, "y": 140}]
-            },
-            {
                 "sections":  [{ "ref": "Entrance - Floating Cemetery/Next to Gramophone" }],
                 "name":  "Next to Gramophone",
                 "map_locations":  [{ "map": "Floating Cemetery", "x": 20, "y": 140}]

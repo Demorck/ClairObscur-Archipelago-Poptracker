@@ -98,6 +98,21 @@
                 "map_locations":  [{ "map": "Visages", "x": 1570, "y": 1054}]
             },
             {
+                "sections":  [{ "ref": "Entrance - Visages/Anger Vale - Mask of Anger" }],
+                "name":  "Anger Vale - Mask of Anger",
+                "map_locations":  [{ "map": "Visages", "x": 1600, "y": 1020}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Visages/Joy Vale - Mask of Joy" }],
+                "name":  "Joy Vale - Mask of Joy",
+                "map_locations":  [{ "map": "Visages", "x": 40, "y": 640}]
+            },
+            {
+                "sections":  [{ "ref": "Entrance - Visages/Sadness Vale - Mask of Sadness" }],
+                "name":  "Sadness Vale - Mask of Sadness",
+                "map_locations":  [{ "map": "Visages", "x": 160, "y": 124}]
+            },
+            {
                 "sections":  [{ "ref": "Entrance - Visages/Mime" }],
                 "name":  "Mime",
                 "map_locations":  [{ "map": "Visages", "x": 57, "y": 737}]

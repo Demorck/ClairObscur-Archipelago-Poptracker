@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "0.5.0",
+            "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.5.0/ClairObscurAP_Poptracker.zip",
+            "sha256": "3d226f90293298485e2aa72f96649b6864df214f52dcf58ed344642d310ce667",
+            "changelog": [
+                "Adding Osquio goal",
+                "Updating for 0.5.0 apworld",
+                "Changing the poptracker format"
+            ]
+        },
+        {
             "package_version": "0.4.3",
             "download_url": "https://github.com/Demorck/ClairObscur-Archipelago-Poptracker/releases/download/v0.4.3/ClairObscurAP_Poptracker.zip",
             "sha256": "C5E751A9C335291B13AE5DC5C639D57D6D01461EE23CF30AC54EE2E4BEB34A0C",
